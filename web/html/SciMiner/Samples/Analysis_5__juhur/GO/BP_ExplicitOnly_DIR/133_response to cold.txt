@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 3
+
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor

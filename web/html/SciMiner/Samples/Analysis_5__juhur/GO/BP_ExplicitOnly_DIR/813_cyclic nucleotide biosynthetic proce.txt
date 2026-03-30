@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 2
+
+COMMON	7661	NCF2	4688	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+
+BACKGROUNDONLY	238	ADCY7	113	adenylate cyclase 7
+BACKGROUNDONLY	435	ALOX5	240	arachidonate 5-lipoxygenase

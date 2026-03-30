@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	11655	TCP1	6950	t-complex 1
+
+COMMON	2615	CYP2B6	1555	cytochrome P450, family 2, subfamily B, polypeptide 6
+

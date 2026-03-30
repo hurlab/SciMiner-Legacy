@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 4
+#BACKGROUNDONLY: 3
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	2295	CP	1356	ceruloplasmin (ferroxidase)
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+
+BACKGROUNDONLY	11329	SST	6750	somatostatin
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	9236	PPARG	5468	peroxisome proliferator-activated receptor gamma

@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 4
+#BACKGROUNDONLY: 0
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	10436	RPS6KB1	6198	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+

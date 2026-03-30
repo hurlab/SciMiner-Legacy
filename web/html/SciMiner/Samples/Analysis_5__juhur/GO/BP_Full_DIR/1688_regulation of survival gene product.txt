@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 3
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	992	BCL2L1	598	BCL2-like 1
+
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	2434	CSF2	1437	colony stimulating factor 2 (granulocyte-macrophage)
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)

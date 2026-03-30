@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 3
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+
+BACKGROUNDONLY	1940	CHM	1121	choroideremia (Rab escort protein 1)
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha

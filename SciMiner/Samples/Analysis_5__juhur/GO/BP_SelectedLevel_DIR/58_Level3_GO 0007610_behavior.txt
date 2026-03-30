@@ -1,0 +1,77 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 30
+#BACKGROUNDONLY: 36
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+COMMON	5991	IL1A	3552	interleukin 1, alpha
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	5173	HRAS	3265	v-Ha-ras Harvey rat sarcoma viral oncogene homolog
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	727	ARTN	9048	artemin
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	11049	SLC6A3	6531	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	4851	HTT	3064	huntingtin
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	9592	PTGDS	5730	prostaglandin D2 synthase 21kDa (brain)
+BACKGROUNDONLY	10637	CXCL10	3627	chemokine (C-X-C motif) ligand 10
+BACKGROUNDONLY	4191	GCG	2641	glucagon
+BACKGROUNDONLY	336	AGTR1	185	angiotensin II receptor, type 1
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	10638	CXCL11	6373	chemokine (C-X-C motif) ligand 11
+BACKGROUNDONLY	8153	OPRD1	4985	opioid receptor, delta 1
+BACKGROUNDONLY	7098	CXCL9	4283	chemokine (C-X-C motif) ligand 9
+BACKGROUNDONLY	16462	STRBP	55342	spermatid perinuclear RNA binding protein
+BACKGROUNDONLY	10500	S100B	6285	S100 calcium binding protein B
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	2160	CNR2	1269	cannabinoid receptor 2 (macrophage)
+BACKGROUNDONLY	6149	ITGAM	3684	integrin, alpha M (complement component 3 receptor 3 subunit)
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	8005	NRP2	8828	neuropilin 2
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	2482	CSTB	1476	cystatin B (stefin B)
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	4604	CXCL3	2921	chemokine (C-X-C motif) ligand 3
+BACKGROUNDONLY	10630	CCL4	6351	chemokine (C-C motif) ligand 4
+BACKGROUNDONLY	2558	CX3CR1	1524	chemokine (C-X3-C motif) receptor 1
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	4502	GPR44	11251	G protein-coupled receptor 44
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	2159	CNR1	1268	cannabinoid receptor 1 (brain)
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	10647	CX3CL1	6376	chemokine (C-X3-C motif) ligand 1
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

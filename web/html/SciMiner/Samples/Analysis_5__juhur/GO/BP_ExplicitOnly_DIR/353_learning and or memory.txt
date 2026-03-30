@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 4
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1
+BACKGROUNDONLY	10500	S100B	6285	S100 calcium binding protein B

@@ -1,0 +1,25 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 11
+#BACKGROUNDONLY: 5
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	381	AKR1B1	231	aldo-keto reductase family 1, member B1 (aldose reductase)
+TESTONLY	14581	PINK1	65018	PTEN induced putative kinase 1
+
+COMMON	6780	MAFF	23764	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	6886	MAPK9	5601	mitogen-activated protein kinase 9
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	5232	HSPA1A	3303	heat shock 70kDa protein 1A
+COMMON	5241	HSPA8	3312	heat shock 70kDa protein 8
+COMMON	1546	SERPINH1	871	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+
+BACKGROUNDONLY	352	AIF1	199	allograft inflammatory factor 1
+BACKGROUNDONLY	4641	GSTT1	2952	glutathione S-transferase theta 1
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	1189	AHSA1	10598	AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (yeast)
+BACKGROUNDONLY	5224	HSF1	3297	heat shock transcription factor 1

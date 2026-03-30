@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 6
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	11881	TMSB4X	7114	thymosin beta 4, X-linked
+BACKGROUNDONLY	6896	MARK1	4139	MAP/microtubule affinity-regulating kinase 1
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	2770	DES	1674	desmin

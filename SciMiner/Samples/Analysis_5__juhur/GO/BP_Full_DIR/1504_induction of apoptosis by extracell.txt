@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 6
+#BACKGROUNDONLY: 4
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	21528	DIABLO	56616	diablo homolog (Drosophila)
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	3573	FADD	8772	Fas (TNFRSF6)-associated via death domain
+
+BACKGROUNDONLY	1876	CFLAR	8837	CASP8 and FADD-like apoptosis regulator
+BACKGROUNDONLY	11329	SST	6750	somatostatin
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	11905	TNFRSF10B	8795	tumor necrosis factor receptor superfamily, member 10b

@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 4
+
+COMMON	118	ACO2	50	aconitase 2, mitochondrial
+
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	1550	CBS	875	cystathionine-beta-synthase

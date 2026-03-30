@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 0
+#BACKGROUNDONLY: 3
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	9577	PSPH	5723	phosphoserine phosphatase
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+
+BACKGROUNDONLY	1550	CBS	875	cystathionine-beta-synthase
+BACKGROUNDONLY	7166	MMP2	4313	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+BACKGROUNDONLY	473	AMT	275	aminomethyltransferase

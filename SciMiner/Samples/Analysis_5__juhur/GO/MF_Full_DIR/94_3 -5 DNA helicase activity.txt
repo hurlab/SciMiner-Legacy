@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+
+

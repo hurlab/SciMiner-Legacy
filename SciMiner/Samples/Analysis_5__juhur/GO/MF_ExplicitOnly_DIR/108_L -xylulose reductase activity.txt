@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	18985	DCXR	51181	dicarbonyl/L-xylulose reductase
+
+

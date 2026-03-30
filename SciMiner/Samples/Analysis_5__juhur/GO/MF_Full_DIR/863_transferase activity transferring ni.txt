@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+
+
+BACKGROUNDONLY	4552	GPT	2875	glutamic-pyruvate transaminase (alanine aminotransferase)
+BACKGROUNDONLY	473	AMT	275	aminomethyltransferase

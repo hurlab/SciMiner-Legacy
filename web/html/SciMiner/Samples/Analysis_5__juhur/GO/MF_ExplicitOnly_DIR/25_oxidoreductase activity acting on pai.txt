@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 7
+
+COMMON	11609	TBXAS1	6916	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)
+COMMON	2615	CYP2B6	1555	cytochrome P450, family 2, subfamily B, polypeptide 6
+
+BACKGROUNDONLY	2623	CYP2C9	1559	cytochrome P450, family 2, subfamily C, polypeptide 9
+BACKGROUNDONLY	2634	CYP2J2	1573	cytochrome P450, family 2, subfamily J, polypeptide 2
+BACKGROUNDONLY	2625	CYP2D6	1565	cytochrome P450, family 2, subfamily D, polypeptide 6
+BACKGROUNDONLY	4170	GATA1	2623	GATA binding protein 1 (globin transcription factor 1)
+BACKGROUNDONLY	2595	CYP1A1	1543	cytochrome P450, family 1, subfamily A, polypeptide 1
+BACKGROUNDONLY	2638	CYP3A5	1577	cytochrome P450, family 3, subfamily A, polypeptide 5
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43

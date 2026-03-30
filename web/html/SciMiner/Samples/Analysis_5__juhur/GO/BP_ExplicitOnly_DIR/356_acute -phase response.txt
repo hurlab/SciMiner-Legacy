@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 4
+
+COMMON	6081	INS	3630	insulin
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	11740	TF	7018	transferrin
+
+BACKGROUNDONLY	2367	CRP	1401	C-reactive protein, pentraxin-related
+BACKGROUNDONLY	8499	ORM2	5005	orosomucoid 2
+BACKGROUNDONLY	11364	STAT3	6774	signal transducer and activator of transcription 3 (acute-phase response factor)
+BACKGROUNDONLY	16	SERPINA3	12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3

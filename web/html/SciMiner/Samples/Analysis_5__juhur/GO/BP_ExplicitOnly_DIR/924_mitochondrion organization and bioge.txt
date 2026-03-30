@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+
+BACKGROUNDONLY	7996	NRF1	4899	nuclear respiratory factor 1

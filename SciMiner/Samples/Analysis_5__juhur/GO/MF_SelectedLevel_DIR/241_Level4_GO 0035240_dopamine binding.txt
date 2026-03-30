@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 2
+
+COMMON	11782	TH	7054	tyrosine hydroxylase
+
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	3023	DRD2	1813	dopamine receptor D2

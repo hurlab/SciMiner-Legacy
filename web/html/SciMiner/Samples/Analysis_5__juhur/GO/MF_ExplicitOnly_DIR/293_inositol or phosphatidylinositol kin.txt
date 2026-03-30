@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 0
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+
+COMMON	3951	FXN	2395	frataxin
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+

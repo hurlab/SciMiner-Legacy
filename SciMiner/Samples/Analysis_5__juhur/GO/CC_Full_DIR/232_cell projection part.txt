@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 6
+#BACKGROUNDONLY: 5
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+
+COMMON	10940	SLC1A2	6506	solute carrier family 1 (glial high affinity glutamate transporter), member 2
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	4572	GRIA2	2891	glutamate receptor, ionotropic, AMPA 2
+COMMON	11782	TH	7054	tyrosine hydroxylase
+
+BACKGROUNDONLY	6323	KIF5A	3798	kinesin family member 5A
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	4573	GRIA3	2892	glutamate receptor, ionotrophic, AMPA 3
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

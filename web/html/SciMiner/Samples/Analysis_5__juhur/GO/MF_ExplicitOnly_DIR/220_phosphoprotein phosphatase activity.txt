@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	19737	TENC1	23371	tensin like C1 domain containing phosphatase (tensin 2)
+
+

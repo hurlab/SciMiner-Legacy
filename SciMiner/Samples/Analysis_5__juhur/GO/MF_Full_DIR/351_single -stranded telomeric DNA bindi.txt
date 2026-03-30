@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+
+

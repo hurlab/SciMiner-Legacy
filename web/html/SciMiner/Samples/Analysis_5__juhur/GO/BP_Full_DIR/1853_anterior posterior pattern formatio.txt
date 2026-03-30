@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 3
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli

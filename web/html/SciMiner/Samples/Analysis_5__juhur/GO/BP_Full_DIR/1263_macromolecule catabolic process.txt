@@ -1,0 +1,50 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 11
+#COMMON: 15
+#BACKGROUNDONLY: 18
+TESTONLY	9567	PSMD9	5715	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	939	BAG3	9531	BCL2-associated athanogene 3
+TESTONLY	4057	G6PD	2539	glucose-6-phosphate dehydrogenase
+TESTONLY	12609	USP11	8237	ubiquitin specific peptidase 11
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	8808	PDHB	5162	pyruvate dehydrogenase (lipoamide) beta
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	8806	PDHA1	5160	pyruvate dehydrogenase (lipoamide) alpha 1
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+COMMON	6081	INS	3630	insulin
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	8607	PARK2	5071	Parkinson disease (autosomal recessive, juvenile) 2, parkin
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	4646	GTF2A1	2957	general transcription factor IIA, 1, 19/37kDa
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	7166	MMP2	4313	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+BACKGROUNDONLY	9545	PSMB8	5696	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	7173	MMP3	4314	matrix metallopeptidase 3 (stromelysin 1, progelatinase)
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	6541	LDHB	3945	lactate dehydrogenase B
+BACKGROUNDONLY	6130	ISG20	3669	interferon stimulated exonuclease gene 20kDa
+BACKGROUNDONLY	950	BAP1	8314	BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase)
+BACKGROUNDONLY	7176	MMP9	4318	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	12499	UBE4A	9354	ubiquitination factor E4A (UFD2 homolog, yeast)
+BACKGROUNDONLY	9538	PSMB10	5699	proteasome (prosome, macropain) subunit, beta type, 10
+BACKGROUNDONLY	9546	PSMB9	5698	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)

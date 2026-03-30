@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 2
+TESTONLY	2264	COX17	10063	COX17 cytochrome c oxidase assembly homolog (S. cerevisiae)
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	14922	HRASLS	57110	HRAS-like suppressor

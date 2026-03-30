@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 3
+#BACKGROUNDONLY: 5
+TESTONLY	3711	FKBP1A	2280	FK506 binding protein 1A, 12kDa
+TESTONLY	30862	UQCR	10975	ubiquinol-cytochrome c reductase, 6.4kDa subunit
+
+COMMON	2294	COX8A	1351	cytochrome c oxidase subunit 8A (ubiquitous)
+COMMON	1516	CAT	847	catalase
+COMMON	841	ATP5G1	516	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)
+
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2
+BACKGROUNDONLY	1508	CASP7	840	caspase 7, apoptosis-related cysteine peptidase
+BACKGROUNDONLY	3708	FIGF	2277	c-fos induced growth factor (vascular endothelial growth factor D)
+BACKGROUNDONLY	2277	COX6A1	1337	cytochrome c oxidase subunit VIa polypeptide 1

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+
+

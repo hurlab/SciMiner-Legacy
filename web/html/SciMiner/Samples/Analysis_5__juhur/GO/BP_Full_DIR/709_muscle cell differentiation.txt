@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 5
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+
+BACKGROUNDONLY	24961	HOPX	84525	HOP homeobox
+BACKGROUNDONLY	10477	RXRA	6256	retinoid X receptor, alpha
+BACKGROUNDONLY	3040	RCAN1	1827	regulator of calcineurin 1
+BACKGROUNDONLY	3684	FGF6	2251	fibroblast growth factor 6
+BACKGROUNDONLY	9071	PLG	5340	plasminogen

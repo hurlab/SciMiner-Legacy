@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 2
+#BACKGROUNDONLY: 3
+TESTONLY	2874	NQO1	1728	NAD(P)H dehydrogenase, quinone 1
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	3013	DPYS	1807	dihydropyrimidinase
+
+COMMON	7661	NCF2	4688	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+
+BACKGROUNDONLY	9204	PON1	5444	paraoxonase 1
+BACKGROUNDONLY	3401	EPHX1	2052	epoxide hydrolase 1, microsomal (xenobiotic)
+BACKGROUNDONLY	1059	BLMH	642	bleomycin hydrolase

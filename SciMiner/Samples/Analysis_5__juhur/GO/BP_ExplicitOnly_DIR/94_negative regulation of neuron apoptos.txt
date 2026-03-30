@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 6
+#BACKGROUNDONLY: 0
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	4232	GDNF	2668	glial cell derived neurotrophic factor
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+

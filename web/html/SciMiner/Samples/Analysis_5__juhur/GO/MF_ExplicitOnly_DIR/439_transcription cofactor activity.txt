@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+
+COMMON	2345	CREB1	1385	cAMP responsive element binding protein 1
+
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	30646	SND1	27044	staphylococcal nuclease and tudor domain containing 1

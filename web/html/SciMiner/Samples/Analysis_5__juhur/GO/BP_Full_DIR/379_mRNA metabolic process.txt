@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 3
+#BACKGROUNDONLY: 3
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	10780	SFRS1	6426	splicing factor, arginine/serine-rich 1 (splicing factor 2, alternate splicing factor)
+TESTONLY	17348	PRPF3	9129	PRP3 pre-mRNA processing factor 3 homolog (S. cerevisiae)
+TESTONLY	4323	GLO1	2739	glyoxalase I
+
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	3767	FLT4	2324	fms-related tyrosine kinase 4
+BACKGROUNDONLY	15860	PRPF6	24148	PRP6 pre-mRNA processing factor 6 homolog (S. cerevisiae)

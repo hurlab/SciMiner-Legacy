@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 5
+#BACKGROUNDONLY: 3
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	4235	GFAP	2670	glial fibrillary acidic protein
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	132	ACTB	60	actin, beta
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	2770	DES	1674	desmin

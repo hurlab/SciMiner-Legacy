@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	3189	EEF1A1	1915	eukaryotic translation elongation factor 1 alpha 1
+
+COMMON	2615	CYP2B6	1555	cytochrome P450, family 2, subfamily B, polypeptide 6
+

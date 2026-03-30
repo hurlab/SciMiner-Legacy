@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+
+

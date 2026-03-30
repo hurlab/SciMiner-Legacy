@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 5
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+
+
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	4573	GRIA3	2892	glutamate receptor, ionotrophic, AMPA 3
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	4574	GRIA4	2893	glutamate receptor, ionotrophic, AMPA 4

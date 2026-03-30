@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 1
+TESTONLY	10886	SIRT2	22933	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)
+
+
+BACKGROUNDONLY	4910	HIF1A	3091	hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)

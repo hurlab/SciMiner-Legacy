@@ -1,0 +1,36 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 10
+#BACKGROUNDONLY: 18
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	5991	IL1A	3552	interleukin 1, alpha
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	7891	NOX4	50507	NADPH oxidase 4
+
+BACKGROUNDONLY	3562	FABP7	2173	fatty acid binding protein 7, brain
+BACKGROUNDONLY	1764	CDH5	1003	cadherin 5, type 2, VE-cadherin (vascular epithelium)
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	352	AIF1	199	allograft inflammatory factor 1
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	403	ALDH3A2	224	aldehyde dehydrogenase 3 family, member A2
+BACKGROUNDONLY	950	BAP1	8314	BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase)
+BACKGROUNDONLY	11329	SST	6750	somatostatin
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)

@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 2
+
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	9035	PLA2G4A	5321	phospholipase A2, group IVA (cytosolic, calcium-dependent)

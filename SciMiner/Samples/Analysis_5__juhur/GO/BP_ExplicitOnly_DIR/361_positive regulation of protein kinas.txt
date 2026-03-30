@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 4
+#BACKGROUNDONLY: 1
+TESTONLY	6843	MAP2K3	5606	mitogen-activated protein kinase kinase 3
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	1678	CD4	920	CD4 molecule
+
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5

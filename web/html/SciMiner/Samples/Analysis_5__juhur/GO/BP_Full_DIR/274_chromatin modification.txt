@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 9
+TESTONLY	14931	SIRT3	23410	sirtuin (silent mating type information regulation 2 homolog) 3 (S. cerevisiae)
+TESTONLY	10886	SIRT2	22933	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)
+
+COMMON	14929	SIRT1	23411	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+
+BACKGROUNDONLY	7978	NR3C1	2908	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	2277	COX6A1	1337	cytochrome c oxidase subunit VIa polypeptide 1
+BACKGROUNDONLY	17016	MYST2	11143	MYST histone acetyltransferase 2
+BACKGROUNDONLY	18420	SETD2	29072	SET domain containing 2
+BACKGROUNDONLY	14065	HDAC9	9734	histone deacetylase 9
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1
+BACKGROUNDONLY	3581	BPTF	2186	bromodomain PHD finger transcription factor
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)

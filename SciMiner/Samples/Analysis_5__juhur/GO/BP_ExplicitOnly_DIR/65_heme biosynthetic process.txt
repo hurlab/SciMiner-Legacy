@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+

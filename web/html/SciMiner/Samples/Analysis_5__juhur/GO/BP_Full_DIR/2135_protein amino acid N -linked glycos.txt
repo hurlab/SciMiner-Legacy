@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 1
+TESTONLY	2728	DDOST	1650	dolichyl-diphosphooligosaccharide-protein glycosyltransferase
+
+
+BACKGROUNDONLY	6619	LIPC	3990	lipase, hepatic

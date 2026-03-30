@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	11998	TP53	7157	tumor protein p53
+
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

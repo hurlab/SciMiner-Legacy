@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+
+COMMON	11998	TP53	7157	tumor protein p53
+
+BACKGROUNDONLY	3553	FAAH	2166	fatty acid amide hydrolase
+BACKGROUNDONLY	2770	DES	1674	desmin

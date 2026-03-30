@@ -1,0 +1,130 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 10
+#COMMON: 34
+#BACKGROUNDONLY: 80
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	10840	SHC1	6464	SHC (Src homology 2 domain containing) transforming protein 1
+TESTONLY	4605	GRP	2922	gastrin-releasing peptide
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	7097	MIF	4282	macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	12405	TTR	7276	transthyretin (prealbumin, amyloidosis type I)
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	6081	INS	3630	insulin
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	3415	EPO	2056	erythropoietin
+COMMON	3573	FADD	8772	Fas (TNFRSF6)-associated via death domain
+COMMON	5991	IL1A	3552	interleukin 1, alpha
+COMMON	9201	POMC	5443	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	3665	FGF1	2246	fibroblast growth factor 1 (acidic)
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	727	ARTN	9048	artemin
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	8024	NTF4	4909	neurotrophin 4
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	4232	GDNF	2668	glial cell derived neurotrophic factor
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	10637	CXCL10	3627	chemokine (C-X-C motif) ligand 10
+BACKGROUNDONLY	4191	GCG	2641	glucagon
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1
+BACKGROUNDONLY	6193	JAK3	3718	Janus kinase 3 (a protein tyrosine kinase, leukocyte)
+BACKGROUNDONLY	6156	ITGB3	3690	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	3553	FAAH	2166	fatty acid amide hydrolase
+BACKGROUNDONLY	10638	CXCL11	6373	chemokine (C-X-C motif) ligand 11
+BACKGROUNDONLY	4223	MSTN	2660	myostatin
+BACKGROUNDONLY	7098	CXCL9	4283	chemokine (C-X-C motif) ligand 9
+BACKGROUNDONLY	6711	LTB	4050	lymphotoxin beta (TNF superfamily, member 3)
+BACKGROUNDONLY	12372	TSHB	7252	thyroid stimulating hormone, beta
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	9103	PLXNB1	5364	plexin B1
+BACKGROUNDONLY	9546	PSMB9	5698	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide
+BACKGROUNDONLY	4893	HGF	3082	hepatocyte growth factor (hepapoietin A; scatter factor)
+BACKGROUNDONLY	15860	PRPF6	24148	PRP6 pre-mRNA processing factor 6 homolog (S. cerevisiae)
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	8800	PDGFB	5155	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+BACKGROUNDONLY	5973	IL13	3596	interleukin 13
+BACKGROUNDONLY	6677	LPL	4023	lipoprotein lipase
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	19157	IL27	246778	interleukin 27
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	9106	PLXNC1	10154	plexin C1
+BACKGROUNDONLY	11329	SST	6750	somatostatin
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	15488	IL23A	51561	interleukin 23, alpha subunit p19
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	241	ADCYAP1	116	adenylate cyclase activating polypeptide 1 (pituitary)
+BACKGROUNDONLY	3684	FGF6	2251	fibroblast growth factor 6
+BACKGROUNDONLY	30306	PHB2	11331	prohibitin 2
+BACKGROUNDONLY	1940	CHM	1121	choroideremia (Rab escort protein 1)
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	4886	HFE	3077	hemochromatosis
+BACKGROUNDONLY	403	ALDH3A2	224	aldehyde dehydrogenase 3 family, member A2
+BACKGROUNDONLY	3662	FGB	2244	fibrinogen beta chain
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	4604	CXCL3	2921	chemokine (C-X-C motif) ligand 3
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	10630	CCL4	6351	chemokine (C-C motif) ligand 4
+BACKGROUNDONLY	9040	PLA2G7	7941	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	6190	JAK1	3716	Janus kinase 1 (a protein tyrosine kinase)
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	8053	NUDT6	11162	nudix (nucleoside diphosphate linked moiety X)-type motif 6
+BACKGROUNDONLY	5329	IAPP	3375	islet amyloid polypeptide
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	9545	PSMB8	5696	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2
+BACKGROUNDONLY	644	AR	367	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+BACKGROUNDONLY	12681	VEGFB	7423	vascular endothelial growth factor B
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	2187	COL11A2	1302	collagen, type XI, alpha 2
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	12682	VEGFC	7424	vascular endothelial growth factor C
+BACKGROUNDONLY	3708	FIGF	2277	c-fos induced growth factor (vascular endothelial growth factor D)
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	2434	CSF2	1437	colony stimulating factor 2 (granulocyte-macrophage)
+BACKGROUNDONLY	10647	CX3CL1	6376	chemokine (C-X3-C motif) ligand 1
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

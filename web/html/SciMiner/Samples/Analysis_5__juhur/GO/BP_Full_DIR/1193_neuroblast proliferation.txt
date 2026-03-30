@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 3
+
+COMMON	727	ARTN	9048	artemin
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	12682	VEGFC	7424	vascular endothelial growth factor C
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa

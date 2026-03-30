@@ -1,0 +1,23 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 6
+#BACKGROUNDONLY: 8
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	6915	MB	4151	myoglobin
+
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	3415	EPO	2056	erythropoietin
+COMMON	1509	CASP8	841	caspase 8, apoptosis-related cysteine peptidase
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+
+BACKGROUNDONLY	7176	MMP9	4318	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+BACKGROUNDONLY	11556	TAL1	6886	T-cell acute lymphocytic leukemia 1
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	2434	CSF2	1437	colony stimulating factor 2 (granulocyte-macrophage)
+BACKGROUNDONLY	11241	SPI1	6688	spleen focus forming virus (SFFV) proviral integration oncogene spi1

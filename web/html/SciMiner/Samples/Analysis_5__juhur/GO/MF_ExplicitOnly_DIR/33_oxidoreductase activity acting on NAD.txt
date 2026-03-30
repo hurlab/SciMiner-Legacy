@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 0
+#BACKGROUNDONLY: 1
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	7714	NDUFS7	374291	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	7688	NDUFA5	4698	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa
+
+
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)

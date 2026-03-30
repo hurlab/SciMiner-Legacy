@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)

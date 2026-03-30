@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 8
+TESTONLY	7983	NR5A1	2516	nuclear receptor subfamily 5, group A, member 1
+TESTONLY	7965	NR1H2	7376	nuclear receptor subfamily 1, group H, member 2
+
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	6782	MAFK	7975	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+
+BACKGROUNDONLY	7978	NR3C1	2908	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	9236	PPARG	5468	peroxisome proliferator-activated receptor gamma
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	10477	RXRA	6256	retinoid X receptor, alpha
+BACKGROUNDONLY	644	AR	367	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+BACKGROUNDONLY	3471	ESRRA	2101	estrogen-related receptor alpha

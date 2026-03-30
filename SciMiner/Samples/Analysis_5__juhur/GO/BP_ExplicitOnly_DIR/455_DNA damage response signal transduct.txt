@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 0
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+

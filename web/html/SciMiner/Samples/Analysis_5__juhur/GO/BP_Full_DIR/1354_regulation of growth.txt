@@ -1,0 +1,42 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 14
+#BACKGROUNDONLY: 16
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	2206	COL4A4	1286	collagen, type IV, alpha 4
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+TESTONLY	10840	SHC1	6464	SHC (Src homology 2 domain containing) transforming protein 1
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	2345	CREB1	1385	cAMP responsive element binding protein 1
+COMMON	11049	SLC6A3	6531	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+
+BACKGROUNDONLY	1984	CISH	1154	cytokine inducible SH2-containing protein
+BACKGROUNDONLY	19391	SOCS3	9021	suppressor of cytokine signaling 3
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	12681	VEGFB	7423	vascular endothelial growth factor B
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)
+BACKGROUNDONLY	24961	HOPX	84525	HOP homeobox
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

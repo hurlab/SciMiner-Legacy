@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+
+
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	800	ATP1A2	477	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide

@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 4
+#BACKGROUNDONLY: 3
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+COMMON	2615	CYP2B6	1555	cytochrome P450, family 2, subfamily B, polypeptide 6
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa

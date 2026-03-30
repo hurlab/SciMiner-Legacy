@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 10
+TESTONLY	12609	USP11	8237	ubiquitin specific peptidase 11
+
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+
+BACKGROUNDONLY	2527	CTSB	1508	cathepsin B
+BACKGROUNDONLY	2961	DYNC1H1	1778	dynein, cytoplasmic 1, heavy chain 1
+BACKGROUNDONLY	2545	CTSS	1520	cathepsin S
+BACKGROUNDONLY	2482	CSTB	1476	cystatin B (stefin B)
+BACKGROUNDONLY	1059	BLMH	642	bleomycin hydrolase
+BACKGROUNDONLY	6193	JAK3	3718	Janus kinase 3 (a protein tyrosine kinase, leukocyte)
+BACKGROUNDONLY	2536	CTSK	1513	cathepsin K
+BACKGROUNDONLY	2537	CTSL1	1514	cathepsin L1
+BACKGROUNDONLY	8816	PDPK1	5170	3-phosphoinositide dependent protein kinase-1
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)

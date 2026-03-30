@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)

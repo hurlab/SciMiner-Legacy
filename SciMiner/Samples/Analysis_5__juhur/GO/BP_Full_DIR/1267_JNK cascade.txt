@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 4
+#BACKGROUNDONLY: 5
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	6886	MAPK9	5601	mitogen-activated protein kinase 9
+
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	6872	MAPK10	5602	mitogen-activated protein kinase 10
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)

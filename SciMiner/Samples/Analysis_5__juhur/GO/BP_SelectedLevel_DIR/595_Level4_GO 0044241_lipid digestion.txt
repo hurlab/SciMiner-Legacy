@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	1848	CEL	1056	carboxyl ester lipase (bile salt-stimulated lipase)
+
+
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)

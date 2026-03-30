@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 2
+
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha

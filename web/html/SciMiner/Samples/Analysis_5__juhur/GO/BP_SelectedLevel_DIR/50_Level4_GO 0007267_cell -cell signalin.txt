@@ -1,0 +1,129 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 19
+#COMMON: 40
+#BACKGROUNDONLY: 64
+TESTONLY	11517	TAC1	6863	tachykinin, precursor 1
+TESTONLY	2206	COL4A4	1286	collagen, type IV, alpha 4
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+TESTONLY	7983	NR5A1	2516	nuclear receptor subfamily 5, group A, member 1
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	1912	CHAT	1103	choline acetyltransferase
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+TESTONLY	11138	SNCA	6622	synuclein, alpha (non A4 component of amyloid precursor)
+TESTONLY	9567	PSMD9	5715	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9
+TESTONLY	412	ALDH9A1	223	aldehyde dehydrogenase 9 family, member A1
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	2874	NQO1	1728	NAD(P)H dehydrogenase, quinone 1
+TESTONLY	10990	SLC25A4	291	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	4341	GLUL	2752	glutamate-ammonia ligase (glutamine synthetase)
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	6081	INS	3630	insulin
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	10939	SLC1A1	6505	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1
+COMMON	3415	EPO	2056	erythropoietin
+COMMON	3951	FXN	2395	frataxin
+COMMON	5991	IL1A	3552	interleukin 1, alpha
+COMMON	9201	POMC	5443	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)
+COMMON	12435	TXN	7295	thioredoxin
+COMMON	11740	TF	7018	transferrin
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	3665	FGF1	2246	fibroblast growth factor 1 (acidic)
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	2345	CREB1	1385	cAMP responsive element binding protein 1
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	4572	GRIA2	2891	glutamate receptor, ionotropic, AMPA 2
+COMMON	11049	SLC6A3	6531	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	10941	SLC1A3	6507	solute carrier family 1 (glial high affinity glutamate transporter), member 3
+COMMON	8024	NTF4	4909	neurotrophin 4
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	4232	GDNF	2668	glial cell derived neurotrophic factor
+COMMON	10940	SLC1A2	6506	solute carrier family 1 (glial high affinity glutamate transporter), member 2
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	10637	CXCL10	3627	chemokine (C-X-C motif) ligand 10
+BACKGROUNDONLY	4191	GCG	2641	glucagon
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	6193	JAK3	3718	Janus kinase 3 (a protein tyrosine kinase, leukocyte)
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	2228	COMT	1312	catechol-O-methyltransferase
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	10638	CXCL11	6373	chemokine (C-X-C motif) ligand 11
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	7098	CXCL9	4283	chemokine (C-X-C motif) ligand 9
+BACKGROUNDONLY	6711	LTB	4050	lymphotoxin beta (TNF superfamily, member 3)
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	12372	TSHB	7252	thyroid stimulating hormone, beta
+BACKGROUNDONLY	3023	DRD2	1813	dopamine receptor D2
+BACKGROUNDONLY	10500	S100B	6285	S100 calcium binding protein B
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide
+BACKGROUNDONLY	5973	IL13	3596	interleukin 13
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	2595	CYP1A1	1543	cytochrome P450, family 1, subfamily A, polypeptide 1
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	11329	SST	6750	somatostatin
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	5381	IDE	3416	insulin-degrading enzyme
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	7197	MOG	4340	myelin oligodendrocyte glycoprotein
+BACKGROUNDONLY	12695	VIPR2	7434	vasoactive intestinal peptide receptor 2
+BACKGROUNDONLY	6323	KIF5A	3798	kinesin family member 5A
+BACKGROUNDONLY	3146	ECE1	1889	endothelin converting enzyme 1
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	241	ADCYAP1	116	adenylate cyclase activating polypeptide 1 (pituitary)
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	3684	FGF6	2251	fibroblast growth factor 6
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	1705	CD86	942	CD86 molecule
+BACKGROUNDONLY	6925	MBP	4155	myelin basic protein
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	10630	CCL4	6351	chemokine (C-C motif) ligand 4
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	11050	SLC6A4	6532	solute carrier family 6 (neurotransmitter transporter, serotonin), member 4
+BACKGROUNDONLY	5329	IAPP	3375	islet amyloid polypeptide
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2
+BACKGROUNDONLY	644	AR	367	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	12694	VIPR1	7433	vasoactive intestinal peptide receptor 1
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

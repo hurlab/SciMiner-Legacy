@@ -1,0 +1,25 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 4
+#BACKGROUNDONLY: 12
+TESTONLY	12022	TPT1	7178	tumor protein, translationally-controlled 1
+TESTONLY	11517	TAC1	6863	tachykinin, precursor 1
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	336	AGTR1	185	angiotensin II receptor, type 1
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1

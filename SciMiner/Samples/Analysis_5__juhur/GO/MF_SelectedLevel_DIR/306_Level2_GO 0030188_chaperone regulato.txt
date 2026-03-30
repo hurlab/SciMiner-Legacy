@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	939	BAG3	9531	BCL2-associated athanogene 3
+
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+
+BACKGROUNDONLY	1189	AHSA1	10598	AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (yeast)

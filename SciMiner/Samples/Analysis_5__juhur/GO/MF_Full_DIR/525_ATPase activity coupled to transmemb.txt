@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 2
+TESTONLY	17348	PRPF3	9129	PRP3 pre-mRNA processing factor 3 homolog (S. cerevisiae)
+TESTONLY	30213	ATP13A2	23400	ATPase type 13A2
+
+COMMON	841	ATP5G1	516	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)
+COMMON	1516	CAT	847	catalase
+
+BACKGROUNDONLY	1508	CASP7	840	caspase 7, apoptosis-related cysteine peptidase
+BACKGROUNDONLY	800	ATP1A2	477	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide

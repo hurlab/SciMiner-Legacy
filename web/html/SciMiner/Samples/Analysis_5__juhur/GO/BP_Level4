@@ -1,0 +1,248 @@
+GO:0009611	response to wounding	399	38	361	93	462	555	1.575e-03	0.10	0.17	0.6
+GO:0007165	signal transduction	399	153	246	266	289	555	3.610e-03	0.38	0.48	0.8
+GO:0006629	lipid metabolic process	399	32	367	75	480	555	9.102e-03	0.08	0.14	0.6
+GO:0051321	meiotic cell cycle	399	9	390	2	553	555	1.057e-02	0.02	0.00	6.3
+GO:0006954	inflammatory response	399	32	367	73	482	555	1.554e-02	0.08	0.13	0.6
+GO:0043283	biopolymer metabolic process	399	176	223	205	350	555	2.713e-02	0.44	0.37	1.2
+GO:0006979	response to oxidative stress	399	28	371	21	534	555	3.635e-02	0.07	0.04	1.9
+GO:0009314	response to radiation	399	16	383	9	546	555	3.773e-02	0.04	0.02	2.5
+GO:0045087	innate immune response	399	4	395	17	538	555	4.219e-02	0.01	0.03	0.3
+GO:0051186	cofactor metabolic process	399	23	376	17	538	555	4.886e-02	0.06	0.03	1.9
+GO:0050878	regulation of body fluid levels	399	4	395	16	539	555	6.451e-02	0.01	0.03	0.3
+GO:0006139	nucleobase\, nucleoside\, nucleotide and nucleic acid metabolic process	399	128	271	147	408	555	6.998e-02	0.32	0.26	1.2
+GO:0022402	cell cycle process	399	27	372	22	533	555	7.335e-02	0.07	0.04	1.7
+GO:0044255	cellular lipid metabolic process	399	30	369	62	493	555	7.476e-02	0.08	0.11	0.7
+GO:0016042	lipid catabolic process	399	8	391	22	533	555	9.370e-02	0.02	0.04	0.5
+GO:0009653	anatomical structure morphogenesis	399	63	336	111	444	555	1.065e-01	0.16	0.20	0.8
+GO:0048731	system development	399	118	281	192	363	555	1.074e-01	0.30	0.35	0.9
+GO:0007267	cell\-cell signaling	399	59	340	104	451	555	1.170e-01	0.15	0.19	0.8
+GO:0007626	locomotory behavior	399	21	378	44	511	555	1.188e-01	0.05	0.08	0.7
+GO:0016337	cell\-cell adhesion	399	8	391	21	534	555	1.289e-01	0.02	0.04	0.5
+GO:0051239	regulation of multicellular organismal process	399	25	374	50	505	555	1.432e-01	0.06	0.09	0.7
+GO:0008610	lipid biosynthetic process	399	13	386	29	526	555	1.535e-01	0.03	0.05	0.6
+GO:0001505	regulation of neurotransmitter levels	399	14	385	11	544	555	1.553e-01	0.04	0.02	1.8
+GO:0000278	mitotic cell cycle	399	19	380	16	539	555	1.619e-01	0.05	0.03	1.7
+GO:0048513	organ development	399	90	309	147	408	555	1.723e-01	0.23	0.26	0.9
+GO:0048583	regulation of response to stimulus	399	15	384	32	523	555	1.744e-01	0.04	0.06	0.7
+GO:0040012	regulation of locomotion	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0010248	establishment and/or maintenance of transmembrane electrochemical gradient	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0001539	ciliary or flagellar motility	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0008217	regulation of blood pressure	399	8	391	20	535	555	1.757e-01	0.02	0.04	0.6
+GO:0006519	amino acid and derivative metabolic process	399	25	374	23	532	555	1.760e-01	0.06	0.04	1.5
+GO:0048144	fibroblast proliferation	399	6	393	3	552	555	1.762e-01	0.02	0.01	2.8
+GO:0044249	cellular biosynthetic process	399	61	338	67	488	555	1.775e-01	0.15	0.12	1.3
+GO:0008219	cell death	399	100	299	118	437	555	1.840e-01	0.25	0.21	1.2
+GO:0006793	phosphorus metabolic process	399	65	334	73	482	555	1.916e-01	0.16	0.13	1.2
+GO:0006959	humoral immune response	399	4	395	12	543	555	2.068e-01	0.01	0.02	0.5
+GO:0002250	adaptive immune response	399	10	389	23	532	555	2.096e-01	0.03	0.04	0.6
+GO:0042440	pigment metabolic process	399	7	392	4	551	555	2.172e-01	0.02	0.01	2.4
+GO:0006091	generation of precursor metabolites and energy	399	25	374	25	530	555	2.412e-01	0.06	0.05	1.4
+GO:0005975	carbohydrate metabolic process	399	25	374	25	530	555	2.412e-01	0.06	0.05	1.4
+GO:0006800	oxygen and reactive oxygen species metabolic process	399	20	379	19	536	555	2.474e-01	0.05	0.03	1.5
+GO:0009566	fertilization	399	1	398	6	549	555	2.493e-01	0.00	0.01	0.2
+GO:0014031	mesenchymal cell development	399	1	398	6	549	555	2.493e-01	0.00	0.01	0.2
+GO:0043449	alkene metabolic process	399	1	398	6	549	555	2.493e-01	0.00	0.01	0.2
+GO:0009308	amine metabolic process	399	27	372	27	528	555	2.557e-01	0.07	0.05	1.4
+GO:0009615	response to virus	399	6	393	15	540	555	2.662e-01	0.02	0.03	0.6
+GO:0006323	DNA packaging	399	8	391	6	549	555	2.809e-01	0.02	0.01	1.9
+GO:0007569	cell aging	399	5	394	3	552	555	2.899e-01	0.01	0.01	2.3
+GO:0046849	bone remodeling	399	4	395	11	544	555	2.961e-01	0.01	0.02	0.5
+GO:0006869	lipid transport	399	5	394	13	542	555	3.347e-01	0.01	0.02	0.5
+GO:0006766	vitamin metabolic process	399	6	393	4	551	555	3.355e-01	0.02	0.01	2.1
+GO:0009059	macromolecule biosynthetic process	399	81	318	128	427	555	3.411e-01	0.20	0.23	0.9
+GO:0006790	sulfur metabolic process	399	10	389	9	546	555	3.555e-01	0.03	0.02	1.5
+GO:0042445	hormone metabolic process	399	10	389	9	546	555	3.555e-01	0.03	0.02	1.5
+GO:0006996	organelle organization and biogenesis	399	64	335	77	478	555	3.567e-01	0.16	0.14	1.2
+GO:0003013	circulatory system process	399	23	376	41	514	555	3.598e-01	0.06	0.07	0.8
+GO:0050673	epithelial cell proliferation	399	3	396	8	547	555	3.756e-01	0.01	0.01	0.5
+GO:0006968	cellular defense response	399	3	396	8	547	555	3.756e-01	0.01	0.01	0.5
+GO:0048518	positive regulation of biological process	399	111	288	169	386	555	3.880e-01	0.28	0.30	0.9
+GO:0050877	neurological system process	399	61	338	73	482	555	3.953e-01	0.15	0.13	1.2
+GO:0009636	response to toxin	399	7	392	6	549	555	4.068e-01	0.02	0.01	1.6
+GO:0045776	negative regulation of blood pressure	399	1	398	4	551	555	4.068e-01	0.00	0.01	0.3
+GO:0009620	response to fungus	399	1	398	4	551	555	4.068e-01	0.00	0.01	0.3
+GO:0002790	peptide secretion	399	1	398	4	551	555	4.068e-01	0.00	0.01	0.3
+GO:0008344	adult locomotory behavior	399	1	398	5	550	555	4.098e-01	0.00	0.01	0.3
+GO:0002263	cell activation during immune response	399	1	398	5	550	555	4.098e-01	0.00	0.01	0.3
+GO:0032623	interleukin\-2 production	399	1	398	5	550	555	4.098e-01	0.00	0.01	0.3
+GO:0010259	multicellular organismal aging	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0034097	response to cytokine stimulus	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0051409	response to nitrosative stress	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0051775	response to redox state	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0015979	photosynthesis	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0060011	Sertoli cell proliferation	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0007516	hemocyte development	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0048069	eye pigmentation	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0001833	inner cell mass cell proliferation	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0007538	primary sex determination	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0046677	response to antibiotic	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0001101	response to acid	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0044260	cellular macromolecule metabolic process	399	127	272	191	364	555	4.438e-01	0.32	0.34	0.9
+GO:0008104	protein localization	399	31	368	36	519	555	4.444e-01	0.08	0.06	1.2
+GO:0048519	negative regulation of biological process	399	92	307	141	414	555	4.450e-01	0.23	0.25	0.9
+GO:0046902	regulation of mitochondrial membrane permeability	399	4	395	3	552	555	4.605e-01	0.01	0.01	1.9
+GO:0007281	germ cell development	399	4	395	3	552	555	4.605e-01	0.01	0.01	1.9
+GO:0007612	learning	399	4	395	3	552	555	4.605e-01	0.01	0.01	1.9
+GO:0050794	regulation of cellular process	399	186	213	272	283	555	4.707e-01	0.47	0.49	1.0
+GO:0015833	peptide transport	399	2	397	6	549	555	4.797e-01	0.01	0.01	0.5
+GO:0045137	development of primary sexual characteristics	399	9	390	9	546	555	4.808e-01	0.02	0.02	1.4
+GO:0015849	organic acid transport	399	9	390	9	546	555	4.808e-01	0.02	0.02	1.4
+GO:0001666	response to hypoxia	399	12	387	22	533	555	4.825e-01	0.03	0.04	0.8
+GO:0048609	reproductive process in a multicellular organism	399	10	389	10	545	555	4.967e-01	0.03	0.02	1.4
+GO:0022607	cellular component assembly	399	10	389	10	545	555	4.967e-01	0.03	0.02	1.4
+GO:0042493	response to drug	399	5	394	4	551	555	5.029e-01	0.01	0.01	1.7
+GO:0030155	regulation of cell adhesion	399	7	392	14	541	555	5.064e-01	0.02	0.03	0.7
+GO:0046660	female sex differentiation	399	6	393	5	550	555	5.407e-01	0.02	0.01	1.7
+GO:0022411	cellular component disassembly	399	6	393	5	550	555	5.407e-01	0.02	0.01	1.7
+GO:0032535	regulation of cellular component size	399	6	393	5	550	555	5.407e-01	0.02	0.01	1.7
+GO:0007276	gamete generation	399	13	386	14	541	555	5.549e-01	0.03	0.03	1.3
+GO:0009725	response to hormone stimulus	399	14	385	15	540	555	5.671e-01	0.04	0.03	1.3
+GO:0032844	regulation of homeostatic process	399	6	393	6	549	555	5.705e-01	0.02	0.01	1.4
+GO:0030900	forebrain development	399	6	393	6	549	555	5.705e-01	0.02	0.01	1.4
+GO:0022415	viral reproductive process	399	4	395	9	546	555	5.741e-01	0.01	0.02	0.6
+GO:0015669	gas transport	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0006081	aldehyde metabolic process	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0010469	regulation of receptor activity	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0045321	leukocyte activation	399	22	377	36	519	555	5.844e-01	0.06	0.06	0.9
+GO:0050793	regulation of developmental process	399	98	301	128	427	555	5.901e-01	0.25	0.23	1.1
+GO:0008361	regulation of cell size	399	12	387	21	534	555	5.923e-01	0.03	0.04	0.8
+GO:0050790	regulation of catalytic activity	399	45	354	56	499	555	5.942e-01	0.11	0.10	1.1
+GO:0046209	nitric oxide metabolic process	399	8	391	8	547	555	6.112e-01	0.02	0.01	1.4
+GO:0016477	cell migration	399	28	371	44	511	555	6.216e-01	0.07	0.08	0.9
+GO:0009617	response to bacterium	399	6	393	12	543	555	6.307e-01	0.02	0.02	0.7
+GO:0043062	extracellular structure organization and biogenesis	399	6	393	12	543	555	6.307e-01	0.02	0.02	0.7
+GO:0030902	hindbrain development	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0003014	renal system process	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0044259	multicellular organismal macromolecule metabolic process	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0044256	protein digestion	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0009581	detection of external stimulus	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0001824	blastocyst development	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0032606	type I interferon production	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0007548	sex differentiation	399	9	390	10	545	555	6.445e-01	0.02	0.02	1.3
+GO:0015837	amine transport	399	9	390	10	545	555	6.445e-01	0.02	0.02	1.3
+GO:0046483	heterocycle metabolic process	399	9	390	10	545	555	6.445e-01	0.02	0.02	1.3
+GO:0001708	cell fate specification	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0031647	regulation of protein stability	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0032989	cellular structure morphogenesis	399	21	378	34	521	555	6.731e-01	0.05	0.06	0.9
+GO:0051098	regulation of binding	399	11	388	13	542	555	6.815e-01	0.03	0.02	1.2
+GO:0010033	response to organic substance	399	12	387	14	541	555	6.897e-01	0.03	0.03	1.2
+GO:0002443	leukocyte mediated immunity	399	10	389	17	538	555	6.947e-01	0.03	0.03	0.8
+GO:0002437	inflammatory response to antigenic stimulus	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0033554	cellular response to stress	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0007618	mating	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0030238	male sex determination	399	2	397	5	550	555	7.056e-01	0.01	0.01	0.6
+GO:0006811	ion transport	399	31	368	39	516	555	7.064e-01	0.08	0.07	1.1
+GO:0003012	muscle system process	399	11	388	19	536	555	7.075e-01	0.03	0.03	0.8
+GO:0031668	cellular response to extracellular stimulus	399	4	395	4	551	555	7.259e-01	0.01	0.01	1.4
+GO:0046661	male sex differentiation	399	4	395	4	551	555	7.259e-01	0.01	0.01	1.4
+GO:0032615	interleukin\-12 production	399	3	396	6	549	555	7.419e-01	0.01	0.01	0.7
+GO:0007530	sex determination	399	3	396	6	549	555	7.419e-01	0.01	0.01	0.7
+GO:0044262	cellular carbohydrate metabolic process	399	18	381	22	533	555	7.440e-01	0.05	0.04	1.1
+GO:0016192	vesicle\-mediated transport	399	16	383	25	530	555	7.489e-01	0.04	0.05	0.9
+GO:0002682	regulation of immune system process	399	16	383	26	529	555	7.494e-01	0.04	0.05	0.9
+GO:0042633	hair cycle	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0022404	molting cycle process	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0044403	symbiosis\, encompassing mutualism through parasitism	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0006836	neurotransmitter transport	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0022613	ribonucleoprotein complex biogenesis and assembly	399	4	395	7	548	555	7.695e-01	0.01	0.01	0.8
+GO:0006662	glycerol ether metabolic process	399	4	395	8	547	555	7.700e-01	0.01	0.01	0.7
+GO:0009057	macromolecule catabolic process	399	26	373	33	522	555	7.856e-01	0.07	0.06	1.1
+GO:0006066	alcohol metabolic process	399	27	372	35	520	555	7.912e-01	0.07	0.06	1.1
+GO:0002440	production of molecular mediator of immune response	399	7	392	8	547	555	7.939e-01	0.02	0.01	1.2
+GO:0065003	macromolecular complex assembly	399	26	373	39	516	555	7.957e-01	0.07	0.07	0.9
+GO:0033002	muscle cell proliferation	399	6	393	10	545	555	8.029e-01	0.02	0.02	0.8
+GO:0048608	reproductive structure development	399	8	391	9	546	555	8.049e-01	0.02	0.02	1.2
+GO:0022008	neurogenesis	399	30	369	45	510	555	8.077e-01	0.08	0.08	0.9
+GO:0035150	regulation of tube size	399	8	391	10	545	555	8.143e-01	0.02	0.02	1.1
+GO:0006082	organic acid metabolic process	399	34	365	51	504	555	8.179e-01	0.09	0.09	0.9
+GO:0006725	aromatic compound metabolic process	399	10	389	12	543	555	8.277e-01	0.03	0.02	1.2
+GO:0032943	mononuclear cell proliferation	399	9	390	14	541	555	8.342e-01	0.02	0.03	0.9
+GO:0019538	protein metabolic process	399	134	265	191	364	555	8.355e-01	0.34	0.34	1.0
+GO:0051046	regulation of secretion	399	13	386	17	538	555	8.534e-01	0.03	0.03	1.1
+GO:0000904	cellular morphogenesis during differentiation	399	14	385	22	533	555	8.635e-01	0.04	0.04	0.9
+GO:0015031	protein transport	399	18	381	23	532	555	8.717e-01	0.05	0.04	1.1
+GO:0035295	tube development	399	17	382	26	529	555	8.746e-01	0.04	0.05	0.9
+GO:0016044	membrane organization and biogenesis	399	19	380	25	530	555	8.765e-01	0.05	0.05	1.1
+GO:0019222	regulation of metabolic process	399	105	294	149	406	555	8.821e-01	0.26	0.27	1.0
+GO:0040008	regulation of growth	399	20	379	30	525	555	8.832e-01	0.05	0.05	0.9
+GO:0044248	cellular catabolic process	399	46	353	62	493	555	9.176e-01	0.12	0.11	1.0
+GO:0051641	cellular localization	399	49	350	67	488	555	9.204e-01	0.12	0.12	1.0
+GO:0042592	homeostatic process	399	60	339	82	473	555	9.267e-01	0.15	0.15	1.0
+GO:0030154	cell differentiation	399	139	260	194	361	555	1.000e+00	0.35	0.35	1.0
+GO:0032879	regulation of localization	399	19	380	27	528	555	1.000e+00	0.05	0.05	1.0
+GO:0009792	embryonic development ending in birth or egg hatching	399	15	384	21	534	555	1.000e+00	0.04	0.04	1.0
+GO:0009266	response to temperature stimulus	399	12	387	16	539	555	1.000e+00	0.03	0.03	1.0
+GO:0009991	response to extracellular stimulus	399	10	389	13	542	555	1.000e+00	0.03	0.02	1.1
+GO:0010035	response to inorganic substance	399	9	390	12	543	555	1.000e+00	0.02	0.02	1.0
+GO:0006986	response to unfolded protein	399	9	390	13	542	555	1.000e+00	0.02	0.02	1.0
+GO:0051789	response to protein stimulus	399	9	390	13	542	555	1.000e+00	0.02	0.02	1.0
+GO:0043112	receptor metabolic process	399	7	392	10	545	555	1.000e+00	0.02	0.02	1.0
+GO:0007389	pattern specification process	399	7	392	10	545	555	1.000e+00	0.02	0.02	1.0
+GO:0031589	cell\-substrate adhesion	399	7	392	9	546	555	1.000e+00	0.02	0.02	1.1
+GO:0006818	hydrogen transport	399	5	394	8	547	555	1.000e+00	0.01	0.01	0.9
+GO:0007584	response to nutrient	399	5	394	7	548	555	1.000e+00	0.01	0.01	1.0
+GO:0008643	carbohydrate transport	399	5	394	7	548	555	1.000e+00	0.01	0.01	1.0
+GO:0032602	chemokine production	399	5	394	7	548	555	1.000e+00	0.01	0.01	1.0
+GO:0007631	feeding behavior	399	5	394	7	548	555	1.000e+00	0.01	0.01	1.0
+GO:0001935	endothelial cell proliferation	399	4	395	5	550	555	1.000e+00	0.01	0.01	1.1
+GO:0050792	regulation of viral reproduction	399	4	395	6	549	555	1.000e+00	0.01	0.01	0.9
+GO:0032635	interleukin\-6 production	399	4	395	5	550	555	1.000e+00	0.01	0.01	1.1
+GO:0048747	muscle fiber development	399	4	395	6	549	555	1.000e+00	0.01	0.01	0.9
+GO:0045785	positive regulation of cell adhesion	399	4	395	5	550	555	1.000e+00	0.01	0.01	1.1
+GO:0009612	response to mechanical stimulus	399	3	396	5	550	555	1.000e+00	0.01	0.01	0.8
+GO:0007613	memory	399	3	396	5	550	555	1.000e+00	0.01	0.01	0.8
+GO:0021915	neural tube development	399	3	396	4	551	555	1.000e+00	0.01	0.01	1.0
+GO:0007162	negative regulation of cell adhesion	399	3	396	5	550	555	1.000e+00	0.01	0.01	0.8
+GO:0021782	glial cell development	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0048839	inner ear development	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0050803	regulation of synapse structure and activity	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0043331	response to dsRNA	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0007412	axon target recognition	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0000910	cytokinesis	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0048736	appendage development	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0007617	mating behavior	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0019098	reproductive behavior	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0021536	diencephalon development	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0009410	response to xenobiotic stimulus	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0042335	cuticle development	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0044243	multicellular organismal catabolic process	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0009582	detection of abiotic stimulus	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0048469	cell maturation	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0060119	inner ear receptor cell development	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0051607	defense response to virus	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0051715	cytolysis of cells of another organism	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0051883	killing of cells in other organism during symbiotic interaction	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0008038	neuron recognition	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0021675	nerve development	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0002347	response to tumor cell	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0006730	one\-carbon compound metabolic process	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0043114	regulation of vascular permeability	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0048286	alveolus development	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0030185	nitric oxide transport	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0015931	nucleobase\, nucleoside\, nucleotide and nucleic acid transport	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0001967	suckling behavior	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0030901	midbrain development	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0042596	fear response	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0002209	behavioral defense response	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0009268	response to pH	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0021534	cell proliferation in hindbrain	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0021984	adenohypophysis development	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0006970	response to osmotic stress	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0018993	somatic sex determination	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0006518	peptide metabolic process	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0001562	response to protozoan	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0045777	positive regulation of blood pressure	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0050886	endocrine process	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0001885	endothelial cell development	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0048143	astrocyte activation	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0032637	interleukin\-8 production	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0006805	xenobiotic metabolic process	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0000747	conjugation with cellular fusion	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0022600	digestive system process	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0044241	lipid digestion	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0009880	embryonic pattern specification	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0032601	connective tissue growth factor production	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0009595	detection of biotic stimulus	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0015893	drug transport	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0007635	chemosensory behavior	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0030317	sperm motility	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7

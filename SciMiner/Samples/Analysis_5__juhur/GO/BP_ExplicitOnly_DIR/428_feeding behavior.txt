@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 2
+
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	4191	GCG	2641	glucagon
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

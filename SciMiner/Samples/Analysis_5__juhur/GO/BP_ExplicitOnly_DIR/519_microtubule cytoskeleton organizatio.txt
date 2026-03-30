@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 4
+#BACKGROUNDONLY: 4
+
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	7737	NEFH	4744	neurofilament, heavy polypeptide 200kDa
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+
+BACKGROUNDONLY	13432	RNF19A	25897	ring finger protein 19A
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa

@@ -1,0 +1,180 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 31
+#COMMON: 67
+#BACKGROUNDONLY: 76
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+TESTONLY	6843	MAP2K3	5606	mitogen-activated protein kinase kinase 3
+TESTONLY	10840	SHC1	6464	SHC (Src homology 2 domain containing) transforming protein 1
+TESTONLY	1511	CASP9	842	caspase 9, apoptosis-related cysteine peptidase
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	17169	PRDX4	10549	peroxiredoxin 4
+TESTONLY	9411	PRKCSH	5589	protein kinase C substrate 80K-H
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	11121	SMPD2	6610	sphingomyelin phosphodiesterase 2, neutral membrane (neutral sphingomyelinase)
+TESTONLY	3711	FKBP1A	2280	FK506 binding protein 1A, 12kDa
+TESTONLY	14581	PINK1	65018	PTEN induced putative kinase 1
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+TESTONLY	1503	CASP2	835	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	21354	TICAM2	353376	toll-like receptor adaptor molecule 2
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	19737	TENC1	23371	tensin like C1 domain containing phosphatase (tensin 2)
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	14374	NLRP1	22861	NLR family, pyrin domain containing 1
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+
+COMMON	7661	NCF2	4688	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	9065	PLCG1	5335	phospholipase C, gamma 1
+COMMON	9388	PRKAR1A	5573	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+COMMON	1499	CASP1	834	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+COMMON	20473	BRIP1	83990	BRCA1 interacting protein C-terminal helicase 1
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	3573	FADD	8772	Fas (TNFRSF6)-associated via death domain
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	14180	PDIA2	64714	protein disulfide isomerase family A, member 2
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+COMMON	5173	HRAS	3265	v-Ha-ras Harvey rat sarcoma viral oncogene homolog
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	7782	NFE2L2	4780	nuclear factor (erythroid-derived 2)-like 2
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	1509	CASP8	841	caspase 8, apoptosis-related cysteine peptidase
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	10436	RPS6KB1	6198	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	6886	MAPK9	5601	mitogen-activated protein kinase 9
+COMMON	12649	VAPB	9217	VAMP (vesicle-associated membrane protein)-associated protein B and C
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	21528	DIABLO	56616	diablo homolog (Drosophila)
+COMMON	936	BAD	572	BCL2-antagonist of cell death
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	670	RHOD	29984	ras homolog gene family, member D
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+COMMON	9391	PRKAR2A	5576	protein kinase, cAMP-dependent, regulatory, type II, alpha
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	11919	CD40	958	CD40 molecule, TNF receptor superfamily member 5
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	9509	PSEN2	5664	presenilin 2 (Alzheimer disease 4)
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	15917	PLCB1	23236	phospholipase C, beta 1 (phosphoinositide-specific)
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	21285	ADCY10	55811	adenylate cyclase 10 (soluble)
+
+BACKGROUNDONLY	2856	DGKQ	1609	diacylglycerol kinase, theta 110kDa
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	10838	SHB	6461	Src homology 2 domain containing adaptor protein B
+BACKGROUNDONLY	8153	OPRD1	4985	opioid receptor, delta 1
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family
+BACKGROUNDONLY	3023	DRD2	1813	dopamine receptor D2
+BACKGROUNDONLY	19391	SOCS3	9021	suppressor of cytokine signaling 3
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	2160	CNR2	1269	cannabinoid receptor 2 (macrophage)
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	6541	LDHB	3945	lactate dehydrogenase B
+BACKGROUNDONLY	7775	NFATC1	4772	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+BACKGROUNDONLY	11916	TNFRSF1A	7132	tumor necrosis factor receptor superfamily, member 1A
+BACKGROUNDONLY	3040	RCAN1	1827	regulator of calcineurin 1
+BACKGROUNDONLY	3688	FGFR1	2260	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+BACKGROUNDONLY	9596	PTGER4	5734	prostaglandin E receptor 4 (subtype EP4)
+BACKGROUNDONLY	8816	PDPK1	5170	3-phosphoinositide dependent protein kinase-1
+BACKGROUNDONLY	241	ADCYAP1	116	adenylate cyclase activating polypeptide 1 (pituitary)
+BACKGROUNDONLY	6872	MAPK10	5602	mitogen-activated protein kinase 10
+BACKGROUNDONLY	435	ALOX5	240	arachidonate 5-lipoxygenase
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	6190	JAK1	3716	Janus kinase 1 (a protein tyrosine kinase)
+BACKGROUNDONLY	1876	CFLAR	8837	CASP8 and FADD-like apoptosis regulator
+BACKGROUNDONLY	1984	CISH	1154	cytokine inducible SH2-containing protein
+BACKGROUNDONLY	1582	CCND1	595	cyclin D1
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2
+BACKGROUNDONLY	6896	MARK1	4139	MAP/microtubule affinity-regulating kinase 1
+BACKGROUNDONLY	238	ADCY7	113	adenylate cyclase 7
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	11364	STAT3	6774	signal transducer and activator of transcription 3 (acute-phase response factor)
+BACKGROUNDONLY	29869	SHC2	25759	SHC (Src homology 2 domain containing) transforming protein 2
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	5294	HTR2B	3357	5-hydroxytryptamine (serotonin) receptor 2B
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	336	AGTR1	185	angiotensin II receptor, type 1
+BACKGROUNDONLY	6193	JAK3	3718	Janus kinase 3 (a protein tyrosine kinase, leukocyte)
+BACKGROUNDONLY	12030	TRADD	8717	TNFRSF1A-associated via death domain
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	9103	PLXNB1	5364	plexin B1
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1
+BACKGROUNDONLY	610	APOC3	345	apolipoprotein C-III
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	16938	IFI44	10561	interferon-induced protein 44
+BACKGROUNDONLY	11905	TNFRSF10B	8795	tumor necrosis factor receptor superfamily, member 10b
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	1508	CASP7	840	caspase 7, apoptosis-related cysteine peptidase
+BACKGROUNDONLY	6110	IQGAP1	8826	IQ motif containing GTPase activating protein 1
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	13209	ARHGEF5	7984	Rho guanine nucleotide exchange factor (GEF) 5
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)
+BACKGROUNDONLY	4502	GPR44	11251	G protein-coupled receptor 44
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	644	AR	367	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	2159	CNR1	1268	cannabinoid receptor 1 (brain)
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	12694	VIPR1	7433	vasoactive intestinal peptide receptor 1
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	3581	BPTF	2186	bromodomain PHD finger transcription factor
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

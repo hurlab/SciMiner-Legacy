@@ -1,0 +1,21 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 4
+#BACKGROUNDONLY: 4
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	1618	CCT5	22948	chaperonin containing TCP1, subunit 5 (epsilon)
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	939	BAG3	9531	BCL2-associated athanogene 3
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+
+COMMON	4827	HBB	3043	hemoglobin, beta
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+
+BACKGROUNDONLY	9538	PSMB10	5699	proteasome (prosome, macropain) subunit, beta type, 10
+BACKGROUNDONLY	9545	PSMB8	5696	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	9546	PSMB9	5698	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)

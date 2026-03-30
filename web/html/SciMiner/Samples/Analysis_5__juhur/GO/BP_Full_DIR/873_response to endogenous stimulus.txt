@@ -1,0 +1,28 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 8
+#BACKGROUNDONLY: 8
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	3040	RCAN1	1827	regulator of calcineurin 1
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	12372	TSHB	7252	thyroid stimulating hormone, beta
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)

@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+
+BACKGROUNDONLY	8800	PDGFB	5155	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	5992	IL1B	3553	interleukin 1, beta
+
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist

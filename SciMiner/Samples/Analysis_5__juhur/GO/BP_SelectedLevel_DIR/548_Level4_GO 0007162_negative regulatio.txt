@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 4
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+
+BACKGROUNDONLY	7775	NFATC1	4772	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+BACKGROUNDONLY	4893	HGF	3082	hepatocyte growth factor (hepapoietin A; scatter factor)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3

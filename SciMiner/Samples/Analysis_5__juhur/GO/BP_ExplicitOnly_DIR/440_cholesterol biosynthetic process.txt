@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 3
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+
+
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	3133	EBP	10682	emopamil binding protein (sterol isomerase)

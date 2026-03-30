@@ -1,0 +1,50 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 18
+#BACKGROUNDONLY: 24
+TESTONLY	4605	GRP	2922	gastrin-releasing peptide
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	727	ARTN	9048	artemin
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	8024	NTF4	4909	neurotrophin 4
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	4232	GDNF	2668	glial cell derived neurotrophic factor
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	5991	IL1A	3552	interleukin 1, alpha
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	3665	FGF1	2246	fibroblast growth factor 1 (acidic)
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	3684	FGF6	2251	fibroblast growth factor 6
+BACKGROUNDONLY	1940	CHM	1121	choroideremia (Rab escort protein 1)
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	4223	MSTN	2660	myostatin
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	8053	NUDT6	11162	nudix (nucleoside diphosphate linked moiety X)-type motif 6
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	4893	HGF	3082	hepatocyte growth factor (hepapoietin A; scatter factor)
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	8800	PDGFB	5155	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	12681	VEGFB	7423	vascular endothelial growth factor B
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	12682	VEGFC	7424	vascular endothelial growth factor C
+BACKGROUNDONLY	3708	FIGF	2277	c-fos induced growth factor (vascular endothelial growth factor D)
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha
+BACKGROUNDONLY	2434	CSF2	1437	colony stimulating factor 2 (granulocyte-macrophage)
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)

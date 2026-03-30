@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 6
+#BACKGROUNDONLY: 5
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	2206	COL4A4	1286	collagen, type IV, alpha 4
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	9509	PSEN2	5664	presenilin 2 (Alzheimer disease 4)
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	24961	HOPX	84525	HOP homeobox
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

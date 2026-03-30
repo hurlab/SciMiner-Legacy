@@ -1,0 +1,20 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 7
+#BACKGROUNDONLY: 5
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2
+BACKGROUNDONLY	10500	S100B	6285	S100 calcium binding protein B

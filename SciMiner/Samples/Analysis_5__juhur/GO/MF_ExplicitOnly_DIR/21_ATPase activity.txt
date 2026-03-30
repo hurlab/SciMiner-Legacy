@@ -1,0 +1,22 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 10
+#COMMON: 1
+#BACKGROUNDONLY: 5
+TESTONLY	7212	MPHOSPH1	9585	M-phase phosphoprotein 1
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	61	ABCD1	215	ATP-binding cassette, sub-family D (ALD), member 1
+TESTONLY	48	ABCB7	22	ATP-binding cassette, sub-family B (MDR/TAP), member 7
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	34	ABCA4	24	ATP-binding cassette, sub-family A (ABC1), member 4
+TESTONLY	9308	PPP2R4	5524	protein phosphatase 2A activator, regulatory subunit 4
+TESTONLY	30213	ATP13A2	23400	ATPase type 13A2
+
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+
+BACKGROUNDONLY	7576	MYH6	4624	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)
+BACKGROUNDONLY	2961	DYNC1H1	1778	dynein, cytoplasmic 1, heavy chain 1
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)

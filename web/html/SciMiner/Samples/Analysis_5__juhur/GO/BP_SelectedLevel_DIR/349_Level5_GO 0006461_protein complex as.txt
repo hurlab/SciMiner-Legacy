@@ -1,0 +1,44 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 10
+#COMMON: 7
+#BACKGROUNDONLY: 21
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	5465	IGF1R	3480	insulin-like growth factor 1 receptor
+TESTONLY	7714	NDUFS7	374291	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+TESTONLY	7715	NDUFS8	4728	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	11919	CD40	958	CD40 molecule, TNF receptor superfamily member 5
+COMMON	11920	FAS	355	Fas (TNF receptor superfamily, member 6)
+COMMON	1546	SERPINH1	871	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)
+COMMON	11998	TP53	7157	tumor protein p53
+
+BACKGROUNDONLY	5995	IL1RAP	3556	interleukin 1 receptor accessory protein
+BACKGROUNDONLY	8104	OCLN	4950	occludin
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	4886	HFE	3077	hemochromatosis
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	9718	PXN	5829	paxillin
+BACKGROUNDONLY	11827	TJP1	7082	tight junction protein 1 (zona occludens 1)
+BACKGROUNDONLY	10718	SELE	6401	selectin E (endothelial adhesion molecule 1)
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2
+BACKGROUNDONLY	9449	PRNP	5621	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)

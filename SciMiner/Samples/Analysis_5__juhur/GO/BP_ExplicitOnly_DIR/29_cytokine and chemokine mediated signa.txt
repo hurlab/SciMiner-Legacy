@@ -1,0 +1,20 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 4
+#BACKGROUNDONLY: 10
+
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	3062	DUOX1	53905	dual oxidase 1
+COMMON	11917	TNFRSF1B	7133	tumor necrosis factor receptor superfamily, member 1B
+
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BACKGROUNDONLY	5995	IL1RAP	3556	interleukin 1 receptor accessory protein
+BACKGROUNDONLY	11916	TNFRSF1A	7132	tumor necrosis factor receptor superfamily, member 1A
+BACKGROUNDONLY	11364	STAT3	6774	signal transducer and activator of transcription 3 (acute-phase response factor)
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	10647	CX3CL1	6376	chemokine (C-X3-C motif) ligand 1
+BACKGROUNDONLY	6190	JAK1	3716	Janus kinase 1 (a protein tyrosine kinase)

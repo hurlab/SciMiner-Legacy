@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 3
+TESTONLY	12022	TPT1	7178	tumor protein, translationally-controlled 1
+
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+
+BACKGROUNDONLY	1692	CD63	967	CD63 molecule
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 0
+#BACKGROUNDONLY: 5
+TESTONLY	22948	NLRP2	55655	NLR family, pyrin domain containing 2
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	34	ABCA4	24	ATP-binding cassette, sub-family A (ABC1), member 4
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	61	ABCD1	215	ATP-binding cassette, sub-family D (ALD), member 1
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	4323	GLO1	2739	glyoxalase I
+
+
+BACKGROUNDONLY	2961	DYNC1H1	1778	dynein, cytoplasmic 1, heavy chain 1
+BACKGROUNDONLY	7634	NAIP	4671	NLR family, apoptosis inhibitory protein
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	758	ASS1	445	argininosuccinate synthetase 1
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)

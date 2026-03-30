@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 7
+#BACKGROUNDONLY: 2
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	1516	CAT	847	catalase
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+COMMON	3062	DUOX1	53905	dual oxidase 1
+
+BACKGROUNDONLY	7218	MPO	4353	myeloperoxidase
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV

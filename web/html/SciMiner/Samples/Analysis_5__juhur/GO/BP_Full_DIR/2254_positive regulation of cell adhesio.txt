@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 3
+TESTONLY	1682	CD47	961	CD47 molecule
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	10647	CX3CL1	6376	chemokine (C-X3-C motif) ligand 1
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)

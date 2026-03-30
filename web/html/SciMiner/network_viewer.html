@@ -1,0 +1,1197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SciMiner Network Viewer</title>
+    <script src="https://unpkg.com/cytoscape@3.30.4/dist/cytoscape.min.js"></script>
+    <script src="https://unpkg.com/layout-base@2.0.1/layout-base.js"></script>
+    <script src="https://unpkg.com/cose-bilkent@4.1.0/cose-bilkent.js"></script>
+    <script src="https://unpkg.com/cytoscape-cose-bilkent@4.1.0/cytoscape-cose-bilkent.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: #f0f4f8;
+            color: #1a2332;
+            overflow: hidden;
+            height: 100vh;
+        }
+
+        /* Header */
+        #header {
+            background: linear-gradient(135deg, #0072BB, #005a94);
+            color: #fff;
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 50px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        #header h1 {
+            font-size: 18px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+        #header .subtitle {
+            font-size: 12px;
+            opacity: 0.85;
+            margin-left: 12px;
+        }
+
+        #header-right {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        #node-count {
+            font-size: 12px;
+            opacity: 0.9;
+            background: rgba(255, 255, 255, 0.15);
+            padding: 4px 10px;
+            border-radius: 12px;
+        }
+
+        /* Toolbar */
+        #toolbar {
+            background: #fff;
+            border-bottom: 1px solid #dde3ea;
+            padding: 8px 16px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            height: 44px;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+        }
+
+        .toolbar-group {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .toolbar-separator {
+            width: 1px;
+            height: 24px;
+            background: #dde3ea;
+        }
+
+        .toolbar-label {
+            font-size: 11px;
+            color: #6b7c93;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
+
+        .btn {
+            background: #f0f4f8;
+            border: 1px solid #d0d9e3;
+            color: #3a4a5c;
+            padding: 5px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .btn:hover {
+            background: #e2e8f0;
+            border-color: #b0bec5;
+        }
+
+        .btn:active {
+            background: #d2dae4;
+        }
+
+        .btn.active {
+            background: #0072BB;
+            color: #fff;
+            border-color: #0072BB;
+        }
+
+        .btn-primary {
+            background: #0072BB;
+            color: #fff;
+            border-color: #0072BB;
+        }
+
+        .btn-primary:hover {
+            background: #005a94;
+            border-color: #005a94;
+        }
+
+        select.toolbar-select {
+            background: #f0f4f8;
+            border: 1px solid #d0d9e3;
+            color: #3a4a5c;
+            padding: 5px 8px;
+            border-radius: 6px;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        /* Main layout */
+        #main-container {
+            display: flex;
+            height: calc(100vh - 94px);
+        }
+
+        /* Cytoscape container */
+        #cy-container {
+            flex: 1;
+            position: relative;
+            background: #fff;
+        }
+
+        #cy {
+            width: 100%;
+            height: 100%;
+        }
+
+        #loading-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(255, 255, 255, 0.92);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 100;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid #e2e8f0;
+            border-top: 3px solid #0072BB;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        #loading-text {
+            margin-top: 12px;
+            font-size: 14px;
+            color: #6b7c93;
+        }
+
+        #empty-state {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: #6b7c93;
+        }
+
+        #empty-state .empty-icon {
+            font-size: 48px;
+            margin-bottom: 12px;
+            opacity: 0.4;
+        }
+
+        #empty-state h3 {
+            font-size: 16px;
+            margin-bottom: 6px;
+        }
+
+        #empty-state p {
+            font-size: 13px;
+        }
+
+        /* Info panel */
+        #info-panel {
+            width: 320px;
+            background: #fff;
+            border-left: 1px solid #dde3ea;
+            overflow-y: auto;
+            padding: 16px;
+            transition: width 0.2s ease;
+        }
+
+        #info-panel.collapsed {
+            width: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        #info-panel h3 {
+            font-size: 14px;
+            font-weight: 600;
+            color: #1a2332;
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #0072BB;
+        }
+
+        .info-empty {
+            text-align: center;
+            color: #9ba8b8;
+            padding: 40px 16px;
+            font-size: 13px;
+        }
+
+        .info-empty .info-icon {
+            font-size: 32px;
+            margin-bottom: 8px;
+            opacity: 0.4;
+        }
+
+        .info-section {
+            margin-bottom: 16px;
+        }
+
+        .info-section-title {
+            font-size: 11px;
+            font-weight: 600;
+            color: #6b7c93;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 6px;
+        }
+
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 4px 0;
+            font-size: 13px;
+            border-bottom: 1px solid #f0f4f8;
+        }
+
+        .info-row .label {
+            color: #6b7c93;
+        }
+
+        .info-row .value {
+            color: #1a2332;
+            font-weight: 500;
+            text-align: right;
+            max-width: 180px;
+            word-wrap: break-word;
+        }
+
+        .gene-symbol {
+            font-size: 20px;
+            font-weight: 700;
+            color: #0072BB;
+            margin-bottom: 4px;
+        }
+
+        .gene-name {
+            font-size: 12px;
+            color: #6b7c93;
+            margin-bottom: 12px;
+            line-height: 1.4;
+        }
+
+        .external-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 8px;
+        }
+
+        .external-links a {
+            display: inline-block;
+            padding: 4px 10px;
+            background: #f0f4f8;
+            color: #0072BB;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 500;
+            border: 1px solid #d0d9e3;
+            transition: all 0.15s ease;
+        }
+
+        .external-links a:hover {
+            background: #0072BB;
+            color: #fff;
+            border-color: #0072BB;
+        }
+
+        .interaction-list {
+            max-height: 200px;
+            overflow-y: auto;
+            margin-top: 4px;
+        }
+
+        .interaction-item {
+            padding: 4px 8px;
+            font-size: 12px;
+            border-radius: 4px;
+            margin-bottom: 2px;
+            background: #f7f9fb;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .interaction-item .partner {
+            color: #0072BB;
+            font-weight: 500;
+            cursor: pointer;
+        }
+
+        .interaction-item .partner:hover {
+            text-decoration: underline;
+        }
+
+        .interaction-item .shared-count {
+            color: #6b7c93;
+            font-size: 11px;
+        }
+
+        /* Legend */
+        #legend {
+            position: absolute;
+            bottom: 16px;
+            left: 16px;
+            background: rgba(255, 255, 255, 0.95);
+            border: 1px solid #dde3ea;
+            border-radius: 8px;
+            padding: 12px 16px;
+            font-size: 11px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            z-index: 10;
+        }
+
+        #legend h4 {
+            font-size: 11px;
+            font-weight: 600;
+            color: #6b7c93;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 4px;
+            color: #3a4a5c;
+        }
+
+        .legend-circle {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            border: 2px solid;
+            flex-shrink: 0;
+        }
+
+        .legend-line {
+            width: 24px;
+            height: 2px;
+            flex-shrink: 0;
+        }
+
+        /* Toggle button */
+        #toggle-panel {
+            position: absolute;
+            right: 321px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #fff;
+            border: 1px solid #dde3ea;
+            border-right: none;
+            padding: 8px 4px;
+            cursor: pointer;
+            z-index: 10;
+            border-radius: 4px 0 0 4px;
+            font-size: 12px;
+            color: #6b7c93;
+            transition: right 0.2s ease;
+        }
+
+        #toggle-panel.shifted {
+            right: 1px;
+        }
+
+        /* Error display */
+        #error-display {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            border: 1px solid #e74c3c;
+            border-radius: 8px;
+            padding: 24px;
+            text-align: center;
+            display: none;
+            z-index: 100;
+            max-width: 400px;
+        }
+
+        #error-display h3 {
+            color: #e74c3c;
+            margin-bottom: 8px;
+        }
+
+        #error-display p {
+            color: #6b7c93;
+            font-size: 13px;
+        }
+
+        /* Search box */
+        #search-box {
+            padding: 5px 10px;
+            border: 1px solid #d0d9e3;
+            border-radius: 6px;
+            font-size: 12px;
+            width: 160px;
+            outline: none;
+            transition: border-color 0.15s ease;
+        }
+
+        #search-box:focus {
+            border-color: #0072BB;
+            box-shadow: 0 0 0 2px rgba(0, 114, 187, 0.15);
+        }
+
+        /* Edge filter slider */
+        .slider-container {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .slider-container input[type="range"] {
+            width: 80px;
+            height: 4px;
+            cursor: pointer;
+        }
+
+        .slider-value {
+            font-size: 11px;
+            color: #3a4a5c;
+            font-weight: 600;
+            min-width: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div id="header">
+        <div style="display: flex; align-items: center;">
+            <h1>SciMiner Network Viewer</h1>
+            <span class="subtitle">Gene Co-occurrence Network</span>
+        </div>
+        <div id="header-right">
+            <span id="node-count">Loading...</span>
+        </div>
+    </div>
+
+    <!-- Toolbar -->
+    <div id="toolbar">
+        <div class="toolbar-group">
+            <span class="toolbar-label">Layout</span>
+            <select id="layout-select" class="toolbar-select" title="Select network layout algorithm">
+                <option value="cose-bilkent">Force-Directed (CoSE)</option>
+                <option value="circle">Circle</option>
+                <option value="grid">Grid</option>
+                <option value="concentric">Concentric</option>
+                <option value="breadthfirst">Hierarchical</option>
+            </select>
+        </div>
+        <div class="toolbar-separator"></div>
+        <div class="toolbar-group">
+            <span class="toolbar-label">Zoom</span>
+            <button class="btn" id="btn-zoom-in" title="Zoom in">+</button>
+            <button class="btn" id="btn-zoom-out" title="Zoom out">-</button>
+            <button class="btn" id="btn-fit" title="Fit network to view">Fit</button>
+        </div>
+        <div class="toolbar-separator"></div>
+        <div class="toolbar-group">
+            <span class="toolbar-label">Filter</span>
+            <div class="slider-container">
+                <span style="font-size: 11px; color: #6b7c93;">Min shared papers:</span>
+                <input type="range" id="edge-filter" min="1" max="10" value="1" title="Minimum shared papers to show edge">
+                <span class="slider-value" id="edge-filter-value">1</span>
+            </div>
+        </div>
+        <div class="toolbar-separator"></div>
+        <div class="toolbar-group">
+            <span class="toolbar-label">Search</span>
+            <input type="text" id="search-box" placeholder="Search gene symbol..." title="Type to highlight matching genes">
+        </div>
+        <div class="toolbar-separator"></div>
+        <div class="toolbar-group">
+            <button class="btn" id="btn-export-png" title="Export network as PNG image">Export PNG</button>
+            <button class="btn" id="btn-select-all" title="Select all visible nodes">Select All</button>
+            <button class="btn" id="btn-deselect" title="Clear selection">Deselect</button>
+        </div>
+    </div>
+
+    <!-- Main container -->
+    <div id="main-container">
+        <div id="cy-container">
+            <div id="cy"></div>
+
+            <!-- Loading overlay -->
+            <div id="loading-overlay">
+                <div class="spinner"></div>
+                <div id="loading-text">Loading network data...</div>
+            </div>
+
+            <!-- Empty state -->
+            <div id="empty-state">
+                <div class="empty-icon">&#9675;</div>
+                <h3>No Network Data</h3>
+                <p>No gene data was found for this analysis.</p>
+            </div>
+
+            <!-- Error display -->
+            <div id="error-display">
+                <h3>Error Loading Network</h3>
+                <p id="error-message"></p>
+            </div>
+
+            <!-- Legend -->
+            <div id="legend" style="display: none;">
+                <h4>Legend</h4>
+                <div class="legend-item">
+                    <div class="legend-circle" style="background: #b3d9f2; border-color: #0072BB; width: 10px; height: 10px;"></div>
+                    <span>Gene (size = paper count)</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-circle" style="background: #004d80; border-color: #003a61; width: 16px; height: 16px;"></div>
+                    <span>Hub gene (>5 connections)</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-line" style="background: #b0bec5;"></div>
+                    <span>Co-occurrence (width = shared papers)</span>
+                </div>
+            </div>
+
+            <!-- Panel toggle -->
+            <div id="toggle-panel" title="Toggle info panel">&#9664;</div>
+        </div>
+
+        <!-- Info Panel -->
+        <div id="info-panel">
+            <h3>Gene Details</h3>
+            <div id="info-content">
+                <div class="info-empty">
+                    <div class="info-icon">&#128270;</div>
+                    <p>Click on a gene node to view its details, external links, and interaction partners.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    (function () {
+        "use strict";
+
+        // Register the cose-bilkent layout extension
+        if (typeof cytoscapeCoseBilkent !== "undefined") {
+            cytoscape.use(cytoscapeCoseBilkent);
+        }
+
+        // State
+        var cy = null;
+        var networkData = null;
+        var currentEdgeFilter = 1;
+
+        // Get data URL from query parameter
+        function getQueryParam(name) {
+            var params = new URLSearchParams(window.location.search);
+            return params.get(name);
+        }
+
+        // Initialize the network
+        function init() {
+            var dataURL = getQueryParam("data");
+            if (!dataURL) {
+                showError("No data URL provided. Please access this page through SciMiner results.");
+                return;
+            }
+            loadNetworkData(dataURL);
+        }
+
+        // Load network JSON data
+        function loadNetworkData(url) {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", url, true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4) {
+                    if (xhr.status === 200) {
+                        try {
+                            networkData = JSON.parse(xhr.responseText);
+                            hideLoading();
+                            if (!networkData.nodes || networkData.nodes.length === 0) {
+                                showEmpty();
+                                return;
+                            }
+                            initCytoscape(networkData);
+                        } catch (e) {
+                            showError("Failed to parse network data: " + e.message);
+                        }
+                    } else {
+                        showError("Failed to load network data (HTTP " + xhr.status + "). The data file may not exist yet.");
+                    }
+                }
+            };
+            xhr.onerror = function () {
+                showError("Network error while loading data.");
+            };
+            xhr.send();
+        }
+
+        // Initialize Cytoscape.js
+        function initCytoscape(data) {
+            var elements = buildElements(data, currentEdgeFilter);
+
+            cy = cytoscape({
+                container: document.getElementById("cy"),
+                elements: elements,
+                style: getCytoscapeStyle(),
+                layout: getLayoutOptions("cose-bilkent"),
+                minZoom: 0.1,
+                maxZoom: 5,
+                wheelSensitivity: 0.3
+            });
+
+            // Event handlers
+            cy.on("tap", "node", function (evt) {
+                var node = evt.target;
+                showNodeInfo(node);
+                highlightNeighborhood(node);
+            });
+
+            cy.on("tap", function (evt) {
+                if (evt.target === cy) {
+                    clearHighlight();
+                    showDefaultInfo();
+                }
+            });
+
+            cy.on("mouseover", "node", function (evt) {
+                evt.target.style("cursor", "pointer");
+            });
+
+            // Update stats
+            updateStats();
+            document.getElementById("legend").style.display = "block";
+
+            // Set edge filter max based on actual data
+            if (data.edges && data.edges.length > 0) {
+                var maxShared = 1;
+                for (var i = 0; i < data.edges.length; i++) {
+                    var s = data.edges[i].data.sharedPapers || 1;
+                    if (s > maxShared) { maxShared = s; }
+                }
+                var slider = document.getElementById("edge-filter");
+                slider.max = Math.min(maxShared, 50);
+            }
+        }
+
+        // Build Cytoscape elements from data
+        function buildElements(data, minShared) {
+            var elements = [];
+            var nodeIds = {};
+
+            // Calculate max paper count for sizing
+            var maxPapers = 1;
+            for (var i = 0; i < data.nodes.length; i++) {
+                var p = data.nodes[i].data.papers || 1;
+                if (p > maxPapers) { maxPapers = p; }
+            }
+
+            // Add nodes
+            for (var i = 0; i < data.nodes.length; i++) {
+                var node = data.nodes[i];
+                var papers = node.data.papers || 1;
+                var normalizedSize = 20 + (papers / maxPapers) * 40;
+                nodeIds[node.data.id] = true;
+
+                elements.push({
+                    group: "nodes",
+                    data: {
+                        id: node.data.id,
+                        label: node.data.label || node.data.id,
+                        score: node.data.score || 0,
+                        papers: papers,
+                        occur: node.data.occur || 0,
+                        name: node.data.name || "",
+                        geneId: node.data.geneId || "",
+                        pmids: node.data.pmids || "",
+                        matchString: node.data.matchString || "",
+                        nodeSize: normalizedSize,
+                        degree: 0
+                    }
+                });
+            }
+
+            // Add edges (only if both nodes exist and meet the filter)
+            if (data.edges) {
+                // Count degree for hub detection
+                var degreeCounts = {};
+                for (var i = 0; i < data.edges.length; i++) {
+                    var edge = data.edges[i];
+                    var shared = edge.data.sharedPapers || 1;
+                    if (shared >= minShared && nodeIds[edge.data.source] && nodeIds[edge.data.target]) {
+                        degreeCounts[edge.data.source] = (degreeCounts[edge.data.source] || 0) + 1;
+                        degreeCounts[edge.data.target] = (degreeCounts[edge.data.target] || 0) + 1;
+                    }
+                }
+
+                // Update node degrees
+                for (var j = 0; j < elements.length; j++) {
+                    if (elements[j].group === "nodes") {
+                        elements[j].data.degree = degreeCounts[elements[j].data.id] || 0;
+                    }
+                }
+
+                // Add edge elements
+                for (var i = 0; i < data.edges.length; i++) {
+                    var edge = data.edges[i];
+                    var shared = edge.data.sharedPapers || 1;
+                    if (shared >= minShared && nodeIds[edge.data.source] && nodeIds[edge.data.target]) {
+                        elements.push({
+                            group: "edges",
+                            data: {
+                                id: edge.data.source + "-" + edge.data.target,
+                                source: edge.data.source,
+                                target: edge.data.target,
+                                sharedPapers: shared,
+                                sharedPMIDs: edge.data.sharedPMIDs || ""
+                            }
+                        });
+                    }
+                }
+            }
+
+            return elements;
+        }
+
+        // Cytoscape visual style
+        function getCytoscapeStyle() {
+            return [
+                {
+                    selector: "node",
+                    style: {
+                        "label": "data(label)",
+                        "width": "data(nodeSize)",
+                        "height": "data(nodeSize)",
+                        "background-color": function (ele) {
+                            var degree = ele.data("degree") || 0;
+                            if (degree > 10) { return "#003a61"; }
+                            if (degree > 5) { return "#004d80"; }
+                            return "#6db6e0";
+                        },
+                        "border-color": function (ele) {
+                            var degree = ele.data("degree") || 0;
+                            if (degree > 10) { return "#002440"; }
+                            if (degree > 5) { return "#003a61"; }
+                            return "#0072BB";
+                        },
+                        "border-width": 2,
+                        "font-size": 10,
+                        "text-valign": "bottom",
+                        "text-halign": "center",
+                        "text-margin-y": 4,
+                        "color": "#1a2332",
+                        "text-outline-width": 2,
+                        "text-outline-color": "#fff",
+                        "min-zoomed-font-size": 8
+                    }
+                },
+                {
+                    selector: "node:selected",
+                    style: {
+                        "background-color": "#f39c12",
+                        "border-color": "#e67e22",
+                        "border-width": 3
+                    }
+                },
+                {
+                    selector: "node.highlighted",
+                    style: {
+                        "background-color": "#0072BB",
+                        "border-color": "#004d80",
+                        "border-width": 3
+                    }
+                },
+                {
+                    selector: "node.search-match",
+                    style: {
+                        "background-color": "#e74c3c",
+                        "border-color": "#c0392b",
+                        "border-width": 3
+                    }
+                },
+                {
+                    selector: "node.faded",
+                    style: {
+                        "opacity": 0.15
+                    }
+                },
+                {
+                    selector: "edge",
+                    style: {
+                        "width": function (ele) {
+                            var shared = ele.data("sharedPapers") || 1;
+                            return Math.min(1 + shared * 0.8, 8);
+                        },
+                        "line-color": "#c0cad6",
+                        "curve-style": "bezier",
+                        "opacity": 0.6
+                    }
+                },
+                {
+                    selector: "edge.highlighted",
+                    style: {
+                        "line-color": "#0072BB",
+                        "opacity": 1,
+                        "width": function (ele) {
+                            var shared = ele.data("sharedPapers") || 1;
+                            return Math.min(2 + shared * 1, 10);
+                        }
+                    }
+                },
+                {
+                    selector: "edge.faded",
+                    style: {
+                        "opacity": 0.05
+                    }
+                }
+            ];
+        }
+
+        // Layout options
+        function getLayoutOptions(name) {
+            var options = { name: name, animate: true, animationDuration: 600 };
+
+            if (name === "cose-bilkent") {
+                options.quality = "default";
+                options.nodeRepulsion = 6500;
+                options.idealEdgeLength = 80;
+                options.edgeElasticity = 0.45;
+                options.nestingFactor = 0.1;
+                options.gravity = 0.25;
+                options.numIter = 2500;
+                options.tile = true;
+                options.animationEasing = "ease-out-cubic";
+                options.randomize = true;
+                options.padding = 30;
+                // Performance: reduce iterations for large networks
+                if (networkData && networkData.nodes && networkData.nodes.length > 200) {
+                    options.numIter = 1500;
+                    options.quality = "draft";
+                }
+            } else if (name === "concentric") {
+                options.concentric = function (node) { return node.data("degree") || 0; };
+                options.levelWidth = function () { return 2; };
+                options.padding = 30;
+            } else if (name === "breadthfirst") {
+                options.directed = false;
+                options.padding = 30;
+                options.spacingFactor = 1.2;
+            } else if (name === "circle") {
+                options.padding = 30;
+            } else if (name === "grid") {
+                options.padding = 30;
+            }
+
+            return options;
+        }
+
+        // Show node info in panel
+        function showNodeInfo(node) {
+            var d = node.data();
+            var neighbors = node.neighborhood("node");
+            var connectedEdges = node.connectedEdges();
+
+            var html = "";
+            html += '<div class="gene-symbol">' + escapeHtml(d.label) + '</div>';
+            html += '<div class="gene-name">' + escapeHtml(d.name) + '</div>';
+
+            // Basic info
+            html += '<div class="info-section">';
+            html += '<div class="info-section-title">Gene Information</div>';
+            html += '<div class="info-row"><span class="label">HGNC ID</span><span class="value">' + escapeHtml(d.geneId) + '</span></div>';
+            html += '<div class="info-row"><span class="label">Papers</span><span class="value">' + d.papers + '</span></div>';
+            html += '<div class="info-row"><span class="label">Occurrences</span><span class="value">' + d.occur + '</span></div>';
+            html += '<div class="info-row"><span class="label">Connections</span><span class="value">' + connectedEdges.length + '</span></div>';
+            html += '</div>';
+
+            // External links
+            html += '<div class="info-section">';
+            html += '<div class="info-section-title">External Links</div>';
+            html += '<div class="external-links">';
+            html += '<a href="https://www.ncbi.nlm.nih.gov/gene/?term=' + encodeURIComponent(d.label) + '+AND+human%5BOrganism%5D" target="_blank" rel="noopener">NCBI Gene</a>';
+            html += '<a href="https://www.genenames.org/tools/search/#!/?query=' + encodeURIComponent(d.label) + '" target="_blank" rel="noopener">HGNC</a>';
+            html += '<a href="https://www.uniprot.org/uniprot/?query=' + encodeURIComponent(d.label) + '+AND+organism_id:9606" target="_blank" rel="noopener">UniProt</a>';
+            html += '<a href="https://string-db.org/cgi/network?identifier=' + encodeURIComponent(d.label) + '&species=9606" target="_blank" rel="noopener">STRING</a>';
+            if (d.geneId) {
+                html += '<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=' + encodeURIComponent(d.label) + '" target="_blank" rel="noopener">GeneCards</a>';
+            }
+            html += '</div>';
+            html += '</div>';
+
+            // Match terms
+            if (d.matchString) {
+                html += '<div class="info-section">';
+                html += '<div class="info-section-title">Matched Terms</div>';
+                html += '<div style="font-size: 12px; color: #3a4a5c; line-height: 1.5;">' + escapeHtml(d.matchString) + '</div>';
+                html += '</div>';
+            }
+
+            // Interactions
+            if (neighbors.length > 0) {
+                html += '<div class="info-section">';
+                html += '<div class="info-section-title">Co-occurrence Partners (' + neighbors.length + ')</div>';
+                html += '<div class="interaction-list">';
+
+                // Sort neighbors by shared papers
+                var neighborList = [];
+                neighbors.forEach(function (n) {
+                    var sharedPapers = 0;
+                    connectedEdges.forEach(function (e) {
+                        if (e.source().id() === n.id() || e.target().id() === n.id()) {
+                            sharedPapers = e.data("sharedPapers") || 1;
+                        }
+                    });
+                    neighborList.push({ id: n.id(), label: n.data("label"), shared: sharedPapers });
+                });
+                neighborList.sort(function (a, b) { return b.shared - a.shared; });
+
+                for (var i = 0; i < neighborList.length; i++) {
+                    var nb = neighborList[i];
+                    html += '<div class="interaction-item">';
+                    html += '<span class="partner" data-gene="' + escapeHtml(nb.id) + '">' + escapeHtml(nb.label) + '</span>';
+                    html += '<span class="shared-count">' + nb.shared + ' shared paper' + (nb.shared > 1 ? 's' : '') + '</span>';
+                    html += '</div>';
+                }
+
+                html += '</div>';
+                html += '</div>';
+            }
+
+            // PMIDs
+            if (d.pmids) {
+                var pmidList = d.pmids.split(",").filter(function (p) { return p.trim() !== ""; });
+                if (pmidList.length > 0) {
+                    html += '<div class="info-section">';
+                    html += '<div class="info-section-title">PubMed IDs (' + pmidList.length + ')</div>';
+                    html += '<div style="font-size: 11px; line-height: 1.8;">';
+                    for (var i = 0; i < Math.min(pmidList.length, 20); i++) {
+                        var pmid = pmidList[i].trim();
+                        html += '<a href="https://pubmed.ncbi.nlm.nih.gov/' + pmid + '/" target="_blank" rel="noopener" style="color: #0072BB; margin-right: 6px;">' + pmid + '</a>';
+                    }
+                    if (pmidList.length > 20) {
+                        html += '<span style="color: #6b7c93;">... and ' + (pmidList.length - 20) + ' more</span>';
+                    }
+                    html += '</div>';
+                    html += '</div>';
+                }
+            }
+
+            document.getElementById("info-content").innerHTML = html;
+
+            // Bind click on partner names
+            var partners = document.querySelectorAll(".partner[data-gene]");
+            for (var i = 0; i < partners.length; i++) {
+                partners[i].addEventListener("click", function () {
+                    var geneId = this.getAttribute("data-gene");
+                    var targetNode = cy.getElementById(geneId);
+                    if (targetNode.length > 0) {
+                        cy.animate({ center: { eles: targetNode }, zoom: cy.zoom() }, { duration: 300 });
+                        showNodeInfo(targetNode);
+                        highlightNeighborhood(targetNode);
+                    }
+                });
+            }
+        }
+
+        // Show default info content
+        function showDefaultInfo() {
+            document.getElementById("info-content").innerHTML =
+                '<div class="info-empty">' +
+                '<div class="info-icon">&#128270;</div>' +
+                '<p>Click on a gene node to view its details, external links, and interaction partners.</p>' +
+                '</div>';
+        }
+
+        // Highlight a node and its neighborhood
+        function highlightNeighborhood(node) {
+            cy.elements().removeClass("highlighted faded");
+            var neighborhood = node.closedNeighborhood();
+            cy.elements().not(neighborhood).addClass("faded");
+            neighborhood.edges().addClass("highlighted");
+            node.addClass("highlighted");
+        }
+
+        // Clear all highlights
+        function clearHighlight() {
+            if (cy) {
+                cy.elements().removeClass("highlighted faded search-match");
+            }
+        }
+
+        // Update stats display
+        function updateStats() {
+            if (!cy) { return; }
+            var nodeCount = cy.nodes().length;
+            var edgeCount = cy.edges().length;
+            document.getElementById("node-count").textContent =
+                nodeCount + " genes | " + edgeCount + " connections";
+        }
+
+        // UI helpers
+        function showError(msg) {
+            hideLoading();
+            document.getElementById("error-display").style.display = "block";
+            document.getElementById("error-message").textContent = msg;
+        }
+
+        function showEmpty() {
+            document.getElementById("empty-state").style.display = "flex";
+        }
+
+        function hideLoading() {
+            document.getElementById("loading-overlay").style.display = "none";
+        }
+
+        function escapeHtml(text) {
+            if (!text) { return ""; }
+            var div = document.createElement("div");
+            div.appendChild(document.createTextNode(String(text)));
+            return div.innerHTML;
+        }
+
+        // Toolbar event handlers
+        document.getElementById("layout-select").addEventListener("change", function () {
+            if (!cy) { return; }
+            var layoutName = this.value;
+            var layout = cy.layout(getLayoutOptions(layoutName));
+            layout.run();
+        });
+
+        document.getElementById("btn-zoom-in").addEventListener("click", function () {
+            if (cy) { cy.zoom({ level: cy.zoom() * 1.3, renderedPosition: { x: cy.width() / 2, y: cy.height() / 2 } }); }
+        });
+
+        document.getElementById("btn-zoom-out").addEventListener("click", function () {
+            if (cy) { cy.zoom({ level: cy.zoom() / 1.3, renderedPosition: { x: cy.width() / 2, y: cy.height() / 2 } }); }
+        });
+
+        document.getElementById("btn-fit").addEventListener("click", function () {
+            if (cy) { cy.fit(undefined, 30); }
+        });
+
+        document.getElementById("btn-export-png").addEventListener("click", function () {
+            if (!cy) { return; }
+            var png = cy.png({ full: true, scale: 2, bg: "#ffffff" });
+            var link = document.createElement("a");
+            link.download = "sciminer_network.png";
+            link.href = png;
+            link.click();
+        });
+
+        document.getElementById("btn-select-all").addEventListener("click", function () {
+            if (cy) { cy.nodes().select(); }
+        });
+
+        document.getElementById("btn-deselect").addEventListener("click", function () {
+            if (cy) {
+                cy.elements().unselect();
+                clearHighlight();
+                showDefaultInfo();
+            }
+        });
+
+        // Edge filter
+        document.getElementById("edge-filter").addEventListener("input", function () {
+            var val = parseInt(this.value, 10);
+            document.getElementById("edge-filter-value").textContent = val;
+            currentEdgeFilter = val;
+            if (cy && networkData) {
+                var elements = buildElements(networkData, val);
+                cy.elements().remove();
+                cy.add(elements);
+                var layout = cy.layout(getLayoutOptions(document.getElementById("layout-select").value));
+                layout.run();
+                updateStats();
+            }
+        });
+
+        // Search
+        var searchTimeout = null;
+        document.getElementById("search-box").addEventListener("input", function () {
+            var query = this.value.trim().toUpperCase();
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(function () {
+                if (!cy) { return; }
+                clearHighlight();
+                if (query.length === 0) { return; }
+
+                var matched = cy.nodes().filter(function (node) {
+                    var label = (node.data("label") || "").toUpperCase();
+                    var name = (node.data("name") || "").toUpperCase();
+                    return label.indexOf(query) !== -1 || name.indexOf(query) !== -1;
+                });
+
+                if (matched.length > 0) {
+                    cy.elements().addClass("faded");
+                    matched.removeClass("faded").addClass("search-match");
+                    matched.connectedEdges().removeClass("faded");
+                    matched.neighborhood("node").removeClass("faded");
+                    if (matched.length === 1) {
+                        cy.animate({ center: { eles: matched }, zoom: Math.max(cy.zoom(), 1.5) }, { duration: 300 });
+                    } else {
+                        cy.fit(matched, 50);
+                    }
+                }
+            }, 250);
+        });
+
+        // Toggle info panel
+        document.getElementById("toggle-panel").addEventListener("click", function () {
+            var panel = document.getElementById("info-panel");
+            var btn = document.getElementById("toggle-panel");
+            panel.classList.toggle("collapsed");
+            btn.classList.toggle("shifted");
+            btn.innerHTML = panel.classList.contains("collapsed") ? "&#9654;" : "&#9664;";
+            // Resize cytoscape after panel toggle
+            setTimeout(function () {
+                if (cy) { cy.resize(); }
+            }, 250);
+        });
+
+        // Start
+        init();
+    })();
+    </script>
+</body>
+</html>

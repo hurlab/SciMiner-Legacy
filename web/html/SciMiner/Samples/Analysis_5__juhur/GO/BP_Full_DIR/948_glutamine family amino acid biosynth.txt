@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 2
+
+COMMON	4341	GLUL	2752	glutamate-ammonia ligase (glutamine synthetase)
+
+BACKGROUNDONLY	758	ASS1	445	argininosuccinate synthetase 1
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase

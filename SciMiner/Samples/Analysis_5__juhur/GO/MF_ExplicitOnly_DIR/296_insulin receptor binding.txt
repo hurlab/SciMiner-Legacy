@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	10840	SHC1	6464	SHC (Src homology 2 domain containing) transforming protein 1
+
+COMMON	6081	INS	3630	insulin
+
+BACKGROUNDONLY	6193	JAK3	3718	Janus kinase 3 (a protein tyrosine kinase, leukocyte)

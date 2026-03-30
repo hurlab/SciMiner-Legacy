@@ -1,0 +1,27 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 9
+#BACKGROUNDONLY: 8
+TESTONLY	7097	MIF	4282	macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	1682	CD47	961	CD47 molecule
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	5962	IL10	3586	interleukin 10
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	6008	IL2RA	3559	interleukin 2 receptor, alpha
+BACKGROUNDONLY	19157	IL27	246778	interleukin 27
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	1705	CD86	942	CD86 molecule
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

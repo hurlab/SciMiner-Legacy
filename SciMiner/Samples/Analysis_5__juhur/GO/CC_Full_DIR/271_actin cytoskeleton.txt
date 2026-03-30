@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 5
+#BACKGROUNDONLY: 6
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+COMMON	3768	FMN1	342184	formin 1
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	23212	MYH14	79784	myosin, heavy chain 14
+COMMON	6207	JUP	3728	junction plakoglobin
+
+BACKGROUNDONLY	6110	IQGAP1	8826	IQ motif containing GTPase activating protein 1
+BACKGROUNDONLY	10599	SCNN1A	6337	sodium channel, nonvoltage-gated 1 alpha
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)
+BACKGROUNDONLY	7576	MYH6	4624	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)
+BACKGROUNDONLY	29823	MYL6B	140465	myosin, light chain 6B, alkali, smooth muscle and non-muscle
+BACKGROUNDONLY	352	AIF1	199	allograft inflammatory factor 1

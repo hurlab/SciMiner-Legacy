@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 3
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+COMMON	841	ATP5G1	516	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)
+COMMON	1516	CAT	847	catalase
+
+BACKGROUNDONLY	1508	CASP7	840	caspase 7, apoptosis-related cysteine peptidase
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide

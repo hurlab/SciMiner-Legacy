@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 2
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+
+BACKGROUNDONLY	2095	CLU	1191	clusterin
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

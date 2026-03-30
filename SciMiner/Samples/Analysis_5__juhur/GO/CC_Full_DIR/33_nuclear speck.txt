@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	10780	SFRS1	6426	splicing factor, arginine/serine-rich 1 (splicing factor 2, alternate splicing factor)
+TESTONLY	17348	PRPF3	9129	PRP3 pre-mRNA processing factor 3 homolog (S. cerevisiae)
+TESTONLY	16860	SART3	9733	squamous cell carcinoma antigen recognized by T cells 3
+
+

@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 8
+
+COMMON	11609	TBXAS1	6916	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)
+
+BACKGROUNDONLY	4893	HGF	3082	hepatocyte growth factor (hepapoietin A; scatter factor)
+BACKGROUNDONLY	3544	F7	2155	coagulation factor VII (serum prothrombin conversion accelerator)
+BACKGROUNDONLY	3530	F12	2161	coagulation factor XII (Hageman factor)
+BACKGROUNDONLY	6156	ITGB3	3690	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)

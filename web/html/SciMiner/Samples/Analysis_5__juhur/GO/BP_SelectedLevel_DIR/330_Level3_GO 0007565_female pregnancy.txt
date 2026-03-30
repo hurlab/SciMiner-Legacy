@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 5
+#BACKGROUNDONLY: 5
+
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	3763	FLT1	2321	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	241	ADCYAP1	116	adenylate cyclase activating polypeptide 1 (pituitary)
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	4886	HFE	3077	hemochromatosis

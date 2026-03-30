@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 0
+
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+

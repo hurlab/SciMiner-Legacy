@@ -1,0 +1,22 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 3
+#BACKGROUNDONLY: 11
+TESTONLY	8784	PDE5A	8654	phosphodiesterase 5A, cGMP-specific
+TESTONLY	1848	CEL	1056	carboxyl ester lipase (bile salt-stimulated lipase)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+
+BACKGROUNDONLY	2641	CYP46A1	10858	cytochrome P450, family 46, subfamily A, polypeptide 1
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	21683	NAPEPLD	222236	N-acyl phosphatidylethanolamine phospholipase D
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	6619	LIPC	3990	lipase, hepatic
+BACKGROUNDONLY	610	APOC3	345	apolipoprotein C-III
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	4281	GJA8	2703	gap junction protein, alpha 8, 50kDa
+BACKGROUNDONLY	9035	PLA2G4A	5321	phospholipase A2, group IVA (cytosolic, calcium-dependent)

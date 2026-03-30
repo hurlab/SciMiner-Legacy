@@ -1,0 +1,20 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 5
+#BACKGROUNDONLY: 5
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	5014	HMOX2	3163	heme oxygenase (decycling) 2
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	8548	P4HB	5034	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide
+
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	8104	OCLN	4950	occludin
+BACKGROUNDONLY	8546	P4HA1	5033	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I
+BACKGROUNDONLY	2595	CYP1A1	1543	cytochrome P450, family 1, subfamily A, polypeptide 1
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide

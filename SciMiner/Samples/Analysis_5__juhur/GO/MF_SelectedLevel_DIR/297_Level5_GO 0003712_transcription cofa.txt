@@ -1,0 +1,27 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 6
+#BACKGROUNDONLY: 9
+TESTONLY	9567	PSMD9	5715	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	7983	NR5A1	2516	nuclear receptor subfamily 5, group A, member 1
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+
+COMMON	4851	HTT	3064	huntingtin
+COMMON	11742	TFAP2A	7020	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	2345	CREB1	1385	cAMP responsive element binding protein 1
+COMMON	6782	MAFK	7975	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+COMMON	4646	GTF2A1	2957	general transcription factor IIA, 1, 19/37kDa
+
+BACKGROUNDONLY	2187	COL11A2	1302	collagen, type XI, alpha 2
+BACKGROUNDONLY	15860	PRPF6	24148	PRP6 pre-mRNA processing factor 6 homolog (S. cerevisiae)
+BACKGROUNDONLY	30646	SND1	27044	staphylococcal nuclease and tudor domain containing 1
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	10477	RXRA	6256	retinoid X receptor, alpha
+BACKGROUNDONLY	14065	HDAC9	9734	histone deacetylase 9
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)

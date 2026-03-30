@@ -1,0 +1,72 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 9
+#COMMON: 24
+#BACKGROUNDONLY: 33
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	3711	FKBP1A	2280	FK506 binding protein 1A, 12kDa
+TESTONLY	21354	TICAM2	353376	toll-like receptor adaptor molecule 2
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	10840	SHC1	6464	SHC (Src homology 2 domain containing) transforming protein 1
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	3763	FLT1	2321	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	5247	HSPB2	3316	heat shock 27kDa protein 2
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	1499	CASP1	834	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+COMMON	11919	CD40	958	CD40 molecule, TNF receptor superfamily member 5
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	1509	CASP8	841	caspase 8, apoptosis-related cysteine peptidase
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	3573	FADD	8772	Fas (TNFRSF6)-associated via death domain
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	3146	ECE1	1889	endothelin converting enzyme 1
+BACKGROUNDONLY	6110	IQGAP1	8826	IQ motif containing GTPase activating protein 1
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	12030	TRADD	8717	TNFRSF1A-associated via death domain
+BACKGROUNDONLY	4574	GRIA4	2893	glutamate receptor, ionotrophic, AMPA 4
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	13209	ARHGEF5	7984	Rho guanine nucleotide exchange factor (GEF) 5
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	26780	DAND5	199699	DAN domain family, member 5
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)
+BACKGROUNDONLY	1984	CISH	1154	cytokine inducible SH2-containing protein
+BACKGROUNDONLY	1876	CFLAR	8837	CASP8 and FADD-like apoptosis regulator
+BACKGROUNDONLY	4502	GPR44	11251	G protein-coupled receptor 44
+BACKGROUNDONLY	19391	SOCS3	9021	suppressor of cytokine signaling 3
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	4573	GRIA3	2892	glutamate receptor, ionotrophic, AMPA 3
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	11916	TNFRSF1A	7132	tumor necrosis factor receptor superfamily, member 1A
+BACKGROUNDONLY	11905	TNFRSF10B	8795	tumor necrosis factor receptor superfamily, member 10b
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	5294	HTR2B	3357	5-hydroxytryptamine (serotonin) receptor 2B

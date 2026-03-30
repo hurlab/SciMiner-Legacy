@@ -1,0 +1,35 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 13
+#COMMON: 11
+#BACKGROUNDONLY: 5
+TESTONLY	7377	MSRA	4482	methionine sulfoxide reductase A
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+TESTONLY	2874	NQO1	1728	NAD(P)H dehydrogenase, quinone 1
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	4624	GSS	2937	glutathione synthetase
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+TESTONLY	7715	NDUFS8	4728	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+TESTONLY	9353	PRDX2	7001	peroxiredoxin 2
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	9352	PRDX1	5052	peroxiredoxin 1
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	1516	CAT	847	catalase
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+COMMON	3062	DUOX1	53905	dual oxidase 1
+
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	7218	MPO	4353	myeloperoxidase
+BACKGROUNDONLY	2095	CLU	1191	clusterin
+BACKGROUNDONLY	9604	PTGS1	5742	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)
+BACKGROUNDONLY	9449	PRNP	5621	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)

@@ -1,0 +1,30 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 8
+#BACKGROUNDONLY: 9
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+TESTONLY	8808	PDHB	5162	pyruvate dehydrogenase (lipoamide) beta
+TESTONLY	18985	DCXR	51181	dicarbonyl/L-xylulose reductase
+TESTONLY	8806	PDHA1	5160	pyruvate dehydrogenase (lipoamide) alpha 1
+TESTONLY	4057	G6PD	2539	glucose-6-phosphate dehydrogenase
+TESTONLY	380	AKR1A1	10327	aldo-keto reductase family 1, member A1 (aldehyde reductase)
+TESTONLY	4455	GPD1	2819	glycerol-3-phosphate dehydrogenase 1 (soluble)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	6081	INS	3630	insulin
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	2244	COQ7	10229	coenzyme Q7 homolog, ubiquinone (yeast)
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	4552	GPT	2875	glutamic-pyruvate transaminase (alanine aminotransferase)
+BACKGROUNDONLY	6541	LDHB	3945	lactate dehydrogenase B
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)

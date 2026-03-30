@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 0
+
+COMMON	8024	NTF4	4909	neurotrophin 4
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+

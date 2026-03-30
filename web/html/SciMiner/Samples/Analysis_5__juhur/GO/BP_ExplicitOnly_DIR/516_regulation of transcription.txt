@@ -1,0 +1,34 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 15
+#BACKGROUNDONLY: 9
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+
+COMMON	6780	MAFF	23764	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	23177	KEAP1	9817	kelch-like ECH-associated protein 1
+COMMON	14078	BACH2	60468	BTB and CNC homology 1, basic leucine zipper transcription factor 2
+COMMON	6204	JUN	3725	jun oncogene
+COMMON	7794	NFKB1	4790	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	3796	FOS	2353	v-fos FBJ murine osteosarcoma viral oncogene homolog
+COMMON	1317	C2orf3	6936	chromosome 2 open reading frame 3
+COMMON	7782	NFE2L2	4780	nuclear factor (erythroid-derived 2)-like 2
+COMMON	2345	CREB1	1385	cAMP responsive element binding protein 1
+COMMON	6776	MAF	4094	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+COMMON	6206	JUND	3727	jun D proto-oncogene
+COMMON	6782	MAFK	7975	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+
+BACKGROUNDONLY	14121	POLR3K	51728	polymerase (RNA) III (DNA directed) polypeptide K, 12.3 kDa
+BACKGROUNDONLY	11556	TAL1	6886	T-cell acute lymphocytic leukemia 1
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	7775	NFATC1	4772	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+BACKGROUNDONLY	4910	HIF1A	3091	hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1

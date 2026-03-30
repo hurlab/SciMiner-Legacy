@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	2264	COX17	10063	COX17 cytochrome c oxidase assembly homolog (S. cerevisiae)
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+
+COMMON	4851	HTT	3064	huntingtin
+
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)

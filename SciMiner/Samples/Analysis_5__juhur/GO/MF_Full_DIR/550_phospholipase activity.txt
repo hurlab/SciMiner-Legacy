@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 4
+#BACKGROUNDONLY: 4
+TESTONLY	4250	GGT1	2678	gamma-glutamyltransferase 1
+TESTONLY	11121	SMPD2	6610	sphingomyelin phosphodiesterase 2, neutral membrane (neutral sphingomyelinase)
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	9065	PLCG1	5335	phospholipase C, gamma 1
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	15917	PLCB1	23236	phospholipase C, beta 1 (phosphoinositide-specific)
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+
+BACKGROUNDONLY	6677	LPL	4023	lipoprotein lipase
+BACKGROUNDONLY	4459	GPLD1	2822	glycosylphosphatidylinositol specific phospholipase D1
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	9035	PLA2G4A	5321	phospholipase A2, group IVA (cytosolic, calcium-dependent)

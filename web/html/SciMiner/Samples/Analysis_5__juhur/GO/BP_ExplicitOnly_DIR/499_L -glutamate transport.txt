@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 4
+#BACKGROUNDONLY: 0
+
+COMMON	10940	SLC1A2	6506	solute carrier family 1 (glial high affinity glutamate transporter), member 2
+COMMON	10939	SLC1A1	6505	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1
+COMMON	10941	SLC1A3	6507	solute carrier family 1 (glial high affinity glutamate transporter), member 3
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+

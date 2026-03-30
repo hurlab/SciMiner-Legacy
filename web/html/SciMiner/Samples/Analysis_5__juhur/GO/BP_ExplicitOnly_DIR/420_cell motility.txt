@@ -1,0 +1,33 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 11
+#BACKGROUNDONLY: 13
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	12435	TXN	7295	thioredoxin
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	132	ACTB	60	actin, beta
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	4502	GPR44	11251	G protein-coupled receptor 44
+BACKGROUNDONLY	10637	CXCL10	3627	chemokine (C-X-C motif) ligand 10
+BACKGROUNDONLY	5246	HSPB1	3315	heat shock 27kDa protein 1
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	5973	IL13	3596	interleukin 13
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	9718	PXN	5829	paxillin
+BACKGROUNDONLY	11364	STAT3	6774	signal transducer and activator of transcription 3 (acute-phase response factor)
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	10630	CCL4	6351	chemokine (C-C motif) ligand 4
+BACKGROUNDONLY	16462	STRBP	55342	spermatid perinuclear RNA binding protein
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa

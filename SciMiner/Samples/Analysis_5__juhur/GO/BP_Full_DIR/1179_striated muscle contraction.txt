@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 1
+#BACKGROUNDONLY: 3
+TESTONLY	10780	SFRS1	6426	splicing factor, arginine/serine-rich 1 (splicing factor 2, alternate splicing factor)
+TESTONLY	6843	MAP2K3	5606	mitogen-activated protein kinase kinase 3
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+
+BACKGROUNDONLY	7576	MYH6	4624	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)
+BACKGROUNDONLY	2536	CTSK	1513	cathepsin K
+BACKGROUNDONLY	800	ATP1A2	477	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide

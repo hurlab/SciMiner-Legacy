@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 2
+TESTONLY	12950	SF1	7536	splicing factor 1
+
+COMMON	3768	FMN1	342184	formin 1
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)

@@ -1,0 +1,677 @@
+HGNC ID	Approved Symbol	Approved Name	Locus Type
+109	ACHM1	achromatopsia (rod monochromacy) 1	phenotype only
+114	ACLS	acrocallosal syndrome	phenotype only
+185	AD5	Alzheimer disease 5	phenotype only
+247	ADFN	albinism-deafness syndrome	phenotype only
+309	AF8T	AF8 temperature sensitivity complementing	phenotype only
+310	AFA	ankyloblepharon filiforme adnatum	phenotype only
+312	AFD1	acrofacial dysostosis 1, Nager type	phenotype only
+323	AGMX2	agammaglobulinemia, X-linked 2 (with growth hormone deficiency)	phenotype only
+31917	AGS2	Aicardi-Goutieres syndrome 2	phenotype only
+350	AIC	Aicardi syndrome	phenotype only
+351	AIED	Aland island eye disease (Forsius-Eriksson ocular albinism, ocular albinism type 2)	phenotype only
+355	AIH3	amelogenesis imperfecta 3, hypomaturation or hypoplastic type	phenotype only
+16304	AIS1	autoimmune susceptibility 1	phenotype only
+23054	AIS2	autoimmune susceptibility 2	phenotype only
+23083	AIS3	autoimmune susceptibility 3 (vitiligo specific)	phenotype only
+444	ALS3	amyotrophic lateral sclerosis 3 (autosomal dominant)	phenotype only
+446	ALS5	amyotrophic lateral sclerosis 5	phenotype only
+455	AMCD2B	arthrogryposis multiplex congenita, distal, type 2B	phenotype only
+456	AMCN	arthrogryposis multiplex congenita, neurogenic	phenotype only
+459	AMDM	acromesomelic dysplasia, Maroteaux type	phenotype only
+33355	ANE1	acute necrotizing encephalopathy 1 (autosomal dominant)	phenotype only
+17627	ANIB1	aneurysm, intracranial berry 1	phenotype only
+31941	ANIB2	aneurysm, intracranial berry 2	phenotype only
+31942	ANIB3	aneurysm, intracranial berry 3	phenotype only
+31943	ANIB4	aneurysm, intracranial berry 4	phenotype only
+498	ANOP1	anophthalmos 1 (with mental retardation, without limb anomalies or dental or urogenital abnormalities)	phenotype only
+551	AOM	arthroophthalmopathy, progressive (Stickler syndrome)	phenotype only
+729	ARVD1	arrhythmogenic right ventricular dysplasia 1	phenotype only
+731	ARVD3	arrhythmogenic right ventricular dysplasia 3	phenotype only
+732	ARVD4	arrhythmogenic right ventricular dysplasia 4	phenotype only
+733	ARVD5	arrhythmogenic right ventricular dysplasia 5	phenotype only
+741	ASD1	atrial septal defect 1	phenotype only
+749	ASMD	anterior segment mesenchymal dysgenesis	phenotype only
+780	ATD	asphixiating thoracic dystrophy (chondroectodermal dysplasia-like syndrome)	phenotype only
+793	ATHS	atherosclerosis susceptibility (lipoprotein associated)	phenotype only
+23205	AUNA1	auditory neuropathy, autosomal dominant 1	phenotype only
+31916	AUNX1	auditory neuropathy, X-linked recessive 1	phenotype only
+892	AUTS1	autism susceptibility 1	phenotype only
+12721	AVSD1	atrioventricular septal defect 1	phenotype only
+906	AXPC1	ataxia, posterior column 1, with retinitis pigmentosa	phenotype only
+1031	BDM	behavior disorder modifier	phenotype only
+1032	BDMR	brachydactyly-mental retardation syndrome	phenotype only
+1039	BFLS	Borjeson-Forssman-Lehmann syndrome	phenotype only
+18617	BRCA3	breast cancer 3	phenotype only
+1147	BTS1	bladder tumor susceptibility 1	phenotype only
+1227	C1HR	C1AGOH temperature sensitivity complementing	phenotype only
+1387	CACD	central areolar choroidal dystrophy	phenotype only
+20683	CANDN1	candidiasis, nail 1 (with ICAM1 deficiency)	phenotype only
+1559	CCA1	cataract, congenital, cerulean type, 1	phenotype only
+1561	CCAL1	chondrocalcinosis 1 (calcium pyrophosphate-deposition disease, early onset osteoarthritis)	phenotype only
+1614	CCT	cataract, congenital, total	phenotype only
+1624	CCV	cataract, congenital, Volkmann type	phenotype only
+1714	CDAN2	congenital dyserythropoietic anemia, type II	phenotype only
+1715	CDAN3	congenital dyserythropoietic anemia, type III	phenotype only
+1716	CDB2	corneal dystrophy of Bowman layer type II (Thiel-Behnke)	phenotype only
+1792	CDL1	Cornelia de Lange syndrome 1	phenotype only
+1793	CDL2	Cornelia de Lange syndrome 2	phenotype only
+15704	CDPD1	corneal dystrophy and perceptive deafness 1	phenotype only
+19378	CELIAC2	celiac disease 2	phenotype only
+19376	CELIAC3	celiac disease 3	phenotype only
+1860	CEPA	congenital episodic primary apnea	phenotype only
+1881	CFM1	cystic fibrosis modifier 1	phenotype only
+1882	CFM2	cystic fibrosis modifier 2	phenotype only
+1887	CGF1	cognitive function 1, social	phenotype only
+1923	CHED1	corneal endothelial dystrophy 1 (autosomal dominant)	phenotype only
+1978	CIDX	combined immunodeficiency, X-linked	phenotype only
+1979	CILD2	ciliary dyskinesia, primary 2	phenotype only
+1992	CKBE	creatine kinase, ectopic expression	phenotype only
+2004	CLA3	cerebellar ataxia 3 (cerebellar parenchyma disorder 1)	phenotype only
+20394	CLAM	cerebellar atrophy with progressive microcephaly	phenotype only
+2075	CLN4	ceroid-lipofuscinosis, neuronal 4 (Kufs disease)	phenotype only
+32782	CLN9	ceroid-lipofuscinosis, neuronal 9	phenotype only
+2089	CLS	Coffin-Lowry syndrome	phenotype only
+2102	CMD1B	cardiomyopathy, dilated 1B (autosomal dominant)	phenotype only
+2103	CMD1C	cardiomyopathy, dilated 1C (autosomal dominant)	phenotype only
+2104	CMD1D	cardiomyopathy, dilated 1D (autosomal dominant)	phenotype only
+2106	CMD1F	cardiomyopathy, dilated 1F (autosomal dominant)	phenotype only
+2108	CMD1H	cardiomyopathy, dilated 1H (autosomal dominant)	phenotype only
+14541	CMD1K	cardiomyopathy, dilated 1K (autosomal dominant)	phenotype only
+32552	CMD1Q	cardiomyopathy, dilated 1Q (autosomal dominant)	phenotype only
+2110	CMD2A	cardiomyopathy, dilated 2A (autosomal recessive)	phenotype only
+2112	CMDJ	craniometaphyseal dysplasia, Jackson type (dominant)	phenotype only
+2114	CMH2	cardiomyopathy, hypertrophic 2	phenotype only
+2115	CMH3	cardiomyopathy, hypertrophic 3	phenotype only
+2124	CMM	cutaneous malignant melanoma/dysplastic nevus	phenotype only
+2126	CMR1A	cardiomyopathy, restrictive 1A (autosomal dominant)	phenotype only
+2127	CMR2A	cardiomyopathy, restrictive 2A (autosomal recessive)	phenotype only
+2128	CMR3A	cardiomyopathy, restrictive 3A (X-linked)	phenotype only
+2129	CMT1A	Charcot-Marie-Tooth neuropathy 1A (greatly reduced nerve conduction velocity, hereditary motor sensory neuropathy Ia)	phenotype only
+2132	CMT2B	Charcot-Marie-Tooth neuropathy 2B	phenotype only
+2133	CMT4A	Charcot-Marie-Tooth neuropathy 4A	phenotype only
+2137	CMTX2	Charcot-Marie-Tooth neuropathy, X-linked 2 (recessive)	phenotype only
+2138	CMTX3	Charcot-Marie-Tooth neuropathy, X-linked 3 (dominant)	phenotype only
+2139	CNA1	cornea plana 1 (autosomal dominant)	phenotype only
+2141	CNC	Carney complex, multiple neoplasia and lentiginosis	phenotype only
+2182	COD2	cone dystrophy 2 (X-linked)	phenotype only
+2245	CORD1	cone rod dystrophy 1 (autosomal dominant)	phenotype only
+2247	CORD4	cone rod dystrophy 4	phenotype only
+2251	CORD8	cone rod dystrophy 8	phenotype only
+15969	CORD9	cone rod dystrophy 9	phenotype only
+20888	CORS2	cerebello-oculo-renal syndrome 2	phenotype only
+30998	CPAT1	cerebral palsy, ataxic 1	phenotype only
+2331	CPX	cleft palate and/or ankyloglossia	phenotype only
+20574	CRAC1	colorectal adenoma and carcinoma 1	phenotype only
+2354	CRG	CHARGE association	phenotype only
+2369	CRS	craniosynostosis	phenotype only
+2430	CSE	choreoathetosis/spasticity, episodic (paroxysmal choreoathetosis/spasticity)	phenotype only
+2489	CTAA1	cataract, anterior polar 1	phenotype only
+2490	CTAA2	cataract, anterior polar 2	phenotype only
+2497	CTD	Coats disease	phenotype only
+2502	CTHM	cono-truncal heart malformation	phenotype only
+30997	CTPL1	cataract, pulverulent (autosomal recessive, early-onset)	phenotype only
+2526	CTS1	carpal tunnel syndrome 1	phenotype only
+2560	CXB3S	coxsackie virus B3 sensitivity	phenotype only
+2587	CYMD	cystoid macular dystrophy	phenotype only
+2733	DDU	dermo-distortive urticaria	phenotype only
+2775	DFN2	deafness, X-linked 2, perceptive, congenital	phenotype only
+2777	DFN4	deafness, X-linked 4, congenital sensorineural	phenotype only
+2778	DFN5	deafness, X-linked 5	phenotype only
+2779	DFN6	deafness, X-linked 6, sensorineural	phenotype only
+2781	DFN8	deafness, X-linked 8	phenotype only
+2812	DFNA7	deafness, autosomal dominant 7	phenotype only
+2789	DFNA16	deafness, autosomal dominant 16	phenotype only
+13268	DFNA18	deafness, autosomal dominant 18	phenotype only
+2791	DFNA19	deafness, autosomal dominant 19	phenotype only
+2794	DFNA21	deafness, autosomal dominant 21	phenotype only
+2795	DFNA23	deafness, autosomal dominant 23	phenotype only
+2796	DFNA24	deafness, autosomal dominant 24	phenotype only
+13270	DFNA25	deafness, autosomal dominant 25	phenotype only
+2798	DFNA27	deafness, autosomal dominant 27	phenotype only
+2800	DFNA29	deafness, autosomal dominant 29	phenotype only
+2802	DFNA30	deafness, autosomal dominant 30	phenotype only
+2803	DFNA31	deafness, autosomal dominant 31	phenotype only
+2804	DFNA32	deafness, autosomal dominant 32	phenotype only
+2805	DFNA33	deafness, autosomal dominant 33	phenotype only
+2806	DFNA34	deafness, autosomal dominant 34	phenotype only
+2807	DFNA35	deafness, autosomal dominant 35	phenotype only
+18545	DFNA37	deafness, autosomal dominant 37	phenotype only
+14070	DFNA40	deafness, autosomal dominant 40	phenotype only
+15575	DFNA41	deafness, autosomal dominant 41	phenotype only
+20791	DFNA42	deafness, autosomal dominant 42	phenotype only
+17243	DFNA43	deafness, autosomal dominant 43	phenotype only
+18691	DFNA45	deafness, autosomal dominant 45	phenotype only
+18692	DFNA46	deafness, autosomal dominant 46	phenotype only
+18693	DFNA47	deafness, autosomal dominant 47	phenotype only
+18820	DFNA49	deafness, autosomal dominant 49	phenotype only
+18819	DFNA50	deafness, autosomal dominant 50	phenotype only
+19984	DFNA51	deafness, autosomal dominant 51	phenotype only
+15821	DFNA52	deafness, autosomal dominant 52	phenotype only
+21402	DFNA53	deafness, autosomal dominant 53	phenotype only
+23566	DFNA54	deafness, autosomal dominant 54	phenotype only
+33491	DFNA57	deafness, autosomal dominant 57	phenotype only
+34029	DFNA58	deafness, autosomal dominant 58	phenotype only
+2837	DFNB5	deafness, autosomal recessive 5	phenotype only
+2819	DFNB13	deafness, autosomal recessive 13	phenotype only
+2820	DFNB14	deafness, autosomal recessive 14	phenotype only
+2821	DFNB15	deafness, autosomal recessive 15	phenotype only
+2823	DFNB17	deafness, autosomal recessive 17	phenotype only
+2825	DFNB19	deafness, autosomal recessive 19	phenotype only
+2827	DFNB20	deafness, autosomal recessive 20	phenotype only
+2831	DFNB25	deafness, autosomal recessive 25	phenotype only
+2832	DFNB26	deafness, autosomal recessive 26	phenotype only
+2833	DFNB27	deafness, autosomal recessive 27	phenotype only
+16360	DFNB32	deafness, autosomal recessive 32	phenotype only
+16359	DFNB33	deafness, autosomal recessive 33	phenotype only
+17143	DFNB34	deafness, autosomal recessive 34	phenotype only
+19210	DFNB38	deafness, autosomal recessive 38	phenotype only
+19211	DFNB39	deafness, autosomal recessive 39	phenotype only
+20408	DFNB40	deafness, autosomal recessive 40	phenotype only
+20181	DFNB42	deafness, autosomal recessive 42	phenotype only
+17480	DFNB43	deafness, autosomal recessive 43	phenotype only
+23223	DFNB44	deafness, autosomal recessive 44	phenotype only
+22400	DFNB45	deafness, autosomal recessive 45	phenotype only
+31085	DFNB46	deafness, autosomal recessive 46	phenotype only
+31086	DFNB47	deafness, autosomal recessive 47	phenotype only
+31348	DFNB48	deafness, autosomal recessive 48	phenotype only
+31380	DFNB50	deafness, autosomal recessive 50	phenotype only
+24367	DFNB51	deafness, autosomal recessive 51	phenotype only
+28876	DFNB55	deafness, autosomal recessive 55	phenotype only
+31877	DFNB56	deafness, autosomal recessive 56	phenotype only
+26774	DFNB57	deafness, autosomal recessive 57	phenotype only
+18252	DFNB58	deafness, autosomal recessive 58	phenotype only
+18300	DFNB60	deafness, autosomal recessive 60	phenotype only
+29439	DFNB62	deafness, autosomal recessive 62	phenotype only
+20963	DFNB63	deafness, autosomal recessive 63	phenotype only
+28113	DFNB65	deafness, autosomal recessive 65	phenotype only
+32193	DFNB66	deafness, autosomal recessive 66	phenotype only
+21322	DFNB68	deafness, autosomal recessive 68	phenotype only
+33121	DFNB69	deafness, autosomal recessive 69	phenotype only
+33103	DFNB70	deafness, autosomal recessive 70	phenotype only
+33239	DFNB72	deafness, autosomal recessive 72	phenotype only
+33486	DFNB73	deafness, autosomal recessive 73	phenotype only
+33490	DFNB74	deafness, autosomal recessive 74	phenotype only
+33503	DFNB75	deafness, autosomal recessive 75	phenotype only
+31965	DFNB77	deafness, autosomal recessive 77	phenotype only
+2842	DFNM1	deafness (recessive, nonsyndromic) modifier 1	phenotype only
+31866	DFNM2	deafness (mitochondrial) modifier 2	phenotype only
+26547	DFNY1	deafness, Y-linked 1	phenotype only
+2868	DHOF	dermal hypoplasia, focal	phenotype only
+2875	DIANPH	diabetic nephropathy	phenotype only
+2881	DIH1	diaphragmatic hernia 1	phenotype only
+2923	DM1	dystrophia myotonica 1 (includes dystrophia myotonia protein kinase)	phenotype only
+3063	DURS1	Duane retraction syndrome 1	phenotype only
+13274	DURS2	Duane retraction syndrome 2	phenotype only
+3088	DWS	dandy-walker syndrome	phenotype only
+3102	DYT2	dystonia 2, torsion (autosomal recessive)	phenotype only
+3103	DYT3	dystonia 3 (with Parkinsonism)	phenotype only
+3104	DYT4	dystonia 4, torsion (autosomal dominant)	phenotype only
+3106	DYT6	dystonia 6, torsion (autosomal dominant)	phenotype only
+3107	DYT7	dystonia 7, torsion (autosomal dominant)	phenotype only
+3101	DYT13	dystonia 13, torsion	phenotype only
+31376	DYT15	dystonia 15, myoclonic	phenotype only
+3108	DYX1	dyslexia susceptibility 1	phenotype only
+3109	DYX2	dyslexia susceptibility 2	phenotype only
+3110	DYX3	dyslexia susceptibility 3	phenotype only
+3111	DYX4	dyslexia susceptibility 4	phenotype only
+18343	DYX5	dyslexia susceptibility 5	phenotype only
+19352	DYX6	dyslexia susceptibility 6	phenotype only
+19324	DYX7	dyslexia susceptibility 7	phenotype only
+19951	DYX8	dyslexia susceptibility 8	phenotype only
+16755	DYX9	dyslexia susceptibility 9	phenotype only
+3112	E11S	ECHO virus (serotypes 4, 6, 11, 19) sensitivity	phenotype only
+3130	EBM	epidermolysis bullosa, macular type	phenotype only
+3136	EBR3	epidermolysis bullosa 3, progressiva	phenotype only
+3137	EBR4	epidermolysis bullosa 4, pseudojunctional (intraepidermal)	phenotype only
+3144	ECA1	epilepsy, childhood absence 1	phenotype only
+3186	EEC1	ectrodactyly, ectodermal dysplasia and cleft lip/palate syndrome 1	phenotype only
+3187	EEC2	ectrodactyly, ectodermal dysplasia and cleft lip/palate syndrome 2	phenotype only
+3215	EEGV1	electro-encephalographic variant pattern 1	phenotype only
+3220	EFMR	epilepsy, female restricted, with mental retardation (Juberg-Hellman syndrome)	phenotype only
+3237	EGI	epilepsy, generalized, idiopathic	phenotype only
+3305	EJM1	epilepsy, juvenile myoclonic 1	phenotype only
+3306	EJM2	epilepsy, juvenile myoclonic 2	phenotype only
+3307	EKV	erythrokeratodermia variabilis	phenotype only
+24106	EKV3	erythrokeratodermia variabilis 3 (Kamouraska type)	phenotype only
+3339	EMWX	episodic muscle weakness, X-linked	phenotype only
+3440	ERCM1	excision repair complementing defective repair in mouse cells	phenotype only
+3486	ETM1	essential tremor 1	phenotype only
+32785	EVR3	exudative vitreoretinopathy 3	phenotype only
+3514	EXT3	exostoses (multiple) 3	phenotype only
+3523	EYCL1	eye color 1 (green/blue)	phenotype only
+3627	FCP1	F-cell production 1	phenotype only
+3643	FEB1	febrile convulsions 1	phenotype only
+3644	FEB2	febrile convulsions 2	phenotype only
+3646	FEB4	febrile convulsions 4	phenotype only
+33477	FEB5	febrile convulsions 5	phenotype only
+33478	FEB6	febrile convulsions 6	phenotype only
+33479	FEB7	febrile convulsions 7	phenotype only
+3654	FEOM3	fibrosis of extraocular muscles, congenital, 3	phenotype only
+3698	FGS1	FG syndrome 1	phenotype only
+3699	FGS2	FG syndrome 2	phenotype only
+15596	FGS3	FG syndrome 3	phenotype only
+3777	FMR3	fragile X mental retardation associated 3	phenotype only
+3779	FND	frontonasal dysplasia	phenotype only
+3952	FRDA2	Friedreich ataxia 2	phenotype only
+3962	FSGS1	focal segmental glomerulosclerosis 1	phenotype only
+3963	FSGS2	focal segmental glomerulosclerosis 2	phenotype only
+3966	FSHMD1A	facioscapulohumeral muscular dystrophy 1A	phenotype only
+3967	FSHMD1B	facioscapulohumeral muscular dystrophy 1B	phenotype only
+4011	FUSE	polykaryocytosis promoter	phenotype only
+33452	GBD2	gallbladder disease 2	phenotype only
+33453	GBD3	gallbladder disease 3	phenotype only
+4211	GCY	growth control, Y chromosome influenced	phenotype only
+14252	GINGF2	gingival fibromatosis, hereditary, 2	phenotype only
+4302	GLC1B	glaucoma 1, open angle, B (adult-onset)	phenotype only
+4303	GLC1C	glaucoma 1, open angle, C	phenotype only
+4304	GLC1D	glaucoma 1, open angle, D (adult-onset)	phenotype only
+4306	GLC1F	glaucoma 1, open angle, F (adult-onset)	phenotype only
+23256	GLC1H	glaucoma 1, open angle, H (adult-onset)	phenotype only
+31912	GLC1I	glaucoma 1, open angle, I	phenotype only
+26986	GLC1J	glaucoma 1, open angle, J (juvenile-onset)	phenotype only
+21341	GLC1K	glaucoma 1, open angle, K (juvenile-onset)	phenotype only
+33120	GLC1L	glaucoma 1, open angle, L (adult-onset)	phenotype only
+33162	GLC1M	glaucoma 1, open angle, M (juvenile-onset)	phenotype only
+33163	GLC1N	glaucoma 1, open angle, N (juvenile-onset)	phenotype only
+4307	GLC2A	glaucoma 2, angle closure	phenotype only
+4309	GLC3B	glaucoma 3, primary infantile, B	phenotype only
+30028	GLC3C	glaucoma 3, primary congenital, C	phenotype only
+4363	GLYB	glycine B complementing	phenotype only
+4365	GLYS1	glycosuria 1, renal	phenotype only
+4457	GPDS1	glaucoma-related pigment dispersion syndrome 1	phenotype only
+4619	GSM1	geniospasm 1	phenotype only
+4671	GTS	Gilles de la Tourette syndrome	phenotype only
+18573	HCHOLA4	hypercholesterolemia, autosomal dominant 4	phenotype only
+4841	HCL1	hair color 1 (brown)	phenotype only
+4842	HCL2	hair color 2 (red)	phenotype only
+4843	HCL3	hair color 3 (brown)	phenotype only
+4850	HCVS	human coronavirus sensitivity	phenotype only
+30996	HDLCQ1	high density lipoprotein cholesterol level QTL 1	phenotype only
+4902	HHG	hypergonadotropic hypogonadism	phenotype only
+4919	HIVE1	human immunodeficiency virus type 1 (HIV-1) expression (elevated) 1	phenotype only
+5011	HMI	hypomelanosis of Ito	phenotype only
+5020	HNB1	hereditary neuroblastoma 1	phenotype only
+5049	HOAC	hypoacusis 2 (autosomal recessive)	phenotype only
+5143	HPC1	hereditary prostate cancer 1	phenotype only
+5146	HPCX	hereditary prostate cancer, X-linked	phenotype only
+5149	HPE1	holoprosencephaly 1, alobar	phenotype only
+5153	HPFH2	hereditary persistence of fetal hemoglobin, heterocellular, Indian type	phenotype only
+23824	HPLH1	hemophagocytic lymphohistiocytosis 1	phenotype only
+5165	HPT	hypoparathyroidism	phenotype only
+5179	HRD	hypoparathyroidism, growth and mental retardation, and dysmorphism	phenotype only
+5190	HRPT1	hyperparathyroidism 1	phenotype only
+5277	HTC1	hypertrichosis 1 (universalis, congenital)	phenotype only
+5278	HTC2	hypertrichosis 2 (generalized, congenital)	phenotype only
+5280	HTL	high L-leucine transport	phenotype only
+5306	HTX2	heterotaxy 2 (autosomal dominant)	phenotype only
+5310	HV1S	herpes simplex virus type 1 sensitivity	phenotype only
+13822	HYD2	hypodontia, autosomal recessive (2)	phenotype only
+13863	IBD3	inflammatory bowel disease 3	phenotype only
+5334	IBD5	inflammatory bowel disease 5	phenotype only
+5335	IBD6	inflammatory bowel disease 6	phenotype only
+14242	IBD7	inflammatory bowel disease 7	phenotype only
+20235	IBD8	inflammatory bowel disease 8	phenotype only
+20236	IBD9	inflammatory bowel disease 9	phenotype only
+5336	IBGC1	idiopathic basal ganglia calcification 1	phenotype only
+5338	IBM3	inclusion body myopathy 3, autosomal dominant	phenotype only
+5349	ICCA	infantile convulsions and paroxysmal choreoathetosis	phenotype only
+5352	ICR1	ichthyosis congenita I, erythromatous lamellar ichthyosis, ichthyosiform erythroderma	phenotype only
+5353	ICR2B	ichthyosis congenita II, lamellar ichthyosis B	phenotype only
+5354	ICR3	ichthyosis congenita III, vulgaris-like recessive ichthyosis	phenotype only
+5355	ICR4	ichthyosis congenita IV, ichthyosis-prematurity syndrome	phenotype only
+5356	ICR5	ichthyosis congenita V, Sjogren-Larsson-like	phenotype only
+5357	ICS1	immotile cilia syndrome 1	phenotype only
+5373	IDDM2	insulin-dependent diabetes mellitus 2	phenotype only
+5374	IDDM3	insulin-dependent diabetes mellitus 3	phenotype only
+5375	IDDM4	insulin-dependent diabetes mellitus 4	phenotype only
+5376	IDDM5	insulin-dependent diabetes mellitus 5	phenotype only
+5377	IDDM6	insulin-dependent diabetes mellitus 6	phenotype only
+5378	IDDM7	insulin-dependent diabetes mellitus 7	phenotype only
+5379	IDDM8	insulin-dependent diabetes mellitus 8	phenotype only
+5380	IDDM9	insulin-dependent diabetes mellitus 9	phenotype only
+5364	IDDM10	insulin-dependent diabetes mellitus 10	phenotype only
+5365	IDDM11	insulin-dependent diabetes mellitus 11	phenotype only
+5366	IDDM12	insulin-dependent diabetes mellitus 12	phenotype only
+5367	IDDM13	insulin-dependent diabetes mellitus 13	phenotype only
+5368	IDDM14	insulin-dependent diabetes mellitus 14	phenotype only
+5369	IDDM15	insulin-dependent diabetes mellitus 15	phenotype only
+5370	IDDM16	insulin-dependent diabetes mellitus 16	phenotype only
+5371	IDDM17	insulin-dependent diabetes mellitus 17	phenotype only
+5372	IDDM18	insulin-dependent diabetes mellitus 18	phenotype only
+5459	IGAD1	immunoglobulin A (IgA) deficiency susceptibility 1	phenotype only
+5463	IGES	immunoglobulin E concentration, serum	phenotype only
+5954	IHG1	iris hypoplasia with glaucoma 1	phenotype only
+6103	IOSCA	infantile onset spinocerebellar ataxia (autosomal recessive)	phenotype only
+6185	IV	inversus situs, viscerum	phenotype only
+6194	JBS	Jacobsen syndrome	phenotype only
+21089	JBTS1	Joubert syndrome 1	phenotype only
+6197	JMS	Juberg-Marsidi syndrome	phenotype only
+6198	JPD	juvenile periodontitis	phenotype only
+6209	K12T	K12 temperature sensitivity complementing	phenotype only
+6213	KAL3	Kallmann syndrome 3 (autosomal dominant)	phenotype only
+6303	KCS	Kenny-Caffey syndrome	phenotype only
+6311	KFM	Klippel-Feil malformation	phenotype only
+6313	KFSD	keratosis follicularis spinulosa decalvans	phenotype only
+6382	KMS	Kabuki mental retardation syndrome	phenotype only
+6384	KNO	Knobloch syndrome	phenotype only
+6466	KSS	Kearns-Sayre syndrome	phenotype only
+6468	KWE	keratolytic winter erythema (Oudtshoorn skin disease)	phenotype only
+6479	LAKLG	lymphokine-activated killer cell ligand	phenotype only
+6520	LCA3	Leber congenital amaurosis 3	phenotype only
+19105	LCA9	Leber congenital amaurosis 9	phenotype only
+15737	LCS1	lymphedema-cholestasis syndrome 1	phenotype only
+6576	LGMD1D	limb girdle muscular dystrophy 1D (autosomal dominant)	phenotype only
+33443	LGMD1F	limb girdle muscular dystrophy 1F (autosomal dominant)	phenotype only
+32230	LGMD1G	limb girdle muscular dystrophy 1G (autosomal dominant)	phenotype only
+33439	LGMD2L	limb girdle muscular dystrophy 2L (autosomal recessive)	phenotype only
+6591	LHON	Leber optic neuropathy	phenotype only
+6615	LIMM	lethal infantile mitochonrial myopathy	phenotype only
+6661	LOH1CR1	loss of heterozygosity, 1, chromosomal region 1	phenotype only
+6704	LRS1	Larsen syndrome 1 (autosomal dominant)	phenotype only
+6755	MAA	microphthalmia or anophthalmia and associated anomalies	phenotype only
+33244	MACOM	macrophthalmia, colobomatous, with microcornea	phenotype only
+6926	MBS1	Moebius syndrome 1	phenotype only
+6927	MBS2	Moebius syndrome 2	phenotype only
+6928	MBS3	Moebius syndrome 3	phenotype only
+6939	MCDR1	macular dystrophy, retinal, 1 (North Carolina type)	phenotype only
+18438	MCDR2	macular dystrophy, retinal 2	phenotype only
+20206	MCDR3	macular dystrophy, retinal 3	phenotype only
+32303	MCDR4	macular dystrophy, retinal, 4 (North Carolina type with progressive sensorineural hearing loss)	phenotype only
+6941	MCKD1	medullary cystic kidney disease 1 (autosomal dominant)	phenotype only
+6942	MCKD2	medullary cystic kidney disease 2 (autosomal dominant)	phenotype only
+6952	MCO	microphthalmia (Los Angeles type)	phenotype only
+6955	MCPH2	microcephaly, primary autosomal recessive 2	phenotype only
+6956	MCPH3	microcephaly, primary autosomal recessive 3	phenotype only
+6957	MCPH4	microcephaly, primary autosomal recessive 4	phenotype only
+15665	MCPHA	microcephaly, Amish	phenotype only
+6961	MCS	Miles-Carpenter X-linked mental retardation syndrome	phenotype only
+6978	MDRV	muscular dystrophy, with rimmed vacuoles	phenotype only
+6987	MEAX	myopathy with excessive autophagy	phenotype only
+6988	MEB	muscle-eye-brain disease	phenotype only
+6999	MEHMO	mental retardation, epileptic seizures, hypogonadism and -genitalism, microcephaly and obesity syndrome	phenotype only
+7008	MELAS	mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	phenotype only
+7031	MF4	metacarpal 4-5 fusion	phenotype only
+7052	MGC1	megalocornea 1 (X-linked)	phenotype only
+7065	MHAC	microhydranencephaly	phenotype only
+7071	MHS2	malignant hyperthermia susceptibility 2	phenotype only
+7073	MHS4	malignant hyperthermia susceptibility 4	phenotype only
+7075	MHS6	malignant hyperthermia susceptibility 6	phenotype only
+7122	MKS2	Meckel syndrome, type 2	phenotype only
+7145	MLS	microphthalamia with linear skin defects	phenotype only
+19144	MMVP1	myxomatous mitral valve prolapse 1	phenotype only
+19145	MMVP2	myxomatous mitral valve prolapse 2	phenotype only
+32384	MPD2	myopathy, distal 2	phenotype only
+7209	MPE	malignant proliferation, eosinophil	phenotype only
+7210	MPFD	myopathy with fiber type disproportion	phenotype only
+14595	MROS	Melkersson-Rosenthal syndrome	phenotype only
+7236	MRSD	mental retardation-skeletal dysplasia	phenotype only
+33243	MRT4	mental retardation, non-syndromic, autosomal recessive, 4	phenotype only
+7238	MRX1	mental retardation, X-linked 1 (non-dysmorphic)	phenotype only
+7249	MRX2	mental retardation, X-linked 2 (non-dysmorphic)	phenotype only
+7260	MRX3	mental retardation, X-linked 3	phenotype only
+7271	MRX4	mental retardation, X-linked 4	phenotype only
+7282	MRX5	mental retardation, X-linked 5	phenotype only
+7293	MRX6	mental retardation, X-linked 6 (Okinawa type)	phenotype only
+7304	MRX7	mental retardation, X-linked 7	phenotype only
+7311	MRX8	mental retardation, X-linked 8	phenotype only
+7239	MRX10	mental retardation, X-linked 10	phenotype only
+7240	MRX11	mental retardation, X-linked 11	phenotype only
+7241	MRX12	mental retardation, X-linked 12	phenotype only
+7242	MRX13	mental retardation, X-linked 13	phenotype only
+7243	MRX14	mental retardation, X-linked 14	phenotype only
+7244	MRX15	mental retardation, X-linked 15	phenotype only
+7246	MRX17	mental retardation, X-linked 17	phenotype only
+7247	MRX18	mental retardation, X-linked 18	phenotype only
+7250	MRX20	mental retardation, X-linked 20	phenotype only
+7253	MRX23	mental retardation, X-linked 23	phenotype only
+7254	MRX24	mental retardation, X-linked 24	phenotype only
+7255	MRX25	mental retardation, X-linked 25	phenotype only
+7256	MRX26	mental retardation, X-linked 26	phenotype only
+7257	MRX27	mental retardation, X-linked 27	phenotype only
+7258	MRX28	mental retardation, X-linked 28	phenotype only
+7262	MRX31	mental retardation, X-linked 31	phenotype only
+7266	MRX35	mental retardation, X-linked 35	phenotype only
+7268	MRX37	mental retardation, X-linked 37	phenotype only
+7270	MRX39	mental retardation, X-linked 39	phenotype only
+7272	MRX40	mental retardation, X-linked 40	phenotype only
+7274	MRX42	mental retardation, X-linked 42	phenotype only
+7281	MRX49	mental retardation, X-linked 49	phenotype only
+7283	MRX50	mental retardation, X-linked 50	phenotype only
+7284	MRX51	mental retardation, X-linked 51	phenotype only
+7285	MRX52	mental retardation, X-linked 52	phenotype only
+7286	MRX53	mental retardation, X-linked 53	phenotype only
+7289	MRX56	mental retardation, X-linked 56	phenotype only
+7290	MRX57	mental retardation, X-linked 57	phenotype only
+7295	MRX61	mental retardation, X-linked 61	phenotype only
+7296	MRX62	mental retardation, X-linked 62	phenotype only
+7298	MRX64	mental retardation, X-linked 64	phenotype only
+7299	MRX65	mental retardation, X-linked 65	phenotype only
+7300	MRX66	mental retardation, X-linked 66	phenotype only
+7301	MRX67	mental retardation, X-linked 67	phenotype only
+7303	MRX69	mental retardation, X-linked 69	phenotype only
+7305	MRX70	mental retardation, X-linked 70	phenotype only
+13367	MRX71	mental retardation, X-linked 71	phenotype only
+7306	MRX72	mental retardation, X-linked 72	phenotype only
+7307	MRX73	mental retardation, X-linked 73	phenotype only
+7308	MRX74	mental retardation, X-linked 74	phenotype only
+7309	MRX75	mental retardation, X-linked 75	phenotype only
+15824	MRX77	mental retardation, X-linked 77	phenotype only
+17942	MRX78	mental retardation, X-linked 78	phenotype only
+18872	MRX80	mental retardation, X-linked 80	phenotype only
+19301	MRX81	mental retardation, X-linked 81	phenotype only
+21626	MRX82	mental retardation, X-linked 82	phenotype only
+25170	MRX85	mental retardation, X-linked 85	phenotype only
+25212	MRX86	mental retardation, X-linked 86	phenotype only
+8911	MRXS5	mental retardation, X-linked, syndromic 5	phenotype only
+7313	MRXS7	mental retardation, X-linked, syndromic 7	phenotype only
+18223	MRXS10	mental retardation, X-linked, syndromic 10	phenotype only
+13865	MRXS11	mental retardation, X-linked, syndromic 11	phenotype only
+7314	MS	multiple sclerosis	phenotype only
+7322	MSD	microcephaly with spastic diplegia (Paine syndrome)	phenotype only
+7379	MSSE	multiple self-healing squamous epithelioma	phenotype only
+16401	MYMY1	moyamoya disease 1	phenotype only
+21058	MYMY2	moyamoya disease 2	phenotype only
+20769	MYMY3	moyamoya disease 3	phenotype only
+7615	MYP1	myopia 1 (X-linked, Bornholm eye disease included)	phenotype only
+7616	MYP2	myopia 2 (high grade, autosomal dominant)	phenotype only
+7617	MYP3	myopia 3 (high grade, autosomal dominant)	phenotype only
+24906	MYP11	myopia 11 (high grade, autosomal dominant)	phenotype only
+32551	MYP12	myopia 12 (high grade, autosomal dominant)	phenotype only
+32582	MYP13	myopia 13	phenotype only
+7625	NA	neurocanthocytosis	phenotype only
+7635	NAMSD	neuropathy, axonal, motor-sensory with deafness and mental retardation (Cowchock syndrome)	phenotype only
+7822	NIDDM1	non-insulin-dependent diabetes mellitus (common, type 2) 1	phenotype only
+7823	NIDDM2	non-insulin-dependent diabetes mellitus (common, type 2) 2	phenotype only
+7832	NKS1	natural killer cell susceptibility 1	phenotype only
+7841	NM	neutrophil migration	phenotype only
+7862	NNO1	nanophthalmos 1	phenotype only
+7903	NPHL1	nephrolithiasis 1 (X-linked)	phenotype only
+8019	NSX	N syndrome (mental retardation, malformations, chromosome breakage)	phenotype only
+8080	NYS2	nystagmus 2, congenital autosomal dominant	phenotype only
+8081	NYS3	nystagmus 3, congenital autosomal dominant	phenotype only
+19188	NYS4	nystagmus 4, congenital autosomal dominant	phenotype only
+8084	OA3	ocular albinism 3 (autosomal recessive)	phenotype only
+8085	OAP	osteoarthrosis, precocious	phenotype only
+8102	OCD1	obsessive-compulsive disorder 1	phenotype only
+8118	OED	Oregon eye disease	phenotype only
+8121	OFC2	orofacial cleft 2	phenotype only
+32786	OPA4	optic atrophy 4 (autosomal dominant)	phenotype only
+32787	OPA5	optic atrophy 5 (autosomal dominant)	phenotype only
+33170	OPA6	optic atrophy 6 (autosomal recessive)	phenotype only
+33505	OPA7	optic atrophy 7 (autosomal dominant)	phenotype only
+8519	OTSC1	otosclerosis 1	phenotype only
+8520	OTSC2	otosclerosis 2	phenotype only
+17831	OTSC3	otosclerosis 3	phenotype only
+19981	OTSC4	otosclerosis 4	phenotype only
+20238	OTSC5	otosclerosis 5	phenotype only
+20375	OTSC6	otosclerosis 6	phenotype only
+31084	OTSC7	otosclerosis 7	phenotype only
+32939	OTSC8	otosclerosis 8	phenotype only
+8531	P1	P one antigen (P blood group)	phenotype only
+8566	PABX	pseudoautosomal boundary region, X-linked	phenotype only
+8567	PABY	pseudoautosomal boundary region, Y-linked	phenotype only
+8608	PARK3	Parkinson disease (autosomal dominant, Lewy body) 3	phenotype only
+13794	PARK4	Parkinson disease (autosomal dominant, Lewy body) 4	phenotype only
+17833	PARK10	Parkinson disease 10	phenotype only
+17963	PARK11	Parkinson disease (autosomal recessive, early onset) 11	phenotype only
+8625	PBCRA1	progressive bifocal chorioretinal atrophy 1	phenotype only
+8645	PCAP	predisposing for prostate cancer	phenotype only
+8726	PCLD	polycystic liver disease	phenotype only
+8741	PCOS1	polycystic ovary syndrome 1	phenotype only
+8758	PDB2	Paget disease of bone 2	phenotype only
+17951	PDB5	Paget disease of bone 5	phenotype only
+17952	PDB6	Paget disease of bone 6	phenotype only
+8825	PEE1	preeclampsia/eclampsia 1	phenotype only
+20094	PFM3	parietal foramina 3	phenotype only
+8901	PGL2	paraganglioma or familial glomus tumors 2	phenotype only
+8969	PIH	pregnancy-induced hypertension (pre-eclampsia, eclampsia, toxemia of pregnancy included)	phenotype only
+9013	PKD3	polycystic kidney disease 3 (autosomal dominant)	phenotype only
+9120	PMPS	Pearson marrow pancreas syndrome	phenotype only
+9209	PORC	porphyria, acute; Chester type	phenotype only
+23702	PPCD3	posterior polymorphous corneal dystrophy 3	phenotype only
+15733	PPH2	primary pulmonary hypertension 2	phenotype only
+9345	PRD	primary retinal dysplasia	phenotype only
+9450	PRO1	progeria 1 (Hutchinson-Gilford type)	phenotype only
+9471	PRS	Prieto X-linked mental retardation syndrome	phenotype only
+9494	PRTH	pituitary resistance to thyroid hormone	phenotype only
+9573	PSORS1	psoriasis susceptibility 1	phenotype only
+9574	PSORS2	psoriasis susceptibility 2	phenotype only
+9575	PSORS3	psoriasis susceptibility 3	phenotype only
+17275	PSORS4	psoriasis susceptibility 4	phenotype only
+17953	PSORS5	psoriasis susceptibility 5	phenotype only
+33483	PSORS6	psoriasis susceptibility 6	phenotype only
+14207	PSORS7	psoriasis susceptibility 7	phenotype only
+17322	PSORS8	psoriasis susceptibility 8	phenotype only
+31013	PSORS9	psoriasis susceptibility 9	phenotype only
+31919	PSORS10	psoriasis susceptibility 10	phenotype only
+9622	PTLAH	patella aplasia-hypoplasia	phenotype only
+9631	PTOS1	ptosis, congenital 1 (autosomal dominant)	phenotype only
+9929	RCA1	renal carcinoma, familial, associated 1	phenotype only
+9930	RCD1	retinal cone dystrophy 1	phenotype only
+9961	RENS2	Renpenning syndrome 2 (Renpenning-like syndrome)	phenotype only
+10015	RIEG2	Rieger syndrome 2	phenotype only
+10030	RMD1	rippling muscle disease 1	phenotype only
+10286	RP6	retinitis pigmentosa 6 (X-linked recessive)	phenotype only
+13434	RP21	retinitis pigmentosa 21	phenotype only
+10276	RP22	retinitis pigmentosa 22 (autosomal recessive)	phenotype only
+10277	RP23	retinitis pigmentosa 23 (X-linked recessive)	phenotype only
+10278	RP24	retinitis pigmentosa 24 (X-linked recessive)	phenotype only
+10279	RP25	retinitis pigmentosa 25 (autosomal recessive)	phenotype only
+10281	RP28	retinitis pigmentosa 28 (autosomal recessive)	phenotype only
+10282	RP29	retinitis pigmentosa 29 (autosomal recessive)	phenotype only
+21902	RP32	retinitis pigmentosa 32 (autosomal recessive)	phenotype only
+32383	RP33	retinitis pigmentosa 33 (autosomal dominant)	phenotype only
+33161	RP34	retinitis pigmentosa 34 (X-linked recessive)	phenotype only
+10462	RSS	Russell Silver syndrome	phenotype only
+10523	SAI1	suppression of anchorage independence 1	phenotype only
+16474	SAX1	spastic ataxia 1 (autosomal dominant)	phenotype only
+13440	SCA9	spinocerebellar ataxia 9	phenotype only
+17033	SCA19	spinocerebellar ataxia 19	phenotype only
+17204	SCA20	spinocerebellar ataxia 20	phenotype only
+17172	SCA21	spinocerebellar ataxia 21	phenotype only
+17320	SCA22	spinocerebellar ataxia 22	phenotype only
+19051	SCA23	spinocerebellar ataxia 23	phenotype only
+20684	SCA25	spinocerebellar ataxia 25	phenotype only
+31097	SCA26	spinocerebellar ataxia 26	phenotype only
+27255	SCA28	spinocerebellar ataxia 28	phenotype only
+33444	SCA29	spinocerebellar ataxia 29	phenotype only
+2002	SCAR2	spinocerebellar ataxia, autosomal recessive 2	phenotype only
+32976	SCAR3	spinocerebellar ataxia, autosomal recessive 3	phenotype only
+32977	SCAR5	spinocerebellar ataxia, autosomal recessive 5	phenotype only
+32978	SCAR7	spinocerebellar ataxia, autosomal recessive 7	phenotype only
+19186	SCASI	spinocerebellar ataxia with saccadic intrusions	phenotype only
+2003	SCAX1	spinocerebellar ataxia, X-linked 1	phenotype only
+32973	SCAX2	spinocerebellar ataxia, X-linked 2	phenotype only
+32974	SCAX3	spinocerebellar ataxia, X-linked 3	phenotype only
+32975	SCAX4	spinocerebellar ataxia, X-linked 4	phenotype only
+14431	SCCD	Schnyder crystalline corneal dystrophy	phenotype only
+20805	SCKL2	Seckel syndrome 2	phenotype only
+20806	SCKL3	Seckel syndrome 3	phenotype only
+10649	SCZD1	schizophrenia disorder 1	phenotype only
+10650	SCZD2	schizophrenia disorder 2	phenotype only
+10651	SCZD3	schizophrenia disorder 3	phenotype only
+10652	SCZD4	schizophrenia disorder 4	phenotype only
+10653	SCZD5	schizophrenia disorder 5	phenotype only
+10654	SCZD6	schizophrenia disorder 6	phenotype only
+10655	SCZD7	schizophrenia disorder 7	phenotype only
+10656	SCZD8	schizophrenia disorder 8	phenotype only
+17338	SCZD9	schizophrenia disorder 9	phenotype only
+17339	SCZD10	schizophrenia disorder 10 (periodic catatonia)	phenotype only
+10692	SDU	skeletal dysplasia (unspecified)	phenotype only
+10745	SEN2	senescence (cellular)-related 2	phenotype only
+10746	SEN3	senescence (cellular)-related 3	phenotype only
+10747	SEN6	senescence (cellular)-related 6	phenotype only
+10748	SEN6A	senescence (cellular)-related 6A	phenotype only
+10749	SEN6B	senescence (cellular)-related 6B	phenotype only
+10815	SGM1	segmentation syndrome 1	phenotype only
+11080	SLEB1	systemic lupus erythematosus susceptibility 1	phenotype only
+11081	SLEB2	systemic lupus erythematosus susceptibility 2	phenotype only
+14535	SLEB3	systemic lupus erythematosus susceptibility 3	phenotype only
+17420	SLEH1	systemic lupus erythematosus with hemolytic anemia 1	phenotype only
+18542	SLEN1	systemic lupus erythematosus with nephritis 1	phenotype only
+18543	SLEN2	systemic lupus erythematosus with nephritis 2	phenotype only
+18176	SLEV1	systemic lupus erythematosus, vitiligo-related 1	phenotype only
+20975	SMAN1	survival of motor and autonomic neurons 1	phenotype only
+23701	SNAX1	sensory ataxia 1 (autosomal dominant)	phenotype only
+11232	SPG3B	spastic paraplegia 3B	phenotype only
+11234	SPG5A	spastic paraplegia 5A (autosomal recessive)	phenotype only
+11235	SPG5B	spastic paraplegia 5B (autosomal recessive)	phenotype only
+11239	SPG9	spastic paraplegia 9 (autosomal dominant)	phenotype only
+11227	SPG12	spastic paraplegia 12 (autosomal dominant)	phenotype only
+13730	SPG14	spastic paraplegia 14 (autosomal recessive)	phenotype only
+11229	SPG15	spastic paraplegia 15 (complicated, autosomal recessive)	phenotype only
+14260	SPG16	spastic paraplegia 16 (complicated, X-linked recessive)	phenotype only
+18009	SPG18	spastic paraplegia 18 (autosomal dominant)	phenotype only
+16706	SPG19	spastic paraplegia 19 (autosomal dominant)	phenotype only
+21340	SPG23	spastic paraplegia 23 (autosomal recessive)	phenotype only
+22993	SPG24	spastic paraplegia 24 (autosomal recessive)	phenotype only
+25855	SPG25	spastic paraplegia 25 (autosomal recessive, with disc herniation)	phenotype only
+22494	SPG26	spastic paraplegia 26	phenotype only
+26071	SPG27	spastic paraplegia 27 (autosomal recessive)	phenotype only
+13682	SPG28	spastic paraplegia 28 (autosomal recessive)	phenotype only
+30161	SPG29	spastic paraplegia 29 (autosomal dominant)	phenotype only
+30017	SPG30	spastic paraplegia 30 (autosomal recessive)	phenotype only
+32314	SPG32	spastic paraplegia 32 (autosomal recessive)	phenotype only
+32944	SPG34	spastic paraplegia 34 (autosomal dominant)	phenotype only
+32945	SPG35	spastic paraplegia 35 (autosomal recessive)	phenotype only
+33240	SPG36	spastic paraplegia 36 (autosomal dominant)	phenotype only
+33472	SPG37	spastic paraplegia 37 (autosomal dominant)	phenotype only
+33485	SPG38	spastic paraplegia 38 (autosomal dominant, Silver syndrome)	phenotype only
+11310	SRS	Snyder-Robinson X-linked mental retardation syndrome	phenotype only
+11347	ST2	suppression of tumorigenicity 2	phenotype only
+11348	ST3	suppression of tumorigenicity 3	phenotype only
+11349	ST4	suppression of tumorigenicity 4 (malignant melanoma)	phenotype only
+11352	ST8	suppression of tumorigenicity 8 (ovarian)	phenotype only
+11384	STGD4	Stargardt disease 4 (autosomal dominant)	phenotype only
+11493	SYM2	symphalangism 2 (distal)	phenotype only
+11698	TDD	testicular 17,20-desmolase deficiency	phenotype only
+20680	TELAB1	telangiectasia, benign 1	phenotype only
+13466	TGCT1	testicular germ cell tumor susceptibility 1	phenotype only
+11783	THAS	thoracoabdominal syndrome	phenotype only
+11790	THC2	thrombocytopenia 2 (autosomal dominant)	phenotype only
+11792	THM	thymoma	phenotype only
+11833	TKCR	torticollis, keloids, cryptorchidism and renal dysplasia	phenotype only
+11954	TNR1	Turner syndrome 1	phenotype only
+11981	TOC	tylosis with oesophageal cancer	phenotype only
+12302	TRICY1	trichilemmal cyst 1	phenotype only
+12452	TYS	sclerotylosis	phenotype only
+12521	UFS	urofacial syndrome	phenotype only
+12595	USH1A	Usher syndrome 1A (autosomal recessive, severe)	phenotype only
+12599	USH1E	Usher syndrome 1E (autosomal recessive, severe)	phenotype only
+12602	USH2B	Usher syndrome 2B (autosomal recessive, mild)	phenotype only
+12606	USH3B	Usher syndrome 3B	phenotype only
+12664	VCF	velocardiofacial syndrome	phenotype only
+12702	VMD1	vitelliform macular dystrophy, atypical	phenotype only
+12720	VRNI	vitreoretinopathy, neovascular inflammatory	phenotype only
+12728	VWS	Van der Woude syndrome	phenotype only
+12740	WBS2	Williams-Beuren syndrome type 2	phenotype only
+12763	WFS2	Wolfram syndrome 2	phenotype only
+12793	WS2A	Waardenburg syndrome, type 2A	phenotype only
+12794	WS2B	Waardenburg syndrome, type 2B	phenotype only
+12795	WSN	Waisman syndrome	phenotype only
+12798	WTS	Wilson-Turner X-linked mental retardation syndrome	phenotype only
+12800	WWS	Wieacker-Wolff syndrome	phenotype only
+12808	XGR	XG and CD99 regulator	phenotype only
+12837	XS	X-linked suppressor of LU antigens	phenotype only
+13197	ZWS1	Zellweger syndrome 1	phenotype only

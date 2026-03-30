@@ -1,0 +1,27 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 10
+#BACKGROUNDONLY: 4
+TESTONLY	24624	SIL1	64374	SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)
+TESTONLY	3711	FKBP1A	2280	FK506 binding protein 1A, 12kDa
+TESTONLY	1618	CCT5	22948	chaperonin containing TCP1, subunit 5 (epsilon)
+TESTONLY	939	BAG3	9531	BCL2-associated athanogene 3
+TESTONLY	9253	PPIA	5478	peptidylprolyl isomerase A (cyclophilin A)
+TESTONLY	9257	PPID	5481	peptidylprolyl isomerase D (cyclophilin D)
+TESTONLY	11655	TCP1	6950	t-complex 1
+
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+COMMON	5244	HSPA9	3313	heat shock 70kDa protein 9 (mortalin)
+COMMON	5241	HSPA8	3312	heat shock 70kDa protein 8
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+COMMON	14180	PDIA2	64714	protein disulfide isomerase family A, member 2
+COMMON	8988	PIN1	5300	peptidylprolyl cis/trans isomerase, NIMA-interacting 1
+COMMON	8548	P4HB	5034	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide
+
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	5270	DNAJB1	3337	DnaJ (Hsp40) homolog, subfamily B, member 1
+BACKGROUNDONLY	1473	CANX	821	calnexin
+BACKGROUNDONLY	1189	AHSA1	10598	AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (yeast)

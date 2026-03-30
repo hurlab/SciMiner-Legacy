@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 4
+#BACKGROUNDONLY: 3
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	4739	H2AFX	3014	H2A histone family, member X
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	7737	NEFH	4744	neurofilament, heavy polypeptide 200kDa
+COMMON	4646	GTF2A1	2957	general transcription factor IIA, 1, 19/37kDa
+
+BACKGROUNDONLY	11543	TAF10	6881	TAF10 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 30kDa
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	11777	TGM1	7051	transglutaminase 1 (K polypeptide epidermal type I, protein-glutamine-gamma-glutamyltransferase)

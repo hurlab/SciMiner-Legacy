@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 2
+
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	6307	KDR	3791	kinase insert domain receptor (a type III receptor tyrosine kinase)
+
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1

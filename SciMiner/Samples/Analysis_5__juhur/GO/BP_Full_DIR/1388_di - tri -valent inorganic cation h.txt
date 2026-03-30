@@ -1,0 +1,37 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 10
+#BACKGROUNDONLY: 14
+TESTONLY	11763	TFRC	7037	transferrin receptor (p90, CD71)
+TESTONLY	11517	TAC1	6863	tachykinin, precursor 1
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	12022	TPT1	7178	tumor protein, translationally-controlled 1
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	6115	IREB2	3658	iron-responsive element binding protein 2
+TESTONLY	7553	MYC	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	2295	CP	1356	ceruloplasmin (ferroxidase)
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	3951	FXN	2395	frataxin
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	11740	TF	7018	transferrin
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	336	AGTR1	185	angiotensin II receptor, type 1
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	4886	HFE	3077	hemochromatosis
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2
+BACKGROUNDONLY	9449	PRNP	5621	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1

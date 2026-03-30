@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 2
+
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa

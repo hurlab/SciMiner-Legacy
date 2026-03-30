@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 3
+TESTONLY	24190	CAMK2N1	55450	calcium/calmodulin-dependent protein kinase II inhibitor 1
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	5439	IFNGR1	3459	interferon gamma receptor 1
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5

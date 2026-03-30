@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	12814	XPA	7507	xeroderma pigmentosum, complementation group A
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	7211	MPG	4350	N-methylpurine-DNA glycosylase
+TESTONLY	4739	H2AFX	3014	H2A histone family, member X
+
+COMMON	12517	UCP1	7350	uncoupling protein 1 (mitochondrial, proton carrier)
+

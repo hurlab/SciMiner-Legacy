@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 5
+#BACKGROUNDONLY: 3
+TESTONLY	5385	IDH3B	3420	isocitrate dehydrogenase 3 (NAD+) beta
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	2422	CS	1431	citrate synthase
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	8808	PDHB	5162	pyruvate dehydrogenase (lipoamide) beta
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	118	ACO2	50	aconitase 2, mitochondrial
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)

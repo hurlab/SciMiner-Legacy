@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 0
+#BACKGROUNDONLY: 1
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+
+
+BACKGROUNDONLY	3581	BPTF	2186	bromodomain PHD finger transcription factor

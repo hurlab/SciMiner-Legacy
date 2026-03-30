@@ -1,0 +1,46 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 12
+#BACKGROUNDONLY: 25
+TESTONLY	25361	ARHGAP24	83478	Rho GTPase activating protein 24
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	3763	FLT1	2321	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	9388	PRKAR1A	5573	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	6307	KDR	3791	kinase insert domain receptor (a type III receptor tyrosine kinase)
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	1509	CASP8	841	caspase 8, apoptosis-related cysteine peptidase
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	3665	FGF1	2246	fibroblast growth factor 1 (acidic)
+COMMON	1546	SERPINH1	871	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	3684	FGF6	2251	fibroblast growth factor 6
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	10838	SHB	6461	Src homology 2 domain containing adaptor protein B
+BACKGROUNDONLY	11291	SRF	6722	serum response factor (c-fos serum response element-binding transcription factor)
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	24961	HOPX	84525	HOP homeobox
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	12682	VEGFC	7424	vascular endothelial growth factor C
+BACKGROUNDONLY	3708	FIGF	2277	c-fos induced growth factor (vascular endothelial growth factor D)
+BACKGROUNDONLY	8005	NRP2	8828	neuropilin 2
+BACKGROUNDONLY	1473	CANX	821	calnexin
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha
+BACKGROUNDONLY	9071	PLG	5340	plasminogen

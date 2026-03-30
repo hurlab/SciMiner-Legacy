@@ -1,0 +1,29 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 11
+#BACKGROUNDONLY: 7
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	16769	GORASP1	64689	golgi reassembly stacking protein 1, 65kDa
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	21354	TICAM2	353376	toll-like receptor adaptor molecule 2
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	9509	PSEN2	5664	presenilin 2 (Alzheimer disease 4)
+COMMON	4851	HTT	3064	huntingtin
+COMMON	5173	HRAS	3265	v-Ha-ras Harvey rat sarcoma viral oncogene homolog
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	8607	PARK2	5071	Parkinson disease (autosomal recessive, juvenile) 2, parkin
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+COMMON	12649	VAPB	9217	VAMP (vesicle-associated membrane protein)-associated protein B and C
+
+BACKGROUNDONLY	9592	PTGDS	5730	prostaglandin D2 synthase 21kDa (brain)
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2
+BACKGROUNDONLY	933	BACE1	23621	beta-site APP-cleaving enzyme 1
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	9449	PRNP	5621	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)

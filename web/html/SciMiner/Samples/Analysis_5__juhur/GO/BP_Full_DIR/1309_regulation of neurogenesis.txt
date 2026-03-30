@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 8
+#BACKGROUNDONLY: 5
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	9103	PLXNB1	5364	plexin B1
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

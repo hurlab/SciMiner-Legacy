@@ -1,0 +1,101 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 28
+#COMMON: 21
+#BACKGROUNDONLY: 46
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	7983	NR5A1	2516	nuclear receptor subfamily 5, group A, member 1
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	4805	HAGH	3029	hydroxyacylglutathione hydrolase
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+TESTONLY	10886	SIRT2	22933	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)
+TESTONLY	249	ADH1A	124	alcohol dehydrogenase 1A (class I), alpha polypeptide
+TESTONLY	4323	GLO1	2739	glyoxalase I
+TESTONLY	11181	SOD3	6649	superoxide dismutase 3, extracellular
+TESTONLY	8784	PDE5A	8654	phosphodiesterase 5A, cGMP-specific
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	7965	NR1H2	7376	nuclear receptor subfamily 1, group H, member 2
+TESTONLY	2264	COX17	10063	COX17 cytochrome c oxidase assembly homolog (S. cerevisiae)
+TESTONLY	4250	GGT1	2678	gamma-glutamyltransferase 1
+TESTONLY	14931	SIRT3	23410	sirtuin (silent mating type information regulation 2 homolog) 3 (S. cerevisiae)
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	23696	TIPARP	25976	TCDD-inducible poly(ADP-ribose) polymerase
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	3013	DPYS	1807	dihydropyrimidinase
+TESTONLY	592	XIAP	331	X-linked inhibitor of apoptosis
+TESTONLY	17128	SLC39A3	29985	solute carrier family 39 (zinc transporter), member 3
+TESTONLY	19737	TENC1	23371	tensin like C1 domain containing phosphatase (tensin 2)
+TESTONLY	12814	XPA	7507	xeroderma pigmentosum, complementation group A
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	9717	PXMP3	5828	peroxisomal membrane protein 3, 35kDa (Zellweger syndrome)
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	437	ALPI	248	alkaline phosphatase, intestinal
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	21148	RNF123	63891	ring finger protein 123
+COMMON	8607	PARK2	5071	Parkinson disease (autosomal recessive, juvenile) 2, parkin
+COMMON	14133	SEPX1	51734	selenoprotein X, 1
+COMMON	14929	SIRT1	23411	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)
+COMMON	6782	MAFK	7975	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	399	ALB	213	albumin
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	11205	SP1	6667	Sp1 transcription factor
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+
+BACKGROUNDONLY	2856	DGKQ	1609	diacylglycerol kinase, theta 110kDa
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	7173	MMP3	4314	matrix metallopeptidase 3 (stromelysin 1, progelatinase)
+BACKGROUNDONLY	3471	ESRRA	2101	estrogen-related receptor alpha
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	10560	ATXN7	6314	ataxin 7
+BACKGROUNDONLY	9236	PPARG	5468	peroxisome proliferator-activated receptor gamma
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	2707	ACE	1636	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1
+BACKGROUNDONLY	10500	S100B	6285	S100 calcium binding protein B
+BACKGROUNDONLY	30880	CISD1	55847	CDGSH iron sulfur domain 1
+BACKGROUNDONLY	13432	RNF19A	25897	ring finger protein 19A
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	4170	GATA1	2623	GATA binding protein 1 (globin transcription factor 1)
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	9718	PXN	5829	paxillin
+BACKGROUNDONLY	7176	MMP9	4318	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+BACKGROUNDONLY	17889	APEX2	27301	APEX nuclease (apurinic/apyrimidinic endonuclease) 2
+BACKGROUNDONLY	5381	IDE	3416	insulin-degrading enzyme
+BACKGROUNDONLY	10477	RXRA	6256	retinoid X receptor, alpha
+BACKGROUNDONLY	3146	ECE1	1889	endothelin converting enzyme 1
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	7978	NR3C1	2908	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+BACKGROUNDONLY	593	BIRC5	332	baculoviral IAP repeat-containing 5 (survivin)
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	403	ALDH3A2	224	aldehyde dehydrogenase 3 family, member A2
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	1361	C9orf3	84909	chromosome 9 open reading frame 3
+BACKGROUNDONLY	21683	NAPEPLD	222236	N-acyl phosphatidylethanolamine phospholipase D
+BACKGROUNDONLY	17016	MYST2	11143	MYST histone acetyltransferase 2
+BACKGROUNDONLY	10630	CCL4	6351	chemokine (C-C motif) ligand 4
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	14121	POLR3K	51728	polymerase (RNA) III (DNA directed) polypeptide K, 12.3 kDa
+BACKGROUNDONLY	7166	MMP2	4313	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1
+BACKGROUNDONLY	11881	TMSB4X	7114	thymosin beta 4, X-linked
+BACKGROUNDONLY	2277	COX6A1	1337	cytochrome c oxidase subunit VIa polypeptide 1
+BACKGROUNDONLY	644	AR	367	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+BACKGROUNDONLY	352	AIF1	199	allograft inflammatory factor 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	591	BIRC3	330	baculoviral IAP repeat-containing 3
+BACKGROUNDONLY	3581	BPTF	2186	bromodomain PHD finger transcription factor

@@ -1,0 +1,27 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 4
+#BACKGROUNDONLY: 12
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	2206	COL4A4	1286	collagen, type IV, alpha 4
+TESTONLY	10886	SIRT2	22933	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	14929	SIRT1	23411	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	3684	FGF6	2251	fibroblast growth factor 6
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	24961	HOPX	84525	HOP homeobox
+BACKGROUNDONLY	10477	RXRA	6256	retinoid X receptor, alpha
+BACKGROUNDONLY	29823	MYL6B	140465	myosin, light chain 6B, alkali, smooth muscle and non-muscle
+BACKGROUNDONLY	14065	HDAC9	9734	histone deacetylase 9
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

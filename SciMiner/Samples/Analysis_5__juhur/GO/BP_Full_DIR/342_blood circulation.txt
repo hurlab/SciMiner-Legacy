@@ -1,0 +1,54 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 16
+#BACKGROUNDONLY: 25
+TESTONLY	10780	SFRS1	6426	splicing factor, arginine/serine-rich 1 (splicing factor 2, alternate splicing factor)
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+TESTONLY	6843	MAP2K3	5606	mitogen-activated protein kinase kinase 3
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	6081	INS	3630	insulin
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+COMMON	3415	EPO	2056	erythropoietin
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	9201	POMC	5443	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)
+COMMON	4827	HBB	3043	hemoglobin, beta
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+
+BACKGROUNDONLY	10637	CXCL10	3627	chemokine (C-X-C motif) ligand 10
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	336	AGTR1	185	angiotensin II receptor, type 1
+BACKGROUNDONLY	7576	MYH6	4624	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)
+BACKGROUNDONLY	4400	GNB3	2784	guanine nucleotide binding protein (G protein), beta polypeptide 3
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	3662	FGB	2244	fibrinogen beta chain
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	2634	CYP2J2	1573	cytochrome P450, family 2, subfamily J, polypeptide 2
+BACKGROUNDONLY	2707	ACE	1636	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1
+BACKGROUNDONLY	9040	PLA2G7	7941	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)
+BACKGROUNDONLY	7436	MTHFR	4524	5,10-methylenetetrahydrofolate reductase (NADPH)
+BACKGROUNDONLY	6677	LPL	4023	lipoprotein lipase
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	3040	RCAN1	1827	regulator of calcineurin 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	9604	PTGS1	5742	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)
+BACKGROUNDONLY	5294	HTR2B	3357	5-hydroxytryptamine (serotonin) receptor 2B
+BACKGROUNDONLY	1929	CHGA	1113	chromogranin A (parathyroid secretory protein 1)
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

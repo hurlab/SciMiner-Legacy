@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 0
+#BACKGROUNDONLY: 5
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+
+
+BACKGROUNDONLY	11827	TJP1	7082	tight junction protein 1 (zona occludens 1)
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2
+BACKGROUNDONLY	1756	CDH17	1015	cadherin 17, LI cadherin (liver-intestine)
+BACKGROUNDONLY	11005	SLC2A1	6513	solute carrier family 2 (facilitated glucose transporter), member 1
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1

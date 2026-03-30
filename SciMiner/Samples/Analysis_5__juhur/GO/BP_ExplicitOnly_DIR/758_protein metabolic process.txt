@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	7377	MSRA	4482	methionine sulfoxide reductase A
+
+COMMON	2244	COQ7	10229	coenzyme Q7 homolog, ubiquinone (yeast)
+
+BACKGROUNDONLY	8546	P4HA1	5033	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I

@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 4
+#BACKGROUNDONLY: 7
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	5962	IL10	3586	interleukin 10
+
+BACKGROUNDONLY	6008	IL2RA	3559	interleukin 2 receptor, alpha
+BACKGROUNDONLY	1705	CD86	942	CD86 molecule
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	19157	IL27	246778	interleukin 27
+BACKGROUNDONLY	6149	ITGAM	3684	integrin, alpha M (complement component 3 receptor 3 subunit)
+BACKGROUNDONLY	2770	DES	1674	desmin

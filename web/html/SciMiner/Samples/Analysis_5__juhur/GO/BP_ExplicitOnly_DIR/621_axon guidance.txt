@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 3
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	727	ARTN	9048	artemin
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	7809	NGFR	4804	nerve growth factor receptor (TNFR superfamily, member 16)
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	8005	NRP2	8828	neuropilin 2

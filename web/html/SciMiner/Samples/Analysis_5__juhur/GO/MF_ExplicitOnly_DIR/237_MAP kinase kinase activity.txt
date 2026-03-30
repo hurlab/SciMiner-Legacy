@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	6843	MAP2K3	5606	mitogen-activated protein kinase kinase 3
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha
+BACKGROUNDONLY	6872	MAPK10	5602	mitogen-activated protein kinase 10

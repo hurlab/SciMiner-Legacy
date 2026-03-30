@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 1
+#BACKGROUNDONLY: 3
+TESTONLY	30000	BBS9	27241	Bardet-Biedl syndrome 9
+TESTONLY	34	ABCA4	24	ATP-binding cassette, sub-family A (ABC1), member 4
+TESTONLY	17348	PRPF3	9129	PRP3 pre-mRNA processing factor 3 homolog (S. cerevisiae)
+
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+
+BACKGROUNDONLY	1940	CHM	1121	choroideremia (Rab escort protein 1)
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	10599	SCNN1A	6337	sodium channel, nonvoltage-gated 1 alpha

@@ -1,0 +1,43 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 13
+#BACKGROUNDONLY: 18
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	8032	NTRK2	4915	neurotrophic tyrosine kinase, receptor, type 2
+TESTONLY	4624	GSS	2937	glutathione synthetase
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	13716	C4orf6	10141	chromosome 4 open reading frame 6
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	9717	PXMP3	5828	peroxisomal membrane protein 3, 35kDa (Zellweger syndrome)
+COMMON	7737	NEFH	4744	neurofilament, heavy polypeptide 200kDa
+COMMON	4232	GDNF	2668	glial cell derived neurotrophic factor
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	3796	FOS	2353	v-fos FBJ murine osteosarcoma viral oncogene homolog
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	8031	NTRK1	4914	neurotrophic tyrosine kinase, receptor, type 1
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	6782	MAFK	7975	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	3562	FABP7	2173	fatty acid binding protein 7, brain
+BACKGROUNDONLY	2170	CNTFR	1271	ciliary neurotrophic factor receptor
+BACKGROUNDONLY	4502	GPR44	11251	G protein-coupled receptor 44
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	2711	DCTN1	1639	dynactin 1 (p150, glued homolog, Drosophila)
+BACKGROUNDONLY	2595	CYP1A1	1543	cytochrome P450, family 1, subfamily A, polypeptide 1
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43
+BACKGROUNDONLY	2641	CYP46A1	10858	cytochrome P450, family 46, subfamily A, polypeptide 1
+BACKGROUNDONLY	7634	NAIP	4671	NLR family, apoptosis inhibitory protein
+BACKGROUNDONLY	10739	SEMA6B	10501	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6B
+BACKGROUNDONLY	11364	STAT3	6774	signal transducer and activator of transcription 3 (acute-phase response factor)
+BACKGROUNDONLY	8005	NRP2	8828	neuropilin 2
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	3023	DRD2	1813	dopamine receptor D2
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa

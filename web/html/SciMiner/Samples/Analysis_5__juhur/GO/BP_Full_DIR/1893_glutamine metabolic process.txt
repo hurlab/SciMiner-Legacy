@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 0
+
+COMMON	4331	GLS	2744	glutaminase
+COMMON	4341	GLUL	2752	glutamate-ammonia ligase (glutamine synthetase)
+

@@ -1,0 +1,62 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 11
+#COMMON: 23
+#BACKGROUNDONLY: 22
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	939	BAG3	9531	BCL2-associated athanogene 3
+TESTONLY	13509	AVEN	57099	apoptosis, caspase activation inhibitor
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+TESTONLY	22948	NLRP2	55655	NLR family, pyrin domain containing 2
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	1511	CASP9	842	caspase 9, apoptosis-related cysteine peptidase
+TESTONLY	592	XIAP	331	X-linked inhibitor of apoptosis
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	7794	NFKB1	4790	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	14929	SIRT1	23411	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	11919	CD40	958	CD40 molecule, TNF receptor superfamily member 5
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	4851	HTT	3064	huntingtin
+COMMON	21528	DIABLO	56616	diablo homolog (Drosophila)
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	5991	IL1A	3552	interleukin 1, alpha
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	11920	FAS	355	Fas (TNF receptor superfamily, member 6)
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+COMMON	11917	TNFRSF1B	7133	tumor necrosis factor receptor superfamily, member 1B
+
+BACKGROUNDONLY	3146	ECE1	1889	endothelin converting enzyme 1
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	593	BIRC5	332	baculoviral IAP repeat-containing 5 (survivin)
+BACKGROUNDONLY	7809	NGFR	4804	nerve growth factor receptor (TNFR superfamily, member 16)
+BACKGROUNDONLY	1508	CASP7	840	caspase 7, apoptosis-related cysteine peptidase
+BACKGROUNDONLY	12030	TRADD	8717	TNFRSF1A-associated via death domain
+BACKGROUNDONLY	10838	SHB	6461	Src homology 2 domain containing adaptor protein B
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	2095	CLU	1191	clusterin
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)
+BACKGROUNDONLY	6008	IL2RA	3559	interleukin 2 receptor, alpha
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	5329	IAPP	3375	islet amyloid polypeptide
+BACKGROUNDONLY	7634	NAIP	4671	NLR family, apoptosis inhibitory protein
+BACKGROUNDONLY	11916	TNFRSF1A	7132	tumor necrosis factor receptor superfamily, member 1A
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	11905	TNFRSF10B	8795	tumor necrosis factor receptor superfamily, member 10b
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 5
+#BACKGROUNDONLY: 5
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+
+COMMON	9509	PSEN2	5664	presenilin 2 (Alzheimer disease 4)
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	11998	TP53	7157	tumor protein p53
+
+BACKGROUNDONLY	6008	IL2RA	3559	interleukin 2 receptor, alpha
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	7176	MMP9	4318	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

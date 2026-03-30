@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	7097	MIF	4282	macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+
+
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4

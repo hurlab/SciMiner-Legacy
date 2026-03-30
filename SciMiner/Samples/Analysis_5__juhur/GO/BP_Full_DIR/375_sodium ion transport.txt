@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 3
+
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	800	ATP1A2	477	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide
+BACKGROUNDONLY	10599	SCNN1A	6337	sodium channel, nonvoltage-gated 1 alpha

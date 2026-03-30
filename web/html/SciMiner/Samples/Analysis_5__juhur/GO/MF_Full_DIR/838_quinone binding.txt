@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 0
+
+COMMON	80	ABP1	26	amiloride binding protein 1 (amine oxidase (copper-containing))
+

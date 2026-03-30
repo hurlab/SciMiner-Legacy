@@ -1,0 +1,22 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 10
+#BACKGROUNDONLY: 4
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	11740	TF	7018	transferrin
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	399	ALB	213	albumin
+COMMON	3062	DUOX1	53905	dual oxidase 1
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

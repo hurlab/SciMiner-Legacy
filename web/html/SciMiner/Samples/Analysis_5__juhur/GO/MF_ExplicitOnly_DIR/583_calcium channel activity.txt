@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+
+BACKGROUNDONLY	14079	CHRNA9	55584	cholinergic receptor, nicotinic, alpha 9

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+
+BACKGROUNDONLY	8723	SERPINA5	5104	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5

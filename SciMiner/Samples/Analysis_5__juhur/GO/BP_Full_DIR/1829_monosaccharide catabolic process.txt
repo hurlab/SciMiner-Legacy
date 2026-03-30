@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 2
+#BACKGROUNDONLY: 6
+TESTONLY	8808	PDHB	5162	pyruvate dehydrogenase (lipoamide) beta
+TESTONLY	8806	PDHA1	5160	pyruvate dehydrogenase (lipoamide) alpha 1
+TESTONLY	4057	G6PD	2539	glucose-6-phosphate dehydrogenase
+
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+
+BACKGROUNDONLY	6541	LDHB	3945	lactate dehydrogenase B
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)

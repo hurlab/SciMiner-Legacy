@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	48	ABCB7	22	ATP-binding cassette, sub-family B (MDR/TAP), member 7
+
+

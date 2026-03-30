@@ -1,0 +1,27 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 8
+#BACKGROUNDONLY: 10
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	8031	NTRK1	4914	neurotrophic tyrosine kinase, receptor, type 1
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	5962	IL10	3586	interleukin 10
+
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1
+BACKGROUNDONLY	19157	IL27	246778	interleukin 27
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	1705	CD86	942	CD86 molecule
+BACKGROUNDONLY	14065	HDAC9	9734	histone deacetylase 9
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	11241	SPI1	6688	spleen focus forming virus (SFFV) proviral integration oncogene spi1

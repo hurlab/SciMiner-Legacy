@@ -1,0 +1,29 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 12
+#BACKGROUNDONLY: 10
+TESTONLY	7097	MIF	4282	macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	5173	HRAS	3265	v-Ha-ras Harvey rat sarcoma viral oncogene homolog
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6081	INS	3630	insulin
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	3573	FADD	8772	Fas (TNFRSF6)-associated via death domain
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+COMMON	11917	TNFRSF1B	7133	tumor necrosis factor receptor superfamily, member 1B
+
+BACKGROUNDONLY	6008	IL2RA	3559	interleukin 2 receptor, alpha
+BACKGROUNDONLY	10637	CXCL10	3627	chemokine (C-X-C motif) ligand 10
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	10638	CXCL11	6373	chemokine (C-X-C motif) ligand 11
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	6024	IL7R	3575	interleukin 7 receptor
+BACKGROUNDONLY	11905	TNFRSF10B	8795	tumor necrosis factor receptor superfamily, member 10b
+BACKGROUNDONLY	591	BIRC3	330	baculoviral IAP repeat-containing 3
+BACKGROUNDONLY	2434	CSF2	1437	colony stimulating factor 2 (granulocyte-macrophage)

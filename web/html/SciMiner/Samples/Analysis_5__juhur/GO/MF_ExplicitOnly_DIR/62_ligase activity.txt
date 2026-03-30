@@ -1,0 +1,24 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 6
+#BACKGROUNDONLY: 5
+TESTONLY	592	XIAP	331	X-linked inhibitor of apoptosis
+TESTONLY	17598	UBE2J1	51465	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	8784	PDE5A	8654	phosphodiesterase 5A, cGMP-specific
+TESTONLY	4624	GSS	2937	glutathione synthetase
+TESTONLY	15814	ACSS2	55902	acyl-CoA synthetase short-chain family member 2
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	8607	PARK2	5071	Parkinson disease (autosomal recessive, juvenile) 2, parkin
+COMMON	4341	GLUL	2752	glutamate-ammonia ligase (glutamine synthetase)
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+COMMON	21148	RNF123	63891	ring finger protein 123
+COMMON	4817	HARS2	23438	histidyl-tRNA synthetase 2, mitochondrial (putative)
+
+BACKGROUNDONLY	758	ASS1	445	argininosuccinate synthetase 1
+BACKGROUNDONLY	26101	ACSF2	80221	acyl-CoA synthetase family member 2
+BACKGROUNDONLY	13432	RNF19A	25897	ring finger protein 19A
+BACKGROUNDONLY	2228	COMT	1312	catechol-O-methyltransferase
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide

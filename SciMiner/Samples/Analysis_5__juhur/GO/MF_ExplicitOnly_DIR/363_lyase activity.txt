@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 1
+#BACKGROUNDONLY: 6
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+TESTONLY	4323	GLO1	2739	glyoxalase I
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+
+COMMON	118	ACO2	50	aconitase 2, mitochondrial
+
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	1550	CBS	875	cystathionine-beta-synthase
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	17889	APEX2	27301	APEX nuclease (apurinic/apyrimidinic endonuclease) 2

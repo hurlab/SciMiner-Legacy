@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 3
+#BACKGROUNDONLY: 2
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	23696	TIPARP	25976	TCDD-inducible poly(ADP-ribose) polymerase
+
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)

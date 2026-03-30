@@ -1,0 +1,24 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 8
+#BACKGROUNDONLY: 8
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	727	ARTN	9048	artemin
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	11049	SLC6A3	6531	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3
+COMMON	11917	TNFRSF1B	7133	tumor necrosis factor receptor superfamily, member 1B
+
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	6008	IL2RA	3559	interleukin 2 receptor, alpha
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	11916	TNFRSF1A	7132	tumor necrosis factor receptor superfamily, member 1A
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	10647	CX3CL1	6376	chemokine (C-X3-C motif) ligand 1

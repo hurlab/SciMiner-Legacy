@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 8
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	9824	RAD52	5893	RAD52 homolog (S. cerevisiae)
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	4739	H2AFX	3014	H2A histone family, member X
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+
+COMMON	4623	GSR	2936	glutathione reductase
+
+BACKGROUNDONLY	7107	MKI67	4288	antigen identified by monoclonal antibody Ki-67

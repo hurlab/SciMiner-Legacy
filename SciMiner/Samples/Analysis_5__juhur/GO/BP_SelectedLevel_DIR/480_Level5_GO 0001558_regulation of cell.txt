@@ -1,0 +1,24 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 5
+#BACKGROUNDONLY: 9
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	10840	SHC1	6464	SHC (Src homology 2 domain containing) transforming protein 1
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	11998	TP53	7157	tumor protein p53
+
+BACKGROUNDONLY	1984	CISH	1154	cytokine inducible SH2-containing protein
+BACKGROUNDONLY	19391	SOCS3	9021	suppressor of cytokine signaling 3
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	12681	VEGFB	7423	vascular endothelial growth factor B

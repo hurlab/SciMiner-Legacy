@@ -1,0 +1,37 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 14
+#BACKGROUNDONLY: 15
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	6780	MAFF	23764	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	23177	KEAP1	9817	kelch-like ECH-associated protein 1
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	12805	XDH	7498	xanthine dehydrogenase
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	5329	IAPP	3375	islet amyloid polypeptide
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	19157	IL27	246778	interleukin 27
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	1705	CD86	942	CD86 molecule
+BACKGROUNDONLY	3040	RCAN1	1827	regulator of calcineurin 1
+BACKGROUNDONLY	11291	SRF	6722	serum response factor (c-fos serum response element-binding transcription factor)
+BACKGROUNDONLY	9236	PPARG	5468	peroxisome proliferator-activated receptor gamma
+BACKGROUNDONLY	2095	CLU	1191	clusterin
+BACKGROUNDONLY	24961	HOPX	84525	HOP homeobox
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	11241	SPI1	6688	spleen focus forming virus (SFFV) proviral integration oncogene spi1

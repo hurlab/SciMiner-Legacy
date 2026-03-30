@@ -1,0 +1,21 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 8
+#COMMON: 3
+#BACKGROUNDONLY: 4
+TESTONLY	2422	CS	1431	citrate synthase
+TESTONLY	381	AKR1B1	231	aldo-keto reductase family 1, member B1 (aldose reductase)
+TESTONLY	4323	GLO1	2739	glyoxalase I
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	18985	DCXR	51181	dicarbonyl/L-xylulose reductase
+TESTONLY	4057	G6PD	2539	glucose-6-phosphate dehydrogenase
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	4455	GPD1	2819	glycerol-3-phosphate dehydrogenase 1 (soluble)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	6081	INS	3630	insulin
+
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor

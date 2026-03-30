@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 5
+#BACKGROUNDONLY: 0
+TESTONLY	24190	CAMK2N1	55450	calcium/calmodulin-dependent protein kinase II inhibitor 1
+TESTONLY	9950	RECQL5	9400	RecQ protein-like 5
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	8032	NTRK2	4915	neurotrophic tyrosine kinase, receptor, type 2
+
+COMMON	9388	PRKAR1A	5573	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)
+COMMON	6879	MAPK6	5597	mitogen-activated protein kinase 6
+COMMON	9391	PRKAR2A	5576	protein kinase, cAMP-dependent, regulatory, type II, alpha
+COMMON	8031	NTRK1	4914	neurotrophic tyrosine kinase, receptor, type 1
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+

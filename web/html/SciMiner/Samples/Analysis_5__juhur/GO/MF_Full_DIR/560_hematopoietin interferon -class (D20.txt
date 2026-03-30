@@ -1,0 +1,20 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 7
+#BACKGROUNDONLY: 6
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	3415	EPO	2056	erythropoietin
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+
+BACKGROUNDONLY	5973	IL13	3596	interleukin 13
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	2434	CSF2	1437	colony stimulating factor 2 (granulocyte-macrophage)
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	6190	JAK1	3716	Janus kinase 1 (a protein tyrosine kinase)

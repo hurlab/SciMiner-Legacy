@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 1
+
+COMMON	12649	VAPB	9217	VAMP (vesicle-associated membrane protein)-associated protein B and C
+COMMON	399	ALB	213	albumin
+
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

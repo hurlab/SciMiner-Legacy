@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 0
+#BACKGROUNDONLY: 1
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+
+
+BACKGROUNDONLY	7107	MKI67	4288	antigen identified by monoclonal antibody Ki-67

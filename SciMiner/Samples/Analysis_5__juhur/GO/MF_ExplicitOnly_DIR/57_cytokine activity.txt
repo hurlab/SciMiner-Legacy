@@ -1,0 +1,29 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 8
+#BACKGROUNDONLY: 14
+TESTONLY	7097	MIF	4282	macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	10637	CXCL10	3627	chemokine (C-X-C motif) ligand 10
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	4223	MSTN	2660	myostatin
+BACKGROUNDONLY	7098	CXCL9	4283	chemokine (C-X-C motif) ligand 9
+BACKGROUNDONLY	6711	LTB	4050	lymphotoxin beta (TNF superfamily, member 3)
+BACKGROUNDONLY	4604	CXCL3	2921	chemokine (C-X-C motif) ligand 3
+BACKGROUNDONLY	2434	CSF2	1437	colony stimulating factor 2 (granulocyte-macrophage)
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	15488	IL23A	51561	interleukin 23, alpha subunit p19
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)

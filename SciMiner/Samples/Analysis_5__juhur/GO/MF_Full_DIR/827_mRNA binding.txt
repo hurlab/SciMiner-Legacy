@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	6115	IREB2	3658	iron-responsive element binding protein 2
+
+
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	3767	FLT4	2324	fms-related tyrosine kinase 4

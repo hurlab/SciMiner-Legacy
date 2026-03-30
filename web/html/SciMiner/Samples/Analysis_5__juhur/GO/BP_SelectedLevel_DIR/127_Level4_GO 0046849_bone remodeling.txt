@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 4
+#BACKGROUNDONLY: 7
+
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	5329	IAPP	3375	islet amyloid polypeptide
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	9596	PTGER4	5734	prostaglandin E receptor 4 (subtype EP4)
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

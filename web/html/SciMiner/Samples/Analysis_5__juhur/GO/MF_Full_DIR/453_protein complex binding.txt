@@ -1,0 +1,21 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 2
+#BACKGROUNDONLY: 9
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	10840	SHC1	6464	SHC (Src homology 2 domain containing) transforming protein 1
+
+COMMON	6563	LGALS3	3958	lectin, galactoside-binding, soluble, 3
+COMMON	6081	INS	3630	insulin
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	403	ALDH3A2	224	aldehyde dehydrogenase 3 family, member A2
+BACKGROUNDONLY	1907	CH25H	9023	cholesterol 25-hydroxylase
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	6193	JAK3	3718	Janus kinase 3 (a protein tyrosine kinase, leukocyte)
+BACKGROUNDONLY	6156	ITGB3	3690	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)
+BACKGROUNDONLY	12030	TRADD	8717	TNFRSF1A-associated via death domain
+BACKGROUNDONLY	3613	FCGR1A	2209	Fc fragment of IgG, high affinity Ia, receptor (CD64)
+BACKGROUNDONLY	2770	DES	1674	desmin

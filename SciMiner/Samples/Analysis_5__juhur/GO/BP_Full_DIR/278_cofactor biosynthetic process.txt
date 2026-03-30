@@ -1,0 +1,21 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 8
+#COMMON: 1
+#BACKGROUNDONLY: 6
+TESTONLY	4250	GGT1	2678	gamma-glutamyltransferase 1
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	4624	GSS	2937	glutathione synthetase
+TESTONLY	18985	DCXR	51181	dicarbonyl/L-xylulose reductase
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	2244	COQ7	10229	coenzyme Q7 homolog, ubiquinone (yeast)
+
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	17877	NMNAT1	64802	nicotinamide nucleotide adenylyltransferase 1
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide

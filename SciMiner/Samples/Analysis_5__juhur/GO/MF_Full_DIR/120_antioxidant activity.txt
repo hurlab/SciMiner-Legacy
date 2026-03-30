@@ -1,0 +1,27 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 11
+#BACKGROUNDONLY: 4
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	17169	PRDX4	10549	peroxiredoxin 4
+TESTONLY	11181	SOD3	6649	superoxide dismutase 3, extracellular
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+TESTONLY	9353	PRDX2	7001	peroxiredoxin 2
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+
+COMMON	9352	PRDX1	5052	peroxiredoxin 1
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	1516	CAT	847	catalase
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	399	ALB	213	albumin
+COMMON	4623	GSR	2936	glutathione reductase
+COMMON	3062	DUOX1	53905	dual oxidase 1
+
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	7218	MPO	4353	myeloperoxidase
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	9604	PTGS1	5742	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)

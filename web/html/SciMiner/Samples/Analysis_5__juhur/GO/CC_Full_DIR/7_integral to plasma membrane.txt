@@ -1,0 +1,122 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 19
+#COMMON: 22
+#BACKGROUNDONLY: 75
+TESTONLY	11763	TFRC	7037	transferrin receptor (p90, CD71)
+TESTONLY	11121	SMPD2	6610	sphingomyelin phosphodiesterase 2, neutral membrane (neutral sphingomyelinase)
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	1682	CD47	961	CD47 molecule
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+TESTONLY	7553	MYC	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+TESTONLY	5465	IGF1R	3480	insulin-like growth factor 1 receptor
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	8032	NTRK2	4915	neurotrophic tyrosine kinase, receptor, type 2
+TESTONLY	7662	NCF4	4689	neutrophil cytosolic factor 4, 40kDa
+TESTONLY	10990	SLC25A4	291	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	34	ABCA4	24	ATP-binding cassette, sub-family A (ABC1), member 4
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	10963	SLC22A1	6580	solute carrier family 22 (organic cation transporter), member 1
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	7661	NCF2	4688	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	3763	FLT1	2321	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	10939	SLC1A1	6505	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+COMMON	727	ARTN	9048	artemin
+COMMON	8988	PIN1	5300	peptidylprolyl cis/trans isomerase, NIMA-interacting 1
+COMMON	10876	SIGLEC7	27036	sialic acid binding Ig-like lectin 7
+COMMON	6307	KDR	3791	kinase insert domain receptor (a type III receptor tyrosine kinase)
+COMMON	11919	CD40	958	CD40 molecule, TNF receptor superfamily member 5
+COMMON	11049	SLC6A3	6531	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3
+COMMON	9509	PSEN2	5664	presenilin 2 (Alzheimer disease 4)
+COMMON	2578	CYBB	1536	cytochrome b-245, beta polypeptide (chronic granulomatous disease)
+COMMON	8031	NTRK1	4914	neurotrophic tyrosine kinase, receptor, type 1
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	7809	NGFR	4804	nerve growth factor receptor (TNFR superfamily, member 16)
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	10599	SCNN1A	6337	sodium channel, nonvoltage-gated 1 alpha
+BACKGROUNDONLY	336	AGTR1	185	angiotensin II receptor, type 1
+BACKGROUNDONLY	6156	ITGB3	3690	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)
+BACKGROUNDONLY	6015	IL4R	3566	interleukin 4 receptor
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	8153	OPRD1	4985	opioid receptor, delta 1
+BACKGROUNDONLY	95	SLC33A1	9197	solute carrier family 33 (acetyl-CoA transporter), member 1
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	4931	HLA-A	3105	major histocompatibility complex, class I, A
+BACKGROUNDONLY	11291	SRF	6722	serum response factor (c-fos serum response element-binding transcription factor)
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	2707	ACE	1636	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1
+BACKGROUNDONLY	9103	PLXNB1	5364	plexin B1
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	3023	DRD2	1813	dopamine receptor D2
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	5995	IL1RAP	3556	interleukin 1 receptor accessory protein
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	2160	CNR2	1269	cannabinoid receptor 2 (macrophage)
+BACKGROUNDONLY	6149	ITGAM	3684	integrin, alpha M (complement component 3 receptor 3 subunit)
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	6024	IL7R	3575	interleukin 7 receptor
+BACKGROUNDONLY	4459	GPLD1	2822	glycosylphosphatidylinositol specific phospholipase D1
+BACKGROUNDONLY	11916	TNFRSF1A	7132	tumor necrosis factor receptor superfamily, member 1A
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	3688	FGFR1	2260	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+BACKGROUNDONLY	3767	FLT4	2324	fms-related tyrosine kinase 4
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha
+BACKGROUNDONLY	7197	MOG	4340	myelin oligodendrocyte glycoprotein
+BACKGROUNDONLY	4281	GJA8	2703	gap junction protein, alpha 8, 50kDa
+BACKGROUNDONLY	12695	VIPR2	7434	vasoactive intestinal peptide receptor 2
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	2435	CSF2RA	1438	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	1756	CDH17	1015	cadherin 17, LI cadherin (liver-intestine)
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	3133	EBP	10682	emopamil binding protein (sterol isomerase)
+BACKGROUNDONLY	435	ALOX5	240	arachidonate 5-lipoxygenase
+BACKGROUNDONLY	9600	PTGFR	5737	prostaglandin F receptor (FP)
+BACKGROUNDONLY	4886	HFE	3077	hemochromatosis
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	800	ATP1A2	477	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide
+BACKGROUNDONLY	933	BACE1	23621	beta-site APP-cleaving enzyme 1
+BACKGROUNDONLY	6953	CD46	4179	CD46 molecule, complement regulatory protein
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	10658	SDC1	6382	syndecan 1
+BACKGROUNDONLY	2558	CX3CR1	1524	chemokine (C-X3-C motif) receptor 1
+BACKGROUNDONLY	11848	TLR2	7097	toll-like receptor 2
+BACKGROUNDONLY	3613	FCGR1A	2209	Fc fragment of IgG, high affinity Ia, receptor (CD64)
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	4502	GPR44	11251	G protein-coupled receptor 44
+BACKGROUNDONLY	9593	PTGER1	5731	prostaglandin E receptor 1 (subtype EP1), 42kDa
+BACKGROUNDONLY	11050	SLC6A4	6532	solute carrier family 6 (neurotransmitter transporter, serotonin), member 4
+BACKGROUNDONLY	9594	PTGER2	5732	prostaglandin E receptor 2 (subtype EP2), 53kDa
+BACKGROUNDONLY	7315	MS4A1	931	membrane-spanning 4-domains, subfamily A, member 1
+BACKGROUNDONLY	5344	ICAM1	3383	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	238	ADCY7	113	adenylate cyclase 7
+BACKGROUNDONLY	1692	CD63	967	CD63 molecule
+BACKGROUNDONLY	2159	CNR1	1268	cannabinoid receptor 1 (brain)
+BACKGROUNDONLY	5439	IFNGR1	3459	interferon gamma receptor 1
+BACKGROUNDONLY	10935	SLC18A2	6571	solute carrier family 18 (vesicular monoamine), member 2
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	12694	VIPR1	7433	vasoactive intestinal peptide receptor 1
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	5294	HTR2B	3357	5-hydroxytryptamine (serotonin) receptor 2B
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

@@ -1,0 +1,24 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 7
+#BACKGROUNDONLY: 4
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	1912	CHAT	1103	choline acetyltransferase
+TESTONLY	412	ALDH9A1	223	aldehyde dehydrogenase 9 family, member A1
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+TESTONLY	10990	SLC25A4	291	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	11138	SNCA	6622	synuclein, alpha (non A4 component of amyloid precursor)
+
+COMMON	4341	GLUL	2752	glutamate-ammonia ligase (glutamine synthetase)
+COMMON	10941	SLC1A3	6507	solute carrier family 1 (glial high affinity glutamate transporter), member 3
+COMMON	11049	SLC6A3	6531	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	4232	GDNF	2668	glial cell derived neurotrophic factor
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	11050	SLC6A4	6532	solute carrier family 6 (neurotransmitter transporter, serotonin), member 4
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	2228	COMT	1312	catechol-O-methyltransferase

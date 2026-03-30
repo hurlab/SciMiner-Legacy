@@ -1,0 +1,38 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 11
+#BACKGROUNDONLY: 14
+TESTONLY	2206	COL4A4	1286	collagen, type IV, alpha 4
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	1682	CD47	961	CD47 molecule
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	23212	MYH14	79784	myosin, heavy chain 14
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	5246	HSPB1	3315	heat shock 27kDa protein 1
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	11881	TMSB4X	7114	thymosin beta 4, X-linked
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	17970	PAIP2	51247	poly(A) binding protein interacting protein 2
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	1692	CD63	967	CD63 molecule
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	9103	PLXNB1	5364	plexin B1
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 9
+#BACKGROUNDONLY: 4
+
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	7782	NFE2L2	4780	nuclear factor (erythroid-derived 2)-like 2
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	12649	VAPB	9217	VAMP (vesicle-associated membrane protein)-associated protein B and C
+COMMON	1546	SERPINH1	871	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)
+COMMON	5247	HSPB2	3316	heat shock 27kDa protein 2
+COMMON	5241	HSPA8	3312	heat shock 70kDa protein 8
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	5270	DNAJB1	3337	DnaJ (Hsp40) homolog, subfamily B, member 1
+BACKGROUNDONLY	5246	HSPB1	3315	heat shock 27kDa protein 1
+BACKGROUNDONLY	1582	CCND1	595	cyclin D1

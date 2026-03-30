@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 0
+#BACKGROUNDONLY: 3
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+
+
+BACKGROUNDONLY	6130	ISG20	3669	interferon stimulated exonuclease gene 20kDa
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)

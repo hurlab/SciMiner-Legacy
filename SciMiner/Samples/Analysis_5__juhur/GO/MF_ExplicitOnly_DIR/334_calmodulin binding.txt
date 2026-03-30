@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 8
+#BACKGROUNDONLY: 5
+
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	23212	MYH14	79784	myosin, heavy chain 14
+COMMON	1546	SERPINH1	871	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+
+BACKGROUNDONLY	6110	IQGAP1	8826	IQ motif containing GTPase activating protein 1
+BACKGROUNDONLY	7576	MYH6	4624	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

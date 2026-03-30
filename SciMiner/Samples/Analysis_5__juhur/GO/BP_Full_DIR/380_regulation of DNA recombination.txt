@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 4
+#BACKGROUNDONLY: 2
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	6001	IL2	3558	interleukin 2
+
+BACKGROUNDONLY	6024	IL7R	3575	interleukin 7 receptor
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

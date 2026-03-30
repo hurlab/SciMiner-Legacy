@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 3
+#BACKGROUNDONLY: 4
+TESTONLY	11763	TFRC	7037	transferrin receptor (p90, CD71)
+TESTONLY	12442	TYR	7299	tyrosinase (oculocutaneous albinism IA)
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	8607	PARK2	5071	Parkinson disease (autosomal recessive, juvenile) 2, parkin
+
+BACKGROUNDONLY	11543	TAF10	6881	TAF10 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 30kDa
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	2095	CLU	1191	clusterin

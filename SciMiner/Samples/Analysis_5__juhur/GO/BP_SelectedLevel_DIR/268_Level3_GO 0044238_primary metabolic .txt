@@ -1,0 +1,482 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 132
+#COMMON: 124
+#BACKGROUNDONLY: 220
+TESTONLY	17937	CUZD1	50624	CUB and zona pellucida-like domains 1
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	2898	DLD	1738	dihydrolipoamide dehydrogenase
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	4057	G6PD	2539	glucose-6-phosphate dehydrogenase
+TESTONLY	6843	MAP2K3	5606	mitogen-activated protein kinase kinase 3
+TESTONLY	9950	RECQL5	9400	RecQ protein-like 5
+TESTONLY	9752	QDPR	5860	quinoid dihydropteridine reductase
+TESTONLY	20374	GSX1	219409	GS homeobox 1
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	11138	SNCA	6622	synuclein, alpha (non A4 component of amyloid precursor)
+TESTONLY	12468	UBC	7316	ubiquitin C
+TESTONLY	17348	PRPF3	9129	PRP3 pre-mRNA processing factor 3 homolog (S. cerevisiae)
+TESTONLY	8032	NTRK2	4915	neurotrophic tyrosine kinase, receptor, type 2
+TESTONLY	7211	MPG	4350	N-methylpurine-DNA glycosylase
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+TESTONLY	4624	GSS	2937	glutathione synthetase
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	3711	FKBP1A	2280	FK506 binding protein 1A, 12kDa
+TESTONLY	14581	PINK1	65018	PTEN induced putative kinase 1
+TESTONLY	939	BAG3	9531	BCL2-associated athanogene 3
+TESTONLY	24959	GSX2	170825	GS homeobox 2
+TESTONLY	10886	SIRT2	22933	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)
+TESTONLY	1503	CASP2	835	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)
+TESTONLY	9655	PTPN3	5774	protein tyrosine phosphatase, non-receptor type 3
+TESTONLY	2728	DDOST	1650	dolichyl-diphosphooligosaccharide-protein glycosyltransferase
+TESTONLY	412	ALDH9A1	223	aldehyde dehydrogenase 9 family, member A1
+TESTONLY	9948	RECQL	5965	RecQ protein-like (DNA helicase Q1-like)
+TESTONLY	12420	TUFM	7284	Tu translation elongation factor, mitochondrial
+TESTONLY	12408	TUBA3C	7278	tubulin, alpha 3c
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	7097	MIF	4282	macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	18985	DCXR	51181	dicarbonyl/L-xylulose reductase
+TESTONLY	9824	RAD52	5893	RAD52 homolog (S. cerevisiae)
+TESTONLY	1848	CEL	1056	carboxyl ester lipase (bile salt-stimulated lipase)
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+TESTONLY	9257	PPID	5481	peptidylprolyl isomerase D (cyclophilin D)
+TESTONLY	12609	USP11	8237	ubiquitin specific peptidase 11
+TESTONLY	10840	SHC1	6464	SHC (Src homology 2 domain containing) transforming protein 1
+TESTONLY	4323	GLO1	2739	glyoxalase I
+TESTONLY	16731	FBXO32	114907	F-box protein 32
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	7377	MSRA	4482	methionine sulfoxide reductase A
+TESTONLY	1618	CCT5	22948	chaperonin containing TCP1, subunit 5 (epsilon)
+TESTONLY	23696	TIPARP	25976	TCDD-inducible poly(ADP-ribose) polymerase
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+TESTONLY	9380	PRKACA	5566	protein kinase, cAMP-dependent, catalytic, alpha
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+TESTONLY	8806	PDHA1	5160	pyruvate dehydrogenase (lipoamide) alpha 1
+TESTONLY	7804	NFYA	4800	nuclear transcription factor Y, alpha
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	380	AKR1A1	10327	aldo-keto reductase family 1, member A1 (aldehyde reductase)
+TESTONLY	381	AKR1B1	231	aldo-keto reductase family 1, member B1 (aldose reductase)
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+TESTONLY	7715	NDUFS8	4728	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)
+TESTONLY	7965	NR1H2	7376	nuclear receptor subfamily 1, group H, member 2
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	3189	EEF1A1	1915	eukaryotic translation elongation factor 1 alpha 1
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+TESTONLY	8784	PDE5A	8654	phosphodiesterase 5A, cGMP-specific
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	14931	SIRT3	23410	sirtuin (silent mating type information regulation 2 homolog) 3 (S. cerevisiae)
+TESTONLY	1773	CDK4	1019	cyclin-dependent kinase 4
+TESTONLY	26333	SRFBP1	153443	serum response factor binding protein 1
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+TESTONLY	2422	CS	1431	citrate synthase
+TESTONLY	4739	H2AFX	3014	H2A histone family, member X
+TESTONLY	11121	SMPD2	6610	sphingomyelin phosphodiesterase 2, neutral membrane (neutral sphingomyelinase)
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+TESTONLY	4055	XRCC6	2547	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)
+TESTONLY	9253	PPIA	5478	peptidylprolyl isomerase A (cyclophilin A)
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	7553	MYC	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+TESTONLY	4250	GGT1	2678	gamma-glutamyltransferase 1
+TESTONLY	10780	SFRS1	6426	splicing factor, arginine/serine-rich 1 (splicing factor 2, alternate splicing factor)
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	3013	DPYS	1807	dihydropyrimidinase
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+TESTONLY	24624	SIL1	64374	SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)
+TESTONLY	7983	NR5A1	2516	nuclear receptor subfamily 5, group A, member 1
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	22948	NLRP2	55655	NLR family, pyrin domain containing 2
+TESTONLY	9577	PSPH	5723	phosphoserine phosphatase
+TESTONLY	1511	CASP9	842	caspase 9, apoptosis-related cysteine peptidase
+TESTONLY	9567	PSMD9	5715	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9
+TESTONLY	6877	MAPK3	5595	mitogen-activated protein kinase 3
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	7714	NDUFS7	374291	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)
+TESTONLY	592	XIAP	331	X-linked inhibitor of apoptosis
+TESTONLY	12814	XPA	7507	xeroderma pigmentosum, complementation group A
+TESTONLY	16860	SART3	9733	squamous cell carcinoma antigen recognized by T cells 3
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	17169	PRDX4	10549	peroxiredoxin 4
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	3701	FHIT	2272	fragile histidine triad gene
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	7896	NPAT	4863	nuclear protein, ataxia-telangiectasia locus
+TESTONLY	12442	TYR	7299	tyrosinase (oculocutaneous albinism IA)
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+TESTONLY	17598	UBE2J1	51465	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)
+TESTONLY	5465	IGF1R	3480	insulin-like growth factor 1 receptor
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	4455	GPD1	2819	glycerol-3-phosphate dehydrogenase 1 (soluble)
+TESTONLY	9308	PPP2R4	5524	protein phosphatase 2A activator, regulatory subunit 4
+TESTONLY	12405	TTR	7276	transthyretin (prealbumin, amyloidosis type I)
+TESTONLY	8808	PDHB	5162	pyruvate dehydrogenase (lipoamide) beta
+
+COMMON	7661	NCF2	4688	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	20473	BRIP1	83990	BRCA1 interacting protein C-terminal helicase 1
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	1546	SERPINH1	871	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+COMMON	1317	C2orf3	6936	chromosome 2 open reading frame 3
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	6307	KDR	3791	kinase insert domain receptor (a type III receptor tyrosine kinase)
+COMMON	2345	CREB1	1385	cAMP responsive element binding protein 1
+COMMON	1509	CASP8	841	caspase 8, apoptosis-related cysteine peptidase
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+COMMON	1325	C4BPA	722	complement component 4 binding protein, alpha
+COMMON	12517	UCP1	7350	uncoupling protein 1 (mitochondrial, proton carrier)
+COMMON	11742	TFAP2A	7020	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)
+COMMON	3493	ETV4	2118	ets variant gene 4 (E1A enhancer binding protein, E1AF)
+COMMON	6204	JUN	3725	jun oncogene
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	11609	TBXAS1	6916	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	6879	MAPK6	5597	mitogen-activated protein kinase 6
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	3763	FLT1	2321	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	841	ATP5G1	516	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	21148	RNF123	63891	ring finger protein 123
+COMMON	3796	FOS	2353	v-fos FBJ murine osteosarcoma viral oncogene homolog
+COMMON	2983	DNTT	1791	deoxynucleotidyltransferase, terminal
+COMMON	11920	FAS	355	Fas (TNF receptor superfamily, member 6)
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+COMMON	14133	SEPX1	51734	selenoprotein X, 1
+COMMON	8988	PIN1	5300	peptidylprolyl cis/trans isomerase, NIMA-interacting 1
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	14929	SIRT1	23411	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)
+COMMON	11919	CD40	958	CD40 molecule, TNF receptor superfamily member 5
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	11049	SLC6A3	6531	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3
+COMMON	4646	GTF2A1	2957	general transcription factor IIA, 1, 19/37kDa
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6780	MAFF	23764	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+COMMON	10451	RRM1	6240	ribonucleotide reductase M1
+COMMON	9509	PSEN2	5664	presenilin 2 (Alzheimer disease 4)
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	3346	ENDOG	2021	endonuclease G
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	15917	PLCB1	23236	phospholipase C, beta 1 (phosphoinositide-specific)
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	8031	NTRK1	4914	neurotrophic tyrosine kinase, receptor, type 1
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	2244	COQ7	10229	coenzyme Q7 homolog, ubiquinone (yeast)
+COMMON	6776	MAF	4094	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	21285	ADCY10	55811	adenylate cyclase 10 (soluble)
+COMMON	8548	P4HB	5034	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide
+COMMON	445	SETX	23064	senataxin
+COMMON	7794	NFKB1	4790	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)
+COMMON	9065	PLCG1	5335	phospholipase C, gamma 1
+COMMON	9388	PRKAR1A	5573	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)
+COMMON	6081	INS	3630	insulin
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	19374	NKRF	55922	NFKB repressing factor
+COMMON	1499	CASP1	834	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	5241	HSPA8	3312	heat shock 70kDa protein 8
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+COMMON	14180	PDIA2	64714	protein disulfide isomerase family A, member 2
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	1516	CAT	847	catalase
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	7782	NFE2L2	4780	nuclear factor (erythroid-derived 2)-like 2
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	5244	HSPA9	3313	heat shock 70kDa protein 9 (mortalin)
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+COMMON	4331	GLS	2744	glutaminase
+COMMON	11205	SP1	6667	Sp1 transcription factor
+COMMON	4341	GLUL	2752	glutamate-ammonia ligase (glutamine synthetase)
+COMMON	23177	KEAP1	9817	kelch-like ECH-associated protein 1
+COMMON	10436	RPS6KB1	6198	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	5247	HSPB2	3316	heat shock 27kDa protein 2
+COMMON	6886	MAPK9	5601	mitogen-activated protein kinase 9
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+COMMON	14078	BACH2	60468	BTB and CNC homology 1, basic leucine zipper transcription factor 2
+COMMON	7889	NOX1	27035	NADPH oxidase 1
+COMMON	8607	PARK2	5071	Parkinson disease (autosomal recessive, juvenile) 2, parkin
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	11917	TNFRSF1B	7133	tumor necrosis factor receptor superfamily, member 1B
+COMMON	9391	PRKAR2A	5576	protein kinase, cAMP-dependent, regulatory, type II, alpha
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+COMMON	4572	GRIA2	2891	glutamate receptor, ionotropic, AMPA 2
+COMMON	6782	MAFK	7975	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	6206	JUND	3727	jun D proto-oncogene
+COMMON	4817	HARS2	23438	histidyl-tRNA synthetase 2, mitochondrial (putative)
+
+BACKGROUNDONLY	21420	CCRK	23552	cell cycle related kinase
+BACKGROUNDONLY	2527	CTSB	1508	cathepsin B
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	26101	ACSF2	80221	acyl-CoA synthetase family member 2
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	3471	ESRRA	2101	estrogen-related receptor alpha
+BACKGROUNDONLY	2228	COMT	1312	catechol-O-methyltransferase
+BACKGROUNDONLY	16	SERPINA3	12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3
+BACKGROUNDONLY	12663	VCAM1	7412	vascular cell adhesion molecule 1
+BACKGROUNDONLY	10838	SHB	6461	Src homology 2 domain containing adaptor protein B
+BACKGROUNDONLY	8723	SERPINA5	5104	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5
+BACKGROUNDONLY	12499	UBE4A	9354	ubiquitination factor E4A (UFD2 homolog, yeast)
+BACKGROUNDONLY	11291	SRF	6722	serum response factor (c-fos serum response element-binding transcription factor)
+BACKGROUNDONLY	3401	EPHX1	2052	epoxide hydrolase 1, microsomal (xenobiotic)
+BACKGROUNDONLY	2634	CYP2J2	1573	cytochrome P450, family 2, subfamily J, polypeptide 2
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	11241	SPI1	6688	spleen focus forming virus (SFFV) proviral integration oncogene spi1
+BACKGROUNDONLY	4893	HGF	3082	hepatocyte growth factor (hepapoietin A; scatter factor)
+BACKGROUNDONLY	19391	SOCS3	9021	suppressor of cytokine signaling 3
+BACKGROUNDONLY	1550	CBS	875	cystathionine-beta-synthase
+BACKGROUNDONLY	8546	P4HA1	5033	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I
+BACKGROUNDONLY	6321	KIF3C	3797	kinesin family member 3C
+BACKGROUNDONLY	4170	GATA1	2623	GATA binding protein 1 (globin transcription factor 1)
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	6541	LDHB	3945	lactate dehydrogenase B
+BACKGROUNDONLY	2641	CYP46A1	10858	cytochrome P450, family 46, subfamily A, polypeptide 1
+BACKGROUNDONLY	7775	NFATC1	4772	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+BACKGROUNDONLY	11916	TNFRSF1A	7132	tumor necrosis factor receptor superfamily, member 1A
+BACKGROUNDONLY	3688	FGFR1	2260	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	3767	FLT4	2324	fms-related tyrosine kinase 4
+BACKGROUNDONLY	3146	ECE1	1889	endothelin converting enzyme 1
+BACKGROUNDONLY	3133	EBP	10682	emopamil binding protein (sterol isomerase)
+BACKGROUNDONLY	1059	BLMH	642	bleomycin hydrolase
+BACKGROUNDONLY	327	AGPS	8540	alkylglycerone phosphate synthase
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	758	ASS1	445	argininosuccinate synthetase 1
+BACKGROUNDONLY	933	BACE1	23621	beta-site APP-cleaving enzyme 1
+BACKGROUNDONLY	6953	CD46	4179	CD46 molecule, complement regulatory protein
+BACKGROUNDONLY	17016	MYST2	11143	MYST histone acetyltransferase 2
+BACKGROUNDONLY	1189	AHSA1	10598	AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (yeast)
+BACKGROUNDONLY	10630	CCL4	6351	chemokine (C-C motif) ligand 4
+BACKGROUNDONLY	6190	JAK1	3716	Janus kinase 1 (a protein tyrosine kinase)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa
+BACKGROUNDONLY	1876	CFLAR	8837	CASP8 and FADD-like apoptosis regulator
+BACKGROUNDONLY	1984	CISH	1154	cytokine inducible SH2-containing protein
+BACKGROUNDONLY	14121	POLR3K	51728	polymerase (RNA) III (DNA directed) polypeptide K, 12.3 kDa
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1
+BACKGROUNDONLY	7436	MTHFR	4524	5,10-methylenetetrahydrofolate reductase (NADPH)
+BACKGROUNDONLY	11881	TMSB4X	7114	thymosin beta 4, X-linked
+BACKGROUNDONLY	2536	CTSK	1513	cathepsin K
+BACKGROUNDONLY	2638	CYP3A5	1577	cytochrome P450, family 3, subfamily A, polypeptide 5
+BACKGROUNDONLY	11777	TGM1	7051	transglutaminase 1 (K polypeptide epidermal type I, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	950	BAP1	8314	BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase)
+BACKGROUNDONLY	1165	DAGLA	747	diacylglycerol lipase, alpha
+BACKGROUNDONLY	11364	STAT3	6774	signal transducer and activator of transcription 3 (acute-phase response factor)
+BACKGROUNDONLY	5224	HSF1	3297	heat shock transcription factor 1
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2
+BACKGROUNDONLY	11543	TAF10	6881	TAF10 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 30kDa
+BACKGROUNDONLY	9604	PTGS1	5742	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	17944	EXOSC3	51010	exosome component 3
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	7173	MMP3	4314	matrix metallopeptidase 3 (stromelysin 1, progelatinase)
+BACKGROUNDONLY	10560	ATXN7	6314	ataxin 7
+BACKGROUNDONLY	4223	MSTN	2660	myostatin
+BACKGROUNDONLY	9204	PON1	5444	paraoxonase 1
+BACKGROUNDONLY	5215	HSD17B7	51478	hydroxysteroid (17-beta) dehydrogenase 7
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	5995	IL1RAP	3556	interleukin 1 receptor accessory protein
+BACKGROUNDONLY	8800	PDGFB	5155	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+BACKGROUNDONLY	6024	IL7R	3575	interleukin 7 receptor
+BACKGROUNDONLY	7176	MMP9	4318	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+BACKGROUNDONLY	17889	APEX2	27301	APEX nuclease (apurinic/apyrimidinic endonuclease) 2
+BACKGROUNDONLY	1473	CANX	821	calnexin
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	4281	GJA8	2703	gap junction protein, alpha 8, 50kDa
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	5246	HSPB1	3315	heat shock 27kDa protein 1
+BACKGROUNDONLY	6110	IQGAP1	8826	IQ motif containing GTPase activating protein 1
+BACKGROUNDONLY	30306	PHB2	11331	prohibitin 2
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	1940	CHM	1121	choroideremia (Rab escort protein 1)
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	2524	CTRL	1506	chymotrypsin-like
+BACKGROUNDONLY	2482	CSTB	1476	cystatin B (stefin B)
+BACKGROUNDONLY	2530	CTSE	1510	cathepsin E
+BACKGROUNDONLY	3530	F12	2161	coagulation factor XII (Hageman factor)
+BACKGROUNDONLY	9040	PLA2G7	7941	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)
+BACKGROUNDONLY	8104	OCLN	4950	occludin
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	9545	PSMB8	5696	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)
+BACKGROUNDONLY	2277	COX6A1	1337	cytochrome c oxidase subunit VIa polypeptide 1
+BACKGROUNDONLY	644	AR	367	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+BACKGROUNDONLY	18420	SETD2	29072	SET domain containing 2
+BACKGROUNDONLY	4573	GRIA3	2892	glutamate receptor, ionotrophic, AMPA 3
+BACKGROUNDONLY	436	ALOX5AP	241	arachidonate 5-lipoxygenase-activating protein
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	14065	HDAC9	9734	histone deacetylase 9
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	9592	PTGDS	5730	prostaglandin D2 synthase 21kDa (brain)
+BACKGROUNDONLY	11556	TAL1	6886	T-cell acute lymphocytic leukemia 1
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	9919	RBP1	5947	retinol binding protein 1, cellular
+BACKGROUNDONLY	7996	NRF1	4899	nuclear respiratory factor 1
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	4552	GPT	2875	glutamic-pyruvate transaminase (alanine aminotransferase)
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BACKGROUNDONLY	3544	F7	2155	coagulation factor VII (serum prothrombin conversion accelerator)
+BACKGROUNDONLY	9236	PPARG	5468	peroxisome proliferator-activated receptor gamma
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	18809	TUBA1B	10376	tubulin, alpha 1b
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	9546	PSMB9	5698	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	18704	ARD1A	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family
+BACKGROUNDONLY	3562	FABP7	2173	fatty acid binding protein 7, brain
+BACKGROUNDONLY	15860	PRPF6	24148	PRP6 pre-mRNA processing factor 6 homolog (S. cerevisiae)
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	13432	RNF19A	25897	ring finger protein 19A
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	4459	GPLD1	2822	glycosylphosphatidylinositol specific phospholipase D1
+BACKGROUNDONLY	2545	CTSS	1520	cathepsin S
+BACKGROUNDONLY	1242	C1QB	713	complement component 1, q subcomponent, B chain
+BACKGROUNDONLY	6619	LIPC	3990	lipase, hepatic
+BACKGROUNDONLY	8816	PDPK1	5170	3-phosphoinositide dependent protein kinase-1
+BACKGROUNDONLY	11741	TFAM	7019	transcription factor A, mitochondrial
+BACKGROUNDONLY	5270	DNAJB1	3337	DnaJ (Hsp40) homolog, subfamily B, member 1
+BACKGROUNDONLY	6872	MAPK10	5602	mitogen-activated protein kinase 10
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	435	ALOX5	240	arachidonate 5-lipoxygenase
+BACKGROUNDONLY	8621	PAX7	5081	paired box 7
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	5997	IL1RAPL2	26280	interleukin 1 receptor accessory protein-like 2
+BACKGROUNDONLY	2961	DYNC1H1	1778	dynein, cytoplasmic 1, heavy chain 1
+BACKGROUNDONLY	1705	CD86	942	CD86 molecule
+BACKGROUNDONLY	4910	HIF1A	3091	hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+BACKGROUNDONLY	2095	CLU	1191	clusterin
+BACKGROUNDONLY	9538	PSMB10	5699	proteasome (prosome, macropain) subunit, beta type, 10
+BACKGROUNDONLY	21683	NAPEPLD	222236	N-acyl phosphatidylethanolamine phospholipase D
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	9449	PRNP	5621	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)
+BACKGROUNDONLY	7166	MMP2	4313	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+BACKGROUNDONLY	1582	CCND1	595	cyclin D1
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2
+BACKGROUNDONLY	352	AIF1	199	allograft inflammatory factor 1
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	6896	MARK1	4139	MAP/microtubule affinity-regulating kinase 1
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	6130	ISG20	3669	interferon stimulated exonuclease gene 20kDa
+BACKGROUNDONLY	238	ADCY7	113	adenylate cyclase 7
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	2537	CTSL1	1514	cathepsin L1
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1
+BACKGROUNDONLY	6193	JAK3	3718	Janus kinase 3 (a protein tyrosine kinase, leukocyte)
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	3553	FAAH	2166	fatty acid amide hydrolase
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	30646	SND1	27044	staphylococcal nuclease and tudor domain containing 1
+BACKGROUNDONLY	2707	ACE	1636	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1
+BACKGROUNDONLY	24961	HOPX	84525	HOP homeobox
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	9035	PLA2G4A	5321	phospholipase A2, group IVA (cytosolic, calcium-dependent)
+BACKGROUNDONLY	2529	CTSD	1509	cathepsin D
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1
+BACKGROUNDONLY	8982	PIK3R4	30849	phosphoinositide-3-kinase, regulatory subunit 4
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	6677	LPL	4023	lipoprotein lipase
+BACKGROUNDONLY	610	APOC3	345	apolipoprotein C-III
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	9718	PXN	5829	paxillin
+BACKGROUNDONLY	11827	TJP1	7082	tight junction protein 1 (zona occludens 1)
+BACKGROUNDONLY	1907	CH25H	9023	cholesterol 25-hydroxylase
+BACKGROUNDONLY	10718	SELE	6401	selectin E (endothelial adhesion molecule 1)
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	5381	IDE	3416	insulin-degrading enzyme
+BACKGROUNDONLY	10477	RXRA	6256	retinoid X receptor, alpha
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	7978	NR3C1	2908	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	1508	CASP7	840	caspase 7, apoptosis-related cysteine peptidase
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	17877	NMNAT1	64802	nicotinamide nucleotide adenylyltransferase 1
+BACKGROUNDONLY	4886	HFE	3077	hemochromatosis
+BACKGROUNDONLY	17970	PAIP2	51247	poly(A) binding protein interacting protein 2
+BACKGROUNDONLY	403	ALDH3A2	224	aldehyde dehydrogenase 3 family, member A2
+BACKGROUNDONLY	3662	FGB	2244	fibrinogen beta chain
+BACKGROUNDONLY	1361	C9orf3	84909	chromosome 9 open reading frame 3
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	17082	MLC1	23209	megalencephalic leukoencephalopathy with subcortical cysts 1
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)
+BACKGROUNDONLY	1323	C4A	720	complement component 4A (Rodgers blood group)
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	473	AMT	275	aminomethyltransferase
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	1869	CETP	1071	cholesteryl ester transfer protein, plasma
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	3581	BPTF	2186	bromodomain PHD finger transcription factor
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

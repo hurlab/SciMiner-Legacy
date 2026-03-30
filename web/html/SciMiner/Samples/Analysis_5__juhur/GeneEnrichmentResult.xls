@@ -1,0 +1,400 @@
+#Symbol	ID	Name	t-total	t+	t-	t+uniq	common	b+uniq	b+	b-	b-total	t-ratiot	b-ratio	(t-ratio)/(b-ratio)	p-value	t-#target	t-#target	b-#target	b-#target
+IL6	6018	interleukin 6 (interferon, beta 2)	172	1	171	1	0	25	25	143	168	0.01	0.15	0.0	1.299e-07	399	399	555	555
+TNF	11892	tumor necrosis factor (TNF superfamily, member 2)	172	10	162	6	4	39	43	125	168	0.06	0.26	0.2	3.900e-07	399	399	555	555
+PTGS2	9605	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	172	2	170	2	0	26	26	142	168	0.01	0.15	0.1	5.096e-07	399	399	555	555
+CAT	1516	catalase	172	30	142	28	2	3	5	163	168	0.17	0.03	5.9	8.696e-06	399	399	555	555
+GFAP	4235	glial fibrillary acidic protein	172	6	166	4	2	20	22	146	168	0.03	0.13	0.3	1.358e-03	399	399	555	555
+COX8B	31395	cytochrome c oxidase, subunit 8B pseudogene	172	13	159	13	0	1	1	167	168	0.08	0.01	12.7	1.508e-03	399	399	555	555
+IL1B	5992	interleukin 1, beta	172	4	168	2	2	16	18	150	168	0.02	0.11	0.2	1.705e-03	399	399	555	555
+IFNG	5438	interferon, gamma	172	3	169	2	1	15	16	152	168	0.02	0.10	0.2	1.775e-03	399	399	555	555
+SOD2	11180	superoxide dismutase 2, mitochondrial	172	19	153	17	2	2	4	164	168	0.11	0.02	4.6	1.882e-03	399	399	555	555
+SOD1	11179	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	172	91	81	88	3	59	62	106	168	0.53	0.37	1.4	3.301e-03	399	399	555	555
+IL4	6014	interleukin 4	172	1	171	1	0	10	10	158	168	0.01	0.06	0.1	5.160e-03	399	399	555	555
+INS	6081	insulin	172	2	170	2	0	12	12	156	168	0.01	0.07	0.2	5.810e-03	399	399	555	555
+CYCS	19986	cytochrome c, somatic	172	20	152	19	1	5	6	162	168	0.12	0.04	3.3	7.019e-03	399	399	555	555
+IL10	5962	interleukin 10	172	1	171	1	0	9	9	159	168	0.01	0.05	0.1	9.879e-03	399	399	555	555
+CD4	1678	CD4 molecule	172	1	171	1	0	8	8	160	168	0.01	0.05	0.1	1.872e-02	399	399	555	555
+IL2	6001	interleukin 2	172	1	171	1	0	8	8	160	168	0.01	0.05	0.1	1.872e-02	399	399	555	555
+ACO2	118	aconitase 2, mitochondrial	172	9	163	8	1	0	1	167	168	0.05	0.01	8.8	1.978e-02	399	399	555	555
+CASP9	1511	caspase 9, apoptosis-related cysteine peptidase	172	6	166	6	0	0	0	168	168	0.03	0.00	bZero	2.994e-02	399	399	555	555
+CNTF	2169	ciliary neurotrophic factor	172	1	171	1	0	7	7	161	168	0.01	0.04	0.1	3.507e-02	399	399	555	555
+XDH	12805	xanthine dehydrogenase	172	8	164	7	1	0	1	167	168	0.05	0.01	7.8	3.671e-02	399	399	555	555
+CCS	1613	copper chaperone for superoxide dismutase	172	8	164	8	0	1	1	167	168	0.05	0.01	7.8	3.671e-02	399	399	555	555
+NOS2A	7873	nitric oxide synthase 2A (inducible, hepatocytes)	172	20	152	18	2	32	34	134	168	0.12	0.20	0.6	3.735e-02	399	399	555	555
+IL1A	5991	interleukin 1, alpha	172	2	170	1	1	7	8	160	168	0.01	0.05	0.2	5.905e-02	399	399	555	555
+SNCA	11138	synuclein, alpha (non A4 component of amyloid precursor)	172	5	167	5	0	0	0	168	168	0.03	0.00	bZero	6.075e-02	399	399	555	555
+CKB	1991	creatine kinase, brain	172	5	167	5	0	0	0	168	168	0.03	0.00	bZero	6.075e-02	399	399	555	555
+CD68	1693	CD68 molecule	172	1	171	0	1	5	6	162	168	0.01	0.04	0.2	6.483e-02	399	399	555	555
+CASP8	1509	caspase 8, apoptosis-related cysteine peptidase	172	1	171	1	0	6	6	162	168	0.01	0.04	0.2	6.483e-02	399	399	555	555
+TNFRSF1B	11917	tumor necrosis factor receptor superfamily, member 1B	172	1	171	1	0	6	6	162	168	0.01	0.04	0.2	6.483e-02	399	399	555	555
+PRPH	9461	peripherin	172	1	171	0	1	4	5	163	168	0.01	0.03	0.2	1.180e-01	399	399	555	555
+FXN	3951	frataxin	172	6	166	5	1	0	1	167	168	0.03	0.01	5.9	1.213e-01	399	399	555	555
+GSR	4623	glutathione reductase	172	6	166	6	0	1	1	167	168	0.03	0.01	5.9	1.213e-01	399	399	555	555
+CHAT	1912	choline acetyltransferase	172	4	168	4	0	0	0	168	168	0.02	0.00	bZero	1.229e-01	399	399	555	555
+IGF1	5464	insulin-like growth factor 1 (somatomedin C)	172	3	169	2	1	7	8	160	168	0.02	0.05	0.4	1.355e-01	399	399	555	555
+TH	11782	tyrosine hydroxylase	172	3	169	3	0	8	8	160	168	0.02	0.05	0.4	1.355e-01	399	399	555	555
+CD40	11919	CD40 molecule, TNF receptor superfamily member 5	172	3	169	3	0	8	8	160	168	0.02	0.05	0.4	1.355e-01	399	399	555	555
+NGF	7808	nerve growth factor (beta polypeptide)	172	6	166	5	1	11	12	156	168	0.03	0.07	0.5	1.517e-01	399	399	555	555
+GDNF	4232	glial cell derived neurotrophic factor	172	2	170	2	0	6	6	162	168	0.01	0.04	0.3	1.702e-01	399	399	555	555
+HMOX1	5013	heme oxygenase (decycling) 1	172	7	165	6	1	1	2	166	168	0.04	0.01	3.4	1.741e-01	399	399	555	555
+ACTB	132	actin, beta	172	1	171	1	0	4	4	164	168	0.01	0.02	0.2	2.106e-01	399	399	555	555
+DLD	2898	dihydrolipoamide dehydrogenase	172	3	169	3	0	0	0	168	168	0.02	0.00	bZero	2.479e-01	399	399	555	555
+GSS	4624	glutathione synthetase	172	3	169	3	0	0	0	168	168	0.02	0.00	bZero	2.479e-01	399	399	555	555
+ALDH9A1	412	aldehyde dehydrogenase 9 family, member A1	172	3	169	3	0	0	0	168	168	0.02	0.00	bZero	2.479e-01	399	399	555	555
+SLC25A4	10990	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	172	3	169	3	0	0	0	168	168	0.02	0.00	bZero	2.479e-01	399	399	555	555
+SLC25A6P1	16554	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 6, pseudogene 1	172	3	169	3	0	0	0	168	168	0.02	0.00	bZero	2.479e-01	399	399	555	555
+MAPK3	6877	mitogen-activated protein kinase 3	172	3	169	3	0	0	0	168	168	0.02	0.00	bZero	2.479e-01	399	399	555	555
+PRDX4	17169	peroxiredoxin 4	172	3	169	3	0	0	0	168	168	0.02	0.00	bZero	2.479e-01	399	399	555	555
+VEGFA	12680	vascular endothelial growth factor A	172	4	168	4	0	8	8	160	168	0.02	0.05	0.5	2.535e-01	399	399	555	555
+MAPT	6893	microtubule-associated protein tau	172	9	163	7	2	2	4	164	168	0.05	0.02	2.2	2.579e-01	399	399	555	555
+PIK3CA	8975	phosphoinositide-3-kinase, catalytic, alpha polypeptide	172	2	170	2	0	5	5	163	168	0.01	0.03	0.4	2.790e-01	399	399	555	555
+AIFM1	8768	apoptosis-inducing factor, mitochondrion-associated, 1	172	6	166	5	1	1	2	166	168	0.03	0.01	2.9	2.835e-01	399	399	555	555
+APP	620	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	172	22	150	20	2	27	29	139	168	0.13	0.17	0.7	2.885e-01	399	399	555	555
+APOE	613	apolipoprotein E	172	7	165	4	3	8	11	157	168	0.04	0.07	0.6	3.414e-01	399	399	555	555
+ALPI	437	alkaline phosphatase, intestinal	172	1	171	1	0	3	3	165	168	0.01	0.02	0.3	3.670e-01	399	399	555	555
+BAD	936	BCL2-antagonist of cell death	172	1	171	0	1	2	3	165	168	0.01	0.02	0.3	3.670e-01	399	399	555	555
+JUP	6207	junction plakoglobin	172	1	171	1	0	3	3	165	168	0.01	0.02	0.3	3.670e-01	399	399	555	555
+CP	2295	ceruloplasmin (ferroxidase)	172	4	168	4	0	1	1	167	168	0.02	0.01	3.9	3.715e-01	399	399	555	555
+SEPX1	14133	selenoprotein X, 1	172	4	168	3	1	0	1	167	168	0.02	0.01	3.9	3.715e-01	399	399	555	555
+GSTCD	25806	glutathione S-transferase, C-terminal domain containing	172	4	168	3	1	0	1	167	168	0.02	0.01	3.9	3.715e-01	399	399	555	555
+HBB	4827	hemoglobin, beta	172	4	168	4	0	1	1	167	168	0.02	0.01	3.9	3.715e-01	399	399	555	555
+COQ7	2244	coenzyme Q7 homolog, ubiquinone (yeast)	172	4	168	3	1	0	1	167	168	0.02	0.01	3.9	3.715e-01	399	399	555	555
+CASP1	1499	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	172	5	167	4	1	7	8	160	168	0.03	0.05	0.6	4.101e-01	399	399	555	555
+TXN	12435	thioredoxin	172	5	167	4	1	1	2	166	168	0.03	0.01	2.4	4.485e-01	399	399	555	555
+FASLG	11936	Fas ligand (TNF superfamily, member 6)	172	3	169	3	0	5	5	163	168	0.02	0.03	0.6	4.982e-01	399	399	555	555
+SYP	11506	synaptophysin	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+ATOX1	798	ATX1 antioxidant protein 1 homolog (yeast)	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+G6PD	4057	glucose-6-phosphate dehydrogenase	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+GSX1	20374	GS homeobox 1	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+UBC	12468	ubiquitin C	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+EGF	3229	epidermal growth factor (beta-urogastrone)	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+ATM	795	ataxia telangiectasia mutated	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+NLRP1	14374	NLR family, pyrin domain containing 1	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+DCXR	18985	dicarbonyl/L-xylulose reductase	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+AKR1B1	381	aldo-keto reductase family 1, member B1 (aldose reductase)	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+DLG4	2903	discs, large homolog 4 (Drosophila)	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+NDUFS4	7711	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+PRDX2	9353	peroxiredoxin 2	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+CS	2422	citrate synthase	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+GAD1	4092	glutamate decarboxylase 1 (brain, 67kDa)	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+MYC	7553	v-myc myelocytomatosis viral oncogene homolog (avian)	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+CDKN1A	1784	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+BAK1	949	BCL2-antagonist/killer 1	172	2	170	2	0	0	0	168	168	0.01	0.00	bZero	4.986e-01	399	399	555	555
+JUN	6204	jun oncogene	172	6	166	5	1	2	3	165	168	0.03	0.02	2.0	5.022e-01	399	399	555	555
+TP53	11998	tumor protein p53	172	6	166	5	1	2	3	165	168	0.03	0.02	2.0	5.022e-01	399	399	555	555
+CASP3	1504	caspase 3, apoptosis-related cysteine peptidase	172	11	161	11	0	14	14	154	168	0.06	0.08	0.8	5.380e-01	399	399	555	555
+BCL2	990	B-cell CLL/lymphoma 2	172	16	156	15	1	11	12	156	168	0.09	0.07	1.3	5.555e-01	399	399	555	555
+FOS	3796	v-fos FBJ murine osteosarcoma viral oncogene homolog	172	6	166	5	1	7	8	160	168	0.03	0.05	0.7	5.958e-01	399	399	555	555
+BDNF	1033	brain-derived neurotrophic factor	172	7	165	7	0	9	9	159	168	0.04	0.05	0.8	6.171e-01	399	399	555	555
+EPO	3415	erythropoietin	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+FADD	3573	Fas (TNFRSF6)-associated via death domain	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+HSP90AA1	5253	heat shock protein 90kDa alpha (cytosolic), class A member 1	172	1	171	0	1	1	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+MYH14	23212	myosin, heavy chain 14	172	1	171	0	1	1	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+TFAP2A	11742	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	172	1	171	0	1	1	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+ETV4	3493	ets variant gene 4 (E1A enhancer binding protein, E1AF)	172	1	171	0	1	1	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+TBXAS1	11609	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+CRH	2355	corticotropin releasing hormone	172	1	171	0	1	1	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+CCDC34	25079	coiled-coil domain containing 34	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+CSF1	2432	colony stimulating factor 1 (macrophage)	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+NTF4	8024	neurotrophin 4	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+NTRK1	8031	neurotrophic tyrosine kinase, receptor, type 1	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+ADCY10	21285	adenylate cyclase 10 (soluble)	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+PLCG1	9065	phospholipase C, gamma 1	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+RAC1	9801	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+POMC	9201	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	172	1	171	0	1	1	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+CYP2B6	2615	cytochrome P450, family 2, subfamily B, polypeptide 6	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+NEFH	7737	neurofilament, heavy polypeptide 200kDa	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+SP1	11205	Sp1 transcription factor	172	1	171	0	1	1	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+MYH7	7577	myosin, heavy chain 7, cardiac muscle, beta	172	1	171	0	1	1	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+PARK2	8607	Parkinson disease (autosomal recessive, juvenile) 2, parkin	172	1	171	0	1	1	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+FGF1	3665	fibroblast growth factor 1 (acidic)	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+CYBA	2577	cytochrome b-245, alpha polypeptide	172	1	171	1	0	2	2	166	168	0.01	0.01	0.5	6.195e-01	399	399	555	555
+ALB	399	albumin	172	10	162	10	0	7	7	161	168	0.06	0.04	1.4	6.205e-01	399	399	555	555
+GSTP1	4638	glutathione S-transferase pi	172	3	169	3	0	1	1	167	168	0.02	0.01	2.9	6.229e-01	399	399	555	555
+TF	11740	transferrin	172	3	169	3	0	1	1	167	168	0.02	0.01	2.9	6.229e-01	399	399	555	555
+APAF1	576	apoptotic peptidase activating factor 1	172	3	169	2	1	0	1	167	168	0.02	0.01	2.9	6.229e-01	399	399	555	555
+GPX1	4553	glutathione peroxidase 1	172	3	169	3	0	1	1	167	168	0.02	0.01	2.9	6.229e-01	399	399	555	555
+NCF2	7661	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)	172	2	170	1	1	2	3	165	168	0.01	0.02	0.7	6.820e-01	399	399	555	555
+CREB1	2345	cAMP responsive element binding protein 1	172	2	170	1	1	2	3	165	168	0.01	0.02	0.7	6.820e-01	399	399	555	555
+CYBB	2578	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	172	2	170	1	1	2	3	165	168	0.01	0.02	0.7	6.820e-01	399	399	555	555
+NEFL	7739	neurofilament, light polypeptide 68kDa	172	2	170	2	0	3	3	165	168	0.01	0.02	0.7	6.820e-01	399	399	555	555
+NPC1	7897	Niemann-Pick disease, type C1	172	2	170	0	2	1	3	165	168	0.01	0.02	0.7	6.820e-01	399	399	555	555
+GLUL	4341	glutamate-ammonia ligase (glutamine synthetase)	172	4	168	3	1	1	2	166	168	0.02	0.01	2.0	6.848e-01	399	399	555	555
+GRIA2	4572	glutamate receptor, ionotropic, AMPA 2	172	4	168	4	0	2	2	166	168	0.02	0.01	2.0	6.848e-01	399	399	555	555
+PRKCA	9393	protein kinase C, alpha	172	5	167	4	1	2	3	165	168	0.03	0.02	1.6	7.234e-01	399	399	555	555
+NOX5	14874	NADPH oxidase, EF-hand calcium binding domain 5	172	5	167	4	1	5	6	162	168	0.03	0.04	0.8	7.684e-01	399	399	555	555
+ARTN	727	artemin	172	8	164	7	1	8	9	159	168	0.05	0.05	0.9	8.079e-01	399	399	555	555
+NFKB1	7794	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	172	10	162	9	1	10	11	157	168	0.06	0.07	0.9	8.247e-01	399	399	555	555
+RPS27A	10417	ribosomal protein S27a	172	10	162	8	2	9	11	157	168	0.06	0.07	0.9	8.247e-01	399	399	555	555
+NOS1	7872	nitric oxide synthase 1 (neuronal)	172	12	160	11	1	9	10	158	168	0.07	0.06	1.2	8.264e-01	399	399	555	555
+CUZD1	17937	CUB and zona pellucida-like domains 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+FEN1	3650	flap structure-specific endonuclease 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PTEN	9588	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ALS2	443	amyotrophic lateral sclerosis 2 (juvenile)	172	2	170	1	1	1	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+BAX	959	BCL2-associated X protein	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PXMP3	9717	peroxisomal membrane protein 3, 35kDa (Zellweger syndrome)	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+RPA1	10289	replication protein A1, 70kDa	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+AVEN	13509	apoptosis, caspase activation inhibitor	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAP2K3	6843	mitogen-activated protein kinase kinase 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+RECQL5	9950	RecQ protein-like 5	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+QDPR	9752	quinoid dihydropteridine reductase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NDUFS1	7707	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ERCC3	3435	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAFG	6781	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+MAPK1	6871	mitogen-activated protein kinase 1	172	9	163	7	2	7	9	159	168	0.05	0.05	1.0	1.000e+00	399	399	555	555
+MT-ND4L	7460	mitochondrially encoded NADH dehydrogenase 4L	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+BRIP1	20473	BRCA1 interacting protein C-terminal helicase 1	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+PRPF3	17348	PRP3 pre-mRNA processing factor 3 homolog (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+DFFB	2773	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+MT-ND6	7462	mitochondrially encoded NADH dehydrogenase 6	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NTRK2	8032	neurotrophic tyrosine kinase, receptor, type 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MPG	7211	N-methylpurine-DNA glycosylase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PIK3R1	8979	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ALOX12	429	arachidonate 12-lipoxygenase	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+HSPE1	5269	heat shock 10kDa protein 1 (chaperonin 10)	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+MTRR	7473	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+VAMP1	12642	vesicle-associated membrane protein 1 (synaptobrevin 1)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SERPINH1	1546	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+POR	9208	P450 (cytochrome) oxidoreductase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MT-CYB	7427	mitochondrially encoded cytochrome b	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TRNAR1	12343	transfer RNA arginine 1 (anticodon UCU)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+HMGB1	4983	high-mobility group box 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+FKBP1A	3711	FK506 binding protein 1A, 12kDa	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PINK1	14581	PTEN induced putative kinase 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+STUB1	11427	STIP1 homology and U-box containing protein 1	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+BAG3	939	BCL2-associated athanogene 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GSX2	24959	GS homeobox 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+C2orf3	1317	chromosome 2 open reading frame 3	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+UQCR	30862	ubiquinol-cytochrome c reductase, 6.4kDa subunit	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+BCL2L1	992	BCL2-like 1	172	3	169	3	0	3	3	165	168	0.02	0.02	1.0	1.000e+00	399	399	555	555
+NTF3	8023	neurotrophin 3	172	2	170	2	0	2	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+KDR	6307	kinase insert domain receptor (a type III receptor tyrosine kinase)	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+SIRT2	10886	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ADH1A	249	alcohol dehydrogenase 1A (class I), alpha polypeptide	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+CASP2	1503	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+HSPD1	5261	heat shock 60kDa protein 1 (chaperonin)	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+PTPN3	9655	protein tyrosine phosphatase, non-receptor type 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+DDOST	2728	dolichyl-diphosphooligosaccharide-protein glycosyltransferase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+C4BPA	1325	complement component 4 binding protein, alpha	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+GORASP1	16769	golgi reassembly stacking protein 1, 65kDa	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+FMN1	3768	formin 1	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+UCP1	12517	uncoupling protein 1 (mitochondrial, proton carrier)	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+RECQL	9948	RecQ protein-like (DNA helicase Q1-like)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GRP	4605	gastrin-releasing peptide	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TICAM2	21354	toll-like receptor adaptor molecule 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TUFM	12420	Tu translation elongation factor, mitochondrial	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MT-ND3	7458	mitochondrially encoded NADH dehydrogenase 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TUBA3C	12408	tubulin, alpha 3c	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TUBB	20778	tubulin, beta	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MIF	7097	macrophage migration inhibitory factor (glycosylation-inhibiting factor)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+BRCA2	1101	breast cancer 2, early onset	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PSEN1	9508	presenilin 1 (Alzheimer disease 3)	172	5	167	4	1	4	5	163	168	0.03	0.03	1.0	1.000e+00	399	399	555	555
+DLEU2	13748	deleted in lymphocytic leukemia, 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+CASD1	16014	CAS1 domain containing 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SLC2A3	11007	solute carrier family 2 (facilitated glucose transporter), member 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAOB	6834	monoamine oxidase B	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NLRP3	16400	NLR family, pyrin domain containing 3	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+MAPK6	6879	mitogen-activated protein kinase 6	172	2	170	2	0	1	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+MT-ND4	7459	mitochondrially encoded NADH dehydrogenase 4	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+DUOX1	3062	dual oxidase 1	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+PARP1	270	poly (ADP-ribose) polymerase family, member 1	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+RAD52	9824	RAD52 homolog (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+AKT1	391	v-akt murine thymoma viral oncogene homolog 1	172	8	164	6	2	6	8	160	168	0.05	0.05	1.0	1.000e+00	399	399	555	555
+SLC22A1	10963	solute carrier family 22 (organic cation transporter), member 1	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+MPHOSPH1	7212	M-phase phosphoprotein 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+CD8A	1706	CD8a molecule	172	2	170	2	0	2	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+TFRC	11763	transferrin receptor (p90, CD71)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+CEL	1848	carboxyl ester lipase (bile salt-stimulated lipase)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+RAD50	9816	RAD50 homolog (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+FLT1	3763	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+NOS3	7876	nitric oxide synthase 3 (endothelial cell)	172	5	167	3	2	3	5	163	168	0.03	0.03	1.0	1.000e+00	399	399	555	555
+DHCR24	2859	24-dehydrocholesterol reductase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PPID	9257	peptidylprolyl isomerase D (cyclophilin D)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ABCD1	61	ATP-binding cassette, sub-family D (ALD), member 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+USP11	12609	ubiquitin specific peptidase 11	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SHC1	10840	SHC (Src homology 2 domain containing) transforming protein 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GLO1	4323	glyoxalase I	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MT-CO1	7419	mitochondrially encoded cytochrome c oxidase I	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+BBS9	30000	Bardet-Biedl syndrome 9	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+FBXO32	16731	F-box protein 32	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TCP1	11655	t-complex 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ATP5G1	841	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+DUOX2	13273	dual oxidase 2	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+MAPK8	6881	mitogen-activated protein kinase 8	172	3	169	3	0	3	3	165	168	0.02	0.02	1.0	1.000e+00	399	399	555	555
+SLC1A1	10939	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+SPHK1	11240	sphingosine kinase 1	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+MSRA	7377	methionine sulfoxide reductase A	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+CCT5	1618	chaperonin containing TCP1, subunit 5 (epsilon)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+RNF123	21148	ring finger protein 123	172	2	170	1	1	1	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+TIPARP	23696	TCDD-inducible poly(ADP-ribose) polymerase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PIK3CG	8978	phosphoinositide-3-kinase, catalytic, gamma polypeptide	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PRKACA	9380	protein kinase, cAMP-dependent, catalytic, alpha	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+DNTT	2983	deoxynucleotidyltransferase, terminal	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+FAS	11920	Fas (TNF receptor superfamily, member 6)	172	8	164	8	0	7	7	161	168	0.05	0.04	1.1	1.000e+00	399	399	555	555
+ATF2	784	activating transcription factor 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MB	6915	myoglobin	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PDHA1	8806	pyruvate dehydrogenase (lipoamide) alpha 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NFYA	7804	nuclear transcription factor Y, alpha	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PRKDC	9413	protein kinase, DNA-activated, catalytic polypeptide	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PRDX3	9354	peroxiredoxin 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PIN1	8988	peptidylprolyl cis/trans isomerase, NIMA-interacting 1	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+AKR1A1	380	aldo-keto reductase family 1, member A1 (aldehyde reductase)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SIGLEC7	10876	sialic acid binding Ig-like lectin 7	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+TPT1	12022	tumor protein, translationally-controlled 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAL	6817	mal, T-cell differentiation protein	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SIRT1	14929	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	172	2	170	2	0	1	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+SLC6A3	11049	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3	172	2	170	2	0	1	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+GTF2A1	4646	general transcription factor IIA, 1, 19/37kDa	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+NDUFS8	7715	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NR1H2	7965	nuclear receptor subfamily 1, group H, member 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GLRX	4330	glutaredoxin (thioltransferase)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAFF	6780	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+IDH3B	5385	isocitrate dehydrogenase 3 (NAD+) beta	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PSEN2	9509	presenilin 2 (Alzheimer disease 4)	172	3	169	2	1	1	2	166	168	0.02	0.01	1.5	1.000e+00	399	399	555	555
+HTT	4851	huntingtin	172	3	169	2	1	2	3	165	168	0.02	0.02	1.0	1.000e+00	399	399	555	555
+RRM1	10451	ribonucleotide reductase M1	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+SLC1A3	10941	solute carrier family 1 (glial high affinity glutamate transporter), member 3	172	2	170	2	0	2	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+ENDOG	3346	endonuclease G	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+IGFBP3	5472	insulin-like growth factor binding protein 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PLCB1	15917	phospholipase C, beta 1 (phosphoinositide-specific)	172	2	170	2	0	2	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+SLC30A3	11014	solute carrier family 30 (zinc transporter), member 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ATP13A2	30213	ATPase type 13A2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MYB	7545	v-myb myeloblastosis viral oncogene homolog (avian)	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+SLC39A3	17128	solute carrier family 39 (zinc transporter), member 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+CAMK2N1	24190	calcium/calmodulin-dependent protein kinase II inhibitor 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+RAD51	9817	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NQO1	2874	NAD(P)H dehydrogenase, quinone 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+EEF1A1	3189	eukaryotic translation elongation factor 1 alpha 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+C21orf2	1260	chromosome 21 open reading frame 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TRPV1	12716	transient receptor potential cation channel, subfamily V, member 1	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+MAP2K1	6840	mitogen-activated protein kinase kinase 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAF	6776	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+BLVRA	1062	biliverdin reductase A	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+P4HB	8548	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+CYC1	2579	cytochrome c-1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TAC1	11517	tachykinin, precursor 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+COL4A4	2206	collagen, type IV, alpha 4	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SETX	445	senataxin	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+PMS2	9122	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PRKAR1A	9388	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+TERF2	11729	telomeric repeat binding factor 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ACSS2	15814	acyl-CoA synthetase short-chain family member 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+APEX1	587	APEX nuclease (multifunctional DNA repair enzyme) 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NKRF	19374	NFKB repressing factor	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+MT-ND1	7455	mitochondrially encoded NADH dehydrogenase 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PDE5A	8784	phosphodiesterase 5A, cGMP-specific	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+HSPA1A	5232	heat shock 70kDa protein 1A	172	6	166	5	1	4	5	163	168	0.03	0.03	1.2	1.000e+00	399	399	555	555
+NEFM	7734	neurofilament, medium polypeptide 150kDa	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+HSPA8	5241	heat shock 70kDa protein 8	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+MAPK14	6876	mitogen-activated protein kinase 14	172	6	166	6	0	6	6	162	168	0.03	0.04	1.0	1.000e+00	399	399	555	555
+CDK4	1773	cyclin-dependent kinase 4	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+BLM	1058	Bloom syndrome	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SIRT3	14931	sirtuin (silent mating type information regulation 2 homolog) 3 (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SRFBP1	26333	serum response factor binding protein 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+LGALS3	6563	lectin, galactoside-binding, soluble, 3	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+CALM1	1442	calmodulin 1 (phosphorylase kinase, delta)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MT-ATP8	7415	mitochondrially encoded ATP synthase 8	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PRKCSH	9411	protein kinase C substrate 80K-H	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PDIA2	14180	protein disulfide isomerase family A, member 2	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+TSPO	1158	translocator protein (18kDa)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+HRAS	5173	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+H2AFX	4739	H2A histone family, member X	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SMPD2	11121	sphingomyelin phosphodiesterase 2, neutral membrane (neutral sphingomyelinase)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+XRCC6	4055	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+UCHL1	12513	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+PPIA	9253	peptidylprolyl isomerase A (cyclophilin A)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+AGT	333	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+RAD9A	9827	RAD9 homolog A (S. pombe)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NFE2L2	7782	nuclear factor (erythroid-derived 2)-like 2	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+PRDX6	16753	peroxiredoxin 6	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+SLC1A7	10945	solute carrier family 1 (glutamate transporter), member 7	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+NFKBIA	7797	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+COX17	2264	COX17 cytochrome c oxidase assembly homolog (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GGT1	4250	gamma-glutamyltransferase 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SFRS1	10780	splicing factor, arginine/serine-rich 1 (splicing factor 2, alternate splicing factor)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GRIA1	4571	glutamate receptor, ionotropic, AMPA 1	172	8	164	7	1	6	7	161	168	0.05	0.04	1.1	1.000e+00	399	399	555	555
+HSPA9	5244	heat shock 70kDa protein 9 (mortalin)	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+WNT2	12780	wingless-type MMTV integration site family member 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+DPYS	3013	dihydropyrimidinase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GLS	4331	glutaminase	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+SLC1A2	10940	solute carrier family 1 (glial high affinity glutamate transporter), member 2	172	9	163	9	0	9	9	159	168	0.05	0.05	1.0	1.000e+00	399	399	555	555
+TENC1	19737	tensin like C1 domain containing phosphatase (tensin 2)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NCF4	7662	neutrophil cytosolic factor 4, 40kDa	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+HMOX2	5014	heme oxygenase (decycling) 2	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+GCLC	4311	glutamate-cysteine ligase, catalytic subunit	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NCF1	7660	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+KEAP1	23177	kelch-like ECH-associated protein 1	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+SIL1	24624	SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ABP1	80	amiloride binding protein 1 (amine oxidase (copper-containing))	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+RPS6KB1	10436	ribosomal protein S6 kinase, 70kDa, polypeptide 1	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+PPARGC1A	9237	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+NR5A1	7983	nuclear receptor subfamily 5, group A, member 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+HSPB2	5247	heat shock 27kDa protein 2	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+DMD	2928	dystrophin (muscular dystrophy, Duchenne and Becker types)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PCNA	8729	proliferating cell nuclear antigen	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAPK9	6886	mitogen-activated protein kinase 9	172	2	170	2	0	2	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+NLRP2	22948	NLR family, pyrin domain containing 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAOA	6833	monoamine oxidase A	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+KLHL22	25888	kelch-like 22 (Drosophila)	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+PSPH	9577	phosphoserine phosphatase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+CD47	1682	CD47 molecule	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+IREB2	6115	iron-responsive element binding protein 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SOD3	11181	superoxide dismutase 3, extracellular	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+VAPB	12649	VAMP (vesicle-associated membrane protein)-associated protein B and C	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+MT-ATP6	7414	mitochondrially encoded ATP synthase 6	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PSMD9	9567	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+DIABLO	21528	diablo homolog (Drosophila)	172	2	170	1	1	1	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+BACH2	14078	BTB and CNC homology 1, basic leucine zipper transcription factor 2	172	1	171	0	1	0	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+ABCB7	48	ATP-binding cassette, sub-family B (MDR/TAP), member 7	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MT-ND2	7456	mitochondrially encoded NADH dehydrogenase 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GCLM	4312	glutamate-cysteine ligase, modifier subunit	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TPH1	12008	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+RHOD	670	ras homolog gene family, member D	172	2	170	2	0	1	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+NDUFS7	7714	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NOX1	7889	NADPH oxidase 1	172	2	170	2	0	2	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+XIAP	592	X-linked inhibitor of apoptosis	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+XPA	12814	xeroderma pigmentosum, complementation group A	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+FMO1	3769	flavin containing monooxygenase 1	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+SART3	16860	squamous cell carcinoma antigen recognized by T cells 3	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+WRN	12791	Werner syndrome	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+COX8A	2294	cytochrome c oxidase subunit 8A (ubiquitous)	172	3	169	3	0	2	2	166	168	0.02	0.01	1.5	1.000e+00	399	399	555	555
+COL1A1	2197	collagen, type I, alpha 1	172	2	170	2	0	1	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+TPO	12015	thyroid peroxidase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+FHIT	3701	fragile histidine triad gene	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GPX4	4556	glutathione peroxidase 4 (phospholipid hydroperoxidase)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NDUFA5	7688	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+C4orf6	13716	chromosome 4 open reading frame 6	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+PRKAR2A	9391	protein kinase, cAMP-dependent, regulatory, type II, alpha	172	2	170	2	0	1	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+COQ10A	26515	coenzyme Q10 homolog A (S. cerevisiae)	172	3	169	2	1	1	2	166	168	0.02	0.01	1.5	1.000e+00	399	399	555	555
+POLD1	9175	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NPC2	14537	Niemann-Pick disease, type C2	172	2	170	0	2	0	2	166	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+UBASH3B	29884	ubiquitin associated and SH3 domain containing, B	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+NPAT	7896	nuclear protein, ataxia-telangiectasia locus	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TYR	12442	tyrosinase (oculocutaneous albinism IA)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+CRISP2	12024	cysteine-rich secretory protein 2	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MRE11A	7230	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+HAGH	4805	hydroxyacylglutathione hydrolase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SRC	11283	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAP3K1	6848	mitogen-activated protein kinase kinase kinase 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+HSPA5	5238	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+OGG1	8125	8-oxoguanine DNA glycosylase	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+MAFK	6782	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+MT-ND5	7461	mitochondrially encoded NADH dehydrogenase 5	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+NOX4	7891	NADPH oxidase 4	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+ARHGAP24	25361	Rho GTPase activating protein 24	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PRDX1	9352	peroxiredoxin 1	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+TXN2	17772	thioredoxin 2	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+UBE2J1	17598	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+PVALB	9704	parvalbumin	172	2	170	2	0	1	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555
+IGF1R	5465	insulin-like growth factor 1 receptor	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SF1	12950	splicing factor 1	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GAPDH	4141	glyceraldehyde-3-phosphate dehydrogenase	172	6	166	5	1	5	6	162	168	0.03	0.04	1.0	1.000e+00	399	399	555	555
+PPP2R4	9308	protein phosphatase 2A activator, regulatory subunit 4	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+GPD1	4455	glycerol-3-phosphate dehydrogenase 1 (soluble)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+SLC1A6	10944	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+CAST	1515	calpastatin	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+TTR	12405	transthyretin (prealbumin, amyloidosis type I)	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+JUND	6206	jun D proto-oncogene	172	1	171	1	0	1	1	167	168	0.01	0.01	1.0	1.000e+00	399	399	555	555
+PDHB	8808	pyruvate dehydrogenase (lipoamide) beta	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+ABCA4	34	ATP-binding cassette, sub-family A (ABC1), member 4	172	1	171	1	0	0	0	168	168	0.01	0.00	bZero	1.000e+00	399	399	555	555
+HARS2	4817	histidyl-tRNA synthetase 2, mitochondrial (putative)	172	2	170	1	1	0	1	167	168	0.01	0.01	2.0	1.000e+00	399	399	555	555

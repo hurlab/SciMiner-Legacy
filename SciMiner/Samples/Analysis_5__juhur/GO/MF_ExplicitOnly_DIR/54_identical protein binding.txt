@@ -1,0 +1,32 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 8
+#COMMON: 12
+#BACKGROUNDONLY: 6
+TESTONLY	5465	IGF1R	3480	insulin-like growth factor 1 receptor
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	7211	MPG	4350	N-methylpurine-DNA glycosylase
+TESTONLY	61	ABCD1	215	ATP-binding cassette, sub-family D (ALD), member 1
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	11138	SNCA	6622	synuclein, alpha (non A4 component of amyloid precursor)
+
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	3763	FLT1	2321	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	3573	FADD	8772	Fas (TNFRSF6)-associated via death domain
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	11920	FAS	355	Fas (TNF receptor superfamily, member 6)
+COMMON	1509	CASP8	841	caspase 8, apoptosis-related cysteine peptidase
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+
+BACKGROUNDONLY	5246	HSPB1	3315	heat shock 27kDa protein 1
+BACKGROUNDONLY	6156	ITGB3	3690	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)
+BACKGROUNDONLY	12030	TRADD	8717	TNFRSF1A-associated via death domain
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	9449	PRNP	5621	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)

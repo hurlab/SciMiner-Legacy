@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	1773	CDK4	1019	cyclin-dependent kinase 4
+
+
+BACKGROUNDONLY	21420	CCRK	23552	cell cycle related kinase
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5

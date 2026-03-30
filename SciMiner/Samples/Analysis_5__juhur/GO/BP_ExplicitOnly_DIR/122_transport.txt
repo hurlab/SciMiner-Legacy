@@ -1,0 +1,72 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 22
+#COMMON: 17
+#BACKGROUNDONLY: 27
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	11506	SYP	6855	synaptophysin
+TESTONLY	30862	UQCR	10975	ubiquinol-cytochrome c reductase, 6.4kDa subunit
+TESTONLY	61	ABCD1	215	ATP-binding cassette, sub-family D (ALD), member 1
+TESTONLY	4323	GLO1	2739	glyoxalase I
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	7715	NDUFS8	4728	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)
+TESTONLY	4330	GLRX	2745	glutaredoxin (thioltransferase)
+TESTONLY	48	ABCB7	22	ATP-binding cassette, sub-family B (MDR/TAP), member 7
+TESTONLY	21354	TICAM2	353376	toll-like receptor adaptor molecule 2
+TESTONLY	7714	NDUFS7	374291	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)
+TESTONLY	17348	PRPF3	9129	PRP3 pre-mRNA processing factor 3 homolog (S. cerevisiae)
+TESTONLY	30213	ATP13A2	23400	ATPase type 13A2
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	12405	TTR	7276	transthyretin (prealbumin, amyloidosis type I)
+TESTONLY	10990	SLC25A4	291	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	34	ABCA4	24	ATP-binding cassette, sub-family A (ABC1), member 4
+TESTONLY	6915	MB	4151	myoglobin
+TESTONLY	2579	CYC1	1537	cytochrome c-1
+TESTONLY	7688	NDUFA5	4698	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa
+
+COMMON	10963	SLC22A1	6580	solute carrier family 22 (organic cation transporter), member 1
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	4572	GRIA2	2891	glutamate receptor, ionotropic, AMPA 2
+COMMON	10945	SLC1A7	6512	solute carrier family 1 (glutamate transporter), member 7
+COMMON	17772	TXN2	25828	thioredoxin 2
+COMMON	10939	SLC1A1	6505	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1
+COMMON	12517	UCP1	7350	uncoupling protein 1 (mitochondrial, proton carrier)
+COMMON	10941	SLC1A3	6507	solute carrier family 1 (glial high affinity glutamate transporter), member 3
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	399	ALB	213	albumin
+COMMON	10940	SLC1A2	6506	solute carrier family 1 (glial high affinity glutamate transporter), member 2
+COMMON	2577	CYBA	1535	cytochrome b-245, alpha polypeptide
+COMMON	12435	TXN	7295	thioredoxin
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+COMMON	4827	HBB	3043	hemoglobin, beta
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+COMMON	1062	BLVRA	644	biliverdin reductase A
+
+BACKGROUNDONLY	9592	PTGDS	5730	prostaglandin D2 synthase 21kDa (brain)
+BACKGROUNDONLY	1756	CDH17	1015	cadherin 17, LI cadherin (liver-intestine)
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	7700	NDUFB5	4711	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa
+BACKGROUNDONLY	7685	NDUFA2	4695	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa
+BACKGROUNDONLY	12518	UCP2	7351	uncoupling protein 2 (mitochondrial, proton carrier)
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	11005	SLC2A1	6513	solute carrier family 2 (facilitated glucose transporter), member 1
+BACKGROUNDONLY	7996	NRF1	4899	nuclear respiratory factor 1
+BACKGROUNDONLY	9919	RBP1	5947	retinol binding protein 1, cellular
+BACKGROUNDONLY	4574	GRIA4	2893	glutamate receptor, ionotrophic, AMPA 4
+BACKGROUNDONLY	95	SLC33A1	9197	solute carrier family 33 (acetyl-CoA transporter), member 1
+BACKGROUNDONLY	14079	CHRNA9	55584	cholinergic receptor, nicotinic, alpha 9
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)
+BACKGROUNDONLY	800	ATP1A2	477	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	9103	PLXNB1	5364	plexin B1
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa
+BACKGROUNDONLY	3562	FABP7	2173	fatty acid binding protein 7, brain
+BACKGROUNDONLY	5995	IL1RAP	3556	interleukin 1 receptor accessory protein
+BACKGROUNDONLY	644	AR	367	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+BACKGROUNDONLY	4573	GRIA3	2892	glutamate receptor, ionotrophic, AMPA 3
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	4281	GJA8	2703	gap junction protein, alpha 8, 50kDa

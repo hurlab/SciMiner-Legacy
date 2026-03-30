@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 1
+
+COMMON	9388	PRKAR1A	5573	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5

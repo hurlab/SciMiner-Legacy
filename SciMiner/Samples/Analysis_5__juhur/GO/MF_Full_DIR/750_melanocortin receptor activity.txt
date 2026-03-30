@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 1
+TESTONLY	7553	MYC	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+
+
+BACKGROUNDONLY	3023	DRD2	1813	dopamine receptor D2

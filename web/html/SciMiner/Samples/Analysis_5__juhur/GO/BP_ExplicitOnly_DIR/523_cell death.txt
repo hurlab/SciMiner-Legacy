@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 4
+#BACKGROUNDONLY: 5
+TESTONLY	17169	PRDX4	10549	peroxiredoxin 4
+
+COMMON	1499	CASP1	834	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+COMMON	445	SETX	23064	senataxin
+COMMON	6081	INS	3630	insulin
+COMMON	11917	TNFRSF1B	7133	tumor necrosis factor receptor superfamily, member 1B
+
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	758	ASS1	445	argininosuccinate synthetase 1
+BACKGROUNDONLY	2095	CLU	1191	clusterin
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	10560	ATXN7	6314	ataxin 7

@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 3
+#BACKGROUNDONLY: 5
+TESTONLY	7377	MSRA	4482	methionine sulfoxide reductase A
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	17598	UBE2J1	51465	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)
+TESTONLY	12468	UBC	7316	ubiquitin C
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	8607	PARK2	5071	Parkinson disease (autosomal recessive, juvenile) 2, parkin
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+
+BACKGROUNDONLY	950	BAP1	8314	BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase)
+BACKGROUNDONLY	2228	COMT	1312	catechol-O-methyltransferase
+BACKGROUNDONLY	13432	RNF19A	25897	ring finger protein 19A
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	11777	TGM1	7051	transglutaminase 1 (K polypeptide epidermal type I, protein-glutamine-gamma-glutamyltransferase)

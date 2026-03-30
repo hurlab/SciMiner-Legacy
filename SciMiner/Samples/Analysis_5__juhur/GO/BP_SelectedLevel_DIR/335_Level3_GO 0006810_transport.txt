@@ -1,0 +1,199 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 48
+#COMMON: 63
+#BACKGROUNDONLY: 82
+TESTONLY	7212	MPHOSPH1	9585	M-phase phosphoprotein 1
+TESTONLY	11763	TFRC	7037	transferrin receptor (p90, CD71)
+TESTONLY	24624	SIL1	64374	SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	2206	COL4A4	1286	collagen, type IV, alpha 4
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	11506	SYP	6855	synaptophysin
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	1682	CD47	961	CD47 molecule
+TESTONLY	61	ABCD1	215	ATP-binding cassette, sub-family D (ALD), member 1
+TESTONLY	4323	GLO1	2739	glyoxalase I
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	11138	SNCA	6622	synuclein, alpha (non A4 component of amyloid precursor)
+TESTONLY	9567	PSMD9	5715	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9
+TESTONLY	48	ABCB7	22	ATP-binding cassette, sub-family B (MDR/TAP), member 7
+TESTONLY	7714	NDUFS7	374291	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)
+TESTONLY	17348	PRPF3	9129	PRP3 pre-mRNA processing factor 3 homolog (S. cerevisiae)
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	6915	MB	4151	myoglobin
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+TESTONLY	7688	NDUFA5	4698	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	12022	TPT1	7178	tumor protein, translationally-controlled 1
+TESTONLY	30862	UQCR	10975	ubiquinol-cytochrome c reductase, 6.4kDa subunit
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	7715	NDUFS8	4728	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)
+TESTONLY	2264	COX17	10063	COX17 cytochrome c oxidase assembly homolog (S. cerevisiae)
+TESTONLY	4330	GLRX	2745	glutaredoxin (thioltransferase)
+TESTONLY	16769	GORASP1	64689	golgi reassembly stacking protein 1, 65kDa
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	21354	TICAM2	353376	toll-like receptor adaptor molecule 2
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	12408	TUBA3C	7278	tubulin, alpha 3c
+TESTONLY	4455	GPD1	2819	glycerol-3-phosphate dehydrogenase 1 (soluble)
+TESTONLY	30213	ATP13A2	23400	ATPase type 13A2
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	17128	SLC39A3	29985	solute carrier family 39 (zinc transporter), member 3
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	12405	TTR	7276	transthyretin (prealbumin, amyloidosis type I)
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	10990	SLC25A4	291	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+TESTONLY	34	ABCA4	24	ATP-binding cassette, sub-family A (ABC1), member 4
+TESTONLY	2579	CYC1	1537	cytochrome c-1
+
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	6081	INS	3630	insulin
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	2295	CP	1356	ceruloplasmin (ferroxidase)
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	23212	MYH14	79784	myosin, heavy chain 14
+COMMON	727	ARTN	9048	artemin
+COMMON	1516	CAT	847	catalase
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+COMMON	10945	SLC1A7	6512	solute carrier family 1 (glutamate transporter), member 7
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	12517	UCP1	7350	uncoupling protein 1 (mitochondrial, proton carrier)
+COMMON	2578	CYBB	1536	cytochrome b-245, beta polypeptide (chronic granulomatous disease)
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	5244	HSPA9	3313	heat shock 70kDa protein 9 (mortalin)
+COMMON	4232	GDNF	2668	glial cell derived neurotrophic factor
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+COMMON	10940	SLC1A2	6506	solute carrier family 1 (glial high affinity glutamate transporter), member 2
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	10963	SLC22A1	6580	solute carrier family 22 (organic cation transporter), member 1
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	841	ATP5G1	516	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+COMMON	10939	SLC1A1	6505	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	670	RHOD	29984	ras homolog gene family, member D
+COMMON	7889	NOX1	27035	NADPH oxidase 1
+COMMON	3951	FXN	2395	frataxin
+COMMON	12435	TXN	7295	thioredoxin
+COMMON	11740	TF	7018	transferrin
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+COMMON	8988	PIN1	5300	peptidylprolyl cis/trans isomerase, NIMA-interacting 1
+COMMON	4572	GRIA2	2891	glutamate receptor, ionotropic, AMPA 2
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	11049	SLC6A3	6531	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	9352	PRDX1	5052	peroxiredoxin 1
+COMMON	17772	TXN2	25828	thioredoxin 2
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	10941	SLC1A3	6507	solute carrier family 1 (glial high affinity glutamate transporter), member 3
+COMMON	399	ALB	213	albumin
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	2577	CYBA	1535	cytochrome b-245, alpha polypeptide
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+COMMON	4827	HBB	3043	hemoglobin, beta
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+
+BACKGROUNDONLY	9592	PTGDS	5730	prostaglandin D2 synthase 21kDa (brain)
+BACKGROUNDONLY	7700	NDUFB5	4711	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa
+BACKGROUNDONLY	10599	SCNN1A	6337	sodium channel, nonvoltage-gated 1 alpha
+BACKGROUNDONLY	15869	KIF16B	55614	kinesin family member 16B
+BACKGROUNDONLY	7996	NRF1	4899	nuclear respiratory factor 1
+BACKGROUNDONLY	9919	RBP1	5947	retinol binding protein 1, cellular
+BACKGROUNDONLY	4574	GRIA4	2893	glutamate receptor, ionotrophic, AMPA 4
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BACKGROUNDONLY	95	SLC33A1	9197	solute carrier family 33 (acetyl-CoA transporter), member 1
+BACKGROUNDONLY	18809	TUBA1B	10376	tubulin, alpha 1b
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family
+BACKGROUNDONLY	3562	FABP7	2173	fatty acid binding protein 7, brain
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	6321	KIF3C	3797	kinesin family member 3C
+BACKGROUNDONLY	18652	VPS54	51542	vacuolar protein sorting 54 homolog (S. cerevisiae)
+BACKGROUNDONLY	7775	NFATC1	4772	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+BACKGROUNDONLY	1242	C1QB	713	complement component 1, q subcomponent, B chain
+BACKGROUNDONLY	6619	LIPC	3990	lipase, hepatic
+BACKGROUNDONLY	7197	MOG	4340	myelin oligodendrocyte glycoprotein
+BACKGROUNDONLY	6323	KIF5A	3798	kinesin family member 5A
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	11005	SLC2A1	6513	solute carrier family 2 (facilitated glucose transporter), member 1
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	2961	DYNC1H1	1778	dynein, cytoplasmic 1, heavy chain 1
+BACKGROUNDONLY	14079	CHRNA9	55584	cholinergic receptor, nicotinic, alpha 9
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	1692	CD63	967	CD63 molecule
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	4191	GCG	2641	glucagon
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	7685	NDUFA2	4695	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa
+BACKGROUNDONLY	12518	UCP2	7351	uncoupling protein 2 (mitochondrial, proton carrier)
+BACKGROUNDONLY	7576	MYH6	4624	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	9103	PLXNB1	5364	plexin B1
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	5995	IL1RAP	3556	interleukin 1 receptor accessory protein
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	610	APOC3	345	apolipoprotein C-III
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	19349	KIF21A	55605	kinesin family member 21A
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	10718	SELE	6401	selectin E (endothelial adhesion molecule 1)
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	4281	GJA8	2703	gap junction protein, alpha 8, 50kDa
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	1756	CDH17	1015	cadherin 17, LI cadherin (liver-intestine)
+BACKGROUNDONLY	1508	CASP7	840	caspase 7, apoptosis-related cysteine peptidase
+BACKGROUNDONLY	1940	CHM	1121	choroideremia (Rab escort protein 1)
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	4886	HFE	3077	hemochromatosis
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	800	ATP1A2	477	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	11848	TLR2	7097	toll-like receptor 2
+BACKGROUNDONLY	3613	FCGR1A	2209	Fc fragment of IgG, high affinity Ia, receptor (CD64)
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)
+BACKGROUNDONLY	17082	MLC1	23209	megalencephalic leukoencephalopathy with subcortical cysts 1
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	11050	SLC6A4	6532	solute carrier family 6 (neurotransmitter transporter, serotonin), member 4
+BACKGROUNDONLY	644	AR	367	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+BACKGROUNDONLY	4573	GRIA3	2892	glutamate receptor, ionotrophic, AMPA 3
+BACKGROUNDONLY	2187	COL11A2	1302	collagen, type XI, alpha 2
+BACKGROUNDONLY	10935	SLC18A2	6571	solute carrier family 18 (vesicular monoamine), member 2
+BACKGROUNDONLY	1869	CETP	1071	cholesteryl ester transfer protein, plasma
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	29823	MYL6B	140465	myosin, light chain 6B, alkali, smooth muscle and non-muscle
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

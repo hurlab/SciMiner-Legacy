@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	3573	FADD	8772	Fas (TNFRSF6)-associated via death domain
+
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)

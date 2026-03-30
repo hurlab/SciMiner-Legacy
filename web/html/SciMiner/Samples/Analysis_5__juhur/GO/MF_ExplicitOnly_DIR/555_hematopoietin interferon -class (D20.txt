@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+
+COMMON	6014	IL4	3565	interleukin 4
+
+BACKGROUNDONLY	5973	IL13	3596	interleukin 13

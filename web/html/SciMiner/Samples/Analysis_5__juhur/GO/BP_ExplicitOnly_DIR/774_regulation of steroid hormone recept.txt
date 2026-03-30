@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 0
+
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+

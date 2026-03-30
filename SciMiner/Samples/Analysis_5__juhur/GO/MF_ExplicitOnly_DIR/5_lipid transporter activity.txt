@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 11
+
+COMMON	613	APOE	348	apolipoprotein E
+
+BACKGROUNDONLY	9204	PON1	5444	paraoxonase 1
+BACKGROUNDONLY	5995	IL1RAP	3556	interleukin 1 receptor accessory protein
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	6677	LPL	4023	lipoprotein lipase
+BACKGROUNDONLY	610	APOC3	345	apolipoprotein C-III
+BACKGROUNDONLY	6619	LIPC	3990	lipase, hepatic
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)

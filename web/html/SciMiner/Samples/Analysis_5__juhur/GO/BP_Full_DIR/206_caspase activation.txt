@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 6
+#BACKGROUNDONLY: 2
+TESTONLY	1511	CASP9	842	caspase 9, apoptosis-related cysteine peptidase
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	14374	NLRP1	22861	NLR family, pyrin domain containing 1
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+
+COMMON	21528	DIABLO	56616	diablo homolog (Drosophila)
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BACKGROUNDONLY	11905	TNFRSF10B	8795	tumor necrosis factor receptor superfamily, member 10b

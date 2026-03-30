@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 5
+#BACKGROUNDONLY: 8
+
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+COMMON	4572	GRIA2	2891	glutamate receptor, ionotropic, AMPA 2
+
+BACKGROUNDONLY	14079	CHRNA9	55584	cholinergic receptor, nicotinic, alpha 9
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	10599	SCNN1A	6337	sodium channel, nonvoltage-gated 1 alpha
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	4573	GRIA3	2892	glutamate receptor, ionotrophic, AMPA 3
+BACKGROUNDONLY	4574	GRIA4	2893	glutamate receptor, ionotrophic, AMPA 4
+BACKGROUNDONLY	17082	MLC1	23209	megalencephalic leukoencephalopathy with subcortical cysts 1

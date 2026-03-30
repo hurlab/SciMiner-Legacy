@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	3711	FKBP1A	2280	FK506 binding protein 1A, 12kDa
+TESTONLY	9253	PPIA	5478	peptidylprolyl isomerase A (cyclophilin A)
+TESTONLY	9257	PPID	5481	peptidylprolyl isomerase D (cyclophilin D)
+
+COMMON	8988	PIN1	5300	peptidylprolyl cis/trans isomerase, NIMA-interacting 1
+

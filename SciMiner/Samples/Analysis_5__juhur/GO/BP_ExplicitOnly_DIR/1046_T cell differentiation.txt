@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	6001	IL2	3558	interleukin 2
+
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1

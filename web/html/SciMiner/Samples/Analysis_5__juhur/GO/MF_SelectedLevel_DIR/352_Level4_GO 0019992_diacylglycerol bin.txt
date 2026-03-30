@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	19737	TENC1	23371	tensin like C1 domain containing phosphatase (tensin 2)
+
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+
+BACKGROUNDONLY	2856	DGKQ	1609	diacylglycerol kinase, theta 110kDa

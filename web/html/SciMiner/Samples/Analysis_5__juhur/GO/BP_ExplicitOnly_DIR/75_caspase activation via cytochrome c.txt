@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 4
+#BACKGROUNDONLY: 0
+TESTONLY	1511	CASP9	842	caspase 9, apoptosis-related cysteine peptidase
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	21528	DIABLO	56616	diablo homolog (Drosophila)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+

@@ -1,0 +1,25 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 4
+#BACKGROUNDONLY: 14
+TESTONLY	21354	TICAM2	353376	toll-like receptor adaptor molecule 2
+
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	11919	CD40	958	CD40 molecule, TNF receptor superfamily member 5
+COMMON	11920	FAS	355	Fas (TNF receptor superfamily, member 6)
+COMMON	11917	TNFRSF1B	7133	tumor necrosis factor receptor superfamily, member 1B
+
+BACKGROUNDONLY	5995	IL1RAP	3556	interleukin 1 receptor accessory protein
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	3133	EBP	10682	emopamil binding protein (sterol isomerase)
+BACKGROUNDONLY	5344	ICAM1	3383	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	5997	IL1RAPL2	26280	interleukin 1 receptor accessory protein-like 2
+BACKGROUNDONLY	10638	CXCL11	6373	chemokine (C-X-C motif) ligand 11
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	15633	TLR9	54106	toll-like receptor 9
+BACKGROUNDONLY	11905	TNFRSF10B	8795	tumor necrosis factor receptor superfamily, member 10b
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	11848	TLR2	7097	toll-like receptor 2

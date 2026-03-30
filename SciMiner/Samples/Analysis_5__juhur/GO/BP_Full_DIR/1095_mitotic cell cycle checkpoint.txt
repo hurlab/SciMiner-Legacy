@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+
+COMMON	11998	TP53	7157	tumor protein p53
+
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 3
+TESTONLY	380	AKR1A1	10327	aldo-keto reductase family 1, member A1 (aldehyde reductase)
+
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	4817	HARS2	23438	histidyl-tRNA synthetase 2, mitochondrial (putative)
+
+BACKGROUNDONLY	6321	KIF3C	3797	kinesin family member 3C
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	17082	MLC1	23209	megalencephalic leukoencephalopathy with subcortical cysts 1

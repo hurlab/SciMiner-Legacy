@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+
+
+BACKGROUNDONLY	6130	ISG20	3669	interferon stimulated exonuclease gene 20kDa
+BACKGROUNDONLY	17944	EXOSC3	51010	exosome component 3

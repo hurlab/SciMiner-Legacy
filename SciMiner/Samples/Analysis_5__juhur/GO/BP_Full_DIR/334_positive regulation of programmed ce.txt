@@ -1,0 +1,62 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 14
+#COMMON: 23
+#BACKGROUNDONLY: 19
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	14374	NLRP1	22861	NLR family, pyrin domain containing 1
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	1499	CASP1	834	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	4851	HTT	3064	huntingtin
+COMMON	9509	PSEN2	5664	presenilin 2 (Alzheimer disease 4)
+COMMON	21528	DIABLO	56616	diablo homolog (Drosophila)
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	936	BAD	572	BCL2-antagonist of cell death
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	3573	FADD	8772	Fas (TNFRSF6)-associated via death domain
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	11920	FAS	355	Fas (TNF receptor superfamily, member 6)
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+
+BACKGROUNDONLY	7809	NGFR	4804	nerve growth factor receptor (TNFR superfamily, member 16)
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	12030	TRADD	8717	TNFRSF1A-associated via death domain
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	11848	TLR2	7097	toll-like receptor 2
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)
+BACKGROUNDONLY	1876	CFLAR	8837	CASP8 and FADD-like apoptosis regulator
+BACKGROUNDONLY	6008	IL2RA	3559	interleukin 2 receptor, alpha
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	7176	MMP9	4318	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	11329	SST	6750	somatostatin
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	11905	TNFRSF10B	8795	tumor necrosis factor receptor superfamily, member 10b
+BACKGROUNDONLY	9071	PLG	5340	plasminogen

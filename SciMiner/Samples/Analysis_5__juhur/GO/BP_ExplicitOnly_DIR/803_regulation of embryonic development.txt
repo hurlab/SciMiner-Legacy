@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 0
+
+COMMON	7782	NFE2L2	4780	nuclear factor (erythroid-derived 2)-like 2
+

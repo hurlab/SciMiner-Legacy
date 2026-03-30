@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 3
+TESTONLY	7097	MIF	4282	macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+
+COMMON	11609	TBXAS1	6916	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)
+COMMON	14180	PDIA2	64714	protein disulfide isomerase family A, member 2
+COMMON	8548	P4HB	5034	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide
+
+BACKGROUNDONLY	9592	PTGDS	5730	prostaglandin D2 synthase 21kDa (brain)
+BACKGROUNDONLY	4281	GJA8	2703	gap junction protein, alpha 8, 50kDa
+BACKGROUNDONLY	3133	EBP	10682	emopamil binding protein (sterol isomerase)

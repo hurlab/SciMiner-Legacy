@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2

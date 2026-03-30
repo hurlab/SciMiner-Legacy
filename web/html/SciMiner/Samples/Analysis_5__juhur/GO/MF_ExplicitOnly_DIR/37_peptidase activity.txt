@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 9
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+
+COMMON	9509	PSEN2	5664	presenilin 2 (Alzheimer disease 4)
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+
+BACKGROUNDONLY	7176	MMP9	4318	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+BACKGROUNDONLY	3544	F7	2155	coagulation factor VII (serum prothrombin conversion accelerator)
+BACKGROUNDONLY	2524	CTRL	1506	chymotrypsin-like
+BACKGROUNDONLY	933	BACE1	23621	beta-site APP-cleaving enzyme 1
+BACKGROUNDONLY	2530	CTSE	1510	cathepsin E
+BACKGROUNDONLY	9545	PSMB8	5696	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)
+BACKGROUNDONLY	2529	CTSD	1509	cathepsin D

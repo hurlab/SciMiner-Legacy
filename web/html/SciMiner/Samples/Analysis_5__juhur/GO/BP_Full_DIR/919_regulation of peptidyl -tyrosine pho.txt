@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 5
+#BACKGROUNDONLY: 7
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	8800	PDGFB	5155	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	2770	DES	1674	desmin

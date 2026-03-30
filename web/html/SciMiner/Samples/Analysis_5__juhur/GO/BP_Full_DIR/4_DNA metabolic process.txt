@@ -1,0 +1,74 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 32
+#COMMON: 24
+#BACKGROUNDONLY: 12
+TESTONLY	9824	RAD52	5893	RAD52 homolog (S. cerevisiae)
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	4739	H2AFX	3014	H2A histone family, member X
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+TESTONLY	4055	XRCC6	2547	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	9950	RECQL5	9400	RecQ protein-like 5
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9948	RECQL	5965	RecQ protein-like (DNA helicase Q1-like)
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	12814	XPA	7507	xeroderma pigmentosum, complementation group A
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	7211	MPG	4350	N-methylpurine-DNA glycosylase
+TESTONLY	17169	PRDX4	10549	peroxiredoxin 4
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	3701	FHIT	2272	fragile histidine triad gene
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	445	SETX	23064	senataxin
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	4646	GTF2A1	2957	general transcription factor IIA, 1, 19/37kDa
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+COMMON	10451	RRM1	6240	ribonucleotide reductase M1
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	12517	UCP1	7350	uncoupling protein 1 (mitochondrial, proton carrier)
+COMMON	3346	ENDOG	2021	endonuclease G
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	20473	BRIP1	83990	BRCA1 interacting protein C-terminal helicase 1
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	3796	FOS	2353	v-fos FBJ murine osteosarcoma viral oncogene homolog
+COMMON	2983	DNTT	1791	deoxynucleotidyltransferase, terminal
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	758	ASS1	445	argininosuccinate synthetase 1
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	17016	MYST2	11143	MYST histone acetyltransferase 2
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	8800	PDGFB	5155	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+BACKGROUNDONLY	6024	IL7R	3575	interleukin 7 receptor
+BACKGROUNDONLY	6130	ISG20	3669	interferon stimulated exonuclease gene 20kDa
+BACKGROUNDONLY	17889	APEX2	27301	APEX nuclease (apurinic/apyrimidinic endonuclease) 2
+BACKGROUNDONLY	11741	TFAM	7019	transcription factor A, mitochondrial

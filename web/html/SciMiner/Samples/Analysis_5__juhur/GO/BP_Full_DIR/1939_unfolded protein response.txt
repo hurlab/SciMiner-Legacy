@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 1
+
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	12649	VAPB	9217	VAMP (vesicle-associated membrane protein)-associated protein B and C
+COMMON	7782	NFE2L2	4780	nuclear factor (erythroid-derived 2)-like 2
+
+BACKGROUNDONLY	1582	CCND1	595	cyclin D1

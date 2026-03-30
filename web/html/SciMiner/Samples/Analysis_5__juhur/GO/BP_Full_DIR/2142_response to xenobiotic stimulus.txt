@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	2874	NQO1	1728	NAD(P)H dehydrogenase, quinone 1
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+
+BACKGROUNDONLY	2595	CYP1A1	1543	cytochrome P450, family 1, subfamily A, polypeptide 1
+BACKGROUNDONLY	3401	EPHX1	2052	epoxide hydrolase 1, microsomal (xenobiotic)

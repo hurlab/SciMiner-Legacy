@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+
+BACKGROUNDONLY	19157	IL27	246778	interleukin 27

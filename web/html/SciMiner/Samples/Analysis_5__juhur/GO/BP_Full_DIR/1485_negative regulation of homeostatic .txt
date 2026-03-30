@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 2
+
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+
+BACKGROUNDONLY	5329	IAPP	3375	islet amyloid polypeptide
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

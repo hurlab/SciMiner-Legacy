@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 8
+#COMMON: 1
+#BACKGROUNDONLY: 3
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	1991	CKB	1152	creatine kinase, brain
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	24959	GSX2	170825	GS homeobox 2
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	5465	IGF1R	3480	insulin-like growth factor 1 receptor
+
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	3581	BPTF	2186	bromodomain PHD finger transcription factor
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha

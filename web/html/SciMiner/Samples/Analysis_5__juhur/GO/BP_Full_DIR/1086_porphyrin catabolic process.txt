@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 0
+
+COMMON	5014	HMOX2	3163	heme oxygenase (decycling) 2
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+

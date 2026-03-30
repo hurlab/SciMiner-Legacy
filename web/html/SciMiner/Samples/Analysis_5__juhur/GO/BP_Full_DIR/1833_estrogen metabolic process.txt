@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I

@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 3
+TESTONLY	4605	GRP	2922	gastrin-releasing peptide
+
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+
+BACKGROUNDONLY	241	ADCYAP1	116	adenylate cyclase activating polypeptide 1 (pituitary)
+BACKGROUNDONLY	4886	HFE	3077	hemochromatosis
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide

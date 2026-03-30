@@ -1,0 +1,41 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 10
+#COMMON: 4
+#BACKGROUNDONLY: 21
+TESTONLY	2264	COX17	10063	COX17 cytochrome c oxidase assembly homolog (S. cerevisiae)
+TESTONLY	9577	PSPH	5723	phosphoserine phosphatase
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+TESTONLY	8784	PDE5A	8654	phosphodiesterase 5A, cGMP-specific
+TESTONLY	15814	ACSS2	55902	acyl-CoA synthetase short-chain family member 2
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	30213	ATP13A2	23400	ATPase type 13A2
+TESTONLY	11138	SNCA	6622	synuclein, alpha (non A4 component of amyloid precursor)
+
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	1499	CASP1	834	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	2983	DNTT	1791	deoxynucleotidyltransferase, terminal
+
+BACKGROUNDONLY	4893	HGF	3082	hepatocyte growth factor (hepapoietin A; scatter factor)
+BACKGROUNDONLY	1550	CBS	875	cystathionine-beta-synthase
+BACKGROUNDONLY	7166	MMP2	4313	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+BACKGROUNDONLY	7809	NGFR	4804	nerve growth factor receptor (TNFR superfamily, member 16)
+BACKGROUNDONLY	26101	ACSF2	80221	acyl-CoA synthetase family member 2
+BACKGROUNDONLY	6677	LPL	4023	lipoprotein lipase
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	7173	MMP3	4314	matrix metallopeptidase 3 (stromelysin 1, progelatinase)
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	7176	MMP9	4318	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+BACKGROUNDONLY	2524	CTRL	1506	chymotrypsin-like
+BACKGROUNDONLY	1165	DAGLA	747	diacylglycerol lipase, alpha
+BACKGROUNDONLY	800	ATP1A2	477	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	3401	EPHX1	2052	epoxide hydrolase 1, microsomal (xenobiotic)
+BACKGROUNDONLY	1869	CETP	1071	cholesteryl ester transfer protein, plasma
+BACKGROUNDONLY	3530	F12	2161	coagulation factor XII (Hageman factor)
+BACKGROUNDONLY	6619	LIPC	3990	lipase, hepatic
+BACKGROUNDONLY	5215	HSD17B7	51478	hydroxysteroid (17-beta) dehydrogenase 7
+BACKGROUNDONLY	4281	GJA8	2703	gap junction protein, alpha 8, 50kDa
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide

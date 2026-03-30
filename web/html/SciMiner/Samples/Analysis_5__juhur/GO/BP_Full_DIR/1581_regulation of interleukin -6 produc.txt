@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 1
+
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3

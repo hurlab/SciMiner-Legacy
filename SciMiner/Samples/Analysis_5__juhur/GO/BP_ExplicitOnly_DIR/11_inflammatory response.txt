@@ -1,0 +1,64 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 16
+#BACKGROUNDONLY: 37
+TESTONLY	21354	TICAM2	353376	toll-like receptor adaptor molecule 2
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	7097	MIF	4282	macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+TESTONLY	6843	MAP2K3	5606	mitogen-activated protein kinase kinase 3
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	7794	NFKB1	4790	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	11919	CD40	958	CD40 molecule, TNF receptor superfamily member 5
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	7891	NOX4	50507	NADPH oxidase 4
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	2578	CYBB	1536	cytochrome b-245, beta polypeptide (chronic granulomatous disease)
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	3796	FOS	2353	v-fos FBJ murine osteosarcoma viral oncogene homolog
+COMMON	5991	IL1A	3552	interleukin 1, alpha
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	11917	TNFRSF1B	7133	tumor necrosis factor receptor superfamily, member 1B
+
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	7978	NR3C1	2908	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+BACKGROUNDONLY	10637	CXCL10	3627	chemokine (C-X-C motif) ligand 10
+BACKGROUNDONLY	435	ALOX5	240	arachidonate 5-lipoxygenase
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	16	SERPINA3	12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3
+BACKGROUNDONLY	10638	CXCL11	6373	chemokine (C-X-C motif) ligand 11
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	7098	CXCL9	4283	chemokine (C-X-C motif) ligand 9
+BACKGROUNDONLY	15633	TLR9	54106	toll-like receptor 9
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	4604	CXCL3	2921	chemokine (C-X-C motif) ligand 3
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	10630	CCL4	6351	chemokine (C-C motif) ligand 4
+BACKGROUNDONLY	11848	TLR2	7097	toll-like receptor 2
+BACKGROUNDONLY	9040	PLA2G7	7941	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	10498	S100A8	6279	S100 calcium binding protein A8
+BACKGROUNDONLY	1323	C4A	720	complement component 4A (Rodgers blood group)
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	5995	IL1RAP	3556	interleukin 1 receptor accessory protein
+BACKGROUNDONLY	5973	IL13	3596	interleukin 13
+BACKGROUNDONLY	19157	IL27	246778	interleukin 27
+BACKGROUNDONLY	2367	CRP	1401	C-reactive protein, pentraxin-related
+BACKGROUNDONLY	352	AIF1	199	allograft inflammatory factor 1
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	436	ALOX5AP	241	arachidonate 5-lipoxygenase-activating protein
+BACKGROUNDONLY	10718	SELE	6401	selectin E (endothelial adhesion molecule 1)
+BACKGROUNDONLY	11916	TNFRSF1A	7132	tumor necrosis factor receptor superfamily, member 1A
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	14065	HDAC9	9734	histone deacetylase 9
+BACKGROUNDONLY	15488	IL23A	51561	interleukin 23, alpha subunit p19

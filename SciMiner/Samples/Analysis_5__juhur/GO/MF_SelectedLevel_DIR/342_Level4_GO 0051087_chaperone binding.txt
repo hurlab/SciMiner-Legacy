@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 1
+
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+
+BACKGROUNDONLY	1189	AHSA1	10598	AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (yeast)

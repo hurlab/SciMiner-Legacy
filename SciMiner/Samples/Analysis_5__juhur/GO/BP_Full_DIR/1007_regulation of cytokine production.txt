@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 7
+#BACKGROUNDONLY: 6
+
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	5247	HSPB2	3316	heat shock 27kDa protein 2
+
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	4910	HIF1A	3091	hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	11848	TLR2	7097	toll-like receptor 2

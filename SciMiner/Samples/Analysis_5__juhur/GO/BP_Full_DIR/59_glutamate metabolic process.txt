@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+
+

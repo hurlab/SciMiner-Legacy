@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 1
+TESTONLY	10990	SLC25A4	291	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	12517	UCP1	7350	uncoupling protein 1 (mitochondrial, proton carrier)
+
+BACKGROUNDONLY	12518	UCP2	7351	uncoupling protein 2 (mitochondrial, proton carrier)

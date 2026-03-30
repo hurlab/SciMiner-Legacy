@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 7
+
+COMMON	6307	KDR	3791	kinase insert domain receptor (a type III receptor tyrosine kinase)
+COMMON	3763	FLT1	2321	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+
+BACKGROUNDONLY	3562	FABP7	2173	fatty acid binding protein 7, brain
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	3688	FGFR1	2260	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+BACKGROUNDONLY	8005	NRP2	8828	neuropilin 2
+BACKGROUNDONLY	3767	FLT4	2324	fms-related tyrosine kinase 4
+BACKGROUNDONLY	5997	IL1RAPL2	26280	interleukin 1 receptor accessory protein-like 2
+BACKGROUNDONLY	12663	VCAM1	7412	vascular cell adhesion molecule 1

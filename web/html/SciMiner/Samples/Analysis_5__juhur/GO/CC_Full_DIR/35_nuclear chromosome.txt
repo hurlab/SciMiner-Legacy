@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 2
+#BACKGROUNDONLY: 0
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+
+COMMON	2615	CYP2B6	1555	cytochrome P450, family 2, subfamily B, polypeptide 6
+COMMON	6204	JUN	3725	jun oncogene
+

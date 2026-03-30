@@ -1,0 +1,71 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 12
+#COMMON: 13
+#BACKGROUNDONLY: 40
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	1442	CALM1	801	calmodulin 1 (phosphorylase kinase, delta)
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	11506	SYP	6855	synaptophysin
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	12022	TPT1	7178	tumor protein, translationally-controlled 1
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+TESTONLY	9411	PRKCSH	5589	protein kinase C substrate 80K-H
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	80	ABP1	26	amiloride binding protein 1 (amine oxidase (copper-containing))
+COMMON	9065	PLCG1	5335	phospholipase C, gamma 1
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	9704	PVALB	5816	parvalbumin
+COMMON	5244	HSPA9	3313	heat shock 70kDa protein 9 (mortalin)
+COMMON	15917	PLCB1	23236	phospholipase C, beta 1 (phosphoinositide-specific)
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	3062	DUOX1	53905	dual oxidase 1
+
+BACKGROUNDONLY	1764	CDH5	1003	cadherin 5, type 2, VE-cadherin (vascular epithelium)
+BACKGROUNDONLY	1756	CDH17	1015	cadherin 17, LI cadherin (liver-intestine)
+BACKGROUNDONLY	7218	MPO	4353	myeloperoxidase
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	435	ALOX5	240	arachidonate 5-lipoxygenase
+BACKGROUNDONLY	7173	MMP3	4314	matrix metallopeptidase 3 (stromelysin 1, progelatinase)
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	4223	MSTN	2660	myostatin
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BACKGROUNDONLY	3544	F7	2155	coagulation factor VII (serum prothrombin conversion accelerator)
+BACKGROUNDONLY	14079	CHRNA9	55584	cholinergic receptor, nicotinic, alpha 9
+BACKGROUNDONLY	2482	CSTB	1476	cystatin B (stefin B)
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	3530	F12	2161	coagulation factor XII (Hageman factor)
+BACKGROUNDONLY	9035	PLA2G4A	5321	phospholipase A2, group IVA (cytosolic, calcium-dependent)
+BACKGROUNDONLY	10498	S100A8	6279	S100 calcium binding protein A8
+BACKGROUNDONLY	10500	S100B	6285	S100 calcium binding protein B
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)
+BACKGROUNDONLY	4502	GPR44	11251	G protein-coupled receptor 44
+BACKGROUNDONLY	4893	HGF	3082	hepatocyte growth factor (hepapoietin A; scatter factor)
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	7166	MMP2	4313	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	2536	CTSK	1513	cathepsin K
+BACKGROUNDONLY	2367	CRP	1401	C-reactive protein, pentraxin-related
+BACKGROUNDONLY	352	AIF1	199	allograft inflammatory factor 1
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	11777	TGM1	7051	transglutaminase 1 (K polypeptide epidermal type I, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	6149	ITGAM	3684	integrin, alpha M (complement component 3 receptor 3 subunit)
+BACKGROUNDONLY	7176	MMP9	4318	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+BACKGROUNDONLY	1165	DAGLA	747	diacylglycerol lipase, alpha
+BACKGROUNDONLY	11364	STAT3	6774	signal transducer and activator of transcription 3 (acute-phase response factor)
+BACKGROUNDONLY	1473	CANX	821	calnexin
+BACKGROUNDONLY	29823	MYL6B	140465	myosin, light chain 6B, alkali, smooth muscle and non-muscle
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	11765	TGFA	7039	transforming growth factor, alpha
+BACKGROUNDONLY	9604	PTGS1	5742	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	1929	CHGA	1113	chromogranin A (parathyroid secretory protein 1)

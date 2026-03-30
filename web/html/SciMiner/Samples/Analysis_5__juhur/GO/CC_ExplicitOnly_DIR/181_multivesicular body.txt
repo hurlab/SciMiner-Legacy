@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 1
+TESTONLY	12022	TPT1	7178	tumor protein, translationally-controlled 1
+
+
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 0
+
+COMMON	6780	MAFF	23764	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+COMMON	23177	KEAP1	9817	kelch-like ECH-associated protein 1
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+

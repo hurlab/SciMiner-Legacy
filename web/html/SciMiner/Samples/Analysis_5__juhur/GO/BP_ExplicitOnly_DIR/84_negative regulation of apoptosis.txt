@@ -1,0 +1,24 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 10
+#BACKGROUNDONLY: 3
+TESTONLY	7097	MIF	4282	macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	399	ALB	213	albumin
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)

@@ -1,0 +1,24 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 9
+#COMMON: 4
+#BACKGROUNDONLY: 5
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+
+COMMON	4646	GTF2A1	2957	general transcription factor IIA, 1, 19/37kDa
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	3346	ENDOG	2021	endonuclease G
+
+BACKGROUNDONLY	6130	ISG20	3669	interferon stimulated exonuclease gene 20kDa
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	17944	EXOSC3	51010	exosome component 3
+BACKGROUNDONLY	17889	APEX2	27301	APEX nuclease (apurinic/apyrimidinic endonuclease) 2
+BACKGROUNDONLY	30646	SND1	27044	staphylococcal nuclease and tudor domain containing 1

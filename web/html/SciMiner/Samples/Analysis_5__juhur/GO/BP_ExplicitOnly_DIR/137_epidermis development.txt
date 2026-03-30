@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 4
+
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+
+BACKGROUNDONLY	403	ALDH3A2	224	aldehyde dehydrogenase 3 family, member A2
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha

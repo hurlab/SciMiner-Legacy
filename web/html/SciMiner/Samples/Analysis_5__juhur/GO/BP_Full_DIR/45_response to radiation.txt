@@ -1,0 +1,26 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 11
+#COMMON: 5
+#BACKGROUNDONLY: 4
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	34	ABCA4	24	ATP-binding cassette, sub-family A (ABC1), member 4
+
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	11998	TP53	7157	tumor protein p53
+
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	1508	CASP7	840	caspase 7, apoptosis-related cysteine peptidase
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)

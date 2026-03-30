@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	7553	MYC	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	7794	NFKB1	4790	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)
+
+BACKGROUNDONLY	8153	OPRD1	4985	opioid receptor, delta 1
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

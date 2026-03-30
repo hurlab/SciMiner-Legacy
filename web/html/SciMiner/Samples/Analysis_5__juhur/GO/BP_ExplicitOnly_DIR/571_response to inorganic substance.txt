@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 0
+
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+

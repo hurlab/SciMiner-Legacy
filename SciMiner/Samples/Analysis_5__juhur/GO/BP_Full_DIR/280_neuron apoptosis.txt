@@ -1,0 +1,22 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 9
+#BACKGROUNDONLY: 3
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	14374	NLRP1	22861	NLR family, pyrin domain containing 1
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	4232	GDNF	2668	glial cell derived neurotrophic factor
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)

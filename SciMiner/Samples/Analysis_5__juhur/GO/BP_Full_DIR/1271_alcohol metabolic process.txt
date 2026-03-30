@@ -1,0 +1,54 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 13
+#COMMON: 14
+#BACKGROUNDONLY: 21
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	1848	CEL	1056	carboxyl ester lipase (bile salt-stimulated lipase)
+TESTONLY	4057	G6PD	2539	glucose-6-phosphate dehydrogenase
+TESTONLY	380	AKR1A1	10327	aldo-keto reductase family 1, member A1 (aldehyde reductase)
+TESTONLY	4455	GPD1	2819	glycerol-3-phosphate dehydrogenase 1 (soluble)
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	249	ADH1A	124	alcohol dehydrogenase 1A (class I), alpha polypeptide
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+TESTONLY	8808	PDHB	5162	pyruvate dehydrogenase (lipoamide) beta
+TESTONLY	18985	DCXR	51181	dicarbonyl/L-xylulose reductase
+TESTONLY	8806	PDHA1	5160	pyruvate dehydrogenase (lipoamide) alpha 1
+TESTONLY	11138	SNCA	6622	synuclein, alpha (non A4 component of amyloid precursor)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	6081	INS	3630	insulin
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	11049	SLC6A3	6531	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	2244	COQ7	10229	coenzyme Q7 homolog, ubiquinone (yeast)
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	3133	EBP	10682	emopamil binding protein (sterol isomerase)
+BACKGROUNDONLY	2228	COMT	1312	catechol-O-methyltransferase
+BACKGROUNDONLY	4552	GPT	2875	glutamic-pyruvate transaminase (alanine aminotransferase)
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	2641	CYP46A1	10858	cytochrome P450, family 46, subfamily A, polypeptide 1
+BACKGROUNDONLY	6541	LDHB	3945	lactate dehydrogenase B
+BACKGROUNDONLY	1907	CH25H	9023	cholesterol 25-hydroxylase
+BACKGROUNDONLY	1869	CETP	1071	cholesteryl ester transfer protein, plasma
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

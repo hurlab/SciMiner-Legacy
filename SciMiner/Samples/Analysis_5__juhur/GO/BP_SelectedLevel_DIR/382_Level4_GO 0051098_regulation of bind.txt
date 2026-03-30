@@ -1,0 +1,24 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 6
+#BACKGROUNDONLY: 7
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

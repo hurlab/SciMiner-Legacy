@@ -1,0 +1,53 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 21
+#BACKGROUNDONLY: 19
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	24959	GSX2	170825	GS homeobox 2
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+COMMON	9717	PXMP3	5828	peroxisomal membrane protein 3, 35kDa (Zellweger syndrome)
+COMMON	727	ARTN	9048	artemin
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	2345	CREB1	1385	cAMP responsive element binding protein 1
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	6782	MAFK	7975	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	3493	ETV4	2118	ets variant gene 4 (E1A enhancer binding protein, E1AF)
+COMMON	4232	GDNF	2668	glial cell derived neurotrophic factor
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	7809	NGFR	4804	nerve growth factor receptor (TNFR superfamily, member 16)
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	2095	CLU	1191	clusterin
+BACKGROUNDONLY	9103	PLXNB1	5364	plexin B1
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa
+BACKGROUNDONLY	10500	S100B	6285	S100 calcium binding protein B
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	12682	VEGFC	7424	vascular endothelial growth factor C
+BACKGROUNDONLY	8005	NRP2	8828	neuropilin 2
+BACKGROUNDONLY	3688	FGFR1	2260	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

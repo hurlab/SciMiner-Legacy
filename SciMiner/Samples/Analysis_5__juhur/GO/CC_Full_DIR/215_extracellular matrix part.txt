@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 6
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	2206	COL4A4	1286	collagen, type IV, alpha 4
+
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+
+BACKGROUNDONLY	2187	COL11A2	1302	collagen, type XI, alpha 2
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	329	AGRN	375790	agrin

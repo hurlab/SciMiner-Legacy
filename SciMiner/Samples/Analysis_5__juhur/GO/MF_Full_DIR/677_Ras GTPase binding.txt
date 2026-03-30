@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 1
+
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+
+BACKGROUNDONLY	1940	CHM	1121	choroideremia (Rab escort protein 1)

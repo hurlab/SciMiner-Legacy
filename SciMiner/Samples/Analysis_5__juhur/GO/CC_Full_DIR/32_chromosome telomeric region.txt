@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+
+

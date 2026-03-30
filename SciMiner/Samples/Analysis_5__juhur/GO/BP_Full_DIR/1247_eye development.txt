@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 5
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	4281	GJA8	2703	gap junction protein, alpha 8, 50kDa
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)

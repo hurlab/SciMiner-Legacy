@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 4
+#BACKGROUNDONLY: 1
+TESTONLY	9824	RAD52	5893	RAD52 homolog (S. cerevisiae)
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+
+COMMON	445	SETX	23064	senataxin
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+COMMON	20473	BRIP1	83990	BRCA1 interacting protein C-terminal helicase 1
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+
+BACKGROUNDONLY	758	ASS1	445	argininosuccinate synthetase 1

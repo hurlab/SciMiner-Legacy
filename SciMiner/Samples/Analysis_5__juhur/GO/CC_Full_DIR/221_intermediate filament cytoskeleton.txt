@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 6
+#BACKGROUNDONLY: 4
+
+COMMON	4235	GFAP	2670	glial fibrillary acidic protein
+COMMON	9461	PRPH	5630	peripherin
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	7737	NEFH	4744	neurofilament, heavy polypeptide 200kDa
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+
+BACKGROUNDONLY	7756	NES	10763	nestin
+BACKGROUNDONLY	1907	CH25H	9023	cholesterol 25-hydroxylase
+BACKGROUNDONLY	3023	DRD2	1813	dopamine receptor D2
+BACKGROUNDONLY	2770	DES	1674	desmin

@@ -1,0 +1,79 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 24
+#COMMON: 17
+#BACKGROUNDONLY: 32
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	2422	CS	1431	citrate synthase
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	14581	PINK1	65018	PTEN induced putative kinase 1
+TESTONLY	1912	CHAT	1103	choline acetyltransferase
+TESTONLY	6843	MAP2K3	5606	mitogen-activated protein kinase kinase 3
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	2728	DDOST	1650	dolichyl-diphosphooligosaccharide-protein glycosyltransferase
+TESTONLY	4250	GGT1	2678	gamma-glutamyltransferase 1
+TESTONLY	6877	MAPK3	5595	mitogen-activated protein kinase 3
+TESTONLY	1773	CDK4	1019	cyclin-dependent kinase 4
+TESTONLY	5465	IGF1R	3480	insulin-like growth factor 1 receptor
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+TESTONLY	8032	NTRK2	4915	neurotrophic tyrosine kinase, receptor, type 2
+TESTONLY	9380	PRKACA	5566	protein kinase, cAMP-dependent, catalytic, alpha
+TESTONLY	16014	CASD1	64921	CAS1 domain containing 1
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	3763	FLT1	2321	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+COMMON	10436	RPS6KB1	6198	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+COMMON	445	SETX	23064	senataxin
+COMMON	6886	MAPK9	5601	mitogen-activated protein kinase 9
+COMMON	6307	KDR	3791	kinase insert domain receptor (a type III receptor tyrosine kinase)
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	25806	GSTCD	79807	glutathione S-transferase, C-terminal domain containing
+COMMON	8031	NTRK1	4914	neurotrophic tyrosine kinase, receptor, type 1
+COMMON	2983	DNTT	1791	deoxynucleotidyltransferase, terminal
+COMMON	4638	GSTP1	2950	glutathione S-transferase pi
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	6879	MAPK6	5597	mitogen-activated protein kinase 6
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+
+BACKGROUNDONLY	2856	DGKQ	1609	diacylglycerol kinase, theta 110kDa
+BACKGROUNDONLY	21420	CCRK	23552	cell cycle related kinase
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	6872	MAPK10	5602	mitogen-activated protein kinase 10
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	6193	JAK3	3718	Janus kinase 3 (a protein tyrosine kinase, leukocyte)
+BACKGROUNDONLY	327	AGPS	8540	alkylglycerone phosphate synthase
+BACKGROUNDONLY	17877	NMNAT1	64802	nicotinamide nucleotide adenylyltransferase 1
+BACKGROUNDONLY	2228	COMT	1312	catechol-O-methyltransferase
+BACKGROUNDONLY	4641	GSTT1	2952	glutathione S-transferase theta 1
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	17016	MYST2	11143	MYST histone acetyltransferase 2
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1
+BACKGROUNDONLY	18704	ARD1A	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+BACKGROUNDONLY	6190	JAK1	3716	Janus kinase 1 (a protein tyrosine kinase)
+BACKGROUNDONLY	8982	PIK3R4	30849	phosphoinositide-3-kinase, regulatory subunit 4
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	24594	DCTN5	84516	dynactin 5 (p25)
+BACKGROUNDONLY	18420	SETD2	29072	SET domain containing 2
+BACKGROUNDONLY	6896	MARK1	4139	MAP/microtubule affinity-regulating kinase 1
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	11777	TGM1	7051	transglutaminase 1 (K polypeptide epidermal type I, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	473	AMT	275	aminomethyltransferase
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	3688	FGFR1	2260	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2
+BACKGROUNDONLY	3767	FLT4	2324	fms-related tyrosine kinase 4
+BACKGROUNDONLY	8816	PDPK1	5170	3-phosphoinositide dependent protein kinase-1

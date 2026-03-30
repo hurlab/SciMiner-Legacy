@@ -1,0 +1,24 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 8
+#BACKGROUNDONLY: 5
+TESTONLY	17128	SLC39A3	29985	solute carrier family 39 (zinc transporter), member 3
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+
+COMMON	3951	FXN	2395	frataxin
+COMMON	2295	CP	1356	ceruloplasmin (ferroxidase)
+COMMON	11740	TF	7018	transferrin
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	727	ARTN	9048	artemin
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+
+BACKGROUNDONLY	14079	CHRNA9	55584	cholinergic receptor, nicotinic, alpha 9
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	10599	SCNN1A	6337	sodium channel, nonvoltage-gated 1 alpha
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3

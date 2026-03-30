@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 4
+#BACKGROUNDONLY: 5
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	727	ARTN	9048	artemin
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+
+BACKGROUNDONLY	14079	CHRNA9	55584	cholinergic receptor, nicotinic, alpha 9
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	10599	SCNN1A	6337	sodium channel, nonvoltage-gated 1 alpha
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6

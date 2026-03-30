@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	19374	NKRF	55922	NFKB repressing factor
+
+BACKGROUNDONLY	16462	STRBP	55342	spermatid perinuclear RNA binding protein

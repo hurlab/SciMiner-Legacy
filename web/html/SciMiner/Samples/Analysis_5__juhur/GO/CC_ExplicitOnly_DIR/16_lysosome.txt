@@ -1,0 +1,22 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 4
+#BACKGROUNDONLY: 11
+TESTONLY	12442	TYR	7299	tyrosinase (oculocutaneous albinism IA)
+
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+COMMON	1693	CD68	968	CD68 molecule
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+
+BACKGROUNDONLY	2527	CTSB	1508	cathepsin B
+BACKGROUNDONLY	2545	CTSS	1520	cathepsin S
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	7218	MPO	4353	myeloperoxidase
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	2536	CTSK	1513	cathepsin K
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	2537	CTSL1	1514	cathepsin L1
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	2529	CTSD	1509	cathepsin D

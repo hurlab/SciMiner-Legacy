@@ -1,0 +1,27 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 5
+#BACKGROUNDONLY: 14
+TESTONLY	11181	SOD3	6649	superoxide dismutase 3, extracellular
+TESTONLY	1848	CEL	1056	carboxyl ester lipase (bile salt-stimulated lipase)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	80	ABP1	26	amiloride binding protein 1 (amine oxidase (copper-containing))
+COMMON	3665	FGF1	2246	fibroblast growth factor 1 (acidic)
+
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	6677	LPL	4023	lipoprotein lipase
+BACKGROUNDONLY	12681	VEGFB	7423	vascular endothelial growth factor B
+BACKGROUNDONLY	403	ALDH3A2	224	aldehyde dehydrogenase 3 family, member A2
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	8723	SERPINA5	5104	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2
+BACKGROUNDONLY	3688	FGFR1	2260	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	6619	LIPC	3990	lipase, hepatic
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

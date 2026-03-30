@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 8
+
+COMMON	23177	KEAP1	9817	kelch-like ECH-associated protein 1
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+
+BACKGROUNDONLY	14121	POLR3K	51728	polymerase (RNA) III (DNA directed) polypeptide K, 12.3 kDa
+BACKGROUNDONLY	11556	TAL1	6886	T-cell acute lymphocytic leukemia 1
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	4910	HIF1A	3091	hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	3581	BPTF	2186	bromodomain PHD finger transcription factor

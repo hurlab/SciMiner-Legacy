@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 4
+#BACKGROUNDONLY: 1
+
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+
+BACKGROUNDONLY	9103	PLXNB1	5364	plexin B1

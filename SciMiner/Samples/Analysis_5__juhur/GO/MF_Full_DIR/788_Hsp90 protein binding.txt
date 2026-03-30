@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 0
+
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+

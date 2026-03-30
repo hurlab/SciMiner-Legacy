@@ -1,0 +1,21 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 8
+#BACKGROUNDONLY: 7
+
+COMMON	9352	PRDX1	5052	peroxiredoxin 1
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BACKGROUNDONLY	10718	SELE	6401	selectin E (endothelial adhesion molecule 1)
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

@@ -1,0 +1,56 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 21
+#COMMON: 12
+#BACKGROUNDONLY: 17
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	1848	CEL	1056	carboxyl ester lipase (bile salt-stimulated lipase)
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	11121	SMPD2	6610	sphingomyelin phosphodiesterase 2, neutral membrane (neutral sphingomyelinase)
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	9577	PSPH	5723	phosphoserine phosphatase
+TESTONLY	4805	HAGH	3029	hydroxyacylglutathione hydrolase
+TESTONLY	12609	USP11	8237	ubiquitin specific peptidase 11
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+TESTONLY	8784	PDE5A	8654	phosphodiesterase 5A, cGMP-specific
+TESTONLY	9655	PTPN3	5774	protein tyrosine phosphatase, non-receptor type 3
+TESTONLY	11138	SNCA	6622	synuclein, alpha (non A4 component of amyloid precursor)
+TESTONLY	4250	GGT1	2678	gamma-glutamyltransferase 1
+TESTONLY	19737	TENC1	23371	tensin like C1 domain containing phosphatase (tensin 2)
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	3346	ENDOG	2021	endonuclease G
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	9065	PLCG1	5335	phospholipase C, gamma 1
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	15917	PLCB1	23236	phospholipase C, beta 1 (phosphoinositide-specific)
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	437	ALPI	248	alkaline phosphatase, intestinal
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	4646	GTF2A1	2957	general transcription factor IIA, 1, 19/37kDa
+COMMON	11998	TP53	7157	tumor protein p53
+
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	17944	EXOSC3	51010	exosome component 3
+BACKGROUNDONLY	9205	PON2	5445	paraoxonase 2
+BACKGROUNDONLY	4400	GNB3	2784	guanine nucleotide binding protein (G protein), beta polypeptide 3
+BACKGROUNDONLY	6677	LPL	4023	lipoprotein lipase
+BACKGROUNDONLY	6130	ISG20	3669	interferon stimulated exonuclease gene 20kDa
+BACKGROUNDONLY	950	BAP1	8314	BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase)
+BACKGROUNDONLY	4459	GPLD1	2822	glycosylphosphatidylinositol specific phospholipase D1
+BACKGROUNDONLY	9204	PON1	5444	paraoxonase 1
+BACKGROUNDONLY	1165	DAGLA	747	diacylglycerol lipase, alpha
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	17889	APEX2	27301	APEX nuclease (apurinic/apyrimidinic endonuclease) 2
+BACKGROUNDONLY	30646	SND1	27044	staphylococcal nuclease and tudor domain containing 1
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	6619	LIPC	3990	lipase, hepatic
+BACKGROUNDONLY	9040	PLA2G7	7941	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)
+BACKGROUNDONLY	9035	PLA2G4A	5321	phospholipase A2, group IVA (cytosolic, calcium-dependent)

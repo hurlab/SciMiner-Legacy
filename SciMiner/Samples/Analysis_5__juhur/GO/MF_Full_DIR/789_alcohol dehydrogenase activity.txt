@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	249	ADH1A	124	alcohol dehydrogenase 1A (class I), alpha polypeptide
+
+
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I

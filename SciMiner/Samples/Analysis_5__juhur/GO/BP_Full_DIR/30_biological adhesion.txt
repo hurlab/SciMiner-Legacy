@@ -1,0 +1,78 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 10
+#COMMON: 16
+#BACKGROUNDONLY: 46
+TESTONLY	17937	CUZD1	50624	CUB and zona pellucida-like domains 1
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	1682	CD47	961	CD47 molecule
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	10876	SIGLEC7	27036	sialic acid binding Ig-like lectin 7
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	6207	JUP	3728	junction plakoglobin
+COMMON	3768	FMN1	342184	formin 1
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	11742	TFAP2A	7020	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	1764	CDH5	1003	cadherin 5, type 2, VE-cadherin (vascular epithelium)
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	1756	CDH17	1015	cadherin 17, LI cadherin (liver-intestine)
+BACKGROUNDONLY	6783	MAG	4099	myelin associated glycoprotein
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	6156	ITGB3	3690	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	12663	VCAM1	7412	vascular cell adhesion molecule 1
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2
+BACKGROUNDONLY	11291	SRF	6722	serum response factor (c-fos serum response element-binding transcription factor)
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	6953	CD46	4179	CD46 molecule, complement regulatory protein
+BACKGROUNDONLY	6155	ITGB2	3689	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	2558	CX3CR1	1524	chemokine (C-X3-C motif) receptor 1
+BACKGROUNDONLY	10630	CCL4	6351	chemokine (C-C motif) ligand 4
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	3613	FCGR1A	2209	Fc fragment of IgG, high affinity Ia, receptor (CD64)
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1
+BACKGROUNDONLY	3562	FABP7	2173	fatty acid binding protein 7, brain
+BACKGROUNDONLY	10632	CCL5	6352	chemokine (C-C motif) ligand 5
+BACKGROUNDONLY	4502	GPR44	11251	G protein-coupled receptor 44
+BACKGROUNDONLY	4893	HGF	3082	hepatocyte growth factor (hepapoietin A; scatter factor)
+BACKGROUNDONLY	5344	ICAM1	3383	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	6149	ITGAM	3684	integrin, alpha M (complement component 3 receptor 3 subunit)
+BACKGROUNDONLY	2187	COL11A2	1302	collagen, type XI, alpha 2
+BACKGROUNDONLY	9718	PXN	5829	paxillin
+BACKGROUNDONLY	7775	NFATC1	4772	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+BACKGROUNDONLY	4459	GPLD1	2822	glycosylphosphatidylinositol specific phospholipase D1
+BACKGROUNDONLY	1907	CH25H	9023	cholesterol 25-hydroxylase
+BACKGROUNDONLY	2159	CNR1	1268	cannabinoid receptor 1 (brain)
+BACKGROUNDONLY	10718	SELE	6401	selectin E (endothelial adhesion molecule 1)
+BACKGROUNDONLY	9106	PLXNC1	10154	plexin C1
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	8005	NRP2	8828	neuropilin 2
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	10647	CX3CL1	6376	chemokine (C-X3-C motif) ligand 1

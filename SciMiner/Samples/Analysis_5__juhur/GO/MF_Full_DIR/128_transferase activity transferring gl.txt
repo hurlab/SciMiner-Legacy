@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 6
+#BACKGROUNDONLY: 2
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	14931	SIRT3	23410	sirtuin (silent mating type information regulation 2 homolog) 3 (S. cerevisiae)
+TESTONLY	23696	TIPARP	25976	TCDD-inducible poly(ADP-ribose) polymerase
+TESTONLY	2728	DDOST	1650	dolichyl-diphosphooligosaccharide-protein glycosyltransferase
+
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	14929	SIRT1	23411	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	6667	LPA	4018	lipoprotein, Lp(a)

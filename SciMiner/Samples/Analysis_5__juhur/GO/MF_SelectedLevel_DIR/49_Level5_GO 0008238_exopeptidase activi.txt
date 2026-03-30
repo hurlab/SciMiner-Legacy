@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 6
+
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+
+BACKGROUNDONLY	2707	ACE	1636	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	1361	C9orf3	84909	chromosome 9 open reading frame 3
+BACKGROUNDONLY	933	BACE1	23621	beta-site APP-cleaving enzyme 1
+BACKGROUNDONLY	3401	EPHX1	2052	epoxide hydrolase 1, microsomal (xenobiotic)
+BACKGROUNDONLY	1059	BLMH	642	bleomycin hydrolase

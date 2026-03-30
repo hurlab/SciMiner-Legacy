@@ -1,0 +1,53 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 10
+#COMMON: 17
+#BACKGROUNDONLY: 20
+TESTONLY	2206	COL4A4	1286	collagen, type IV, alpha 4
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	380	AKR1A1	10327	aldo-keto reductase family 1, member A1 (aldehyde reductase)
+TESTONLY	12408	TUBA3C	7278	tubulin, alpha 3c
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+TESTONLY	9655	PTPN3	5774	protein tyrosine phosphatase, non-receptor type 3
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	4235	GFAP	2670	glial fibrillary acidic protein
+COMMON	9461	PRPH	5630	peripherin
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	12649	VAPB	9217	VAMP (vesicle-associated membrane protein)-associated protein B and C
+COMMON	6207	JUP	3728	junction plakoglobin
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+COMMON	3768	FMN1	342184	formin 1
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	7737	NEFH	4744	neurofilament, heavy polypeptide 200kDa
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	6776	MAF	4094	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	132	ACTB	60	actin, beta
+
+BACKGROUNDONLY	7756	NES	10763	nestin
+BACKGROUNDONLY	7576	MYH6	4624	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	6925	MBP	4155	myelin basic protein
+BACKGROUNDONLY	3401	EPHX1	2052	epoxide hydrolase 1, microsomal (xenobiotic)
+BACKGROUNDONLY	18809	TUBA1B	10376	tubulin, alpha 1b
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	17082	MLC1	23209	megalencephalic leukoencephalopathy with subcortical cysts 1
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1
+BACKGROUNDONLY	8104	OCLN	4950	occludin
+BACKGROUNDONLY	6321	KIF3C	3797	kinesin family member 3C
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	2187	COL11A2	1302	collagen, type XI, alpha 2
+BACKGROUNDONLY	1907	CH25H	9023	cholesterol 25-hydroxylase
+BACKGROUNDONLY	2159	CNR1	1268	cannabinoid receptor 1 (brain)
+BACKGROUNDONLY	29823	MYL6B	140465	myosin, light chain 6B, alkali, smooth muscle and non-muscle
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

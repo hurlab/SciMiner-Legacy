@@ -1,0 +1,68 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 9
+#COMMON: 19
+#BACKGROUNDONLY: 34
+TESTONLY	7983	NR5A1	2516	nuclear receptor subfamily 5, group A, member 1
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+TESTONLY	24959	GSX2	170825	GS homeobox 2
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	20374	GSX1	219409	GS homeobox 1
+TESTONLY	7553	MYC	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+TESTONLY	7965	NR1H2	7376	nuclear receptor subfamily 1, group H, member 2
+TESTONLY	7804	NFYA	4800	nuclear transcription factor Y, alpha
+
+COMMON	7794	NFKB1	4790	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)
+COMMON	5247	HSPB2	3316	heat shock 27kDa protein 2
+COMMON	1317	C2orf3	6936	chromosome 2 open reading frame 3
+COMMON	7782	NFE2L2	4780	nuclear factor (erythroid-derived 2)-like 2
+COMMON	2345	CREB1	1385	cAMP responsive element binding protein 1
+COMMON	6782	MAFK	7975	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+COMMON	6780	MAFF	23764	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+COMMON	11742	TFAP2A	7020	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)
+COMMON	14078	BACH2	60468	BTB and CNC homology 1, basic leucine zipper transcription factor 2
+COMMON	3493	ETV4	2118	ets variant gene 4 (E1A enhancer binding protein, E1AF)
+COMMON	6204	JUN	3725	jun oncogene
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	3796	FOS	2353	v-fos FBJ murine osteosarcoma viral oncogene homolog
+COMMON	6776	MAF	4094	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	6206	JUND	3727	jun D proto-oncogene
+COMMON	11205	SP1	6667	Sp1 transcription factor
+
+BACKGROUNDONLY	7978	NR3C1	2908	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	6110	IQGAP1	8826	IQ motif containing GTPase activating protein 1
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	8621	PAX7	5081	paired box 7
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	3471	ESRRA	2101	estrogen-related receptor alpha
+BACKGROUNDONLY	7996	NRF1	4899	nuclear respiratory factor 1
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BACKGROUNDONLY	11291	SRF	6722	serum response factor (c-fos serum response element-binding transcription factor)
+BACKGROUNDONLY	9236	PPARG	5468	peroxisome proliferator-activated receptor gamma
+BACKGROUNDONLY	4910	HIF1A	3091	hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	17016	MYST2	11143	MYST histone acetyltransferase 2
+BACKGROUNDONLY	24961	HOPX	84525	HOP homeobox
+BACKGROUNDONLY	11241	SPI1	6688	spleen focus forming virus (SFFV) proviral integration oncogene spi1
+BACKGROUNDONLY	4893	HGF	3082	hepatocyte growth factor (hepapoietin A; scatter factor)
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1
+BACKGROUNDONLY	4170	GATA1	2623	GATA binding protein 1 (globin transcription factor 1)
+BACKGROUNDONLY	644	AR	367	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	7775	NFATC1	4772	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+BACKGROUNDONLY	3040	RCAN1	1827	regulator of calcineurin 1
+BACKGROUNDONLY	11364	STAT3	6774	signal transducer and activator of transcription 3 (acute-phase response factor)
+BACKGROUNDONLY	5224	HSF1	3297	heat shock transcription factor 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	10477	RXRA	6256	retinoid X receptor, alpha
+BACKGROUNDONLY	11741	TFAM	7019	transcription factor A, mitochondrial

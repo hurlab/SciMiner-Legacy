@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="/SciMiner1.1/favicon.svg">
+  <title>SciMiner 1.1 — Introduction</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/SciMiner1.1/css/sciminer-modern.css">
+</head>
+<body>
+  <!-- Topbar -->
+  <div class="sm-topbar">
+    <div class="sm-topbar-brand">
+      <img src="/SciMiner1.1/favicon.svg" alt="SciMiner">
+      SciMiner <span class="sm-version">1.1</span>
+    </div>
+    <nav class="sm-topbar-nav">
+      <a href="/SciMiner1.1/">Home</a>
+      <a href="intro2.html" class="active">Introduction</a>
+      <a href="sciminerLaunch.cgi">Run SciMiner</a>
+      <a href="analysisLaunch.cgi">Analysis</a>
+      <a href="mergeQueriesLaunch.cgi">Merge Queries</a>
+      <a href="completedLaunch.cgi">Completed</a>
+      <a href="contact2.html">Contact</a>
+    </nav>
+  </div>
+
+  <div class="sm-container">
+
+    <div class="sm-card">
+      <div class="sm-card-header">What is SciMiner?</div>
+      <div class="sm-card-body">
+        <p>SciMiner is a web-based literature mining and functional analysis tool that identifies genes and proteins using a context-specific analysis of MEDLINE abstracts and full texts. SciMiner accepts a free text query string (PubMed Entrez search) or a list of PubMed Unique Identifiers (PMIDs) as input.</p>
+      </div>
+    </div>
+
+    <div class="sm-card">
+      <div class="sm-card-header">What can SciMiner do for you?</div>
+      <div class="sm-card-body">
+        <ul>
+          <li>Scans biomedical literature of your interest for any molecular target (gene or protein) entities.</li>
+          <li>Finds significant enrichments in your set of papers. Enrichment tests are supported on:
+            <ul>
+              <li>Target (gene) list</li>
+              <li>Gene Ontology</li>
+              <li>MeSH (Medical Subject Headings)</li>
+              <li>Pathways</li>
+              <li>PPI (Protein-Protein Interaction) Network</li>
+            </ul>
+          </li>
+          <li>Allows users to compare multiple different search (query) results.</li>
+          <li>Provides EndNote citations for any retrieved documents.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="sm-card">
+      <div class="sm-card-header">User Manual</div>
+      <div class="sm-card-body">
+        <p><a href="Files/SciMiner_User_Manual.pdf">Download the SciMiner User Manual (PDF)</a></p>
+      </div>
+    </div>
+
+    <div class="sm-card">
+      <div class="sm-card-header">Sample Results</div>
+      <div class="sm-card-body">
+        <ul>
+          <li><a href="Samples/Query_15__juhur/result.html">Query #1: "Amyotrophic lateral sclerosis"[MeSH] AND "Reactive Oxygen Species"[MeSH]</a></li>
+          <li><a href="Samples/Query_16__juhur/result.html">Query #2: "Amyotrophic lateral sclerosis"[MeSH] AND Inflammation</a></li>
+          <li><a href="Samples/Analysis_5__juhur/analysisSummary.html">Analysis results: Query #1 vs Query #2</a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Footer -->
+  <footer class="sm-footer">
+    <div class="sm-footer-inner">
+      <div><span style="color:#fff;font-weight:600;">SciMiner 1.1</span> &middot; <a href="/hurlab/">Hur Lab</a>, University of North Dakota <span style="margin-left:8px;font-size:11px;opacity:0.6;">Last updated: 2026-03-26</span></div>
+      <div class="sm-footer-versions">
+        <a href="/SciMiner/">Classic</a>
+        <span class="current">v1.1</span>
+        <a href="/SciMiner2.0/">v2.0</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

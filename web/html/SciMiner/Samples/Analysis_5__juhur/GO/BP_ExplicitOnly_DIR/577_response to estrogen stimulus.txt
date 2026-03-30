@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 3
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+
+BACKGROUNDONLY	3040	RCAN1	1827	regulator of calcineurin 1
+BACKGROUNDONLY	12372	TSHB	7252	thyroid stimulating hormone, beta
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3

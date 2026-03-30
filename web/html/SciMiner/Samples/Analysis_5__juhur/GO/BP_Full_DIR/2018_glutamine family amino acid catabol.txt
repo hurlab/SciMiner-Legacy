@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+
+COMMON	4331	GLS	2744	glutaminase
+
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase

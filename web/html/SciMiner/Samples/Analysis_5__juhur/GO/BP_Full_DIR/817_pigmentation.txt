@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	12442	TYR	7299	tyrosinase (oculocutaneous albinism IA)
+
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 0
+
+COMMON	6776	MAF	4094	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+

@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 4
+#BACKGROUNDONLY: 1
+TESTONLY	5385	IDH3B	3420	isocitrate dehydrogenase 3 (NAD+) beta
+TESTONLY	8808	PDHB	5162	pyruvate dehydrogenase (lipoamide) beta
+TESTONLY	2422	CS	1431	citrate synthase
+
+COMMON	5014	HMOX2	3163	heme oxygenase (decycling) 2
+COMMON	1062	BLVRA	644	biliverdin reductase A
+COMMON	118	ACO2	50	aconitase 2, mitochondrial
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)

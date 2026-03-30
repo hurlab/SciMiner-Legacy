@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 3
+
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	12694	VIPR1	7433	vasoactive intestinal peptide receptor 1
+BACKGROUNDONLY	12695	VIPR2	7434	vasoactive intestinal peptide receptor 2

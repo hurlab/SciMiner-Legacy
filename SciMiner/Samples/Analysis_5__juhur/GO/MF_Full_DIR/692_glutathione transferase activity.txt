@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 1
+
+COMMON	445	SETX	23064	senataxin
+COMMON	4638	GSTP1	2950	glutathione S-transferase pi
+
+BACKGROUNDONLY	4641	GSTT1	2952	glutathione S-transferase theta 1

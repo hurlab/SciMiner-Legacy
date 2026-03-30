@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	1618	CCT5	22948	chaperonin containing TCP1, subunit 5 (epsilon)
+TESTONLY	11655	TCP1	6950	t-complex 1
+
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	1165	DAGLA	747	diacylglycerol lipase, alpha

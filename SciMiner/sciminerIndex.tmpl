@@ -1,0 +1,36 @@
+<html>
+<TMPL_IF NAME="PROFILE">
+	<TMPL_INCLUDE NAME="sciminer.tmpl">
+	  
+	  <hr>
+      <a href="<TMPL_VAR NAME=MYURL>?rm=logout">Logout</a>
+      </hr>
+<TMPL_ELSE>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<table border="1" width="500" height="200" align="center">
+	<tr>
+	   <td width=\"400\">
+       <TMPL_IF NAME="BADLOGINS">
+		   <p align="center"><font size="4">Wrong email or password. <TMPL_VAR NAME=BADLOGINS> attempts. <br/></font></p>
+	   </TMPL_IF>
+	   <form method="post" action="<TMPL_VAR NAME=MYURL>" enctype="application/x-www-form-urlencoded">
+		     <p align="center"><font size="4">Enter your email address and password. <br><br>
+		     If you don't have a SciMiner account, <br>
+		     Click <a href="createSciMinerAccount.cgi"><b>HERE</b></a> to create one.<br><br>
+		     Email to your <a href="mailto:?subject=Regarding SciMiner">system administrator</a> for any question.</p><br>
+		     
+		     <p align="center">
+		     &nbsp;&nbsp;&nbsp;   E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="lg_nick"/><br/>
+		     &nbsp;&nbsp;&nbsp;   Password: <input type="password" name="lg_pass"/><br/><br>
+		     <input type="submit" name="submit" value="Login" />
+		     <INPUT TYPE="reset" name="clear"></p></font>
+	   </form>
+	   </td>
+	</tr>
+   </table>
+</TMPL_IF>
+</html>
+
+

@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 6
+
+COMMON	9065	PLCG1	5335	phospholipase C, gamma 1
+COMMON	7808	NGF	4803	nerve growth factor (beta polypeptide)
+
+BACKGROUNDONLY	241	ADCYAP1	116	adenylate cyclase activating polypeptide 1 (pituitary)
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	7315	MS4A1	931	membrane-spanning 4-domains, subfamily A, member 1
+BACKGROUNDONLY	6015	IL4R	3566	interleukin 4 receptor
+BACKGROUNDONLY	3613	FCGR1A	2209	Fc fragment of IgG, high affinity Ia, receptor (CD64)
+BACKGROUNDONLY	2770	DES	1674	desmin

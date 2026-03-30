@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 4
+#BACKGROUNDONLY: 3
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	11740	TF	7018	transferrin
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 2
+#BACKGROUNDONLY: 3
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	7714	NDUFS7	374291	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)
+TESTONLY	7715	NDUFS8	4728	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)
+TESTONLY	6115	IREB2	3658	iron-responsive element binding protein 2
+
+COMMON	118	ACO2	50	aconitase 2, mitochondrial
+COMMON	12805	XDH	7498	xanthine dehydrogenase
+
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	30880	CISD1	55847	CDGSH iron sulfur domain 1

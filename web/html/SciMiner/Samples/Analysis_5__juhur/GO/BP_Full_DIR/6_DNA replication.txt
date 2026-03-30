@@ -1,0 +1,34 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 18
+#COMMON: 6
+#BACKGROUNDONLY: 4
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+TESTONLY	3701	FHIT	2272	fragile histidine triad gene
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	10451	RRM1	6240	ribonucleotide reductase M1
+COMMON	2983	DNTT	1791	deoxynucleotidyltransferase, terminal
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	8800	PDGFB	5155	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+BACKGROUNDONLY	17016	MYST2	11143	MYST histone acetyltransferase 2
+BACKGROUNDONLY	11741	TFAM	7019	transcription factor A, mitochondrial

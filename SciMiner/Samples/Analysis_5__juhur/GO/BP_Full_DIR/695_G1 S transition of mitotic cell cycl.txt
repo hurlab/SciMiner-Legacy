@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	1773	CDK4	1019	cyclin-dependent kinase 4
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+
+BACKGROUNDONLY	7775	NFATC1	4772	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+BACKGROUNDONLY	1582	CCND1	595	cyclin D1

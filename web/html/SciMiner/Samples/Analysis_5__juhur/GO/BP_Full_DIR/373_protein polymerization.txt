@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 2
+#BACKGROUNDONLY: 4
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+TESTONLY	12408	TUBA3C	7278	tubulin, alpha 3c
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+
+BACKGROUNDONLY	11881	TMSB4X	7114	thymosin beta 4, X-linked
+BACKGROUNDONLY	3662	FGB	2244	fibrinogen beta chain
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	18809	TUBA1B	10376	tubulin, alpha 1b

@@ -1,0 +1,30 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 7
+#BACKGROUNDONLY: 13
+TESTONLY	1848	CEL	1056	carboxyl ester lipase (bile salt-stimulated lipase)
+TESTONLY	7983	NR5A1	2516	nuclear receptor subfamily 5, group A, member 1
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	3133	EBP	10682	emopamil binding protein (sterol isomerase)
+BACKGROUNDONLY	2638	CYP3A5	1577	cytochrome P450, family 3, subfamily A, polypeptide 5
+BACKGROUNDONLY	2641	CYP46A1	10858	cytochrome P450, family 46, subfamily A, polypeptide 1
+BACKGROUNDONLY	1907	CH25H	9023	cholesterol 25-hydroxylase
+BACKGROUNDONLY	1869	CETP	1071	cholesteryl ester transfer protein, plasma
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	5215	HSD17B7	51478	hydroxysteroid (17-beta) dehydrogenase 7
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

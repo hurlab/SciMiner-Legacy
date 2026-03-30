@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 3
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+
+COMMON	4851	HTT	3064	huntingtin
+
+BACKGROUNDONLY	2159	CNR1	1268	cannabinoid receptor 1 (brain)
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)
+BACKGROUNDONLY	2160	CNR2	1269	cannabinoid receptor 2 (macrophage)

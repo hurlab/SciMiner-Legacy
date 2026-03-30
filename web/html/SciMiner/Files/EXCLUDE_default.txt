@@ -1,0 +1,393 @@
+pc3	cell line PC3	PC3 cancer	PC3 cell	PC3 cell line	PC3 cell lines   	PC3 cellines	PC3 cellline	PC3 cells	PC3 prostate cancer cell lines	prostate cancer cell lines PC3
+fra	FRA assay	fructosamine
+yl 1	tetrazol
+pni	perineural invasion
+c10	c10 10	C10 National Health	c10/10	pharmacia c10
+tmp	tetramethoxypropane
+pk1	PK1 PK9
+mda	malondialdehyde	renal malondialdehyde
+krc	Renal cell carcinoma
+hage	El Hage
+saa3	acute phase reactant
+hat	histone acetyltransferases
+vit	Vitamin A	Vitamin B	Vitamin C	Vitamin E
+bap	bone AP	bone BAP
+imac	inner membrane anion channel
+cjd	Creutzfeldt	Creutzfeldt Jakob disease	Creutzfeldt-Jakob disease	Jakob disease
+tas	total antioxidant status
+light	Laboratories Clarendon
+beta 4	Scion Corporation
+stat	Abacus Concepts Inc	sigma plot	Stat View	Statistical software
+delta	DELTA FFI	fura-fluorescence intensity change
+30k	30K GIF
+ren	Dr Ren s	Dr Rens	Dr. Ren's	Esberg Ren	Kaijun Ren	Ren et
+bpa	bisphenol A
+apo	apocynin
+rst	RST DE13701
+dbs	Pleasanton CA	Trichrome staining
+all	allopurinol	AML	CLL	CML	leukemia neoplasm	leukemia neoplasms	leukemias
+alx	alloxan
+ptps	6-pyruvoyl-tetrahydropterin synthase	tetrahydropterin synthase
+lim	Lim et al
+uorf	upstream open reading frame
+hmps	hexosomonophosphate
+edrf	endothelium derived relaxing factor	endothelium-derived relaxing factor	nitric oxide
+trma	Thiamine responsive megaloblastic anemia syndrome	Thiamine-responsive megaloblastic anemia syndrome
+pp2	4 amino 5 4 chlorophenyl	4-amino-5-(4-chlorophenyl)-7-(t-butyl)-pyrazolo[3,
+prp	Platelet rich plasma	Platelet-rich plasma
+sclc	small cell lung cancer
+ppo	g PPO
+mt-tg	cardiac specific MT overexpressing transgenic	cardiac-specific MT-overexpressing transgenic	cardiomyocytes	metallothionein overexpressing transgenic	metallothionein-overexpressing transgenic
+ptc	proximal tubule cells
+can	cardiovascular autonomic neuropathy
+fbs	FBS
+pin3	lesions of
+ssa	superoxide scavenging activity
+hb 1	no hb 1
+amf	amminophylline	myofibroblast	myofibroblasts
+cpk	creatine phosphokinase
+lab	Lithospermate B	Magnesium lithospermate B
+mcr	metabolic clearance rate
+chx	cycloheximide
+merrf	myoclonic epilepsy and ragged red fiber disease
+les	Les Ulis
+wss	Wall shear stress
+sek	JNK	kinase	pathway
+mody3	maturity-onset diabetes of the young
+f10	F10 medium
+utr	3 UTR	3' UTR	3UTR	5 UTR	5' UTR	5UTR	untranslated region	untranslated region UTR	UTR and promoter region
+cpan	Comprehensive Perl Archive Network	Perl module	Perl modules
+arg	amino acid Arg	Lys or Arg
+tic	total ion current
+mop	health research grant
+no	N-acetylcysteine	nitrogen dioxide
+pra	plasma renin activity
+sil	squamous intraepithelial lesions
+npd	normal pellet diet
+sno	S nitrosothiol	S-nitrosothiol
+tpa	12 O tetradecanoylphorbol beta acetate	12-O-tetradecanoylphorbol beta-acetate	tetradecanoylphorbol 13 acetate	tetradecanoylphorbol 13-acetate
+rom	reactive oxygen metabolite
+ecl	Amersham Biosciences	Amersham Pharmacia	ECL nitrocellulose membrane	ECL technique Amersham Pharmacia	ECL Western blot system	ECL Western blotting detection reagents	enhanced chemiluminescence	enhanced chemiluminescence reagent	GE Healthcare	nitrocellulose membranes
+xin	thank Xin	Xin et al	Xin et. Al	Xin Pang
+p40	nonidet
+ecd	electrochemical detection	Endothelial cell dysfunction
+pdf	Original magnification	PDF file	prostate-derived factor prostate derived factor
+ho3	terminated and dissolved
+cal	calyculin	clinical attachment level
+mp100	Biopac MP100 system	Biopac system
+gmp	cyclic c GMP	cyclic GMP	cyclic guanosine monophosphate
+pd2	PD2 value	PDF =	PDF of
+ptb	N-Phenacylthiazolium bromide	Phenacylthiazolium bromide
+mlx	Microtiter Plate Luminometr
+type	TYPE 2 DIABETES MELLITUS
+fmo	flow mediated vasodilation	flow-mediated vasodilation
+des	desferrioxamine
+ctr	control	ctrl
+u87	glioblastoma cell line
+psm	plasma soluble melanins
+amg	aminoguanidine
+pml	polymorphonuclear leukocyte
+ccd	camera Photometrics Huntington	CCD camera
+par	PAR polymer	PAR polymerase	PAR polymers
+hpo	HPO 3	K 2 HPO	K HPO	KHPO	Na 2 HPO	Na HPO	NaHPO
+dpi	diphenylene iodonium	diphenyleneiodinium	diphenyleneiodonium	diphenyliodonium chloride
+dmt	2 6 dimethyltyrosine	2’ 6’ dimethyltyrosine	2’, 6’-dimethyltyrosine	dimethyltyrosine
+crf	chronic renal failure
+aps	Asahi Polysulfone
+dhp	dihydropyridine based	dihydropyridine based calcium antagonist	dihydropyridine-based calcium antagonist
+ca1	cortex CA1	cortex CA1 region	CX CA1	hippocampal CA1
+adr	adriamycin
+mts	inner salt	inner salt MTS	methosulfate	MTS assay	MTS tetrazolium compound	reagent MTS
+bat	brown adipose	brown-adipose
+boc	BOC gases	Windsor
+nefa	nonesterified fatty acids
+indo	indomethacin
+hbp	hexosamine biosynthesis pathway
+dic	differential interference contrast	disseminated intravascular coagulation
+th1	helper
+ipl	inner plexiform layer
+bcc	basal cell carcinoma
+cml	(carboxymethyl)lysine	carboxymethyl lysine	carboxymethyl-lysine	carboxymethyllysine	dichlorodihydrofluorescein diacetate
+ott	ott et al
+hpt	human kidney proximal tubule	human proximal tubule
+hk2	human proximal tubular
+dag	diacylglycerol
+ctb	cholera toxin subunit b
+epa	eicosapentaenoic acid	epalrestat
+ari	Aldose reductase
+map	mean arterial pressure
+tek	Electron Microscopy Sciences	Tek chamber slides	Tissue Tek
+a10	A10 cells	A10 line
+bdh	BDH Chemicals	BDH Inc
+etf	electron transfer flavoprotein
+ba2	mol/l Ba2
+tub	TUB tubulin	TUB, tubulin
+pgi	prostacyclin	prostaglandin
+are1	ARE1 region
+cis	CIS Biointernational
+ctp	CTP
+prot	Prot creat
+kir	kca channel	kir channel
+ctrl	control Ctrl	Ctrl control
+smc	smooth muscle cells
+slit 3	slit 3 nm
+ros	ROS
+trf	terminal restriction fragment
+homeobox	homeobox
+nan	Sodium azide
+tri	TRI reagent
+nrk	NRK cells
+rin	islet
+hsc	HSC Diabetes Center
+lct	long chain	long-chain	medium chain	medium-chain
+f12	F12 medium
+uap	tissue unspecific AP	tissue-unspecific AP
+ls2	LS2 9JT 
+lepr	db db	Lepr db	Lepr Lepr	Lepr mice	Lepr mouse
+brl	BRL Life Technologies	BRL Life Technology	Burlington Ontario Canada	GIBCO BRL	gibco/brl	Grand Island
+ter	Transendothelial Electrical Resistance
+solo	SOLO software
+p19	P19 cell	P19 embronic	P19 embryonal
+ki-67	Ki 67 staining	Ki-67 staining
+gsh 4	plasma and gsh 4
+mef	mouse embryonic fibroblast	mouse embryonic fibroblasts
+cin	inulin clearance
+nidd	non insulin dependent diabetes	non insulin-dependent diabetes
+pin	PIN lesions	PIN like lesions	PIN-like lesions	prostate intra epithelial neoplasia	prostate intra-epithelial neoplasia	prostate intraepithelial neoplasia
+gcl	ganglion cell layer
+mmd	membrane depolarization
+gaa	GAA triplet
+fad	flavine adenine dinucleotide	NADPH
+tsa	trichostatin A
+lpo	lipid peroxides
+rox	Gene expression assay kit
+pdi	diphenyleneiodonium
+max	Gemini EM	Spectra MAX	Spectra MAX Gemini EM	stain mouse
+fmn	flavin mononucleotide
+csx	Cardiac syndrome X
+mody2	Maturity-onset diabetes of the young 2
+ecm	extra cellular matrix	extracellular matrix
+stx	STX or ALX
+bis	bisindolylmaleimide
+cbs	chromogenic substrate
+lvm	left ventricular	LV mass
+tbs	TBS containing	Tris buffer saline	Tris buffered saline	Tris-buffered saline
+roi	reactive oxygen intermediates
+pms	phenazine methosulphate
+ffa	free fatty acids
+bravo	Bravo et al
+msp	Methylation specific PCR
+3 pap	gsk 3 pap	pap _amp_
+aii	Angiotensin II
+nop	NO product
+blp	Luminescence Reader	Model BLP 102
+ccv	clathrin coated vesicle	clathrin-coated vesicle
+db-dci	dibutyryl DCI
+dmr	differentially methylated region
+dr1	direct repeats	DR1 type DNA	DR1-type DNA
+gpix	Becton Dickinson San Jose
+sba	benzylideneascorbate
+slo	scanning laser ophthalmoscope
+e14	cell line E14	E14 cell line	E14 cell lines	E14 celllines	stem cell line E14
+chl	CHL IU	CHL IU cells	CHL/IU	CHL/IU cells
+call	CALL FOR PAPERS
+nd1	cell line ND1	ND1 cell line	ND1 cell lines	ND1 cells
+spd	spermidine
+emsa	electrophoretic mobility shift assay
+tes	TES buffer
+emd	EMD Biosciences
+bart	Dr Bart	Dr. Bart
+cki	Cdk inhibitors
+nppb	5 nitro 2 3 phenyl propylamino benzoate	5-nitro-2-(3-phenyl-propylamino)-benzoate	chloride channel inhibitor	inhibitor of the cl
+cac	CAC binding protein
+gif	gif file
+csa	cross sectional	Cross-sectional area
+cr 4	4 weeks after
+gpc	glycerophosphorylcholine
+ste	ml of STE	mM Tris	STE buffer
+rhd	Rel homology domain
+orf	ORF
+at-1	angiotensin-1
+trap	1 hydroxy 3 carboxy	1 hydroxy 3 carboxy pyrrolidine	1-hydroxy-3-carboxy-pyrrolidine
+til	tumor infiltrating lymphocyte	tumor infiltrating lymphocytes	tumor-infiltrating lymphocyte	tumor-infiltrating lymphocytes
+bom	Bom mice
+ket	ketanserin
+bdm	bisindolylmaleimide
+nsclc	non small cell lung cancer	non-small cell lung cancer	nonsmall cell lung cancer
+prr	pathogen recognizing receptor
+tera	TERA cell lines TERA cells
+stp	staurosporine 
+mtg	mitochondrial fluorescence	MTG green	MTR fluorescence
+pta	Percutaneous transluminal angioplasty
+bss	balanced salt solution	Hank	Hanks
+hdl	cholesterol	high density lipoproteins
+tcl	thermochemiluminiscence
+mrc	1024 scanning confocal microscope	BioRad microscope	BioRad MRC	BioRad MRC 1024 scanning confocal microscope	MRC program
+tre	tetracycline responsive element	tetracycline-responsive element	thyroid responsive element	thyroid-responsive element
+mis	mitochondrial import sequence
+epi	epinephrine
+rap	RNA arbitrarily primed
+tgd	tumor growth delay
+nep	Nepafenac
+asc	ascorbic acid	ascorbyl
+mct	mean circulation time	mean-circulation time
+mngie	Mitochondrial Neurogastointestinal Encephalomyopat
+dia	Dia Sorin
+tro	thiazolidinedione troglitazone
+pep	Santa Cruz Biotechnology Inc
+atr	atractyloside
+pap	GOD PAP	placenta AP	placenta PAP
+ddc	diethyldithiocarbamate
+mpg	N methylpurine DNA glycosylase	N-methylpurine DNA glycosylase
+ppd	probing pocket depth
+cct	CCC to CCT
+fmlp	formyl Met Leu Phe	formyl methionyl leucyl phenylalanine	formyl-Met-Leu-Phe	formyl-methionyl	formyl-methionyl-leucyl-phenylalanine	N formyl Met Leu Phe	N formyl methionyl leucyl phenylalanine	n-formyl-l-methionyl-l-leucyl-l-phenylalanine	N-formyl-Met-Leu-Phe	N-formyl-methionyl-leucyl-phenylalanine
+sma	small mesenteric arteries
+iap	inhibitors apoptosis proteins	intestine AP	intestine IAP
+ach	acetylcholine
+lmb	leptomycin B
+pdb	phorbol dibutyrate	Protein data bank
+lsm5	laser scanning	laser-scanning
+sar	superoxide anion radical	superoxide anion radicals
+hua	Hua Long
+lps	lipopolysaccharide
+ncr	non-diabetic NCR
+nox	nitrate + nitrite
+tramp	cancer prone transgenic mice	cancer-prone transgenic mice	transgenic adenocarcinoma mouse prostate
+bid	BID PO
+lad	blood	left anterior descending
+pad	peripheral arterial disease
+alr	AL resistant	AL-resistant	ALR LtJ	ALR mt	ALR.mt	ALR/LtJ
+cpt	cold pressor test
+mody	maturity onset diabetes	maturity onset diabetes of the young	maturity-onset diabetes	maturity-onset diabetes of the young
+nod	nitrogeneous	nitrogenous oxygen	NOD mice	NOD mouse	NOD strain
+dci	d chiro inositol	d-chiro-inositol
+pcna	immunochmistry	PCNA antibody	PCNA staining
+cc-1	red fluorescence	RedoxSensor Red
+pamp	pathogen associated molecular pattern
+izumo	Izumo Japan
+krp	Krebs Ringer Phosphate	Krebs-Ringer-Phosphate	Krebs-Ringer-Phosphate solution KRP	solution KRP
+nin	Nin and Nout
+hcc	hepatocellular carcinoma
+pem	PEM buffer
+pam	Pam Swiatek	thank pam
+ik1	rectifier current
+ric	radioimmunoconjugate
+calif	Bio Rad Laboratories	Bio-Rad Laboratories	La Jolla	Los Angeles	San Diego
+cocoa	cocoa product
+pnp	polyneuropathy
+gfr	glomerular filtration rate
+scc	squamous cell carcinoma
+dm1	diabetes mellitus
+tom	translocase of the outer mitochondrial membrane
+toc	d alpha tocopherol	d-alpha-tocopherol	tocopherol
+mrx	MRX Microplast Reader
+emp	endothelial microparticle
+ptp	permeability transition pore
+nac	N acetyl cysteine	N acetyl L cysteine	N acetyl L-cysteine	N acetyl-L-cysteine	N acetylcysteine	N-acetyl-cysteine	N-acetyl-L-cysteine	N-acetylcysteine
+cad	CAD 48617	CAD48617	coronary artery disease
+dcr	diabetic DCR
+pdr	proliferative diabetic retinopathy
+carmen	Carmen Jer	Carmen Jer amp oacute	Carmen Jer_amp_oacute
+cacl	CACL
+mia	Mia Urjansson
+cho	Chinese hamster ovary
+dba	DBA 2	DBA/2	DBA2
+p200	probucol
+sts	staurosporine
+drs	Drs
+tat	TAT buffer
+cs-1	CS 1	CS-1
+tof	MALDI TOF	MALDI-TOF	TOF leading
+tsc	tumour stem cell	tumour stem cells
+engl	N Engl J Med
+kar	Kar and Chakraborti
+mds	multidimensional scaling
+rick	Rick Sanger
+gla	gamma linoleic acid	gamma linolenic acid	gamma-linoleic acid	gamma-linolenic acid
+rage	advanced glycation end products	receptor for advanced glycation end products
+pfd	prefoldin
+cap	chloramphenicol	Conventional adenocarcinoma of prostate cancer	Conventional adenocarcinoma of the human prostate
+pmi	PMI Co	PMI Co Inc	PMI CO.	PMI St Louis	PMI, St	PMI, St. Louis
+bpad	Bipolar affective disorder
+aas	atomic absorption spectrometry
+stz	streptozotocin
+avp	AVM
+rcc	renal cell carcinoma
+med	Clin Med	Med Lab	N Engl J Med
+sas	SAS program	SAS version	Sprague-Dawley rats
+kap	kidney AP	kidney KAP
+bal	bronchoalveolar lavage
+gpcr	G protein coupled receptor	G protein-coupled receptor
+stzr	streptozotocin induced diabetic rats	streptozotocin-induced diabetic rats
+abl	ABL 625
+mgi	modified gingival index
+eat	BQ 123	BQ-123
+afm	atomic force microscopy
+mbl	Fluorometric Protease Assay Kit	MBL Ltd
+sds	SDS	SDS sample buffer	sodium dodecyl	sodium dodecyl sulfate	sodium-dodecyl
+osp	oxidative stress profiling
+ins-1	beta cells	beta(INS-1)-cells	INS 1 832	INS 1 cell	INS 1 cells	INS-1 832	INS-1 cell	INS-1 cells	INS1 cell	INS1 cells	insuloma INS-1	isolated mouse islets INS 1	isolated mouse islets INS-1
+sf2	Sf2 is fluorescence
+poli	Poli Leonarduzzi	Poli, Leonarduzzi
+bip	5 bromo 3 indolylphosphate	5-bromo-3-indolylphosphate
+lap	liver AP	liver LAP
+rao	Rao et al	Sreejayan and Rao
+cs1	CS1
+cgrp	Calcitonin gene related peptide	Calcitonin gene-related peptide
+ebf	endoneural blood flow	endoneurial blood flow
+cdr	Cohen Diabetic rats
+pcd	programmed cell death
+faf	Fatty acid free	Fatty-acid free
+narp	neurogenic muscle weakness
+mak	Mak et al
+emt	epithelial mesangial	epithelial mesenchymal transition	epithelial to mesangial	epithelial-mesenchymal transition	epithelial-to-mesangial	epithelial-to-mesenchymal	transition epithelial to mesenchymal transition
+met	mesenchymal epithelial transition	mesenchymal to epithelial transition	mesenchymal-to-epithelial transition	metformin
+etb	BQ788
+api5	APRIN was
+opt	o phenanthroline	o-phenanthroline
+pigs	Yorkshire pigs
+hcr	termed HCR
+delta1	Plasmids
+genesis	Genesis	UV spectrophotometer
+nath	Nath and colleagues
+hssb	Hank balanced salt solution	Hank's balanced salt solution	Hanks balanced salt solution
+slit 1	slit 1 nm
+sage	erial analysis of gene expression
+prc	Polycomb Repressive Complexes
+for	FOR
+sam	S adenosylmethionine	S-adenosylmethionine	SAM analyses	SAM analysis	SAM hits
+10c	Fig 10C	Fig. 10C
+dar	diaminorhodamine
+aoa	antioxidant
+snap	S nitroso N acetylpenicillamine	S-nitroso-N-acetylpenicillamine
+als	AL susceptible	AL-susceptible	alloxan susceptible	alloxan-susceptible	amyotrophic lateral sclerosis
+indole 2	indole 2 carbonyl
+h 37	h 37 degree	h 37 degreec
+aicar	5 amino oimidazole 4 carboxamide ribonucleoside	5'-amino-imidazole-4-carboxamide ribonucleoside	5-amino oimidazole-4-carboxamide ribonucleoside	5-aminoimidazole-4-carboxamide-1-beta	AMPK activating compound	AMPK activating compounds	AMPK-activating compound	AMPK-activating compounds
+bgl	Bgl II	restriction sites
+noc	NOC 12
+dlp	dorsolateral prostate	dorsolateral prostates
+pinitol	3 O methyl DCI	3-O-methyl DCI
+efs	electrical field stimulation
+hek	HEK 293 cells
+sns	sympathetic nervous system
+aav	AAV carrying	AAV transduction	AAV vector
+fig	FIG	Fig.
+pi	plaque index
+mpp	methyl 4 phenylpyridinium	methyl-4-phenylpyridinium
+psp	progressive supranuclear palsy
+hne	4 hydroxy 2 nonenal	4 hydroxynonenal	4-hydroxy-2-nonenal	4-hydroxynonenal
+cd1	CD1 mice	CD1 mouse	CD1.*mice	CD1.mouse
+ec2	large extracellular domain
+bop	bleeding on probing
+ced	cambridge	computer Spike
+gsh	glutathione
+tsk	TSK gel
+dac	2'-deoxy-5-azacytidine	DNMT inhibitors
+sep	sepiapterin
+dmso	dimethyl sulfoxide
+esr	Electron spin resonance	ESR spectroscopy
+msa	methane sulfinic acid	mouse serum albumin
+enrage	RAGE binding
+tpt	topotecan

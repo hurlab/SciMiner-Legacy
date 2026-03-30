@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 3
+
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+
+BACKGROUNDONLY	24961	HOPX	84525	HOP homeobox
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+

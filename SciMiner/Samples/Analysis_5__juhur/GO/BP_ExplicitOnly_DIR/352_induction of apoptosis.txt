@@ -1,0 +1,35 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 14
+#BACKGROUNDONLY: 9
+TESTONLY	9588	PTEN	5728	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+TESTONLY	14374	NLRP1	22861	NLR family, pyrin domain containing 1
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	21528	DIABLO	56616	diablo homolog (Drosophila)
+COMMON	4851	HTT	3064	huntingtin
+COMMON	936	BAD	572	BCL2-antagonist of cell death
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	1499	CASP1	834	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	11920	FAS	355	Fas (TNF receptor superfamily, member 6)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+
+BACKGROUNDONLY	7809	NGFR	4804	nerve growth factor receptor (TNFR superfamily, member 16)
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	12030	TRADD	8717	TNFRSF1A-associated via death domain
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)
+BACKGROUNDONLY	11848	TLR2	7097	toll-like receptor 2
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	9071	PLG	5340	plasminogen
+BACKGROUNDONLY	11925	TNFSF10	8743	tumor necrosis factor (ligand) superfamily, member 10
+BACKGROUNDONLY	6709	LTA	4049	lymphotoxin alpha (TNF superfamily, member 1)

@@ -1,0 +1,29 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 10
+#BACKGROUNDONLY: 13
+
+COMMON	1325	C4BPA	722	complement component 4 binding protein, alpha
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	6001	IL2	3558	interleukin 2
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	6776	MAF	4094	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	19157	IL27	246778	interleukin 27
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	7562	MYD88	4615	myeloid differentiation primary response gene (88)
+BACKGROUNDONLY	1242	C1QB	713	complement component 1, q subcomponent, B chain
+BACKGROUNDONLY	11850	TLR4	7099	toll-like receptor 4
+BACKGROUNDONLY	1705	CD86	942	CD86 molecule
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	2095	CLU	1191	clusterin
+BACKGROUNDONLY	6953	CD46	4179	CD46 molecule, complement regulatory protein
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	1323	C4A	720	complement component 4A (Rodgers blood group)

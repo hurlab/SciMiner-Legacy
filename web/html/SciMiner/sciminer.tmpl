@@ -1,0 +1,137 @@
+<head>
+<title>SciMiner Query Submission</title>
+<script language="JavaScript1.2" src="sciminer.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="mm_health_nutr.css" type="text/css" />
+<style type="text/css">
+body {
+	margin-left:10px;
+	}
+td {
+	font:10px Arial, Helvetica, sans-serif;
+	color:#666666;
+	text-align:left;
+}
+</style>
+
+</head>
+<body bgcolor="#EAF4F4">
+<script type="text/javascript" src="wz_tooltip.js"></script>
+<p align="center" class="pageName"><b><U>SciMiner Query Submission</U></b></p>
+
+<!--
+<p align="center"><font face = 'Georgia' size="4"> Hello <TMPL_VAR NAME="REALNAME">. Welcome to online SciMiner v2.2. </font></p>
+-->
+
+    <p class="titleBarName1">(<b>Instruction</b>): Click <a href="Files/SciMiner_User_Manual.pdf"><b>HERE</b></a> for detailed help or move mouse pointer around to get a quick tip.<br> &nbsp;&nbsp;&nbsp;1) Name your query and enter your Pubmed search terms or provide PMIDs directly. <br> &nbsp;&nbsp;&nbsp;2) Submit your query, review the result, and correct wrongfully identified targets if necessary. <br> &nbsp;&nbsp;&nbsp;3) Re-run the same query to get an updated target identification results, if necesary with modified advanced options and user filters.</p>
+
+<form action='sciminer.cgi' method='POST' ENCTYPE='multipart/form-data'>
+
+<p class="titleBarName1">(<b>Section1</b>) Name your query.<br>
+&nbsp;&nbsp; Query name : <INPUT TYPE='text' NAME='queryName' value='' size="25" onmouseover="Tip('Give a name to your query to distinguish this from other queries. <br> ex) ALS and ROS 11-05-2008')" onmouseout="UnTip()"><br></p>
+<INPUT TYPE="HIDDEN" NAME="email" VALUE="<TMPL_VAR NAME="EMAIL">">
+
+<p class="titleBarName1">(<b>Section2</b>) Enter your query or provide PMIDs<br>
+1) NCBI Entrez PubMed search term(s)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<INPUT TYPE='text' NAME='queryString' size="35" onmouseover="Tip('Enter your Entrez PubMed search terms of your interest.<br>Papers are retrieved based on the PubMed search result of your query.<br>Click <b>&quot;PREVIEW&quot;</b> to see how many papers your query will result in.')" onmouseout="UnTip()">&nbsp;&nbsp;&nbsp;<a href="javascript:ncbi_preview_window();" onmouseover="Tip('We strongly recommend you to check your by clicking <b>PREVIEW</b> before submitting your query<br> to see how big corpus your current query would be.<br><br>Note that most users are limited in their <br><b>total number of papers</b> and the number of <b>new papers</b> to SciMiner <b>per query</b>. <br><br>If you need to run a big query beyond your limit, <br> 1) Obtain all of PMIDs from PubMed and split into smaller sets, then run SciMiner on each set. <br> &nbsp;&nbsp;you can merge them after each set is finished. <br> 2) Contact the system administrator to increase your limit. <br><br> The limit has been implemented to prevent a single user from taking up all SciMiner capacity over a long period.')" onmouseout="UnTip()"><b>PREVIEW</b></a>&nbsp;&nbsp;&nbsp;(ex) &quot;Amyotrophic lateral sclerosis&quot;[MeSH] AND &quot;Reactive Oxygen Species&quot;[MeSH]
+</p>
+
+
+<a id="flag1" href="#" onclick="showhide('div1','flag1', 'advanced options');" class="smallTextBold2" onmouseover="Tip('Click here to <b>SHOW</b> or <b>HIDE</b> advanced options.')" onmouseout="UnTip()">SHOW advanced options!</a>
+<div id="div1" style="display:none">
+<p class="titleBarName1">
+2) List of PMIDs<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<textarea name='listText' rows="4" cols="40" onmouseover="Tip('Enter your PMIDs here one ID per line.')" onmouseout="UnTip()"></textarea><br>
+3) Browse your PMID list file<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<INPUT TYPE='file' NAME='uploadFileName' size="35" onmouseover="Tip('Select a text file with PMIDs. <br> Each line should contain only one PMID.')" onmouseout="UnTip()"></p>
+
+<p class="titleBarName1">(<b>Section3</b>) SciMiner Mining Mode </font> (*<a href="https://www.ncbi.nlm.nih.gov/gene/">NCBI Gene2PubMed and GeneRIF</a> involve no text mining)<br>
+<table border="1">
+	<tr>
+		<th width="100" class="tableHeader1" onmouseover="Tip('You can choose the way how targets are searched from papers.<br><br><b>SciMiner text mining</b>: Default SciMiner text mining method to identify targets<br><b>NCBI Gene2PubMed</b>: Use NCBI Gene2PubMed in the Entrez Gene database. No text mining is involved<br><b>NCBI GeneRIF</b>: Use NCBI GeneRIF in the Entrez Gene database<br><br>Here are descriptions from the NCBI Entrez Database regarding the two NCBI resources<br><br><img src=&quot;ImagesBig/NCBIResDesc.jpg&quot; height=&quot;250&quot;  width=&quot;650&quot;')" onmouseout="UnTip()">
+			Mining mode
+		</th>	
+		<td width="150"  class="tableHeader1" onmouseover="Tip('You can choose the way how targets are searched from papers.<br><br><b>SciMiner text mining</b>: Default SciMiner text mining method to identify targets<br><b>NCBI Gene2PubMed</b>: Use NCBI Gene2PubMed in the Entrez Gene database. No text mining is involved<br><b>NCBI GeneRIF</b>: Use NCBI GeneRIF in the Entrez Gene database<br><br>Here are descriptions from the NCBI Entrez Database regarding the two NCBI resources<br><br><img src=&quot;ImagesBig/NCBIResDesc.jpg&quot; height=&quot;250&quot;  width=&quot;650&quot;')" onmouseout="UnTip()">
+			<select name="miningMode" size="1">
+                <option selected value="SciMinerMining">SciMiner text mining</option>
+                <option value="NCBIGene2PubMed">NCBI's Gene2PubMed</option>
+                <option value="NCBIGeneRIF">NCBI's GeneRIF</option>
+			</select>
+		</td>	
+		<th width="200" class="tableHeader1" onmouseover="Tip('<b>This only applies to the two NCBI resource based method</b>.<br>Genes from non-Human species can be mapped to Human by NCBI HomoloGene data.')" onmouseout="UnTip()">
+			Species extension by HomoloGene
+		</th>
+		<td width="100" onmouseover="Tip('<b>This only applies to the two NCBI resource based method</b>.<br>Genes from non-Human species can be mapped to Human by NCBI HomoloGene data.')" onmouseout="UnTip()">
+			<select name="speciesExtension" size="1">
+                <option selected value="speciesExtension">Extend by HomoloGene</option>
+                <option value="humanOnly">Only explicit human targets</option>
+			</select>
+		</td>
+	</tr>
+</table>
+</p>
+<p class="titleBarName1">(<b>Section4</b>) Additional options for SciMiner text mining<br>
+
+<table border="0" style="text-align:left">
+	<tr onmouseover="Tip('<b>IGNORE</b>: You may provide SciMiner-identified gene/protein names (<b>matching terms</b>) that you find inappropriate.<br>These names will be ignored and not be reported in the final report.<br><br>Usually these can be ambiguous/unspecific names in SciMiner dictionary that have not been cleaned yet.<br>Click <b>Default</b> to see the content of the default ignore filter.<br><br>Your own filter may include only those which are not in the default list.')" onmouseout="UnTip()">
+		<td>
+			<input type="checkbox" name="ignoreName">Names to be <b>ignored</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="file" name="IgnoreListFile" size="20">  &nbsp;&nbsp;&nbsp;(<a href="Files/IGNORE_default.txt" onmouseover="Tip('.')" onmouseout="UnTip()">Default</a> by SciMiner v2.2)
+		</td>
+	</tr>
+	
+	<tr onmouseover="Tip('<b>EXCLUDE</b>: You may provide SciMiner-identified SYMBOLs (<b>matching terms</b>) that you find inappropriate.<br>These symbols will be excluded if exclusion conditions are met.<br><br>EX) <b>SDS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sodium dodecyl sulfate</b><br><br>If SciMiner finds SDS and sodium dodecyl sulfate <b>in the same document</b><br>this identification of SDS will be excluded. The default assignment of SDS is <b>serine dehydratase.</b><br><br>Click <b>Default</b> to see the content of the default EXCLUDE filter.<br><br>Your own filter may include only those which are not in the default list.')" onmouseout="UnTip()">
+		<td>
+			<input type="checkbox" name="excludeSymbol">Symbols to be <b>excluded</b>&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="file" name="excludeSymbolFile" size="20"> &nbsp;&nbsp;&nbsp;(<a href="Files/EXCLUDE_default.txt">Default</a> by SciMiner v2.2)
+		</td>
+		
+	</tr>
+		
+	<tr onmouseover="Tip('<b>INCLUDE</b>: Identified symbols with SciMiner confidence score of <b>0</b> are not included in the final report. <br>However, you can force SciMiner to include them when conditions are met.<br><br>This feature might be useful for symbols which you are quite sure to be legitimate gene symbols <br>but happen to have SciMiner score of <b>0</b> due to lack of supporting longer description (names) in the same document.<br><br>If MedLine abstract is the only available text for a given paper, <br>it is likely that many of identified symbols are likely to have SciMiner score of 0.<br><br>Click <b>Default</b> to see the content of the default EXCLUDE filter.<br><br>Your own filter may include only those which are not in the default list.')" onmouseout="UnTip()">
+		<td>
+			<input type="checkbox" name="includeSymbol">Symbols to be <b>included</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="file" name="includeSymbolFile" size="20"> &nbsp;&nbsp;&nbsp;(<a href="Files/INCLUDE_default.txt">Default</a> by SciMiner v2.2)
+		</td>
+	</tr>
+	
+	<tr onmouseover="Tip('You may use this option to include any identified symbol longer than specified characters.<br>Longer symbols are more likely to be true gene symbols.')" onmouseout="UnTip()">
+		<td>
+			<input type="checkbox" name="useLengthOption" value="1" checked>Include any gene symbol longer than 
+			<INPUT TYPE='text' NAME="wordLengthThreshold" size="2" value="6">, unless specified by the above filters
+		</td>
+	</tr>
+	
+	<tr>
+		<td onmouseover="Tip('You can specify SciMiner score threshold for your query. <br>Suggested thresholds are <b>0.1</b>, <b>0.3</b> and <b>0.6</b> for minimum, moderate, and high confidence respectively.<br><br>This is based on performance evaluation on BioCreative II Gene Normalization task.<br>Please, refer to the supplementary material or <b>HELP</b><br>')" onmouseout="UnTip()">
+			<input type="hidden" name="useScoreThreshold" value="1">
+			<input type="checkbox" name="useScoreThresholdDisabled" value="1" checked disabled="disabled">SciMiner confidence score threshold 
+			<INPUT TYPE='text' NAME="scoreThreshold" size="2" value="0.1"> (0.1: minimum, &#x2265;0.3: moderate, &#x2265;0.6: high)
+		</td>
+		<td>
+			<a onclick="openNewWindow('Files/ConfidenceScoreHelp.html');" onmouseover="Tip('Click here to view more help on score threshold.')" onmouseout="UnTip()"><b><u>more on scores</u></b></a>
+		</td>
+	</tr>
+	
+	<tr onmouseover="Tip('Phenotype only genes do not have other functional annotation assigned.<br>You may turn this option off to see the list in the final report.')" onmouseout="UnTip()">
+		<td>
+			<input type="checkbox" name="phenotypeOnlyFilter" value="1" checked>Do not include phenotype only genes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ex) IDDM2 (Insulin-dependent diabetes melitus 2), <br>
+		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCZD1 (Schizophrenia disorder 1) (<b>Full list</b> <a href="Files/phenotypeOnlyGenes.xls">EXCEL</a>, <a href="Files/phenotypeOnlyGenes.txt">TXT</a>)
+		</td>
+	</tr>
+</table>
+
+</p>
+
+</div>
+
+<p class="smallText2"><input type='submit' name='submit form'><input type="reset" name="reset form"></p>
+<p class="smallText2">* Supplementary files. You may need these files to create your own filter lists. (HUGO IDs are essential.)<br>
+Better save the text files and load them in a text editor like <a href="http://www.ultraedit.com/">UltraEdit</a> or <a href="http://www.editplus.com/">EditPlus</a><br>
+1) Full HUGO Content (<a href="Files/HUGO_Extended.xls" onmouseover="Tip('Here are all the HUGO genes on which SciMiner is based on.')" onmouseout="UnTip()">EXCEL</a>, <a href="Files/HUGO_trimmed_final_default.txt">TXT</a>)<br>
+2) Unique symbols (<a href="Files/UNIQUESYMBOL_default.txt" onmouseover="Tip('Here are all the unique symbols in SciMiner dictionary.')" onmouseout="UnTip()">TXT</a>)<br>
+3) Unique names (<a href="Files/UNIQUENAME_default.txt" onmouseover="Tip('Here are all the unique names (descriptions) in SciMiner dictionary.')" onmouseout="UnTip()">TXT</a>)<br>
+ <br>
+</p>
+</body>
+</html>

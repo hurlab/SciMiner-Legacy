@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 1
+TESTONLY	30862	UQCR	10975	ubiquinol-cytochrome c reductase, 6.4kDa subunit
+
+
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2

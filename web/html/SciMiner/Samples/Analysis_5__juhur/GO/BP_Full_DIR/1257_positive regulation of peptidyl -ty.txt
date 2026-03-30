@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 4
+#BACKGROUNDONLY: 4
+
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	6001	IL2	3558	interleukin 2
+
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	6596	LIF	3976	leukemia inhibitory factor (cholinergic differentiation factor)
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	2770	DES	1674	desmin

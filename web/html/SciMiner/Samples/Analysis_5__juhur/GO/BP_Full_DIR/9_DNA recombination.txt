@@ -1,0 +1,28 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 15
+#COMMON: 4
+#BACKGROUNDONLY: 3
+TESTONLY	9824	RAD52	5893	RAD52 homolog (S. cerevisiae)
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	9948	RECQL	5965	RecQ protein-like (DNA helicase Q1-like)
+TESTONLY	4739	H2AFX	3014	H2A histone family, member X
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	4055	XRCC6	2547	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	9950	RECQL5	9400	RecQ protein-like 5
+TESTONLY	12791	WRN	7486	Werner syndrome
+
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	6001	IL2	3558	interleukin 2
+
+BACKGROUNDONLY	6024	IL7R	3575	interleukin 7 receptor
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

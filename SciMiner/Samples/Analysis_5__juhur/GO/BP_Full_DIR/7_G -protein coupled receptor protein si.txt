@@ -1,0 +1,77 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 8
+#COMMON: 12
+#BACKGROUNDONLY: 51
+TESTONLY	11517	TAC1	6863	tachykinin, precursor 1
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	4605	GRP	2922	gastrin-releasing peptide
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	1442	CALM1	801	calmodulin 1 (phosphorylase kinase, delta)
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+TESTONLY	7553	MYC	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+TESTONLY	3229	EGF	1950	epidermal growth factor (beta-urogastrone)
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	7794	NFKB1	4790	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)
+COMMON	8988	PIN1	5300	peptidylprolyl cis/trans isomerase, NIMA-interacting 1
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	7545	MYB	4602	v-myb myeloblastosis viral oncogene homolog (avian)
+COMMON	9201	POMC	5443	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+
+BACKGROUNDONLY	2856	DGKQ	1609	diacylglycerol kinase, theta 110kDa
+BACKGROUNDONLY	3146	ECE1	1889	endothelin converting enzyme 1
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	241	ADCYAP1	116	adenylate cyclase activating polypeptide 1 (pituitary)
+BACKGROUNDONLY	4191	GCG	2641	glucagon
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	336	AGTR1	185	angiotensin II receptor, type 1
+BACKGROUNDONLY	4400	GNB3	2784	guanine nucleotide binding protein (G protein), beta polypeptide 3
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	9600	PTGFR	5737	prostaglandin F receptor (FP)
+BACKGROUNDONLY	8153	OPRD1	4985	opioid receptor, delta 1
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	7098	CXCL9	4283	chemokine (C-X-C motif) ligand 9
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	12372	TSHB	7252	thyroid stimulating hormone, beta
+BACKGROUNDONLY	4604	CXCL3	2921	chemokine (C-X-C motif) ligand 3
+BACKGROUNDONLY	2558	CX3CR1	1524	chemokine (C-X3-C motif) receptor 1
+BACKGROUNDONLY	18704	ARD1A	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+BACKGROUNDONLY	3023	DRD2	1813	dopamine receptor D2
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1
+BACKGROUNDONLY	9591	PTGDR	5729	prostaglandin D2 receptor (DP)
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide
+BACKGROUNDONLY	1984	CISH	1154	cytokine inducible SH2-containing protein
+BACKGROUNDONLY	4502	GPR44	11251	G protein-coupled receptor 44
+BACKGROUNDONLY	9593	PTGER1	5731	prostaglandin E receptor 1 (subtype EP1), 42kDa
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1
+BACKGROUNDONLY	9594	PTGER2	5732	prostaglandin E receptor 2 (subtype EP2), 53kDa
+BACKGROUNDONLY	10496	S100A6	6277	S100 calcium binding protein A6
+BACKGROUNDONLY	610	APOC3	345	apolipoprotein C-III
+BACKGROUNDONLY	6692	LRP1	4035	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	2160	CNR2	1269	cannabinoid receptor 2 (macrophage)
+BACKGROUNDONLY	2770	DES	1674	desmin
+BACKGROUNDONLY	238	ADCY7	113	adenylate cyclase 7
+BACKGROUNDONLY	4324	GLP1R	2740	glucagon-like peptide 1 receptor
+BACKGROUNDONLY	2159	CNR1	1268	cannabinoid receptor 1 (brain)
+BACKGROUNDONLY	11329	SST	6750	somatostatin
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	12694	VIPR1	7433	vasoactive intestinal peptide receptor 1
+BACKGROUNDONLY	9596	PTGER4	5734	prostaglandin E receptor 4 (subtype EP4)
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	17513	HOMER2	9455	homer homolog 2 (Drosophila)
+BACKGROUNDONLY	5294	HTR2B	3357	5-hydroxytryptamine (serotonin) receptor 2B
+BACKGROUNDONLY	3581	BPTF	2186	bromodomain PHD finger transcription factor
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)
+BACKGROUNDONLY	12695	VIPR2	7434	vasoactive intestinal peptide receptor 2

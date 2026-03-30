@@ -1,0 +1,240 @@
+pck2	carboxykinase
+jnk1	
+apoprotein	
+nfkb1	
+nox1	
+il-8	
+smad2	
+neil1	
+mkk4	
+chop	
+cyp2c9	
+smad9	
+drp1	dynamin
+mttfa	
+sglt1	transporter
+pu.1	
+noxa1	
+vegf	tyrosine kinase
+parp	
+stat	JAK	signal transducer
+csf3	
+aco2	
+ucp2	
+eef1a-1	
+creb1	
+waf1	
+smad7	
+cdk2	
+ref1	
+faldh	
+akt	
+cox	
+ddah	
+ccl2	
+ask1	apoptosis	mitogen
+map2k1	
+smit1	transporter
+hspa5	
+cox5a	
+cox-1	
+cd18	
+p67-phox	
+mcp-1	
+hsp60	
+casp4	
+bax	
+il-2	
+ap1	
+cyp2c	
+at2	
+fer	
+p53	
+c-fos	
+plc	
+cyba	
+pepck	carboxykinase
+creb	
+bcl-x	
+xor	xanthine
+grp78	
+feel-2	
+rel	NF
+smad6	
+dhpr	
+cftr	
+tnf-alpha	
+ref-1	
+pp1	phosphatase
+drp	dynamin
+mpo	myeloperoxidase
+jun	kinase
+p42	
+aplp2	
+agtr2	
+xin	cardiomyopathy	cardiomyopathy associated	CMYA1
+mkk6	
+ihg	
+q10	coenzyme
+casp8	
+pi3k	
+acsl1	
+amyloid	
+ice	
+cpla2	
+arfrp1	
+cyr61	
+p47phox	
+jnk	
+atf3	
+serca2	
+pml	leukemia	signal transducer
+pdgf-a	
+5-ht1b	
+arp	
+il-23	
+ant	adenine nucleotide translocator
+raf-1	
+dao	diamine oxidase
+bak	
+pai-1	
+smit2	transporter
+rho	ras
+ace	
+akr1b1	
+grb2	growth factor
+ccl5	
+glut2	
+vap-1	
+gch	cyclohydrolase	GTP cyclohydrolase	guanosine triphosphate
+sirt1	
+ldlr	
+acth	hormone
+acs1	
+dicer	
+casp1	
+id2	
+smad1	
+mkk3	
+cd16	
+icam-1	
+engl	endonuclease G-like	endonuclease-G-like
+il-27	
+hsp72	
+map	MAP kinase
+cxcr2	
+egf	
+ptgs2	
+adiponectin	
+erk	extracellular signal regulated kinase	extracellular signal-regulated kinase	kinase	mitogen activated protein kinase	mitogen-activated protein kinase
+feel-1	
+g-csf	
+nox4	
+xdh	xanthine
+hsp70	
+c-myc	
+erk2	
+rantes	
+bcl-2	
+akt1	
+h6pd	
+rac	
+mapkk1	
+jak	
+crp	c-reacting	c-reactive	c-reactive protein
+p450	
+erk1	
+gfat	
+sds	serine dehydratase
+raf1	
+il-3	
+smad3	
+il-6	
+p67phox	
+p22phox	
+skrp1	
+apoe	
+cat	catalase
+fas	fatty acid synthase
+casp3	
+gad	
+stat3	
+aoc3	
+beta-actin	
+gpx1	
+cox-2	
+pde5	
+pcd	D amino acid oxidase	D-amino-acid oxidase	pterin-4a-carbinolamine dehydratase
+daxx	
+mek1	
+ccrk	
+agtr1	
+traf4	
+jak2	
+glut1	
+smad5	
+pdi	
+aldh3a2	
+p38	MAPK
+add1	lipogenic
+shc	
+opn	Osteopontin
+q9	coenzyme
+actg1	
+glut4	
+mkk7	
+lox-1	lectin
+ucp3	
+il-10	
+for	WW domain containing oxidoreductase
+hprt	
+somatostatin	
+atf2	
+ifn	IFN gamma	IFN-gamma
+bik	apoptosis
+epac	
+hprt1	
+smad4	
+nik		kinase
+bcl2	
+aif	
+cd54	
+adipoq	
+cyp2	
+gad1	
+glut	
+5-ht2b	
+jak1	
+at1	
+c-src	
+p16	p53
+nf-kappab	
+cip1	
+stat1	
+p22	
+pkb	
+mig-6	
+erv29	
+gfrp	
+rac1	
+tfiid	
+il-1	
+gch1	
+ucp1	
+etfdh	
+bart	Bartter syndrome	Barttin
+g6pdh	
+ins	insulin
+iapp	
+id1	
+sglt2	transporter
+nox2	
+cpp32	
+traf2	
+cd95	
+gapdh	
+tnf	
+cd8	
+proinsulin	
+pea-15	
+mapk	p38	protein kinase

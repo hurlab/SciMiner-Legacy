@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+
+COMMON	11998	TP53	7157	tumor protein p53
+

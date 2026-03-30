@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+

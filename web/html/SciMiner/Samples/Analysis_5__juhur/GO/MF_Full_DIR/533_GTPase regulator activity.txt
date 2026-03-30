@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 5
+TESTONLY	25361	ARHGAP24	83478	Rho GTPase activating protein 24
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	1940	CHM	1121	choroideremia (Rab escort protein 1)
+BACKGROUNDONLY	6110	IQGAP1	8826	IQ motif containing GTPase activating protein 1
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	13209	ARHGEF5	7984	Rho guanine nucleotide exchange factor (GEF) 5

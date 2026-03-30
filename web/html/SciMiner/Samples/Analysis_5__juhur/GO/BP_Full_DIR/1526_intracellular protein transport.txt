@@ -1,0 +1,30 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 11
+#BACKGROUNDONLY: 9
+TESTONLY	24624	SIL1	64374	SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	9352	PRDX1	5052	peroxiredoxin 1
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	670	RHOD	29984	ras homolog gene family, member D
+COMMON	5244	HSPA9	3313	heat shock 70kDa protein 9 (mortalin)
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	1940	CHM	1121	choroideremia (Rab escort protein 1)
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	11362	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BACKGROUNDONLY	10718	SELE	6401	selectin E (endothelial adhesion molecule 1)
+BACKGROUNDONLY	11769	TGFB3	7043	transforming growth factor, beta 3
+BACKGROUNDONLY	6152	ITGAX	3687	integrin, alpha X (complement component 3 receptor 4 subunit)
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family

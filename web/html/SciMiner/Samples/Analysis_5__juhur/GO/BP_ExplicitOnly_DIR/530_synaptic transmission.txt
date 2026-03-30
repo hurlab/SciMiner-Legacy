@@ -1,0 +1,36 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 12
+#BACKGROUNDONLY: 12
+TESTONLY	11517	TAC1	6863	tachykinin, precursor 1
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	1912	CHAT	1103	choline acetyltransferase
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+
+COMMON	10939	SLC1A1	6505	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1
+COMMON	10941	SLC1A3	6507	solute carrier family 1 (glial high affinity glutamate transporter), member 3
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	10940	SLC1A2	6506	solute carrier family 1 (glial high affinity glutamate transporter), member 2
+COMMON	3951	FXN	2395	frataxin
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	4572	GRIA2	2891	glutamate receptor, ionotropic, AMPA 2
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+
+BACKGROUNDONLY	6323	KIF5A	3798	kinesin family member 5A
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	2595	CYP1A1	1543	cytochrome P450, family 1, subfamily A, polypeptide 1
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	6925	MBP	4155	myelin basic protein
+BACKGROUNDONLY	11329	SST	6750	somatostatin
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	12694	VIPR1	7433	vasoactive intestinal peptide receptor 1
+BACKGROUNDONLY	7197	MOG	4340	myelin oligodendrocyte glycoprotein
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2
+BACKGROUNDONLY	3023	DRD2	1813	dopamine receptor D2

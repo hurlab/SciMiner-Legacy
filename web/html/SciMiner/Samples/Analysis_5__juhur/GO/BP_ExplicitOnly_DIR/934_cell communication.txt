@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 3
+TESTONLY	7662	NCF4	4689	neutrophil cytosolic factor 4, 40kDa
+
+COMMON	7660	NCF1	653361	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)
+
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	15869	KIF16B	55614	kinesin family member 16B
+BACKGROUNDONLY	4281	GJA8	2703	gap junction protein, alpha 8, 50kDa

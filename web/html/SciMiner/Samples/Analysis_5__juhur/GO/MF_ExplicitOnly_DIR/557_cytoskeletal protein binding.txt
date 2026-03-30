@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	9655	PTPN3	5774	protein tyrosine phosphatase, non-receptor type 3
+
+COMMON	6207	JUP	3728	junction plakoglobin
+
+BACKGROUNDONLY	10658	SDC1	6382	syndecan 1

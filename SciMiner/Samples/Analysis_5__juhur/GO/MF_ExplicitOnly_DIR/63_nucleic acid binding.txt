@@ -1,0 +1,38 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 14
+#COMMON: 5
+#BACKGROUNDONLY: 13
+TESTONLY	4330	GLRX	2745	glutaredoxin (thioltransferase)
+TESTONLY	10780	SFRS1	6426	splicing factor, arginine/serine-rich 1 (splicing factor 2, alternate splicing factor)
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9948	RECQL	5965	RecQ protein-like (DNA helicase Q1-like)
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	23696	TIPARP	25976	TCDD-inducible poly(ADP-ribose) polymerase
+TESTONLY	4055	XRCC6	2547	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)
+TESTONLY	9950	RECQL5	9400	RecQ protein-like 5
+TESTONLY	3189	EEF1A1	1915	eukaryotic translation elongation factor 1 alpha 1
+TESTONLY	16860	SART3	9733	squamous cell carcinoma antigen recognized by T cells 3
+TESTONLY	4323	GLO1	2739	glyoxalase I
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+
+COMMON	20473	BRIP1	83990	BRCA1 interacting protein C-terminal helicase 1
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	19374	NKRF	55922	NFKB repressing factor
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	11205	SP1	6667	Sp1 transcription factor
+
+BACKGROUNDONLY	2856	DGKQ	1609	diacylglycerol kinase, theta 110kDa
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	3238	EGR1	1958	early growth response 1
+BACKGROUNDONLY	11881	TMSB4X	7114	thymosin beta 4, X-linked
+BACKGROUNDONLY	10618	CCL2	6347	chemokine (C-C motif) ligand 2
+BACKGROUNDONLY	10627	CCL3	6348	chemokine (C-C motif) ligand 3
+BACKGROUNDONLY	6130	ISG20	3669	interferon stimulated exonuclease gene 20kDa
+BACKGROUNDONLY	30646	SND1	27044	staphylococcal nuclease and tudor domain containing 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	3767	FLT4	2324	fms-related tyrosine kinase 4
+BACKGROUNDONLY	10630	CCL4	6351	chemokine (C-C motif) ligand 4

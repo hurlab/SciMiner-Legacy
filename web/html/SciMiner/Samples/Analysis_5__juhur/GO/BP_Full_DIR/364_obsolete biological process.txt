@@ -1,0 +1,59 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 14
+#COMMON: 20
+#BACKGROUNDONLY: 19
+TESTONLY	9208	POR	5447	P450 (cytochrome) oxidoreductase
+TESTONLY	2898	DLD	1738	dihydrolipoamide dehydrogenase
+TESTONLY	3711	FKBP1A	2280	FK506 binding protein 1A, 12kDa
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	4330	GLRX	2745	glutaredoxin (thioltransferase)
+TESTONLY	412	ALDH9A1	223	aldehyde dehydrogenase 9 family, member A1
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	7662	NCF4	4689	neutrophil cytosolic factor 4, 40kDa
+TESTONLY	2874	NQO1	1728	NAD(P)H dehydrogenase, quinone 1
+TESTONLY	6834	MAOB	4129	monoamine oxidase B
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+TESTONLY	7688	NDUFA5	4698	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa
+
+COMMON	7660	NCF1	653361	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	17772	TXN2	25828	thioredoxin 2
+COMMON	12805	XDH	7498	xanthine dehydrogenase
+COMMON	2578	CYBB	1536	cytochrome b-245, beta polypeptide (chronic granulomatous disease)
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	7889	NOX1	27035	NADPH oxidase 1
+COMMON	3951	FXN	2395	frataxin
+COMMON	12435	TXN	7295	thioredoxin
+COMMON	11609	TBXAS1	6916	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	2294	COX8A	1351	cytochrome c oxidase subunit 8A (ubiquitous)
+COMMON	2615	CYP2B6	1555	cytochrome P450, family 2, subfamily B, polypeptide 6
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+COMMON	3062	DUOX1	53905	dual oxidase 1
+
+BACKGROUNDONLY	7218	MPO	4353	myeloperoxidase
+BACKGROUNDONLY	2625	CYP2D6	1565	cytochrome P450, family 2, subfamily D, polypeptide 6
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)
+BACKGROUNDONLY	6493	LAMC2	3918	laminin, gamma 2
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	2634	CYP2J2	1573	cytochrome P450, family 2, subfamily J, polypeptide 2
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	2623	CYP2C9	1559	cytochrome P450, family 2, subfamily C, polypeptide 9
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	4170	GATA1	2623	GATA binding protein 1 (globin transcription factor 1)
+BACKGROUNDONLY	7890	NOX3	50508	NADPH oxidase 3
+BACKGROUNDONLY	2595	CYP1A1	1543	cytochrome P450, family 1, subfamily A, polypeptide 1
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43
+BACKGROUNDONLY	2638	CYP3A5	1577	cytochrome P450, family 3, subfamily A, polypeptide 5
+BACKGROUNDONLY	6541	LDHB	3945	lactate dehydrogenase B
+BACKGROUNDONLY	2641	CYP46A1	10858	cytochrome P450, family 46, subfamily A, polypeptide 1
+BACKGROUNDONLY	3708	FIGF	2277	c-fos induced growth factor (vascular endothelial growth factor D)
+BACKGROUNDONLY	9604	PTGS1	5742	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)

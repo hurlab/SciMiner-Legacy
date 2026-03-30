@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 3
+
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+
+BACKGROUNDONLY	1700	CD80	941	CD80 molecule
+BACKGROUNDONLY	19157	IL27	246778	interleukin 27
+BACKGROUNDONLY	1705	CD86	942	CD86 molecule

@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 3
+TESTONLY	1058	BLM	641	Bloom syndrome
+
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	6001	IL2	3558	interleukin 2
+
+BACKGROUNDONLY	6008	IL2RA	3559	interleukin 2 receptor, alpha
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	2770	DES	1674	desmin

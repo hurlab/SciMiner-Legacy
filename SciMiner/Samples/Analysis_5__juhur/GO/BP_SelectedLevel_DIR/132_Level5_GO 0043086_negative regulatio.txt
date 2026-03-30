@@ -1,0 +1,23 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 8
+#BACKGROUNDONLY: 4
+TESTONLY	592	XIAP	331	X-linked inhibitor of apoptosis
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	9308	PPP2R4	5524	protein phosphatase 2A activator, regulatory subunit 4
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	1546	SERPINH1	871	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	593	BIRC5	332	baculoviral IAP repeat-containing 5 (survivin)
+BACKGROUNDONLY	610	APOC3	345	apolipoprotein C-III
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli

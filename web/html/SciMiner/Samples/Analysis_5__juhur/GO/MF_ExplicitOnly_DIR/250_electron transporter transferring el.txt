@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	2579	CYC1	1537	cytochrome c-1
+
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+

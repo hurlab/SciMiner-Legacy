@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+

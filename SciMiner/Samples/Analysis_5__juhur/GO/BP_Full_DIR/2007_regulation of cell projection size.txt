@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 0
+
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+

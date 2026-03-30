@@ -1,0 +1,142 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 46
+#COMMON: 48
+#BACKGROUNDONLY: 42
+TESTONLY	7212	MPHOSPH1	9585	M-phase phosphoprotein 1
+TESTONLY	2898	DLD	1738	dihydrolipoamide dehydrogenase
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	15814	ACSS2	55902	acyl-CoA synthetase short-chain family member 2
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+TESTONLY	22948	NLRP2	55655	NLR family, pyrin domain containing 2
+TESTONLY	6843	MAP2K3	5606	mitogen-activated protein kinase kinase 3
+TESTONLY	9950	RECQL5	9400	RecQ protein-like 5
+TESTONLY	61	ABCD1	215	ATP-binding cassette, sub-family D (ALD), member 1
+TESTONLY	4323	GLO1	2739	glyoxalase I
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	1773	CDK4	1019	cyclin-dependent kinase 4
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	6877	MAPK3	5595	mitogen-activated protein kinase 3
+TESTONLY	48	ABCB7	22	ATP-binding cassette, sub-family B (MDR/TAP), member 7
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	1618	CCT5	22948	chaperonin containing TCP1, subunit 5 (epsilon)
+TESTONLY	17348	PRPF3	9129	PRP3 pre-mRNA processing factor 3 homolog (S. cerevisiae)
+TESTONLY	8032	NTRK2	4915	neurotrophic tyrosine kinase, receptor, type 2
+TESTONLY	9380	PRKACA	5566	protein kinase, cAMP-dependent, catalytic, alpha
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	17169	PRDX4	10549	peroxiredoxin 4
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+TESTONLY	4624	GSS	2937	glutathione synthetase
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	14581	PINK1	65018	PTEN induced putative kinase 1
+TESTONLY	24959	GSX2	170825	GS homeobox 2
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	4330	GLRX	2745	glutaredoxin (thioltransferase)
+TESTONLY	9948	RECQL	5965	RecQ protein-like (DNA helicase Q1-like)
+TESTONLY	5465	IGF1R	3480	insulin-like growth factor 1 receptor
+TESTONLY	1991	CKB	1152	creatine kinase, brain
+TESTONLY	9308	PPP2R4	5524	protein phosphatase 2A activator, regulatory subunit 4
+TESTONLY	30213	ATP13A2	23400	ATPase type 13A2
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	14374	NLRP1	22861	NLR family, pyrin domain containing 1
+TESTONLY	3189	EEF1A1	1915	eukaryotic translation elongation factor 1 alpha 1
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	34	ABCA4	24	ATP-binding cassette, sub-family A (ABC1), member 4
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	7661	NCF2	4688	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)
+COMMON	3763	FLT1	2321	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+COMMON	10436	RPS6KB1	6198	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+COMMON	445	SETX	23064	senataxin
+COMMON	9388	PRKAR1A	5573	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	6886	MAPK9	5601	mitogen-activated protein kinase 9
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	5232	HSPA1A	3303	heat shock 70kDa protein 1A
+COMMON	5241	HSPA8	3312	heat shock 70kDa protein 8
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+COMMON	7577	MYH7	4625	myosin, heavy chain 7, cardiac muscle, beta
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	20473	BRIP1	83990	BRCA1 interacting protein C-terminal helicase 1
+COMMON	670	RHOD	29984	ras homolog gene family, member D
+COMMON	7889	NOX1	27035	NADPH oxidase 1
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	23212	MYH14	79784	myosin, heavy chain 14
+COMMON	4623	GSR	2936	glutathione reductase
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+COMMON	9391	PRKAR2A	5576	protein kinase, cAMP-dependent, regulatory, type II, alpha
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	6307	KDR	3791	kinase insert domain receptor (a type III receptor tyrosine kinase)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	7891	NOX4	50507	NADPH oxidase 4
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+COMMON	10451	RRM1	6240	ribonucleotide reductase M1
+COMMON	12517	UCP1	7350	uncoupling protein 1 (mitochondrial, proton carrier)
+COMMON	12805	XDH	7498	xanthine dehydrogenase
+COMMON	2578	CYBB	1536	cytochrome b-245, beta polypeptide (chronic granulomatous disease)
+COMMON	5244	HSPA9	3313	heat shock 70kDa protein 9 (mortalin)
+COMMON	8031	NTRK1	4914	neurotrophic tyrosine kinase, receptor, type 1
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	12716	TRPV1	7442	transient receptor potential cation channel, subfamily V, member 1
+COMMON	6879	MAPK6	5597	mitogen-activated protein kinase 6
+COMMON	132	ACTB	60	actin, beta
+COMMON	21285	ADCY10	55811	adenylate cyclase 10 (soluble)
+COMMON	3062	DUOX1	53905	dual oxidase 1
+COMMON	4817	HARS2	23438	histidyl-tRNA synthetase 2, mitochondrial (putative)
+
+BACKGROUNDONLY	21420	CCRK	23552	cell cycle related kinase
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	6193	JAK3	3718	Janus kinase 3 (a protein tyrosine kinase, leukocyte)
+BACKGROUNDONLY	7576	MYH6	4624	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)
+BACKGROUNDONLY	15869	KIF16B	55614	kinesin family member 16B
+BACKGROUNDONLY	12663	VCAM1	7412	vascular cell adhesion molecule 1
+BACKGROUNDONLY	15633	TLR9	54106	toll-like receptor 9
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	7672	NCOR1	9611	nuclear receptor co-repressor 1
+BACKGROUNDONLY	9546	PSMB9	5698	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide
+BACKGROUNDONLY	3562	FABP7	2173	fatty acid binding protein 7, brain
+BACKGROUNDONLY	8982	PIK3R4	30849	phosphoinositide-3-kinase, regulatory subunit 4
+BACKGROUNDONLY	6192	JAK2	3717	Janus kinase 2 (a protein tyrosine kinase)
+BACKGROUNDONLY	6321	KIF3C	3797	kinesin family member 3C
+BACKGROUNDONLY	7890	NOX3	50508	NADPH oxidase 3
+BACKGROUNDONLY	19349	KIF21A	55605	kinesin family member 21A
+BACKGROUNDONLY	7107	MKI67	4288	antigen identified by monoclonal antibody Ki-67
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	3689	FGFR2	2263	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+BACKGROUNDONLY	7634	NAIP	4671	NLR family, apoptosis inhibitory protein
+BACKGROUNDONLY	3688	FGFR1	2260	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+BACKGROUNDONLY	3767	FLT4	2324	fms-related tyrosine kinase 4
+BACKGROUNDONLY	8816	PDPK1	5170	3-phosphoinositide dependent protein kinase-1
+BACKGROUNDONLY	6323	KIF5A	3798	kinesin family member 5A
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	6872	MAPK10	5602	mitogen-activated protein kinase 10
+BACKGROUNDONLY	4579	GRIK1	2897	glutamate receptor, ionotropic, kainate 1
+BACKGROUNDONLY	327	AGPS	8540	alkylglycerone phosphate synthase
+BACKGROUNDONLY	5997	IL1RAPL2	26280	interleukin 1 receptor accessory protein-like 2
+BACKGROUNDONLY	2961	DYNC1H1	1778	dynein, cytoplasmic 1, heavy chain 1
+BACKGROUNDONLY	758	ASS1	445	argininosuccinate synthetase 1
+BACKGROUNDONLY	800	ATP1A2	477	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide
+BACKGROUNDONLY	6190	JAK1	3716	Janus kinase 1 (a protein tyrosine kinase)
+BACKGROUNDONLY	9545	PSMB8	5696	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)
+BACKGROUNDONLY	6896	MARK1	4139	MAP/microtubule affinity-regulating kinase 1
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	1165	DAGLA	747	diacylglycerol lipase, alpha
+BACKGROUNDONLY	9611	PTK2	5747	PTK2 protein tyrosine kinase 2

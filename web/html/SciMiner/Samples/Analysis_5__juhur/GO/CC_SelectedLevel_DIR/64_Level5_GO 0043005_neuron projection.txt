@@ -1,0 +1,35 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 16
+#BACKGROUNDONLY: 10
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+TESTONLY	24190	CAMK2N1	55450	calcium/calmodulin-dependent protein kinase II inhibitor 1
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	9704	PVALB	5816	parvalbumin
+COMMON	7737	NEFH	4744	neurofilament, heavy polypeptide 200kDa
+COMMON	10940	SLC1A2	6506	solute carrier family 1 (glial high affinity glutamate transporter), member 2
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	9461	PRPH	5630	peripherin
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	4572	GRIA2	2891	glutamate receptor, ionotropic, AMPA 2
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	23212	MYH14	79784	myosin, heavy chain 14
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+
+BACKGROUNDONLY	6323	KIF5A	3798	kinesin family member 5A
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	4573	GRIA3	2892	glutamate receptor, ionotrophic, AMPA 3
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	5439	IFNGR1	3459	interferon gamma receptor 1
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	933	BACE1	23621	beta-site APP-cleaving enzyme 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2

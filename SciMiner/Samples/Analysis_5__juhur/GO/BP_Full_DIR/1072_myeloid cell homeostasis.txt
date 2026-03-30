@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 0
+
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+

@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 0
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	6081	INS	3630	insulin
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+

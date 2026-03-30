@@ -1,0 +1,30 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 15
+#BACKGROUNDONLY: 4
+TESTONLY	7711	NDUFS4	4724	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	11181	SOD3	6649	superoxide dismutase 3, extracellular
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+
+COMMON	7660	NCF1	653361	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)
+COMMON	7661	NCF2	4688	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	1516	CAT	847	catalase
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+COMMON	7889	NOX1	27035	NADPH oxidase 1
+COMMON	2577	CYBA	1535	cytochrome b-245, alpha polypeptide
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	7891	NOX4	50507	NADPH oxidase 4
+COMMON	3062	DUOX1	53905	dual oxidase 1
+
+BACKGROUNDONLY	7218	MPO	4353	myeloperoxidase
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	7710	NDUFS3	4722	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV

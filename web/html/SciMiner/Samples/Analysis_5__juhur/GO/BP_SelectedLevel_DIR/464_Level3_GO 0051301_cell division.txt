@@ -1,0 +1,22 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 7
+#COMMON: 1
+#BACKGROUNDONLY: 8
+TESTONLY	7212	MPHOSPH1	9585	M-phase phosphoprotein 1
+TESTONLY	17937	CUZD1	50624	CUB and zona pellucida-like domains 1
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	1773	CDK4	1019	cyclin-dependent kinase 4
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	10886	SIRT2	22933	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+
+BACKGROUNDONLY	21420	CCRK	23552	cell cycle related kinase
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	593	BIRC5	332	baculoviral IAP repeat-containing 5 (survivin)
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	1582	CCND1	595	cyclin D1
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa

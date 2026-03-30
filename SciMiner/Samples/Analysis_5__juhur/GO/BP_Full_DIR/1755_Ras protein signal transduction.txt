@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 6
+#BACKGROUNDONLY: 4
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	670	RHOD	29984	ras homolog gene family, member D
+COMMON	2432	CSF1	1435	colony stimulating factor 1 (macrophage)
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)
+BACKGROUNDONLY	13209	ARHGEF5	7984	Rho guanine nucleotide exchange factor (GEF) 5
+BACKGROUNDONLY	610	APOC3	345	apolipoprotein C-III
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2

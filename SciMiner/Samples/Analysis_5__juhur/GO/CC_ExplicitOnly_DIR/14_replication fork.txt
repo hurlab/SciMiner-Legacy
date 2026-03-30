@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	4739	H2AFX	3014	H2A histone family, member X
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+
+COMMON	11998	TP53	7157	tumor protein p53
+

@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 2
+#BACKGROUNDONLY: 1
+TESTONLY	5472	IGFBP3	3486	insulin-like growth factor binding protein 3
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+TESTONLY	9308	PPP2R4	5524	protein phosphatase 2A activator, regulatory subunit 4
+
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	6204	JUN	3725	jun oncogene
+
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00897b"/>
+      <stop offset="100%" style="stop-color:#004d40"/>
+    </linearGradient>
+    <linearGradient id="lens" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#b2dfdb;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e0f2f1;stop-opacity:0.05"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background -->
+  <rect width="512" height="512" rx="96" ry="96" fill="url(#bg)"/>
+
+  <!-- Document/text lines (representing literature) -->
+  <!-- Page shape -->
+  <rect x="120" y="80" width="220" height="280" rx="16" fill="white" opacity="0.92"/>
+  <!-- Dog-ear fold -->
+  <path d="M298 80 L340 122 L298 122 Z" fill="#b2dfdb"/>
+  <rect x="120" y="80" width="220" height="280" rx="16" fill="none" stroke="white" stroke-width="2" opacity="0.3"/>
+
+  <!-- Text lines on document -->
+  <rect x="152" y="130" width="140" height="10" rx="5" fill="#00897b" opacity="0.6"/>
+  <rect x="152" y="155" width="156" height="8" rx="4" fill="#00897b" opacity="0.3"/>
+  <rect x="152" y="175" width="120" height="8" rx="4" fill="#00897b" opacity="0.3"/>
+  <rect x="152" y="195" width="148" height="8" rx="4" fill="#00897b" opacity="0.3"/>
+  <rect x="152" y="215" width="100" height="8" rx="4" fill="#00897b" opacity="0.3"/>
+
+  <!-- Highlighted/mined text (representing extracted entities) -->
+  <rect x="152" y="245" width="60" height="12" rx="6" fill="#f57c00" opacity="0.85"/>
+  <rect x="222" y="245" width="45" height="12" rx="6" fill="#6366f1" opacity="0.85"/>
+  <rect x="152" y="268" width="50" height="12" rx="6" fill="#e91e63" opacity="0.75"/>
+  <rect x="212" y="268" width="70" height="12" rx="6" fill="#f57c00" opacity="0.85"/>
+  <rect x="152" y="291" width="80" height="12" rx="6" fill="#6366f1" opacity="0.85"/>
+  <rect x="242" y="291" width="40" height="12" rx="6" fill="#e91e63" opacity="0.75"/>
+
+  <!-- Magnifying glass (representing mining/search) -->
+  <!-- Glass circle -->
+  <circle cx="340" cy="330" r="80" fill="url(#lens)" stroke="white" stroke-width="14"/>
+  <circle cx="340" cy="330" r="80" fill="none" stroke="#e0f2f1" stroke-width="4" opacity="0.4"/>
+
+  <!-- Shine on glass -->
+  <ellipse cx="315" cy="300" rx="20" ry="30" fill="white" opacity="0.15" transform="rotate(-30 315 300)"/>
+
+  <!-- Handle -->
+  <line x1="397" y1="387" x2="440" y2="435" stroke="white" stroke-width="18" stroke-linecap="round"/>
+  <line x1="397" y1="387" x2="440" y2="435" stroke="#b2dfdb" stroke-width="8" stroke-linecap="round" opacity="0.3"/>
+
+  <!-- Small connection nodes inside magnifying glass (representing discovered relationships) -->
+  <circle cx="315" cy="315" r="6" fill="white" opacity="0.9"/>
+  <circle cx="355" cy="305" r="5" fill="#f57c00" opacity="0.9"/>
+  <circle cx="340" cy="345" r="5" fill="#e0f2f1" opacity="0.9"/>
+  <circle cx="365" cy="340" r="4" fill="#6366f1" opacity="0.9"/>
+  <!-- Connection lines between nodes -->
+  <line x1="315" y1="315" x2="355" y2="305" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="315" y1="315" x2="340" y2="345" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="355" y1="305" x2="365" y2="340" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="340" y1="345" x2="365" y2="340" stroke="white" stroke-width="1.5" opacity="0.6"/>
+</svg>

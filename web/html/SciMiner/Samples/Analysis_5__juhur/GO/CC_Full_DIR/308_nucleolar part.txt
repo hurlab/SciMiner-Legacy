@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	1509	CASP8	841	caspase 8, apoptosis-related cysteine peptidase
+
+BACKGROUNDONLY	5176	KRR1	11103	KRR1, small subunit (SSU) processome component, homolog (yeast)

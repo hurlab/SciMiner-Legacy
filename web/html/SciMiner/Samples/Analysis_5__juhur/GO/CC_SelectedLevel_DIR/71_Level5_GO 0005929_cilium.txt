@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+
+BACKGROUNDONLY	6323	KIF5A	3798	kinesin family member 5A

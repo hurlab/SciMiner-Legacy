@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 2
+
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)

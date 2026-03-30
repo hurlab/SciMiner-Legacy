@@ -1,0 +1,37 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 9
+#COMMON: 16
+#BACKGROUNDONLY: 6
+TESTONLY	9208	POR	5447	P450 (cytochrome) oxidoreductase
+TESTONLY	14931	SIRT3	23410	sirtuin (silent mating type information regulation 2 homolog) 3 (S. cerevisiae)
+TESTONLY	2898	DLD	1738	dihydrolipoamide dehydrogenase
+TESTONLY	4455	GPD1	2819	glycerol-3-phosphate dehydrogenase 1 (soluble)
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+TESTONLY	2874	NQO1	1728	NAD(P)H dehydrogenase, quinone 1
+TESTONLY	10886	SIRT2	22933	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	12805	XDH	7498	xanthine dehydrogenase
+COMMON	2578	CYBB	1536	cytochrome b-245, beta polypeptide (chronic granulomatous disease)
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	7889	NOX1	27035	NADPH oxidase 1
+COMMON	14929	SIRT1	23411	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	7891	NOX4	50507	NADPH oxidase 4
+COMMON	4623	GSR	2936	glutathione reductase
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+COMMON	3062	DUOX1	53905	dual oxidase 1
+
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	327	AGPS	8540	alkylglycerone phosphate synthase
+BACKGROUNDONLY	7890	NOX3	50508	NADPH oxidase 3
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	5215	HSD17B7	51478	hydroxysteroid (17-beta) dehydrogenase 7
+BACKGROUNDONLY	89	ACADM	34	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain

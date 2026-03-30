@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 1
+#BACKGROUNDONLY: 5
+TESTONLY	7553	MYC	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+TESTONLY	7212	MPHOSPH1	9585	M-phase phosphoprotein 1
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+
+COMMON	11998	TP53	7157	tumor protein p53
+
+BACKGROUNDONLY	6025	IL8	3576	interleukin 8
+BACKGROUNDONLY	19964	VASH1	22846	vasohibin 1
+BACKGROUNDONLY	352	AIF1	199	allograft inflammatory factor 1
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

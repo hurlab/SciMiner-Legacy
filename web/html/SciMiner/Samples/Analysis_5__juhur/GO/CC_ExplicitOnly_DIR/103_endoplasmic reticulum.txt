@@ -1,0 +1,63 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 10
+#COMMON: 20
+#BACKGROUNDONLY: 27
+TESTONLY	9208	POR	5447	P450 (cytochrome) oxidoreductase
+TESTONLY	17598	UBE2J1	51465	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)
+TESTONLY	24624	SIL1	64374	SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+TESTONLY	5238	HSPA5	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+TESTONLY	9411	PRKCSH	5589	protein kinase C substrate 80K-H
+TESTONLY	2728	DDOST	1650	dolichyl-diphosphooligosaccharide-protein glycosyltransferase
+
+COMMON	23177	KEAP1	9817	kelch-like ECH-associated protein 1
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	4646	GTF2A1	2957	general transcription factor IIA, 1, 19/37kDa
+COMMON	12649	VAPB	9217	VAMP (vesicle-associated membrane protein)-associated protein B and C
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	7891	NOX4	50507	NADPH oxidase 4
+COMMON	9509	PSEN2	5664	presenilin 2 (Alzheimer disease 4)
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	5014	HMOX2	3163	heme oxygenase (decycling) 2
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+COMMON	1546	SERPINH1	871	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)
+COMMON	2615	CYP2B6	1555	cytochrome P450, family 2, subfamily B, polypeptide 6
+COMMON	14180	PDIA2	64714	protein disulfide isomerase family A, member 2
+COMMON	8548	P4HB	5034	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	3133	EBP	10682	emopamil binding protein (sterol isomerase)
+BACKGROUNDONLY	8004	NRP1	8829	neuropilin 1
+BACKGROUNDONLY	2625	CYP2D6	1565	cytochrome P450, family 2, subfamily D, polypeptide 6
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa
+BACKGROUNDONLY	403	ALDH3A2	224	aldehyde dehydrogenase 3 family, member A2
+BACKGROUNDONLY	95	SLC33A1	9197	solute carrier family 33 (acetyl-CoA transporter), member 1
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)
+BACKGROUNDONLY	3401	EPHX1	2052	epoxide hydrolase 1, microsomal (xenobiotic)
+BACKGROUNDONLY	2634	CYP2J2	1573	cytochrome P450, family 2, subfamily J, polypeptide 2
+BACKGROUNDONLY	1189	AHSA1	10598	AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (yeast)
+BACKGROUNDONLY	9449	PRNP	5621	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)
+BACKGROUNDONLY	2623	CYP2C9	1559	cytochrome P450, family 2, subfamily C, polypeptide 9
+BACKGROUNDONLY	8546	P4HA1	5033	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I
+BACKGROUNDONLY	4170	GATA1	2623	GATA binding protein 1 (globin transcription factor 1)
+BACKGROUNDONLY	2595	CYP1A1	1543	cytochrome P450, family 1, subfamily A, polypeptide 1
+BACKGROUNDONLY	583	APC	324	adenomatous polyposis coli
+BACKGROUNDONLY	2638	CYP3A5	1577	cytochrome P450, family 3, subfamily A, polypeptide 5
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43
+BACKGROUNDONLY	2641	CYP46A1	10858	cytochrome P450, family 46, subfamily A, polypeptide 1
+BACKGROUNDONLY	1907	CH25H	9023	cholesterol 25-hydroxylase
+BACKGROUNDONLY	5439	IFNGR1	3459	interferon gamma receptor 1
+BACKGROUNDONLY	1473	CANX	821	calnexin
+BACKGROUNDONLY	9604	PTGS1	5742	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)
+BACKGROUNDONLY	603	APOB	338	apolipoprotein B (including Ag(x) antigen)

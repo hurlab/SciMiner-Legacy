@@ -1,0 +1,7 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	30862	UQCR	10975	ubiquinol-cytochrome c reductase, 6.4kDa subunit
+
+

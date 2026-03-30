@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 5
+#BACKGROUNDONLY: 3
+TESTONLY	9253	PPIA	5478	peptidylprolyl isomerase A (cyclophilin A)
+TESTONLY	24624	SIL1	64374	SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	1618	CCT5	22948	chaperonin containing TCP1, subunit 5 (epsilon)
+
+COMMON	5269	HSPE1	3336	heat shock 10kDa protein 1 (chaperonin 10)
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	5244	HSPA9	3313	heat shock 70kDa protein 9 (mortalin)
+COMMON	1546	SERPINH1	871	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	5270	DNAJB1	3337	DnaJ (Hsp40) homolog, subfamily B, member 1
+BACKGROUNDONLY	1473	CANX	821	calnexin

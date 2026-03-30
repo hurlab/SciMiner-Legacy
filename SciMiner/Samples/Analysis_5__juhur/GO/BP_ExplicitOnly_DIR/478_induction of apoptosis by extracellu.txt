@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 1
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+
+BACKGROUNDONLY	1876	CFLAR	8837	CASP8 and FADD-like apoptosis regulator

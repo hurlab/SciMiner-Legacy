@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	2928	DMD	1756	dystrophin (muscular dystrophy, Duchenne and Becker types)
+
+
+BACKGROUNDONLY	329	AGRN	375790	agrin
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)

@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 2
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	6014	IL4	3565	interleukin 4
+COMMON	8031	NTRK1	4914	neurotrophic tyrosine kinase, receptor, type 1
+
+BACKGROUNDONLY	11935	CD40LG	959	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)
+BACKGROUNDONLY	14065	HDAC9	9734	histone deacetylase 9

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	12022	TPT1	7178	tumor protein, translationally-controlled 1
+
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+

@@ -1,0 +1,71 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 23
+#COMMON: 27
+#BACKGROUNDONLY: 15
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	939	BAG3	9531	BCL2-associated athanogene 3
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	380	AKR1A1	10327	aldo-keto reductase family 1, member A1 (aldehyde reductase)
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	9567	PSMD9	5715	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9
+TESTONLY	4330	GLRX	2745	glutaredoxin (thioltransferase)
+TESTONLY	1511	CASP9	842	caspase 9, apoptosis-related cysteine peptidase
+TESTONLY	412	ALDH9A1	223	aldehyde dehydrogenase 9 family, member A1
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	1618	CCT5	22948	chaperonin containing TCP1, subunit 5 (epsilon)
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	8978	PIK3CG	5294	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+TESTONLY	4455	GPD1	2819	glycerol-3-phosphate dehydrogenase 1 (soluble)
+TESTONLY	592	XIAP	331	X-linked inhibitor of apoptosis
+TESTONLY	7662	NCF4	4689	neutrophil cytosolic factor 4, 40kDa
+TESTONLY	8979	PIK3R1	5295	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	7660	NCF1	653361	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)
+COMMON	7661	NCF2	4688	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	5247	HSPB2	3316	heat shock 27kDa protein 2
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	19986	CYCS	54205	cytochrome c, somatic
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6207	JUP	3728	junction plakoglobin
+COMMON	7797	NFKBIA	4792	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	4827	HBB	3043	hemoglobin, beta
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	11920	FAS	355	Fas (TNF receptor superfamily, member 6)
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	132	ACTB	60	actin, beta
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+COMMON	8975	PIK3CA	5290	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+
+BACKGROUNDONLY	11801	THY1	7070	Thy-1 cell surface antigen
+BACKGROUNDONLY	13164	CNBP	7555	CCHC-type zinc finger, nucleic acid binding protein
+BACKGROUNDONLY	593	BIRC5	332	baculoviral IAP repeat-containing 5 (survivin)
+BACKGROUNDONLY	18173	ERAP1	51752	endoplasmic reticulum aminopeptidase 1
+BACKGROUNDONLY	9236	PPARG	5468	peroxisome proliferator-activated receptor gamma
+BACKGROUNDONLY	9538	PSMB10	5699	proteasome (prosome, macropain) subunit, beta type, 10
+BACKGROUNDONLY	9546	PSMB9	5698	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)
+BACKGROUNDONLY	9035	PLA2G4A	5321	phospholipase A2, group IVA (cytosolic, calcium-dependent)
+BACKGROUNDONLY	8104	OCLN	4950	occludin
+BACKGROUNDONLY	9545	PSMB8	5696	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)
+BACKGROUNDONLY	3353	ENO2	2026	enolase 2 (gamma, neuronal)
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2
+BACKGROUNDONLY	1582	CCND1	595	cyclin D1
+BACKGROUNDONLY	8799	PDGFA	5154	platelet-derived growth factor alpha polypeptide
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5

@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 5
+#BACKGROUNDONLY: 1
+TESTONLY	6877	MAPK3	5595	mitogen-activated protein kinase 3
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	6848	MAP3K1	4214	mitogen-activated protein kinase kinase kinase 1
+
+COMMON	6879	MAPK6	5597	mitogen-activated protein kinase 6
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	6871	MAPK1	5594	mitogen-activated protein kinase 1
+COMMON	6886	MAPK9	5601	mitogen-activated protein kinase 9
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+
+BACKGROUNDONLY	6872	MAPK10	5602	mitogen-activated protein kinase 10

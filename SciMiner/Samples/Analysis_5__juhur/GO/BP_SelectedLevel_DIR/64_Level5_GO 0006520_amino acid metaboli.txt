@@ -1,0 +1,33 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 12
+#COMMON: 6
+#BACKGROUNDONLY: 9
+TESTONLY	4250	GGT1	2678	gamma-glutamyltransferase 1
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+TESTONLY	7377	MSRA	4482	methionine sulfoxide reductase A
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	12442	TYR	7299	tyrosinase (oculocutaneous albinism IA)
+TESTONLY	24959	GSX2	170825	GS homeobox 2
+TESTONLY	9577	PSPH	5723	phosphoserine phosphatase
+TESTONLY	9752	QDPR	5860	quinoid dihydropteridine reductase
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+TESTONLY	4624	GSS	2937	glutathione synthetase
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	4331	GLS	2744	glutaminase
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	4341	GLUL	2752	glutamate-ammonia ligase (glutamine synthetase)
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	4817	HARS2	23438	histidyl-tRNA synthetase 2, mitochondrial (putative)
+
+BACKGROUNDONLY	4601	GRN	2896	granulin
+BACKGROUNDONLY	1550	CBS	875	cystathionine-beta-synthase
+BACKGROUNDONLY	7166	MMP2	4313	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+BACKGROUNDONLY	758	ASS1	445	argininosuccinate synthetase 1
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	7436	MTHFR	4524	5,10-methylenetetrahydrofolate reductase (NADPH)
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide
+BACKGROUNDONLY	473	AMT	275	aminomethyltransferase

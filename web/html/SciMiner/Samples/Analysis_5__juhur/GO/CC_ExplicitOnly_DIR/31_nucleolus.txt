@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 4
+#BACKGROUNDONLY: 2
+TESTONLY	7212	MPHOSPH1	9585	M-phase phosphoprotein 1
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	7107	MKI67	4288	antigen identified by monoclonal antibody Ki-67

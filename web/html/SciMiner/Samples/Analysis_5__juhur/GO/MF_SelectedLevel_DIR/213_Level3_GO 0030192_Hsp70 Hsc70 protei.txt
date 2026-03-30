@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	939	BAG3	9531	BCL2-associated athanogene 3
+
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+

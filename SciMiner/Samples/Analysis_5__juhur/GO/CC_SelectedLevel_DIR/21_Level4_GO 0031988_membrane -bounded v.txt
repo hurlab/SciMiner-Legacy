@@ -1,0 +1,42 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 12
+#COMMON: 11
+#BACKGROUNDONLY: 13
+TESTONLY	17937	CUZD1	50624	CUB and zona pellucida-like domains 1
+TESTONLY	11763	TFRC	7037	transferrin receptor (p90, CD71)
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+TESTONLY	12442	TYR	7299	tyrosinase (oculocutaneous albinism IA)
+TESTONLY	11506	SYP	6855	synaptophysin
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+
+COMMON	9352	PRDX1	5052	peroxiredoxin 1
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+COMMON	9201	POMC	5443	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)
+COMMON	11740	TF	7018	transferrin
+COMMON	5253	HSP90AA1	3320	heat shock protein 90kDa alpha (cytosolic), class A member 1
+COMMON	4572	GRIA2	2891	glutamate receptor, ionotropic, AMPA 2
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	5241	HSPA8	3312	heat shock 70kDa protein 8
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+COMMON	8548	P4HB	5034	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	3146	ECE1	1889	endothelin converting enzyme 1
+BACKGROUNDONLY	2527	CTSB	1508	cathepsin B
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	11005	SLC2A1	6513	solute carrier family 2 (facilitated glucose transporter), member 1
+BACKGROUNDONLY	913	AZU1	566	azurocidin 1 (cationic antimicrobial protein 37)
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	10935	SLC18A2	6571	solute carrier family 18 (vesicular monoamine), member 2
+BACKGROUNDONLY	30646	SND1	27044	staphylococcal nuclease and tudor domain containing 1
+BACKGROUNDONLY	1473	CANX	821	calnexin
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family
+BACKGROUNDONLY	1929	CHGA	1113	chromogranin A (parathyroid secretory protein 1)
+BACKGROUNDONLY	2529	CTSD	1509	cathepsin D

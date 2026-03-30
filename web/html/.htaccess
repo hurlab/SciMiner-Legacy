@@ -1,0 +1,9 @@
+# Auto-redirect to SciMiner application
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^$ /SciMiner/ [L,R=301]
+</IfModule>
+
+# Alternative: DirectoryIndex approach
+# DirectoryIndex SciMiner/index.html

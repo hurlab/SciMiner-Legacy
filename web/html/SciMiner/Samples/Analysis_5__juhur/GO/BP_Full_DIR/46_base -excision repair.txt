@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 2
+#BACKGROUNDONLY: 0
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+TESTONLY	7211	MPG	4350	N-methylpurine-DNA glycosylase
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	587	APEX1	328	APEX nuclease (multifunctional DNA repair enzyme) 1
+
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+

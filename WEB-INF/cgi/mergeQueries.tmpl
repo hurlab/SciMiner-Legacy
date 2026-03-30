@@ -1,0 +1,108 @@
+<script language="JavaScript1.2" src="sciminer.js"></script>
+<script type="text/javascript" src="wz_tooltip.js"></script>
+
+<div class="sm-container">
+
+<h2 class="sm-text-center" style="margin-bottom:8px;">SciMiner Query Result Merger</h2>
+
+<div class="sm-alert sm-alert-info">
+<strong>Introduction:</strong> <b>SciMiner Query Result Merger</b> allows users to merge <b>multiple</b> query results into a <b>single</b> query result. If users had to split their query corpus due to paper limit per query, this merger can be used to integrate them into a single result set. You may also merge SciMiner query result and NCBI Gene2PubMed (GeneRIF) result to supplement SciMiner's text mining result.<br>
+1) Click "Retrieve Completed Query" to view available results.<br>
+2) Select queries to be merged.<br>
+3) Name your merged query and click "Start Merge".<br>
+4) Once merging is completed, use "Completed" menu to view the merged result.
+</div>
+
+<form name="form2" action="mergeQueries.cgi" method="POST" enctype="multipart/form-data">
+
+<INPUT TYPE="HIDDEN" NAME="email" VALUE="<TMPL_VAR NAME="EMAIL">">
+
+<!-- Section 1: Search -->
+<div class="sm-card">
+<h3 class="sm-card-header">Section 1: Search Your SciMiner Mining Results</h3>
+<div class="sm-form-group">
+<label class="sm-label" for="keyword">Query Name</label>
+<div class="sm-inline-group">
+<INPUT TYPE='text' NAME='keyword' size="30" class="sm-input sm-input-md" id="keyword" onmouseover="Tip('Give a name to your merged query to distinguish this from other queries. <br> ex) Merged - ALS SciMiner and Gene2PubMed 11-05-2008')" onmouseout="UnTip()">
+<input type='submit' name="RetrieveCompletedQuery" value="Retrieve Completed Query" class="sm-btn sm-btn-primary sm-btn-sm">
+</div>
+</div>
+</div>
+
+<!-- Section 2: Query Selection Table -->
+<div class="sm-card">
+<h3 class="sm-card-header">Section 2: Previous SciMiner Results (completed only)</h3>
+<div class="sm-table-wrap">
+<table class="sm-table">
+    <tr>
+		<th onmouseover="Tip('<b>Selected</b>: Check the queries to be merged')" onmouseout="UnTip()">
+			Selected
+		</th>
+		<th onmouseover="Tip('<b>Query Num</b>: A unique ID for each query')" onmouseout="UnTip()">
+				    Query Num
+		</th>
+		<th onmouseover="Tip('<b>Query Mode</b>: Differnet mode of SciMiner<br><img src=&quot;Images/SCI.jpg&quot;>: Default SciMiner text mining mode<br><img src=&quot;Images/G2P.jpg&quot;>: NCBI Gene2PubMed mode<br><img src=&quot;Images/GR.jpg&quot;>: NCBI GeneRIF mode<br><img src=&quot;Images/MQ.jpg&quot;>: Merged queries mode')" onmouseout="UnTip()">
+		    Mode
+		</th>
+		<th onmouseover="Tip('<b>Query Name</b>: The name given by user at the time of submission')" onmouseout="UnTip()">
+		    Name
+		</th>
+		<th onmouseover="Tip('<b>Date</b>: The data on which the query was submitted')" onmouseout="UnTip()">
+		    Date
+		</th>
+		<th onmouseover="Tip('<b>PMIDs</b>: Total number of PMIDs in the query')" onmouseout="UnTip()">
+		    PMIDs
+		</th>
+		<th onmouseover="Tip('<b>Targets</b>: Total number of targets identified by SciMiner')" onmouseout="UnTip()">
+		    Targets
+		</th>
+		<th onmouseover="Tip('<b>Link</b>: The SciMiner result page for this query')" onmouseout="UnTip()">
+		    Link
+		</th>
+		<th onmouseover="Tip('<b>Del</b>: Delete the query')" onmouseout="UnTip()">
+		    Del
+		</th>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+</div>
+</div>
+
+<!-- Section 3: Merge Configuration -->
+<div class="sm-card">
+<h3 class="sm-card-header">Merge Configuration</h3>
+
+<div class="sm-form-group">
+<label class="sm-label">Name for the merged query results</label>
+<input type="text" name="mergedName" size="32" value="" class="sm-input sm-input-lg" style="text-align: right">
+</div>
+
+<div class="sm-form-group">
+<label class="sm-label">New confidence score threshold</label>
+<input type="text" name="threshold" size="32" value="0.1" class="sm-input sm-input-sm" style="text-align: right; width:100px;">
+<div class="sm-hint">&gt;=0.1: minimum default, &gt;=0.3: moderate confidence, &gt;=0.6: high confidence.
+<a onclick="openNewWindow('Files/ConfidenceScoreHelp.html');" onmouseover="Tip('Click here to view more help on score threshold.')" onmouseout="UnTip()"><b><u>more on scores</u></b></a>
+</div>
+</div>
+
+<div class="sm-btn-group">
+<input type='submit' name="Start Merge" value="Start Merge" class="sm-btn sm-btn-primary">
+</div>
+
+</div>
+
+<INPUT TYPE="HIDDEN" NAME="email" VALUE="param(email)">
+
+</form>
+
+</div><!-- end sm-container -->

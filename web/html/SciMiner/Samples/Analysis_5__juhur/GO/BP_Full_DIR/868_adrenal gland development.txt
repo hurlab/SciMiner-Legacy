@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	7983	NR5A1	2516	nuclear receptor subfamily 5, group A, member 1
+
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+

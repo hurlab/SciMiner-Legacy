@@ -1,0 +1,22 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 4
+#BACKGROUNDONLY: 7
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	3189	EEF1A1	1915	eukaryotic translation elongation factor 1 alpha 1
+TESTONLY	12420	TUFM	7284	Tu translation elongation factor, mitochondrial
+TESTONLY	12408	TUBA3C	7278	tubulin, alpha 3c
+
+COMMON	7660	NCF1	653361	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)
+COMMON	5173	HRAS	3265	v-Ha-ras Harvey rat sarcoma viral oncogene homolog
+COMMON	670	RHOD	29984	ras homolog gene family, member D
+COMMON	9801	RAC1	5879	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+
+BACKGROUNDONLY	6541	LDHB	3945	lactate dehydrogenase B
+BACKGROUNDONLY	11778	TGM2	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+BACKGROUNDONLY	18809	TUBA1B	10376	tubulin, alpha 1b
+BACKGROUNDONLY	13209	ARHGEF5	7984	Rho guanine nucleotide exchange factor (GEF) 5
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)
+BACKGROUNDONLY	16938	IFI44	10561	interferon-induced protein 44
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family

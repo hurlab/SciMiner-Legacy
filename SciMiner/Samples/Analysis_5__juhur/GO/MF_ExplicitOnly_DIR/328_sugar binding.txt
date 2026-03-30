@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 5
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+
+COMMON	6563	LGALS3	3958	lectin, galactoside-binding, soluble, 3
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	10876	SIGLEC7	27036	sialic acid binding Ig-like lectin 7
+
+BACKGROUNDONLY	10718	SELE	6401	selectin E (endothelial adhesion molecule 1)
+BACKGROUNDONLY	6783	MAG	4099	myelin associated glycoprotein
+BACKGROUNDONLY	3401	EPHX1	2052	epoxide hydrolase 1, microsomal (xenobiotic)
+BACKGROUNDONLY	1473	CANX	821	calnexin
+BACKGROUNDONLY	10638	CXCL11	6373	chemokine (C-X-C motif) ligand 11

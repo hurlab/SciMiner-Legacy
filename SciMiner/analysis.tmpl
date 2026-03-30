@@ -1,0 +1,272 @@
+<head>
+<title>SciMiner CGI</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="mm_health_nutr.css" type="text/css" />
+<style type="text/css">
+body {
+	margin-left:10px;
+	}
+	
+</style>
+</head>
+<body bgcolor="#EAF4F4">
+<script type="text/javascript" src="wz_tooltip.js"></script>
+<p align="center" class="pageName"><b><U>SciMiner Post-Mining Analysis</U></b></p>
+
+
+<form name="form2" action="analysis.cgi" method="POST" enctype="multipart/form-data">
+    
+    <p class="titleBarName1">(<b>Instruction</b>): Click <a href="Files/SciMiner_User_Manual.pdf"><b>HERE</b></a> for detailed help or move mouse pointer around to get a quick tip.<br> &nbsp;&nbsp;&nbsp;1) Click <b>'Retrieve Completed Query'</b> to retrieve currently available SciMiner results.<br> &nbsp;&nbsp;&nbsp;2) Enter query ID for tested (and background set) <br> &nbsp;&nbsp;&nbsp;3) Select analysis modules and click <b>'Start Analysis'</b> to submit the analysis.</p>
+    <p class="titleBarName1">(<b>Section_1</b>) Search your SciMiner mining results by<br>
+&nbsp;&nbsp;Query name : <INPUT TYPE='text' NAME='keyword' size="30" onmouseover="Tip('Limit your search by partial query name')" onmouseout="UnTip()"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <INPUT TYPE="HIDDEN" NAME="email" VALUE="<TMPL_VAR NAME="EMAIL">">
+  <input type='submit' name="RetrieveCompletedQuery" value="Retrieve Completed Query" onmouseover="Tip('Click to retrieve completed SciMiner search queries')" onmouseout="UnTip()"> 
+  </p>
+  
+<!-- </form>  -->
+
+	<p class="titleBarName1">(<b>Section_2</b>) Here are the list of your previous SciMiner results. (completed only)</p>
+
+<table border="1">
+    <tr class="tableHeader1">
+        <th width="70" onmouseover="Tip('<b>Query Num</b>: A unique ID for each query')" onmouseout="UnTip()">
+		    Query Num
+		</th>
+		<th width="40" onmouseover="Tip('<b>Query Mode</b>: Differnet mode of SciMiner<br><img src=&quot;Images/SCI.jpg&quot;>: Default SciMiner text mining mode<br><img src=&quot;Images/G2P.jpg&quot;>: NCBI Gene2PubMed mode<br><img src=&quot;Images/GR.jpg&quot;>: NCBI GeneRIF mode<br><img src=&quot;Images/MQ.jpg&quot;>: Merged queries mode')" onmouseout="UnTip()">
+		    Mode
+		</th>
+		<th width="300" onmouseover="Tip('<b>Query Name</b>: The name given by user at the time of submission')" onmouseout="UnTip()">
+		    Name
+		</th>
+		<th width="80" onmouseover="Tip('<b>Date</b>: The data on which the query was submitted')" onmouseout="UnTip()">
+		    Date
+		</th>
+		<th width="60" onmouseover="Tip('<b>PMIDs</b>: Total number of PMIDs in the query')" onmouseout="UnTip()">
+		    PMIDs
+		</th>
+		<th width="60" onmouseover="Tip('<b>Targets</b>: Total number of targets identified by SciMiner')" onmouseout="UnTip()">
+		    Targets
+		</th>
+		<th width="30" onmouseover="Tip('<b>Link</b>: The SciMiner result page for this query')" onmouseout="UnTip()">
+		    Link
+		</th>
+		<th width="30" onmouseover="Tip('<b>Del</b>: Delete the query')" onmouseout="UnTip()">
+		    Del
+		</th>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
+<!-- <form name="form1" action="http://192.168.75.129:8888/SciMiner/FuncAnal.cgi" method="POST" enctype="multipart/form-data"> -->
+    
+<br>
+
+<table border="0">
+	<tr>
+		<td width="150"  class="tableHeader1" onmouseover="Tip('Select the query number you would like to run the analysis on.<br>Identified targets of the selected query')" onmouseout="UnTip()">
+			Query result to be <b>tested</b>
+		</td>	
+		<td width="60" onmouseover="Tip('Enter your test query number')" onmouseout="UnTip()">
+			<input type="text" name="queryNumber" size="3" value="" style="text-align: right">
+		</td>
+		<td width="10">
+			&nbsp;
+		</td>
+		<td width="80" onmouseover="Tip('You can limit your targets in the analysis <br>by number of papers per target and by a list file')" onmouseout="UnTip()">
+			<b>Limit targets by</b>
+		</td>		
+		<td width="100"  class="tableHeader1" onmouseover="Tip('Only identified targets satisfying the following criteria will be used.<br><br><b>Minimum # Paper</b>: Minimum number of papers per target<br>&nbsp;&nbsp;eg) Any target identified from 1 or 2 papers will be excluded <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when the threshold is set to 3<br><b>Minimum % Paper</b>: Minimum percentage of papers per target<br><b>Top # Target</b>: Only the top # ranked targets<br><b>Top % Target</b>: Only the top % percentage ranked targets')" onmouseout="UnTip()">
+			<select name="MinPaperMethodTG" size="1">
+                <option selected value="MinPaperCount">Minimum # Paper</option>
+                <option value="MinPaperPercentage">Minimum % Paper</option>
+                <option value="TopPaperCount">Top # Target</option>
+                <option value="TopPaperPercentage">Top % Target</option>
+			</select>
+		</td>
+		<td width="30"  class="tableHeader1">
+			<input type="text" name="MinTopPaperTG" size="2" value="1" style="text-align: right">
+		</td>
+		<td width="60"  class="tableHeader1" style="text-align: right" onmouseover="Tip('Target list can further be limited by <br> <b>a user provided list (official symbols)</b><br>')" onmouseout="UnTip()">
+			and by list
+		</td>
+		<td width="50" class="tableHeader1" onmouseover="Tip('Select a file containing a list of <b>offcial symbols</b>')" onmouseout="UnTip()">
+			<INPUT TYPE='file' NAME='TGListFile' size="10">
+		</td>	
+	</tr>
+	<tr>
+		<td class="tableHeader1">
+			Query result as <b>background</b>
+		</td>	
+		<td class="tableHeader1" onmouseover="Tip('Enter your background query number')" onmouseout="UnTip()">
+			<input type="text" name="BGQueryNumber" size="3" value="" style="text-align: right">
+		</td>
+		<td class="tableHeader1">
+			&nbsp;
+		</td>	
+		<td onmouseover="Tip('You can limit your targets in the analysis <br>by number of papers per target and by a list file')" onmouseout="UnTip()">
+			<b>Limit targets by</b>
+		</td>			
+		<td class="tableHeader1" onmouseover="Tip('Only identified targets satisfying the following criteria will be used.<br><br><b>Minimum # Paper</b>: Minimum number of papers per target<br>&nbsp;&nbsp;eg) Any target identified from 1 or 2 papers will be excluded <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when the threshold is set to 3<br><b>Minimum % Paper</b>: Minimum percentage of papers per target<br><b>Top # Target</b>: Only the top # ranked targets<br><b>Top % Target</b>: Only the top % percentage ranked targets')" onmouseout="UnTip()">
+			<select name="MinPaperMethodBG" size="1">
+                <option selected value="MinPaperCount">Minimum # Paper</option>
+                <option value="MinPaperPercentage">Minimum % Paper</option>
+                <option value="TopPaperCount">Top # Target</option>
+                <option value="TopPaperPercentage">Top % Target</option>
+			</select>
+		</td>
+		<td class="tableHeader1">
+			<input type="text" name="MinTopPaperBG" size="2" value="1" style="text-align: right">
+		</td>
+		<td width="30"  class="tableHeader1" style="text-align: right" onmouseover="Tip('Target list can further be limited by <br> <b>a user provided list (official symbols)</b><br>')" onmouseout="UnTip()">
+			and by list
+		</td>
+		<td class="tableHeader1" onmouseover="Tip('Select a file containing a list of <b>offcial symbols</b>')" onmouseout="UnTip()">
+			<INPUT TYPE='file' NAME='BGListFile' size="10">
+		</td>
+	</tr>
+	<tr>
+		<td class="tableHeader1">
+			<b>P-value</b> for significance test
+		</td>	
+		<td onmouseover="Tip('Enter desired p-value threshold.')" onmouseout="UnTip()">
+			<input type="text" name="PValueThreshold" size="3" value="0.05" style="text-align: right">
+		</td>
+		<td>
+			&nbsp;
+		</td>
+		<td>
+			&nbsp;
+		</td>			
+		<td>
+			Significant&nbsp;&nbsp;p-values&nbsp;&nbsp;will 
+		</td>
+		<td>
+			be in
+		</td>
+		<td>
+			<font color='red'>red</font> in result.
+		</td>
+	</tr>
+</table>    
+
+<INPUT TYPE="HIDDEN" NAME="email" VALUE="param(email)">
+
+
+<p class="titleBarName1">
+(<b>Section3</b>) Select functional analysis modules to run.<br>
+</p>
+
+
+    <table border="1" width="760">
+        <tr class="tableHeader1">
+            <th width="20" align="center" valign="middle">&nbsp;</th>
+            <th width="250" align="center" valign="middle" onmouseover="Tip('Available Post-Mining Analysis modules')" onmouseout="UnTip()"><b>Analysis module</b></th>
+            <th width="110" align="center" valign="middle" onmouseover="Tip('Statistical methods used by this module</b><br>')" onmouseout="UnTip()"><b>Method</b></th>
+            <th width="230" align="center" valign="middle" onmouseover="Tip('Select proper background set for each of the selected modules.<br><br>Background set can be either <b>another query result specified above</b> <br><br>or <b>full HUGO Gene set, PubMed, or all the targets from users&quot; queries</b>')" onmouseout="UnTip()"><b>Test against</b></th>
+            <th width="150" align="center"><b>Note</b></th>
+        </tr>
+        <tr>
+            <td align="center" valign="middle">
+                <input type="checkbox" name="GeneEnrichmentCheck">
+            </td>
+            <td align="left" valign="middle" onmouseover="Tip('This module will evaluate significance level of <b>each target</b> from <b>test set</b><br>based on the <b>number of papers</b> per target <b>between test and background set</b><br><br><b>This module requires background set to be specified above.</b>')" onmouseout="UnTip()">
+                &nbsp;Gene (Name) Enrichment
+            </td>
+            <td align="center" valign="middle">
+                Fisher's exact
+            </td>
+            <td align="center" valign="middle"><select name="GeneEnrichment" size="1">
+                    <option selected value="Selected">Selected Background Above</option>
+                    <!--
+                    <option value="Whole">Whole document in SciMinerDB</option>
+                    -->
+</select></td>
+            <td width="150" align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle">
+                <input type="checkbox" name="GOEnrichmentCheck">
+            </td>
+            <td align="left" valign="middle" onmouseover="Tip('This module will evaluate significance level of <b>Gene Ontology terms</b> <br>based on the <b>number of targets</b> per Gene Ontology <b>from test and background set</b><br><br>Note that Gene Ontology information is obtained from external annotation resources<br>like NCBI Entrez Gene database not from the text. No text-mining is involved here.<br><br>Background set can be either <b>specified query</b> above or <b>whole HUGO gene set</b>.')" onmouseout="UnTip()">
+                &nbsp;Gene Ontology (GO)&nbsp;Enrichment
+            </td>
+            <td align="center" valign="middle">
+                Fisher's exact
+            </td>
+            <td align="center" valign="middle">
+            	<select name="GOEnrichment" size="1">
+                    <option selected value="Selected">Selected Background Above</option>
+                    <!--<option value="Whole">Whole document in SciMinerDB</option>-->
+                    <option value="FullHUGO">All HUGO Genes in SciMinerDB</option>                    
+				</select>
+			</td>
+            <td align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle">
+                <p><input type="checkbox" name="MeSHEnrichmentCheck"></p>
+            </td>
+            <td align="left" valign="middle" onmouseover="Tip('This module will evaluate significance level of <b>MeSH terms</b> <br>based on the <b>number of papers</b> per MeSH Term <b>from test set and background set</b><br><br>No text-mining is involved here. <br><br>Background set can be either <b>specified query</b> above or <b>whole MedLine documents</b>.')" onmouseout="UnTip()">
+                <p>&nbsp;MeSH Term&nbsp;Enrichment</p>
+            </td>
+            <td align="center" valign="middle">
+                <p>Fisher's exact</p>
+            </td>
+            <td align="center" valign="middle"><select name="MeSHEnrichment" size="1">
+                    <option selected value="Selected">Selected Background Above</option>
+                    <!--<option value="Whole">Whole document in SciMinerDB</option>-->
+                    <option value="FullMeSH">Whole document in PubMed DB</option>
+</select></td>
+            <td align="center" valign="middle">&nbsp;</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle">
+                <p><input type="checkbox" name="PathwayEnrichmentCheck"></p>
+            </td>
+            <td align="left" valign="middle" onmouseover="Tip('This module will evaluate significance level of <b>pathway</b> <br>based on the <b>number of targets</b> per pathway <b>from test and background set</b><br><br>Note that pathway information is obtained from KEGG and Reactome per target<br> not from the text. No text-mining is involved here.<br><br>Background set can be either <b>specified query</b> above or <b>whole HUGO gene set</b>.')" onmouseout="UnTip()">
+            	&nbsp;Pathway Enrichment
+            </td>
+            <td align="center" valign="middle">
+                <p>Fisher's exact</p>
+            </td>
+            <td align="center" valign="middle"><select name="PathwayEnrichment" size="1">
+                    <option selected value="Selected">Selected Background Above</option>
+                    <!--<option value="Whole">Whole document in SciMinerDB</option>-->
+                    <option value="FullHUGO">All HUGO Genes in SciMinerDB</option>  
+</select></td>
+            <td align="center" valign="middle">
+            	&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle">
+                <p><input type="checkbox" name="PPICheck"></p>
+            </td>
+            <td align="left" valign="middle" onmouseover="Tip('This module will evaluate significance of <b>PPI network</b> of the tested set.<br>The PPI network of the selected tested set is compared to <br>PPI networks of randomly selected targets (<b>of same number of targets as in the test set</b>).<br><br>Background set will provide the probabily of targets being randomly selected.<br>1) <b>Selected query above</b>: # of paper per target only in the given query<br>2) <b>All HUGO genes in SciMinerDB</b>: each gene is equally likely to be selected from the full HUGO gene set<br>3) <b>whole document in sciMinerDB</b>: # of paper per target from all of the processed documents<br><br>Note that 3) would change as more queries are used. <br>Though this is biased towards SciMiner users interests, <br>this can still be useful when the frequency of target needs to be incorporated into the selection probability. <br><br>PPI data is obtained from the MiMI (Michigan Molecular Interactions) database.')" onmouseout="UnTip()">
+                <p>&nbsp;Protein-Protein Interaction network of targets</p>
+            </td>
+            <td align="center" valign="middle">T-test, Z-score<br>
+ (100 repetitions)</td>
+            <td align="center" valign="middle" onmouseover="Tip('Background set will provide the probabily of targets being randomly selected.<br>1) <b>Selected query above</b>: # of paper per target only in the given query<br>2) <b>All HUGO genes in SciMinerDB</b>: each gene is equally likely to be selected from the full HUGO gene set<br>3) <b>whole document in sciMinerDB</b>: # of paper per target from all of the processed documents<br><br>')" onmouseout="UnTip()">
+            	<select name="PPI" size="1">
+                    <option value="FullHUGO" selected>All HUGO Genes in SciMinerDB</option>
+                    <option value="Whole">Whole document in SciMinerDB</option>
+                    <option value="Selected">Selected Background Above</option>
+				</select></td>
+            <td align="center" valign="middle">Based on Gauchian distribution</td>
+        </tr>
+    </table>
+    <p><input type='submit' name="Start Analysis" value="Start Analysis"> <input type="reset" name="reset form"></p>
+</form>
+<p>&nbsp;</p>
+</body>
+</html>

@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 0
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	11998	TP53	7157	tumor protein p53
+

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	118	ACO2	50	aconitase 2, mitochondrial
+
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)

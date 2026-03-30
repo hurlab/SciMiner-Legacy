@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 2
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	6018	IL6	3569	interleukin 6 (interferon, beta 2)
+
+BACKGROUNDONLY	6000	IL1RN	3557	interleukin 1 receptor antagonist
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase

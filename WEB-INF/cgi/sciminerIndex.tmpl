@@ -1,0 +1,43 @@
+<TMPL_INCLUDE NAME="shared_header.tmpl">
+
+<TMPL_IF NAME="PROFILE">
+<div class="sm-container">
+  <div style="display:flex;justify-content:flex-end;margin-bottom:8px;">
+    <div class="sm-topbar-user">
+      <span class="sm-user-email"><TMPL_VAR NAME="FIRSTNAME"><TMPL_IF NAME="INSTITUTE"> (<TMPL_VAR NAME="INSTITUTE">)</TMPL_IF></span>
+      <a href="<TMPL_VAR NAME=MYURL>?logout=1" class="sm-btn sm-btn-sm sm-btn-outline" style="color:#e53e3e;border-color:#e53e3e;">Logout</a>
+    </div>
+  </div>
+  <TMPL_INCLUDE NAME="sciminer.tmpl">
+</div>
+<TMPL_ELSE>
+<div class="sm-login-wrapper">
+  <div class="sm-login-card">
+    <h2>Run SciMiner</h2>
+    <p class="sm-login-subtitle">Sign in to access text mining queries</p>
+    <TMPL_IF NAME="BADLOGINS">
+    <div class="sm-login-error">
+      Invalid credentials. Failed attempts: <TMPL_VAR NAME=BADLOGINS>
+    </div>
+    </TMPL_IF>
+    <form action="<TMPL_VAR NAME=MYURL>" method="post">
+      <div class="sm-form-group">
+        <label class="sm-label">Email</label>
+        <input type="text" name="lg_nick" class="sm-input" placeholder="your@email.com" required>
+      </div>
+      <div class="sm-form-group">
+        <label class="sm-label">Password</label>
+        <input type="password" name="lg_pass" class="sm-input" required>
+      </div>
+      <div class="sm-btn-group">
+        <button type="submit" name="submit" value="Login" class="sm-btn sm-btn-primary" style="width:100%">Sign In</button>
+      </div>
+    </form>
+    <div class="sm-login-links">
+      <a href="createSciMinerAccount.cgi">Create an account</a>
+    </div>
+  </div>
+</div>
+</TMPL_IF>
+
+<TMPL_INCLUDE NAME="shared_footer.tmpl">

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	5464	IGF1	3479	insulin-like growth factor 1 (somatomedin C)
+
+BACKGROUNDONLY	6619	LIPC	3990	lipase, hepatic

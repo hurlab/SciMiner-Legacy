@@ -1,0 +1,26 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 6
+#BACKGROUNDONLY: 8
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	7707	NDUFS1	4719	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	8023	NTF3	4908	neurotrophin 3
+COMMON	11740	TF	7018	transferrin
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	6925	MBP	4155	myelin basic protein
+BACKGROUNDONLY	4326	GLRA1	2741	glycine receptor, alpha 1
+BACKGROUNDONLY	4879	HEXB	3074	hexosaminidase B (beta polypeptide)
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	7939	NPPA	4878	natriuretic peptide precursor A
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

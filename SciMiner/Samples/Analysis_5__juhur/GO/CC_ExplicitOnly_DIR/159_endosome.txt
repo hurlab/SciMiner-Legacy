@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 3
+#BACKGROUNDONLY: 6
+TESTONLY	11763	TFRC	7037	transferrin receptor (p90, CD71)
+TESTONLY	6817	MAL	4118	mal, T-cell differentiation protein
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+
+COMMON	11740	TF	7018	transferrin
+COMMON	1693	CD68	968	CD68 molecule
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	9235	PPARD	5467	peroxisome proliferator-activated receptor delta
+BACKGROUNDONLY	933	BACE1	23621	beta-site APP-cleaving enzyme 1
+BACKGROUNDONLY	2530	CTSE	1510	cathepsin E
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2

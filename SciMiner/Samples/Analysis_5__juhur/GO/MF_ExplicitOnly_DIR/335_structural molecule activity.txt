@@ -1,0 +1,28 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 10
+#BACKGROUNDONLY: 8
+TESTONLY	20778	TUBB	203068	tubulin, beta
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	12408	TUBA3C	7278	tubulin, alpha 3c
+TESTONLY	9655	PTPN3	5774	protein tyrosine phosphatase, non-receptor type 3
+
+COMMON	3768	FMN1	342184	formin 1
+COMMON	4235	GFAP	2670	glial fibrillary acidic protein
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	7737	NEFH	4744	neurofilament, heavy polypeptide 200kDa
+COMMON	9461	PRPH	5630	peripherin
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	6776	MAF	4094	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+COMMON	12649	VAPB	9217	VAMP (vesicle-associated membrane protein)-associated protein B and C
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	6207	JUP	3728	junction plakoglobin
+
+BACKGROUNDONLY	7756	NES	10763	nestin
+BACKGROUNDONLY	8104	OCLN	4950	occludin
+BACKGROUNDONLY	2187	COL11A2	1302	collagen, type XI, alpha 2
+BACKGROUNDONLY	2159	CNR1	1268	cannabinoid receptor 1 (brain)
+BACKGROUNDONLY	18809	TUBA1B	10376	tubulin, alpha 1b
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	6839	MAP2	4133	microtubule-associated protein 2
+BACKGROUNDONLY	1338	C5AR1	728	complement component 5a receptor 1

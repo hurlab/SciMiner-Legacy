@@ -1,0 +1,533 @@
+#PathwayID	Name	t-total	t+	t-	t+uniq	common	b+uniq	b+	b-	b-total	p-value	t-ratiot	b-ratio	(t-ratio)/(b-ratio)	SigTest
+73894	DNA Repair	399	18	381	18	0	1	1	554	555	1.425e-06	0.05	0.00	25.0	Nominal_Sig
+73890	Double-Strand Break Repair	399	8	391	8	0	0	0	555	555	8.985e-04	0.02	0.00	bZero	Nominal_Sig
+hsa04080	Neuroactive ligand-receptor interaction - Homo sapiens (human)	399	8	391	3	5	29	34	521	555	2.082e-03	0.02	0.06	0.3	Nominal_Sig
+hsa04060	Cytokine-cytokine receptor interaction - Homo sapiens (human)	399	20	379	2	18	39	57	498	555	3.613e-03	0.05	0.10	0.5	Nominal_Sig
+73951	Homologous recombination repair of replication-independent double-strand breaks	399	6	393	6	0	0	0	555	555	5.236e-03	0.02	0.00	bZero	Nominal_Sig
+157579	Telomere Maintenance	399	6	393	6	0	0	0	555	555	5.236e-03	0.02	0.00	bZero	Nominal_Sig
+73888	Homologous Recombination Repair	399	6	393	6	0	0	0	555	555	5.236e-03	0.02	0.00	bZero	Nominal_Sig
+hsa04514	Cell adhesion molecules (CAMs) - Homo sapiens (human)	399	3	396	0	3	13	16	539	555	1.954e-02	0.01	0.03	0.3	Nominal_Sig
+hsa00620	Pyruvate metabolism - Homo sapiens (human)	399	8	391	8	0	2	2	553	555	2.053e-02	0.02	0.00	5.6	Nominal_Sig
+hsa04610	Complement and coagulation cascades - Homo sapiens (human)	399	1	398	0	1	9	10	545	555	3.052e-02	0.00	0.02	0.1	Nominal_Sig
+hsa00480	Glutathione metabolism - Homo sapiens (human)	399	9	390	6	3	1	4	551	555	5.094e-02	0.02	0.01	3.1	Not_Sig
+hsa05214	Glioma - Homo sapiens (human)	399	19	380	11	8	6	14	541	555	7.265e-02	0.05	0.03	1.9	Not_Sig
+76010	Homologous DNA pairing and strand exchange	399	3	396	3	0	0	0	555	555	7.284e-02	0.01	0.00	bZero	Not_Sig
+69190	DNA strand elongation	399	3	396	3	0	0	0	555	555	7.284e-02	0.01	0.00	bZero	Not_Sig
+hsa02010	ABC transporters - General - Homo sapiens (human)	399	3	396	3	0	0	0	555	555	7.284e-02	0.01	0.00	bZero	Not_Sig
+75154	Recruitment of repair and signaling proteins to double-strand breaks	399	3	396	3	0	0	0	555	555	7.284e-02	0.01	0.00	bZero	Not_Sig
+69481	G2/M Checkpoints	399	3	396	3	0	0	0	555	555	7.284e-02	0.01	0.00	bZero	Not_Sig
+76003	Presynaptic phase of homologous DNA pairing and strand exchange	399	3	396	3	0	0	0	555	555	7.284e-02	0.01	0.00	bZero	Not_Sig
+69242	S Phase	399	6	393	5	1	1	2	553	555	7.413e-02	0.02	0.00	4.2	Not_Sig
+hsa03320	PPAR signaling pathway - Homo sapiens (human)	399	2	397	1	1	9	10	545	555	8.501e-02	0.01	0.02	0.3	Not_Sig
+hsa04115	p53 signaling pathway - Homo sapiens (human)	399	14	385	7	7	2	9	546	555	8.505e-02	0.04	0.02	2.2	Not_Sig
+69239	Synthesis of DNA	399	5	394	4	1	0	1	554	555	8.782e-02	0.01	0.00	7.0	Not_Sig
+hsa04630	Jak-STAT signaling pathway - Homo sapiens (human)	399	14	385	4	10	23	33	522	555	9.615e-02	0.04	0.06	0.6	Not_Sig
+hsa05222	Small cell lung cancer - Homo sapiens (human)	399	22	377	9	13	5	18	537	555	1.012e-01	0.06	0.03	1.7	Not_Sig
+187037	TRKA signalling from the plasma membrane	399	15	384	7	8	3	11	544	555	1.088e-01	0.04	0.02	1.9	Not_Sig
+hsa04012	ErbB signaling pathway - Homo sapiens (human)	399	20	379	9	11	5	16	539	555	1.199e-01	0.05	0.03	1.7	Not_Sig
+166520	Signalling by NGF	399	20	379	9	11	5	16	539	555	1.199e-01	0.05	0.03	1.7	Not_Sig
+hsa00190	Oxidative phosphorylation - Homo sapiens (human)	399	10	389	8	2	4	6	549	555	1.238e-01	0.03	0.01	2.3	Not_Sig
+69278	Cell Cycle, Mitotic	399	10	389	9	1	5	6	549	555	1.238e-01	0.03	0.01	2.3	Not_Sig
+hsa00790	Folate biosynthesis - Homo sapiens (human)	399	5	394	3	2	0	2	553	555	1.363e-01	0.01	0.00	3.5	Not_Sig
+hsa00650	Butanoate metabolism - Homo sapiens (human)	399	5	394	4	1	1	2	553	555	1.363e-01	0.01	0.00	3.5	Not_Sig
+hsa00350	Tyrosine metabolism - Homo sapiens (human)	399	8	391	6	2	2	4	551	555	1.375e-01	0.02	0.01	2.8	Not_Sig
+hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)	399	8	391	7	1	3	4	551	555	1.375e-01	0.02	0.01	2.8	Not_Sig
+hsa05213	Endometrial cancer - Homo sapiens (human)	399	14	385	8	6	4	10	545	555	1.407e-01	0.04	0.02	1.9	Not_Sig
+114608	Platelet degranulation 	399	4	395	0	4	9	13	542	555	1.425e-01	0.01	0.02	0.4	Not_Sig
+114611	Exocytosis of Alpha granule 	399	4	395	0	4	9	13	542	555	1.425e-01	0.01	0.02	0.4	Not_Sig
+hsa05220	Chronic myeloid leukemia - Homo sapiens (human)	399	17	382	8	9	5	14	541	555	1.427e-01	0.04	0.03	1.7	Not_Sig
+140192	Metabolism of xenobiotics	399	11	388	7	4	4	8	547	555	1.649e-01	0.03	0.01	1.9	Not_Sig
+69620	Cell Cycle Checkpoints	399	8	391	6	2	3	5	550	555	1.653e-01	0.02	0.01	2.2	Not_Sig
+hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)	399	8	391	4	4	1	5	550	555	1.653e-01	0.02	0.01	2.2	Not_Sig
+69306	DNA Replication	399	8	391	7	1	4	5	550	555	1.653e-01	0.02	0.01	2.2	Not_Sig
+hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)	399	4	395	3	1	0	1	554	555	1.673e-01	0.01	0.00	5.6	Not_Sig
+69166	Removal of the Flap Intermediate	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+110373	Resolution of AP sites via the multiple-nucleotide patch replacement pathway	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+hsa00290	Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+hsa00430	Taurine and hypotaurine metabolism - Homo sapiens (human)	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+hsa04740	Olfactory transduction - Homo sapiens (human)	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+110362	Removal of DNA patch containing abasic residue	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+140179	Amine Oxidase reactions	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+174414	Processive synthesis on the C-strand of the telomere	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+141333	Monoamines are oxidized to aldehydes, producing NH3 and H2O2	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+83572	MRN complex relocalizes to nuclear foci	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+75177	Assembly of the RAD50-MRE11-NBS1 complex at DNA double-strand breaks	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+75924	Processing of DNA ends prior to end rejoining	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+69186	Lagging Strand Synthesis	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+71384	Ethanol catabolism	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+73889	Nonhomologous End-joining (NHEJ)	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+hsa00040	Pentose and glucuronate interconversions - Homo sapiens (human)	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+162592	Integration of provirus	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+180786	Extension of Telomeres	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+174417	Telomere C-strand (Lagging Strand) Synthesis	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+176187	Activation of ATR in response to replication stress	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+73933	Resolution of Abasic Sites (AP sites)	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+174437	Removal of the Flap Intermediate from the C-strand	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+69183	Processive synthesis on the lagging strand	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+76000	Assembly of the RAD51-ssDNA nucleoprotein complex	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+73884	Base Excision Repair	399	2	397	2	0	0	0	555	555	1.747e-01	0.01	0.00	bZero	Not_Sig
+71406	Pyruvate metabolism and TCA cycle	399	6	393	5	1	2	3	552	555	1.762e-01	0.02	0.01	2.8	Not_Sig
+hsa05223	Non-small cell lung cancer - Homo sapiens (human)	399	16	383	8	8	5	13	542	555	1.801e-01	0.04	0.02	1.7	Not_Sig
+hsa04916	Melanogenesis - Homo sapiens (human)	399	12	387	6	6	3	9	546	555	1.808e-01	0.03	0.02	1.9	Not_Sig
+198203	PI3K/AKT signalling	399	9	390	4	5	1	6	549	555	1.887e-01	0.02	0.01	2.1	Not_Sig
+hsa04920	Adipocytokine signaling pathway - Homo sapiens (human)	399	9	390	0	9	12	21	534	555	1.945e-01	0.02	0.04	0.6	Not_Sig
+hsa05218	Melanoma - Homo sapiens (human)	399	17	382	9	8	7	15	540	555	2.048e-01	0.04	0.03	1.6	Not_Sig
+163200	Electron Transport Chain	399	10	389	8	2	5	7	548	555	2.138e-01	0.03	0.01	2.0	Not_Sig
+hsa00251	Glutamate metabolism - Homo sapiens (human)	399	7	392	4	3	1	4	551	555	2.172e-01	0.02	0.01	2.4	Not_Sig
+hsa04720	Long-term potentiation - Homo sapiens (human)	399	10	389	4	6	2	8	547	555	2.394e-01	0.03	0.01	1.7	Not_Sig
+76005	Response to elevated platelet cytosolic Ca++	399	5	394	0	5	9	14	541	555	2.398e-01	0.01	0.03	0.5	Not_Sig
+170984	ARMS-mediated activation	399	4	395	2	2	0	2	553	555	2.430e-01	0.01	0.00	2.8	Not_Sig
+169893	Prolonged ERK activation events	399	4	395	2	2	0	2	553	555	2.430e-01	0.01	0.00	2.8	Not_Sig
+170968	Frs2-mediated activation	399	4	395	2	2	0	2	553	555	2.430e-01	0.01	0.00	2.8	Not_Sig
+71403	Citric acid cycle (TCA cycle)	399	4	395	3	1	1	2	553	555	2.430e-01	0.01	0.00	2.8	Not_Sig
+187706	Signalling to p38 via RIT and RIN	399	4	395	2	2	0	2	553	555	2.430e-01	0.01	0.00	2.8	Not_Sig
+71408	Metabolism of small molecules	399	4	395	2	2	0	2	553	555	2.430e-01	0.01	0.00	2.8	Not_Sig
+69615	G1/S DNA Damage Checkpoints	399	4	395	2	2	0	2	553	555	2.430e-01	0.01	0.00	2.8	Not_Sig
+77388	SHC-related events	399	4	395	2	2	0	2	553	555	2.430e-01	0.01	0.00	2.8	Not_Sig
+190236	Signaling by FGFR	399	1	398	0	1	5	6	549	555	2.493e-01	0.00	0.01	0.2	Not_Sig
+190376	FGFR ligand binding and activation	399	1	398	0	1	5	6	549	555	2.493e-01	0.00	0.01	0.2	Not_Sig
+74751	Insulin receptor signalling cascade	399	7	392	3	4	1	5	550	555	2.554e-01	0.02	0.01	1.9	Not_Sig
+77389	IRS-related events	399	7	392	3	4	1	5	550	555	2.554e-01	0.02	0.01	1.9	Not_Sig
+109606	Intrinsic Pathway for Apoptosis	399	11	388	3	8	1	9	546	555	2.564e-01	0.03	0.02	1.7	Not_Sig
+hsa05210	Colorectal cancer - Homo sapiens (human)	399	21	378	8	13	7	20	535	555	2.573e-01	0.05	0.04	1.5	Not_Sig
+194138	Signaling by VEGF	399	3	396	0	3	7	10	545	555	2.575e-01	0.01	0.02	0.4	Not_Sig
+hsa00340	Histidine metabolism - Homo sapiens (human)	399	5	394	3	2	1	3	552	555	2.899e-01	0.01	0.01	2.3	Not_Sig
+hsa00562	Inositol phosphate metabolism - Homo sapiens (human)	399	5	394	2	3	0	3	552	555	2.899e-01	0.01	0.01	2.3	Not_Sig
+162909	Host Interactions of HIV factors	399	5	394	2	3	0	3	552	555	2.899e-01	0.01	0.01	2.3	Not_Sig
+hsa00260	Glycine, serine and threonine metabolism - Homo sapiens (human)	399	5	394	4	1	2	3	552	555	2.899e-01	0.01	0.01	2.3	Not_Sig
+73923	Lipid and lipoprotein metabolism	399	7	392	4	3	13	16	539	555	2.925e-01	0.02	0.03	0.6	Not_Sig
+74752	Signaling by Insulin receptor	399	9	390	4	5	2	7	548	555	3.076e-01	0.02	0.01	1.8	Not_Sig
+15869	Nucleotide metabolism	399	9	390	3	6	1	7	548	555	3.076e-01	0.02	0.01	1.8	Not_Sig
+69304	Regulation of DNA replication	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+69052	Switching of origins to a post-replicative state	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+156902	Peptide chain elongation	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+69580	p53-Dependent G1/S DNA damage checkpoint	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+72766	Translation	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+112410	SHC-mediated signalling	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+156842	Eukaryotic Translation Elongation	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+162594	Early Phase of HIV Life Cycle	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+hsa00930	Caprolactam degradation - Homo sapiens (human)	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+71397	Oxidative decarboxylation of pyruvate to acetyl CoA by pyruvate dehydrogenase	399	3	396	3	0	1	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+180292	Gab1 signalosome	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+69206	G1/S Transition	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+112412	SOS-mediated signalling	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+109869	MAP kinase cascade	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+hsa00500	Starch and sucrose metabolism - Homo sapiens (human)	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+69563	p53-Dependent G1 DNA Damage Response	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+204174	Regulation of pyruvate dehydrogenase complex (PDC)	399	3	396	3	0	1	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+hsa00120	Bile acid biosynthesis - Homo sapiens (human)	399	3	396	3	0	1	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+68949	Orc1 removal from chromatin	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+69300	Removal of licensing factors from origins	399	3	396	2	1	0	1	554	555	3.144e-01	0.01	0.00	4.2	Not_Sig
+hsa04910	Insulin signaling pathway - Homo sapiens (human)	399	19	380	7	12	7	19	536	555	3.171e-01	0.05	0.03	1.4	Not_Sig
+198933	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	399	2	397	0	2	5	7	548	555	3.178e-01	0.01	0.01	0.4	Not_Sig
+hsa04730	Long-term depression - Homo sapiens (human)	399	14	385	3	11	2	13	542	555	3.245e-01	0.04	0.02	1.5	Not_Sig
+hsa04360	Axon guidance - Homo sapiens (human)	399	5	394	1	4	8	12	543	555	3.326e-01	0.01	0.02	0.6	Not_Sig
+167044	Signalling to RAS	399	6	393	3	3	1	4	551	555	3.355e-01	0.02	0.01	2.1	Not_Sig
+112399	IRS-mediated signalling	399	6	393	3	3	1	4	551	555	3.355e-01	0.02	0.01	2.1	Not_Sig
+hsa05020	Parkinson's disease - Homo sapiens (human)	399	6	393	3	3	1	4	551	555	3.355e-01	0.02	0.01	2.1	Not_Sig
+187687	Signalling to ERKs	399	6	393	3	3	1	4	551	555	3.355e-01	0.02	0.01	2.1	Not_Sig
+hsa00360	Phenylalanine metabolism - Homo sapiens (human)	399	6	393	4	2	2	4	551	555	3.355e-01	0.02	0.01	2.1	Not_Sig
+hsa00380	Tryptophan metabolism - Homo sapiens (human)	399	6	393	4	2	2	4	551	555	3.355e-01	0.02	0.01	2.1	Not_Sig
+hsa04912	GnRH signaling pathway - Homo sapiens (human)	399	15	384	7	8	6	14	541	555	3.394e-01	0.04	0.03	1.5	Not_Sig
+hsa05030	Amyotrophic lateral sclerosis (ALS) - Homo sapiens (human)	399	15	384	1	14	0	14	541	555	3.394e-01	0.04	0.03	1.5	Not_Sig
+hsa04530	Tight junction - Homo sapiens (human)	399	10	389	4	6	3	9	546	555	3.555e-01	0.03	0.02	1.5	Not_Sig
+hsa04662	B cell receptor signaling pathway - Homo sapiens (human)	399	10	389	2	8	1	9	546	555	3.555e-01	0.03	0.02	1.5	Not_Sig
+hsa05211	Renal cell carcinoma - Homo sapiens (human)	399	11	388	4	7	15	22	533	555	3.714e-01	0.03	0.04	0.7	Not_Sig
+hsa04210	Apoptosis - Homo sapiens (human)	399	32	367	7	25	11	36	519	555	3.743e-01	0.08	0.06	1.2	Not_Sig
+hsa01510	Neurodegenerative Diseases - Homo sapiens (human)	399	25	374	4	21	6	27	528	555	3.866e-01	0.06	0.05	1.3	Not_Sig
+177929	Signaling by EGFR	399	7	392	4	3	3	6	549	555	4.068e-01	0.02	0.01	1.6	Not_Sig
+163685	Integration of energy metabolism	399	7	392	4	3	3	6	549	555	4.068e-01	0.02	0.01	1.6	Not_Sig
+202733	Cell surface interactions at the vascular wall	399	7	392	4	3	3	6	549	555	4.068e-01	0.02	0.01	1.6	Not_Sig
+168176	Toll Like Receptor 5 (TLR5) Cascade	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+166058	MyD88 cascade	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+168142	Toll Like Receptor 10 (TLR10) Cascade	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+168188	Toll Like Receptor TLR6:TLR2 Cascade	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+181438	Toll Like Receptor 2 Cascade	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+168179	Toll Like Receptor TLR1:TLR2 Cascade	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+hsa00361	gamma-Hexachlorocyclohexane degradation - Homo sapiens (human)	399	1	398	0	1	3	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+195721	Signaling by Wnt	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+166054	Activated TLR4 signalling	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+190322	FGFR4 ligand binding and activation	399	1	398	0	1	3	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+166016	Toll Like Receptor 4 (TLR4) Cascade	399	1	398	1	0	4	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+140181	Cytochrome p450	399	1	398	0	1	3	4	551	555	4.068e-01	0.00	0.01	0.3	Not_Sig
+174800	Chylomicron-mediated lipid transport	399	1	398	0	1	4	5	550	555	4.098e-01	0.00	0.01	0.3	Not_Sig
+190241	FGFR2 ligand binding and activation	399	1	398	0	1	4	5	550	555	4.098e-01	0.00	0.01	0.3	Not_Sig
+190375	FGFR2c ligand binding and activation	399	1	398	0	1	4	5	550	555	4.098e-01	0.00	0.01	0.3	Not_Sig
+190242	FGFR1 ligand binding and activation	399	1	398	0	1	4	5	550	555	4.098e-01	0.00	0.01	0.3	Not_Sig
+190373	FGFR1c ligand binding and activation	399	1	398	0	1	4	5	550	555	4.098e-01	0.00	0.01	0.3	Not_Sig
+174824	Lipoprotein metabolism	399	1	398	0	1	4	5	550	555	4.098e-01	0.00	0.01	0.3	Not_Sig
+168138	Toll Like Receptor 9 (TLR9) Cascade	399	1	398	1	0	5	5	550	555	4.098e-01	0.00	0.01	0.3	Not_Sig
+168769	BoNT Light Chain Types B, D, and F cleave VAMP/Synaptobrevin	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+168273	Influenza Viral RNA Transcription and Replication	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+73728	RNA Polymerase I Promoter Opening	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+70172	Phosphorylase kinase activates glycogen phosphorylase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+109979	Gap-filling DNA repair synthesis and ligation in TC-NER	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+191650	Regulation of gap junction activity	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+74969	Gap-filling DNA repair synthesis and ligation in GG-NER	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+168255	Influenza Life Cycle	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+174403	Glutathione synthesis	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+188108	MyD88 Cascade (Murine)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+164843	2-LTR circle formation	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+73621	Pyrimidine catabolism	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+180897	Vpr-mediated induction of apoptosis by mitochondrial outer membrane permeabilization	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+68962	Activation of the pre-replicative complex	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa00950	Alkaloid biosynthesis I - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa03030	DNA replication - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa00770	Pantothenate and CoA biosynthesis - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+171306	Packaging Of Telomere Ends	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+162585	Uncoating of the HIV Virion	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+83542	ATM mediated response to DNA double-strand break	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+168782	Proteolytic cleavage of SNARE complex proteins	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+112407	RAF phosphorylates MEK	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+71336	Pentose phosphate pathway (hexose monophosphate shunt)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+168799	Botulinum neurotoxicity	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+70845	Isoleucine catabolism	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+180689	APOBEC3G mediated resistance to HIV-1 infection	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+71037	Oxidative decarboxylation of alpha-ketoadipate to glutaryl CoA by alpha-ketoglutarate dehydrogenase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+69091	Polymerase switching	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+71383	Acetate, ATP, and coenzyme A react to form acetyl CoA, AMP, and pyrophosphate	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+110049	MEK activation	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+168325	Viral Messenger RNA Synthesis	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+73930	Base-free sugar-phosphate removal via the single-nucleotide replacement pathway	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+73927	Depurination	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+69109	Leading Strand Synthesis	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+68886	M Phase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+176033	Interactions of Vpr with host cellular proteins	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+71064	Lysine catabolism	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+71338	Ethanol is oxidized by NAD+ to form acetaldehyde, NADH, and H+	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa00740	Riboflavin metabolism - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa00460	Cyanoamino acid metabolism - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+114294	Activation, translocation and oligomerization of BAX	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+162589	Reverse Transcription of HIV RNA	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+70853	Oxidative decarboxylation of alpha-ketoisovalerate to isobutyryl-CoA by branched-chain alpha-ketoacid dehydrogenase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+77378	Formation of Cytosolic Glycerol-3-phosphate	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+110056	ERK1 activation	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+68875	Mitotic Prophase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+164525	Plus-strand DNA synthesis	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+163358	PKA-mediated phosphorylation of key metabolic factors	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+73929	Base-Excision Repair, AP Site Formation	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa01030	Glycan structures - biosynthesis 1 - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+109977	Repair synthesis for gap-filling by DNA polymerase in TC-NER	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+192456	Digestion of dietary lipid	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+174411	Polymerase switching on the C-strand of the telomere	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+110381	Resolution of AP sites via the single-nucleotide replacement pathway	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+163560	Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa00052	Galactose metabolism - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+210991	Basigin interactions	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+69473	G2/M DNA damage checkpoint	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+71401	Oxidative decarboxylation of alpha-ketoglutarate to succinyl CoA by alpha-ketoglutarate dehydrogenase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+110330	Recognition and association of DNA glycosylase with site containing an affected purine	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+164516	Minus-strand DNA synthesis	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa00030	Pentose phosphate pathway - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+111452	Activation and oligomerization of BAK protein	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+142045	Alcohol Dehydrogenase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa00510	N-Glycan biosynthesis - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+71182	Phenylalanine and tyrosine catabolism	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+142033	Ethanol Catabolism	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+110331	Cleavage of the damaged purine	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+70726	Oxidative decarboxylation of alpha-ketoisocaproate to isovaleryl-CoA by branched-chain alpha-ketoacid dehydrogenase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa04130	SNARE interactions in vesicular transport - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+188081	Toll Like Receptor 11 (TLR11) Cascade (Murine)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+74967	Repair synthesis of patch ~27-30 bases long  by DNA polymerase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa00051	Fructose and mannose metabolism - Homo sapiens (human)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+176974	Unwinding of DNA	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+71032	Propionyl-CoA catabolism	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+187577	SCF(Skp2)-mediated degradation of p27/p21	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+110357	Displacement of DNA glycosylase by  APE1	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+70221	Glycogen breakdown (glycogenolysis)	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+75148	ATM mediated phosphorylation of repair proteins	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+162658	Golgi Cisternae Pericentriolar Stack Reorganization	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+191647	c-src mediated regulation of Cx43 function and closure of gap junctions	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+70794	Oxidative decarboxylation of alpha-keto-beta-methylvalerate to alpha-methylbutyryl-CoA by branched-chain alpha-ketoacid dehydrogenase	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+75894	Synthesis of lysophosphatidic acid from glycerol-3-phosphate	399	1	398	1	0	0	0	555	555	4.182e-01	0.00	0.00	bZero	Not_Sig
+hsa04370	VEGF signaling pathway - Homo sapiens (human)	399	20	379	6	14	7	21	534	555	4.189e-01	0.05	0.04	1.3	Not_Sig
+hsa05221	Acute myeloid leukemia - Homo sapiens (human)	399	13	386	5	8	5	13	542	555	4.241e-01	0.03	0.02	1.4	Not_Sig
+109582	Hemostasis	399	17	382	6	11	19	30	525	555	4.519e-01	0.04	0.05	0.8	Not_Sig
+194840	Rho GTPase cycle	399	4	395	2	2	1	3	552	555	4.605e-01	0.01	0.01	1.9	Not_Sig
+202131	Metabolism of nitric oxide	399	4	395	1	3	0	3	552	555	4.605e-01	0.01	0.01	1.9	Not_Sig
+114509	Platelet activation triggers	399	4	395	1	3	0	3	552	555	4.605e-01	0.01	0.01	1.9	Not_Sig
+hsa00252	Alanine and aspartate metabolism - Homo sapiens (human)	399	4	395	4	0	3	3	552	555	4.605e-01	0.01	0.01	1.9	Not_Sig
+76002	Platelet Activation	399	4	395	1	3	0	3	552	555	4.605e-01	0.01	0.01	1.9	Not_Sig
+71387	Metabolism of carbohydrates	399	4	395	2	2	1	3	552	555	4.605e-01	0.01	0.01	1.9	Not_Sig
+198725	Nuclear Events (kinase and transcription factor activation)	399	4	395	1	3	0	3	552	555	4.605e-01	0.01	0.01	1.9	Not_Sig
+164378	PKA activation in glucagon signalling	399	4	395	1	3	0	3	552	555	4.605e-01	0.01	0.01	1.9	Not_Sig
+hsa00410	beta-Alanine metabolism - Homo sapiens (human)	399	4	395	3	1	2	3	552	555	4.605e-01	0.01	0.01	1.9	Not_Sig
+hsa05215	Prostate cancer - Homo sapiens (human)	399	23	376	9	14	12	26	529	555	4.612e-01	0.06	0.05	1.2	Not_Sig
+75153	Apoptotic execution  phase	399	2	397	0	2	4	6	549	555	4.797e-01	0.01	0.01	0.5	Not_Sig
+111465	Cleavage of cellular proteins by active caspases	399	2	397	0	2	4	6	549	555	4.797e-01	0.01	0.01	0.5	Not_Sig
+202403	TCR signaling	399	9	390	2	7	2	9	546	555	4.808e-01	0.02	0.02	1.4	Not_Sig
+162906	HIV Infection	399	9	390	5	4	5	9	546	555	4.808e-01	0.02	0.02	1.4	Not_Sig
+hsa04930	Type II diabetes mellitus - Homo sapiens (human)	399	9	390	3	6	3	9	546	555	4.808e-01	0.02	0.02	1.4	Not_Sig
+hsa04010	MAPK signaling pathway - Homo sapiens (human)	399	37	362	9	28	16	44	511	555	4.813e-01	0.09	0.08	1.2	Not_Sig
+hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)	399	17	382	5	12	6	18	537	555	4.856e-01	0.04	0.03	1.3	Not_Sig
+hsa04810	Regulation of actin cytoskeleton - Homo sapiens (human)	399	13	386	5	8	16	24	531	555	4.972e-01	0.03	0.04	0.8	Not_Sig
+hsa00561	Glycerolipid metabolism - Homo sapiens (human)	399	5	394	5	0	4	4	551	555	5.029e-01	0.01	0.01	1.7	Not_Sig
+hsa04660	T cell receptor signaling pathway - Homo sapiens (human)	399	18	381	3	15	5	20	535	555	5.050e-01	0.05	0.04	1.3	Not_Sig
+hsa04670	Leukocyte transendothelial migration - Homo sapiens (human)	399	14	385	3	11	14	25	530	555	5.093e-01	0.04	0.05	0.8	Not_Sig
+hsa00980	Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human)	399	3	396	1	2	5	7	548	555	5.338e-01	0.01	0.01	0.6	Not_Sig
+194313	VEGF ligand-receptor interactions	399	3	396	0	3	4	7	548	555	5.338e-01	0.01	0.01	0.6	Not_Sig
+168180	TRAF6 Mediated Induction of the antiviral cytokine IFN-alpha/beta cascade	399	6	393	1	5	0	5	550	555	5.407e-01	0.02	0.01	1.7	Not_Sig
+168164	Toll Like Receptor 3 (TLR3) Cascade	399	6	393	1	5	0	5	550	555	5.407e-01	0.02	0.01	1.7	Not_Sig
+hsa00230	Purine metabolism - Homo sapiens (human)	399	6	393	3	3	2	5	550	555	5.407e-01	0.02	0.01	1.7	Not_Sig
+75178	Formation of Platelet plug	399	9	390	1	8	9	17	538	555	5.473e-01	0.02	0.03	0.7	Not_Sig
+73847	Purine metabolism	399	6	393	1	5	1	6	549	555	5.705e-01	0.02	0.01	1.4	Not_Sig
+hsa01430	Cell Communication - Homo sapiens (human)	399	4	395	1	3	6	9	546	555	5.741e-01	0.01	0.02	0.6	Not_Sig
+202670	ERKs are inactivated	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+68867	Assembly of the pre-replicative complex	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+69202	Cyclin E associated events during G1/S transition 	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+210993	Tie2 Signaling	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+72613	Eukaryotic Translation Initiation	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+69236	G1 Phase	399	2	397	2	0	1	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+70894	Valine catabolism	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+hsa00641	3-Chloroacrylic acid degradation - Homo sapiens (human)	399	2	397	2	0	1	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+173107	Binding and entry of HIV virion	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+111742	Reduction of cytosolic ribonucleoside 5'-diphosphates to deoxyribonucleoside 5'-diphosphates (glutaredoxin)	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+156590	Glutathione conjugation	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+156580	Phase II conjugation	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+hsa00630	Glyoxylate and dicarboxylate metabolism - Homo sapiens (human)	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+157279	3' -UTR-mediated translational regulation	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+hsa00720	Reductive carboxylate cycle (CO2 fixation) - Homo sapiens (human)	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+114604	Collagen-mediated activation cascade	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+69002	DNA Replication Pre-Initiation	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+72737	Cap-dependent Translation Initiation	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+68874	M/G1 Transition	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+69231	Cyclin D associated events in G1	399	2	397	2	0	1	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+72764	Eukaryotic Translation Termination	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+111747	Reduction of cytosolic ribonucleoside 5'-diphosphates to deoxyribonucleoside 5'-diphosphates by ribonucleotide reductase and glutaredoxin	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+74749	Signal attenuation	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+171007	p38MAPK events	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+69656	Cyclin A:Cdk2-associated events at S phase entry	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+hsa00600	Sphingolipid metabolism - Homo sapiens (human)	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+112409	ERK activation	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+69541	Stabilization of p53	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+72706	GTP hydrolysis and joining of the 60S ribosomal subunit	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+72689	Formation of a pool of free 40S subunits	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+156827	L13a-mediated translational silencing of Ceruloplasmin expression	399	2	397	1	1	0	1	554	555	5.748e-01	0.01	0.00	2.8	Not_Sig
+74160	Gene Expression	399	7	392	4	3	4	7	548	555	5.909e-01	0.02	0.01	1.4	Not_Sig
+hsa05060	Prion disease - Homo sapiens (human)	399	7	392	1	6	1	7	548	555	5.909e-01	0.02	0.01	1.4	Not_Sig
+71291	Metabolism of amino acids	399	7	392	4	3	4	7	548	555	5.909e-01	0.02	0.01	1.4	Not_Sig
+hsa05216	Thyroid cancer - Homo sapiens (human)	399	7	392	3	4	3	7	548	555	5.909e-01	0.02	0.01	1.4	Not_Sig
+hsa04640	Hematopoietic cell lineage - Homo sapiens (human)	399	12	387	2	10	11	21	534	555	5.923e-01	0.03	0.04	0.8	Not_Sig
+202424	Downstream TCR signaling	399	8	391	2	6	2	8	547	555	6.112e-01	0.02	0.01	1.4	Not_Sig
+hsa05212	Pancreatic cancer - Homo sapiens (human)	399	20	379	9	11	13	24	531	555	6.410e-01	0.05	0.04	1.2	Not_Sig
+hsa00903	Limonene and pinene degradation - Homo sapiens (human)	399	1	398	1	0	3	3	552	555	6.441e-01	0.00	0.01	0.5	Not_Sig
+hsa04950	Maturity onset diabetes of the young - Homo sapiens (human)	399	1	398	0	1	2	3	552	555	6.441e-01	0.00	0.01	0.5	Not_Sig
+hsa04614	Renin-angiotensin system - Homo sapiens (human)	399	1	398	0	1	2	3	552	555	6.441e-01	0.00	0.01	0.5	Not_Sig
+164385	G(s)-alpha mediated events in glucagon signalling	399	1	398	0	1	2	3	552	555	6.441e-01	0.00	0.01	0.5	Not_Sig
+190239	FGFR3 ligand binding and activation	399	1	398	0	1	2	3	552	555	6.441e-01	0.00	0.01	0.5	Not_Sig
+157858	Gap junction trafficking and regulation	399	1	398	1	0	3	3	552	555	6.441e-01	0.00	0.01	0.5	Not_Sig
+190372	FGFR3c ligand binding and activation	399	1	398	0	1	2	3	552	555	6.441e-01	0.00	0.01	0.5	Not_Sig
+111748	Synthesis of deoxyribonucleoside 5'-diphosphates from ribonucleoside 5'-diphosphates	399	3	396	1	2	0	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+73848	Pyrimidine metabolism	399	3	396	1	2	0	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+70326	Glucose metabolism	399	3	396	1	2	0	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+hsa04320	Dorso-ventral axis formation - Homo sapiens (human)	399	3	396	2	1	1	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+198323	AKT phosphorylates targets in the cytosol	399	3	396	2	1	1	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+111458	Formation of apoptosome	399	3	396	1	2	0	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+203615	eNOS activation	399	3	396	1	2	0	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+hsa00240	Pyrimidine metabolism - Homo sapiens (human)	399	3	396	2	1	1	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+199418	Negative regulation of the PI3K/AKT network	399	3	396	1	2	0	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+203765	eNOS activation and regulation	399	3	396	1	2	0	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+198753	ERK/MAPK targets	399	3	396	1	2	0	2	553	555	6.547e-01	0.01	0.00	2.1	Not_Sig
+hsa04540	Gap junction - Homo sapiens (human)	399	11	388	7	4	9	13	542	555	6.815e-01	0.03	0.02	1.2	Not_Sig
+162587	HIV Life Cycle	399	3	396	2	1	2	3	552	555	6.987e-01	0.01	0.01	1.4	Not_Sig
+74226	ATP formation	399	3	396	1	2	1	3	552	555	6.987e-01	0.01	0.01	1.4	Not_Sig
+111463	SMAC binds to IAPs 	399	3	396	1	2	1	3	552	555	6.987e-01	0.01	0.01	1.4	Not_Sig
+109704	PI3K Cascade	399	3	396	1	2	1	3	552	555	6.987e-01	0.01	0.01	1.4	Not_Sig
+114452	Activation of BH3-only proteins	399	3	396	0	3	0	3	552	555	6.987e-01	0.01	0.01	1.4	Not_Sig
+111469	SMAC-mediated apoptotic response	399	3	396	1	2	1	3	552	555	6.987e-01	0.01	0.01	1.4	Not_Sig
+111464	SMAC-mediated dissociation of IAP:caspase complexes 	399	3	396	1	2	1	3	552	555	6.987e-01	0.01	0.01	1.4	Not_Sig
+75983	Formation and Maturation of mRNA Transcript	399	2	397	1	1	4	5	550	555	7.056e-01	0.01	0.01	0.6	Not_Sig
+196849	Metabolism of water-soluble vitamins and cofactors	399	2	397	1	1	4	5	550	555	7.056e-01	0.01	0.01	0.6	Not_Sig
+196854	Metabolism of vitamins and cofactors	399	2	397	1	1	4	5	550	555	7.056e-01	0.01	0.01	0.6	Not_Sig
+194315	Signaling by Rho GTPases	399	4	395	2	2	2	4	551	555	7.259e-01	0.01	0.01	1.4	Not_Sig
+111459	Activation of caspases through apoptosome-mediated cleavage	399	4	395	1	3	1	4	551	555	7.259e-01	0.01	0.01	1.4	Not_Sig
+hsa00220	Urea cycle and metabolism of amino groups - Homo sapiens (human)	399	4	395	3	1	3	4	551	555	7.259e-01	0.01	0.01	1.4	Not_Sig
+75157	FasL/ CD95L signaling	399	4	395	0	4	0	4	551	555	7.259e-01	0.01	0.01	1.4	Not_Sig
+hsa00860	Porphyrin and chlorophyll metabolism - Homo sapiens (human)	399	4	395	0	4	0	4	551	555	7.259e-01	0.01	0.01	1.4	Not_Sig
+111461	Cytochrome c-mediated apoptotic response	399	4	395	1	3	1	4	551	555	7.259e-01	0.01	0.01	1.4	Not_Sig
+hsa04512	ECM-receptor interaction - Homo sapiens (human)	399	3	396	2	1	5	6	549	555	7.419e-01	0.01	0.01	0.7	Not_Sig
+140191	Phase 1 functionalization	399	5	394	3	2	3	5	550	555	7.496e-01	0.01	0.01	1.4	Not_Sig
+74231	Purine biosynthesis	399	5	394	1	4	1	5	550	555	7.496e-01	0.01	0.01	1.4	Not_Sig
+111471	Apoptotic factor-mediated response	399	5	394	1	4	1	5	550	555	7.496e-01	0.01	0.01	1.4	Not_Sig
+109581	Apoptosis	399	19	380	4	15	9	24	531	555	7.541e-01	0.05	0.04	1.1	Not_Sig
+hsa04110	Cell cycle - Homo sapiens (human)	399	6	393	5	1	6	7	548	555	7.825e-01	0.02	0.01	1.2	Not_Sig
+hsa04510	Focal adhesion - Homo sapiens (human)	399	28	371	11	17	19	36	519	555	7.935e-01	0.07	0.06	1.1	Not_Sig
+168898	Toll Receptor Cascades	399	8	391	3	5	5	10	545	555	8.143e-01	0.02	0.02	1.1	Not_Sig
+168249	Innate Immunity Signaling	399	8	391	3	5	5	10	545	555	8.143e-01	0.02	0.02	1.1	Not_Sig
+hsa05219	Bladder cancer - Homo sapiens (human)	399	10	389	6	4	8	12	543	555	8.277e-01	0.03	0.02	1.2	Not_Sig
+hsa05040	Huntington's disease - Homo sapiens (human)	399	9	390	2	7	7	14	541	555	8.342e-01	0.02	0.03	0.9	Not_Sig
+hsa04650	Natural killer cell mediated cytotoxicity - Homo sapiens (human)	399	16	383	5	11	10	21	534	555	8.665e-01	0.04	0.04	1.1	Not_Sig
+168256	Signaling in Immune system	399	24	375	10	14	18	32	523	555	8.896e-01	0.06	0.06	1.0	Not_Sig
+hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	399	23	376	6	17	15	32	523	555	1.000e+00	0.06	0.06	1.0	Not_Sig
+hsa04310	Wnt signaling pathway - Homo sapiens (human)	399	11	388	3	8	7	15	540	555	1.000e+00	0.03	0.03	1.0	Not_Sig
+hsa04020	Calcium signaling pathway - Homo sapiens (human)	399	11	388	4	7	8	15	540	555	1.000e+00	0.03	0.03	1.0	Not_Sig
+hsa04150	mTOR signaling pathway - Homo sapiens (human)	399	10	389	3	7	7	14	541	555	1.000e+00	0.03	0.03	1.0	Not_Sig
+hsa05120	Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human)	399	10	389	1	9	5	14	541	555	1.000e+00	0.03	0.03	1.0	Not_Sig
+hsa04940	Type I diabetes mellitus - Homo sapiens (human)	399	10	389	1	9	4	13	542	555	1.000e+00	0.03	0.02	1.1	Not_Sig
+hsa05010	Alzheimer's disease - Homo sapiens (human)	399	10	389	1	9	6	15	540	555	1.000e+00	0.03	0.03	0.9	Not_Sig
+hsa04612	Antigen processing and presentation - Homo sapiens (human)	399	8	391	2	6	6	12	543	555	1.000e+00	0.02	0.02	0.9	Not_Sig
+hsa00590	Arachidonic acid metabolism - Homo sapiens (human)	399	7	392	2	5	6	11	544	555	1.000e+00	0.02	0.02	0.9	Not_Sig
+hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	399	7	392	2	5	4	9	546	555	1.000e+00	0.02	0.02	1.1	Not_Sig
+hsa04520	Adherens junction - Homo sapiens (human)	399	6	393	3	3	6	9	546	555	1.000e+00	0.02	0.02	0.9	Not_Sig
+73887	Death Receptor  Signalling	399	5	394	0	5	3	8	547	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+74159	Transcription	399	5	394	3	2	4	6	549	555	1.000e+00	0.01	0.01	1.2	Not_Sig
+hsa05050	Dentatorubropallidoluysian atrophy (DRPLA) - Homo sapiens (human)	399	5	394	0	5	1	6	549	555	1.000e+00	0.01	0.01	1.2	Not_Sig
+hsa04120	Ubiquitin mediated proteolysis - Homo sapiens (human)	399	5	394	2	3	4	7	548	555	1.000e+00	0.01	0.01	1.0	Not_Sig
+109607	Extrinsic Pathway for Apoptosis	399	5	394	0	5	3	8	547	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+163359	Glucagon signaling in metabolic regulation	399	4	395	1	3	2	5	550	555	1.000e+00	0.01	0.01	1.1	Not_Sig
+140534	Caspase-8 is formed from procaspase-8	399	4	395	0	4	2	6	549	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+hsa05130	Pathogenic Escherichia coli infection - EHEC - Homo sapiens (human)	399	4	395	2	2	4	6	549	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+hsa00330	Arginine and proline metabolism - Homo sapiens (human)	399	4	395	1	3	3	6	549	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+hsa05131	Pathogenic Escherichia coli infection - EPEC - Homo sapiens (human)	399	4	395	2	2	4	6	549	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+69416	Activation of Pro-Caspase 8	399	4	395	0	4	2	6	549	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+hsa00680	Methane metabolism - Homo sapiens (human)	399	3	396	1	2	2	4	551	555	1.000e+00	0.01	0.01	1.0	Not_Sig
+195399	VEGF binds to VEGFR leading to receptor dimerization	399	3	396	0	3	2	5	550	555	1.000e+00	0.01	0.01	0.8	Not_Sig
+194306	Neurophilin interactions with VEGF and VEGFR	399	3	396	0	3	2	5	550	555	1.000e+00	0.01	0.01	0.8	Not_Sig
+75071	mRNA Processing	399	3	396	2	1	3	4	551	555	1.000e+00	0.01	0.01	1.0	Not_Sig
+75893	TNF signaling	399	3	396	0	3	1	4	551	555	1.000e+00	0.01	0.01	1.0	Not_Sig
+196836	Vitamin C (ascorbate) metabolism	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+hsa00960	Alkaloid biosynthesis II - Homo sapiens (human)	399	2	397	0	2	1	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+163210	Formation of ATP by chemiosmotic coupling	399	2	397	0	2	1	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+111807	Reduction of nuclear ribonucleoside 5'-diphosphates to deoxyribonucleoside 5'-diphosphates by ribonucleotide reductase and thioredoxin	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+hsa00280	Valine, leucine and isoleucine degradation - Homo sapiens (human)	399	2	397	2	0	2	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+72163	mRNA Splicing - Major Pathway	399	2	397	1	1	2	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+hsa00910	Nitrogen metabolism - Homo sapiens (human)	399	2	397	0	2	1	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+111752	Reduction of cytosolic ribonucleoside 5'-diphosphates to deoxyribonucleoside 5'-diphosphates by ribonucleotide reductase and thioredoxin	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+73857	RNA Polymerase II Transcription	399	2	397	1	1	3	4	551	555	1.000e+00	0.01	0.01	0.7	Not_Sig
+187015	Activation of TRKA receptors	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+168254	Influenza Infection	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+hsa00100	Biosynthesis of steroids - Homo sapiens (human)	399	2	397	2	0	2	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+70171	Glycolysis	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+112295	Elongation and Processing of Capped Transcripts	399	2	397	1	1	3	4	551	555	1.000e+00	0.01	0.01	0.7	Not_Sig
+157212	A third proteolytic cleavage releases NICD	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+74219	dGTP formation	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+114696	Thrombin-activated activation cascade	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+76043	Elongation of Intron-Containing Transcripts and co-transcriptional mRNA splicing	399	2	397	1	1	3	4	551	555	1.000e+00	0.01	0.01	0.7	Not_Sig
+70268	Cori Cycle (interconversion of glucose and lactate)	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)	399	2	397	2	0	4	4	551	555	1.000e+00	0.01	0.01	0.7	Not_Sig
+75815	Ubiquitin-dependent degradation of Cyclin D	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+72187	mRNA 3'-end processing	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+112296	Post-Elongation Processing of Intron-Containing pre-mRNA	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+164952	The role of Nef in HIV-1 replication and disease pathogenesis	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+69229	Ubiquitin-dependent degradation of Cyclin D1	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+114665	G-protein cascades	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+202433	Generation of second messenger molecules	399	2	397	0	2	1	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+hsa00940	Phenylpropanoid biosynthesis - Homo sapiens (human)	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+168927	Viral dsRNA:TLR3:TRIF Complex Activates RIP1	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+hsa04140	Regulation of autophagy - Homo sapiens (human)	399	2	397	0	2	2	4	551	555	1.000e+00	0.01	0.01	0.7	Not_Sig
+192076	Steroid metabolism	399	2	397	1	1	2	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+112168	Processing of Capped pre-mRNA	399	2	397	1	1	2	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+70614	Aspartate, asparagine, glutamate, and glutamine metabolism	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+210990	PECAM1 interactions	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+198693	AKT phosphorylates targets in the nucleus	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+109688	Cleavage of Growing Transcript in the Termination Region 	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+hsa00071	Fatty acid metabolism - Homo sapiens (human)	399	2	397	2	0	2	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+76044	Post-Elongation Processing of the Transcript	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+111447	Activation of BAD and translocation to mitochondria 	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+73856	RNA Polymerase II Transcription Termination	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+72202	Transport of Mature Transcript to Cytoplasm	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+75158	TRAIL  signaling	399	2	397	0	2	2	4	551	555	1.000e+00	0.01	0.01	0.7	Not_Sig
+74230	dATP formation	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+hsa05217	Basal cell carcinoma - Homo sapiens (human)	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+111457	Release of apoptotic factors from the mitochondria	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+hsa05110	Cholera - Infection - Homo sapiens (human)	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+70895	Branched-chain amino acid catabolism	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+111804	Reduction of nuclear ribonucleoside 5'-diphosphates to deoxyribonucleoside 5'-diphosphates (thioredoxin)	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+72172	mRNA Splicing	399	2	397	1	1	2	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+hsa00640	Propanoate metabolism - Homo sapiens (human)	399	2	397	2	0	3	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+187024	NGF-independant TRKA activation	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+hsa04330	Notch signaling pathway - Homo sapiens (human)	399	2	397	0	2	2	4	551	555	1.000e+00	0.01	0.01	0.7	Not_Sig
+hsa00760	Nicotinate and nicotinamide metabolism - Homo sapiens (human)	399	2	397	1	1	1	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+167021	PLC-gamma1 signalling	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+73648	Pyrimidine biosynthesis (interconversion)	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+111751	Reduction of cytosolic ribonucleoside 5'-diphosphates to deoxyribonucleoside 5'-diphosphates (thioredoxin)	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+157118	Signaling by Notch	399	2	397	0	2	0	2	553	555	1.000e+00	0.01	0.00	1.4	Not_Sig
+72203	Processing of Capped Intron-Containing Pre-mRNA	399	2	397	1	1	2	3	552	555	1.000e+00	0.01	0.01	0.9	Not_Sig
+109970	Global Genomic NER (GG-NER)	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+hsa00550	Peptidoglycan biosynthesis - Homo sapiens (human)	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+166207	S6K1-mediated signalling	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+69610	p53-Independent DNA Damage Response	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+194068	Metabolism of bile acids and bile salts	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+140180	COX reactions	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+199920	CREB phosphorylation	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+202427	Phosphorylation of CD3 and TCR zeta chains	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+74744	SHC activation	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+114592	Collagen adhesion via alpha 2 beta 1 glycoprotein	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+202430	Translocation of ZAP-70 to Immunological synapse	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+hsa00450	Selenoamino acid metabolism - Homo sapiens (human)	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+hsa00310	Lysine degradation - Homo sapiens (human)	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+190370	FGFR1b ligand binding and activation	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+70108	Glyceraldehyde 3-phosphate, NAD+, and orthophosphate react to form 1,3-bisphosphoglycerate, NADH, and H+	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+hsa00053	Ascorbate and aldarate metabolism - Homo sapiens (human)	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+166208	mTORC1-mediated signalling	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+112297	Post-Elongation Processing of Intronless pre-mRNA	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+70263	Gluconeogenesis	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+75108	Activation, myristolyation of BID and translocation to mitochondria	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+72695	Formation of the ternary complex, and subsequently, the 43S complex	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+74257	Xanthine formation	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+187042	TRKA activation by NGF	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+164938	Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+114508	Phospholipase-mediated signalling	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+167826	The fatty acid cycling model	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+177504	Retrograde neurotrophin signalling	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+114516	Disinhibition of SNARE formation	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+159234	Transport of Mature mRNAs Derived from Intronless Transcripts	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+72165	mRNA Splicing - Minor Pathway	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+74713	IRS activation	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+140187	P450 Prostaglandin isomerizations	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+159231	Transport of Mature mRNA Derived from an Intronless Transcript	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+hsa00624	1- and 2-Methylnaphthalene degradation - Homo sapiens (human)	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+72702	Ribosomal scanning and start codon recognition	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+180534	Vpu mediated degradation of CD4	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+165159	mTOR signalling	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+167590	Nef Mediated CD4 Down-regulation	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+164944	Nef and signal transduction	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+hsa00471	D-Glutamine and D-glutamate metabolism - Homo sapiens (human)	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+166187	Mitochondrial Uncoupling Proteins	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+114664	G alpha 12 cascade	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+69601	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+70525	Alanine metabolism	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+69613	p53-Independent G1/S DNA damage checkpoint	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+114711	vWF interaction with collagen	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+hsa03022	Basal transcription factors - Homo sapiens (human)	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+69017	CDK-mediated phosphorylation and removal of Cdc6	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+190371	FGFR3b ligand binding and activation	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+72649	Translation initiation complex formation	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+114593	Collagen adhesion via Gp IV	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+hsa04742	Taste transduction - Homo sapiens (human)	399	1	398	1	0	2	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+68827	CDT1 association with the CDC6:ORC:origin complex	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+77595	Processing of Intronless Pre-mRNAs	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+hsa00130	Ubiquinone biosynthesis - Homo sapiens (human)	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+139910	Activation of BMF and translocation to mitochondria	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+112411	ERK2 activation	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+111446	Activation of BIM and translocation to mitochondria 	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+hsa00970	Aminoacyl-tRNA biosynthesis - Homo sapiens (human)	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+75877	Conversion of Fatty Acyl-CoA to Phosphatidic Acid	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+77387	Insulin receptor recycling	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+109703	PKB-mediated events	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+74259	Purine catabolism	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+70793	Leucine catabolism	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+73854	RNA Polymerase I Promoter Clearance	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+73937	Transcription-coupled NER (TC-NER)	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+191273	Cholesterol biosynthesis	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+165720	S6K1 signalling	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+75109	Triacylglyceride Biosynthesis	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+75892	Platelet Adhesion to exposed  collagen	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+159418	Recycling of bile acids and salts	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+190377	FGFR2b ligand binding and activation	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+73885	Nucleotide Excision Repair	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+114666	G alpha Q cascade	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+212718	EGFR interacts with phospholipase C-gamma	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+75067	Processing of Capped Intronless Pre-mRNA	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+191345	Transformation of lanosterol to cholesterol	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+139943	PLC-mediated hydrolysis	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+hsa00232	Caffeine metabolism - Homo sapiens (human)	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+167827	The proton buffering model	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+111453	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+198745	Signalling to STAT3	399	1	398	0	1	1	2	553	555	1.000e+00	0.00	0.00	0.7	Not_Sig
+69298	Association of licensing factors with the pre-replicative complex	399	1	398	0	1	0	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig
+73864	RNA Polymerase I Transcription	399	1	398	1	0	1	1	554	555	1.000e+00	0.00	0.00	1.4	Not_Sig

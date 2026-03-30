@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 3
+#BACKGROUNDONLY: 4
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	11506	SYP	6855	synaptophysin
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+
+BACKGROUNDONLY	10935	SLC18A2	6571	solute carrier family 18 (vesicular monoamine), member 2
+BACKGROUNDONLY	933	BACE1	23621	beta-site APP-cleaving enzyme 1
+BACKGROUNDONLY	9788	RAB7A	7879	RAB7A, member RAS oncogene family
+BACKGROUNDONLY	9035	PLA2G4A	5321	phospholipase A2, group IVA (cytosolic, calcium-dependent)

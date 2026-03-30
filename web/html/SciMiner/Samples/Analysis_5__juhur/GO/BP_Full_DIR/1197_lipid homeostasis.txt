@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 3
+
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	7897	NPC1	4864	Niemann-Pick disease, type C1
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	6547	LDLR	3949	low density lipoprotein receptor (familial hypercholesterolemia)
+BACKGROUNDONLY	1869	CETP	1071	cholesteryl ester transfer protein, plasma

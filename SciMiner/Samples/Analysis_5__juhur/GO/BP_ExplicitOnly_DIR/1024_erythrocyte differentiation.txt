@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	3415	EPO	2056	erythropoietin
+
+BACKGROUNDONLY	11556	TAL1	6886	T-cell acute lymphocytic leukemia 1

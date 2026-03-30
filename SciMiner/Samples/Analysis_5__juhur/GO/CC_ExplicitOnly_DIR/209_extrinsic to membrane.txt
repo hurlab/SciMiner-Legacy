@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 2
+TESTONLY	9655	PTPN3	5774	protein tyrosine phosphatase, non-receptor type 3
+
+
+BACKGROUNDONLY	2170	CNTFR	1271	ciliary neurotrophic factor receptor
+BACKGROUNDONLY	9449	PRNP	5621	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)

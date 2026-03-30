@@ -1,0 +1,229 @@
+  <head>
+			        <title>SciMiner Result Report Page</title>
+			        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+			        <link rel="stylesheet" href="mm_health_nutr.css" type="text/css" />
+			        <script language="JavaScript1.2" src="sciminer.js"></script>
+			        <style type="text/css"> body {	margin-left:10px;	}</style>
+			        </head>
+			        <body bgcolor="#EAF4F4" onload="switch_to_simple_mode_on_load()">
+			        <script language="JavaScript1.2" src="wz_tooltip.js"></script>
+			        <p class="pageName" align="center"> <b><a name="TOP"></a>SciMiner Result Report Page</b></p>
+			        <p class='titleBarName1'> <b>Congratulation! Your query with SciMiner has been successfully completed. Your query and search options were </b></p>
+
+			        <a id="flag1" href="#" onclick="showhide('div1','flag1', 'search option summary');" class="smallTextBold2">[ HIDE search option summary ]</a>
+					<div id="div1" style="display:inline">
+			
+			        <table border="1" width="850">
+			        <tr class="tableHeader1"><th width="150">&nbsp;Query ID #</th><td width="700">&nbsp;15</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;User name</th><td width="700">&nbsp;Junguk Hur</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;Email</th><td width="700">&nbsp;juhur@umich.edu</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;Query name</th><td width="700">&nbsp;ALS ROS</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;Query string</th><td width="700">&nbsp; </td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;PMID count #</th><td width="700">&nbsp;172</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;Score threshold</th><td width="700">&nbsp;0.1</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;Other</th><td width="700">&nbsp;Remove_phenotype_gene, Use_symbol_length_option, Always_accept_symbol_longer_than: 6</td></tr>
+</table><br>
+            	  </div>
+            	   <p align="center" class="sectionTitleName1">Summary</p>
+
+	<p class='titleBarName1'><b>SciMiner has analyzed (172) &nbsp;articles. </b>&nbsp;&nbsp;&nbsp;&nbsp;<a href="pmidList.html" onmouseover="Tip('Click here to view list of <b>document-based</b> summary result page')" onmouseout="UnTip()"><b>[Documents Summary]</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Query_15__juhur_list.txt" onmouseover="Tip('Click here to get the list of retrieved PMIDs.')" onmouseout="UnTip()">[PMIDs]</a><br>
+
+    	Here is the summary of identified targets. To view the final list of merged targets, click the number in the <b>Unique targets/Merged cell</b> or <b>Full result HTML</b> in the section below. If you are interested in the raw data files, they are available at the bottom of this page.</p>
+<table border="1" width="450"> <tr class='titleBarName1'>
+                <td width="150">&nbsp;</td>
+                <th width="300" colspan="3"><b>Identified Targets</b></th>
+            </tr>
+            <tr class='titleBarName1'>
+                <th width="150">&nbsp;</th>
+                <th width="100" onmouseover="Tip('Total number of the <b>original</b> SciMiner identification cases before applying any filters or score threshold. These are not clickable. <br>Check the bottom of this page for raw files.')" onmouseout="UnTip()">Before filtering</th>
+                <th width="100" onmouseover="Tip('Total number of the SciMiner identification cases <b>after</b> applying default and user customary IGNORE/INCLUDE/EXCLUDE filters. These are not clickable. <br>Check the bottom of this page for raw files.')" onmouseout="UnTip()">After filtering</th>
+                <th width="100" onmouseover="Tip('Total number of unique targets (based on HUGO), a summary of after filtering result.')" onmouseout="UnTip()">Unique targets</th>
+            </tr>
+            <tr class='titleBarName1'>
+                <th width="150" onmouseover="Tip('SciMiner target recognition system uses two different approaches; <br>one based on single word acronyms (symbols) and another based on longer description (gene/protein names). <br> This row is the result by <b>Symbol</b> based approach.')" onmouseout="UnTip()">Symbol-based mining</th>
+                <td width="100">&nbsp;7995</td>
+                <td width="100">&nbsp;4754</td>
+                <td width="100">&nbsp;265</td>
+            </tr>
+            <tr class='titleBarName1'>
+                <th width="150" onmouseover="Tip('SciMiner target recognition system uses two different approaches; <br>one based on single word acronyms (symbols) and another based on longer description (gene/protein names). <br> This row is the result by <b>Name</b> based approach.')" onmouseout="UnTip()">Name-based mining</th>
+                <td width="100">&nbsp;1918</td>
+                <td width="100">&nbsp;1715</td>
+                <td width="100">&nbsp;227</td>
+            </tr>
+            <tr class='titleBarName1'>
+                <th width="150" onmouseover="Tip('<b>Merged or Total</b>: SciMiner target recognition system uses two different approaches; <br>one based on single word acronyms (symbols) and another based on longer description (gene/protein names). <br> This row is the summed or merged results of symbol- and name-based methods. <b>Merged row and Unique targets column</b> is the final SciMiner-generated summary of users corpus.')" onmouseout="UnTip()">Merged</th>
+                <td width="100">&nbsp;9913</td>
+                <td width="100">&nbsp;6469</td>
+                <td width="100" onmouseover="Tip('Click here to view the summary of the all identified targets after filtering. <br>This is identical to the Full result HTML below.')" onmouseout="UnTip()">&nbsp;<a href="geneSummary.html"><b>399 (detail)</b></a></td>
+            </tr>
+        </table>
+        <br><br>
+          <a name="top10gene"></a>
+    				<hr>
+    			
+                    <p align="center" class="sectionTitleName2" onmouseover="Tip('Click here to view the summary of the all identified targets after filtering. <br>This is identical to the Full result HTML below.')" onmouseout="UnTip()">Top 10 most frequent targets ... <a href="geneSummary.html">(All 399 genes)</a></p>
+               		<p class='titleBarName1'>Here are the top 10 most frequently found targets from your query. They are sorted primarily by the number of paper and then by the number of occurrence.</p>     <a id="flag2" href="#top10gene" onclick="showhide('div2','flag2', 'Top 10 most frequent targets');" class="smallTextBold2">[ HIDE Top 10 most frequent targets ]</a>
+					<div id="div2" style="display:inline">
+                    <table border="1" width="800">
+                        <tr class='titleBarName1'>
+                            <th width="45">
+                                Rank
+                            </th>
+                            <th width="55" onmouseover="Tip('These are HUGO IDs. Click each ID to view the <b>HUGO detail</b>.')" onmouseout="UnTip()">
+                                HUGO
+                            </th>
+                            <th width="80" onmouseover="Tip('These are HUGO approved official symbols. Click each symbol to view the NCBI Entrez Gene record.')" onmouseout="UnTip()">
+                                Symbol
+                            </th>
+                            <th width="460" onmouseover="Tip('These are HUGO approved official gene names.')" onmouseout="UnTip()">
+                                Target Name
+                            </th>
+                            <th width="60" onmouseover="Tip('<b>#Occur</b>: These are the numbers of <b>identification</b> from the entire corpus.')" onmouseout="UnTip()">
+                                #Occur
+                            </th>
+                            <th width="60" onmouseover="Tip('<b>#Paper</b>: These are the numbers of <b>papers</b>.')" onmouseout="UnTip()">
+                                #Paper
+                            </th>
+                            <th width="40" onmouseover="Tip('<b>MiMI</b>: This will bring up Cytoscape program and visualize protein-protein interaction network of the target.<br> Protein-Protein Interaction data is based on the MiMI (Michigan Molecular Interactions).<br> This network retrieval employes the Cytoscape MiMI plugin.')" onmouseout="UnTip()">
+                                MiMI
+                            </th>
+                        </tr>
+<tr><td>1</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=11179" onmouseover="Tip('Click each ID to view the details of <b>SOD1</b> at HGNC.')" onmouseout="UnTip()">11179</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=6647" onmouseover="Tip('Click each ID to view the details of <b>SOD1</b> at Entrez Gene database.')" onmouseout="UnTip()">SOD1</a></td><td>superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))</td><td>1982</td><td>91</td><td onmouseover="Tip('Click here to view the network of <b>SOD1</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=6647"><img src="Images/cytoicon.jpg"></a></td></tr><tr><td>2</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=1516" onmouseover="Tip('Click each ID to view the details of <b>CAT</b> at HGNC.')" onmouseout="UnTip()">1516</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=847" onmouseover="Tip('Click each ID to view the details of <b>CAT</b> at Entrez Gene database.')" onmouseout="UnTip()">CAT</a></td><td>catalase</td><td>82</td><td>30</td><td onmouseover="Tip('Click here to view the network of <b>CAT</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=847"><img src="Images/cytoicon.jpg"></a></td></tr><tr><td>3</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=620" onmouseover="Tip('Click each ID to view the details of <b>APP</b> at HGNC.')" onmouseout="UnTip()">620</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=351" onmouseover="Tip('Click each ID to view the details of <b>APP</b> at Entrez Gene database.')" onmouseout="UnTip()">APP</a></td><td>amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)</td><td>99</td><td>22</td><td onmouseover="Tip('Click here to view the network of <b>APP</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=351"><img src="Images/cytoicon.jpg"></a></td></tr><tr><td>4</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=19986" onmouseover="Tip('Click each ID to view the details of <b>CYCS</b> at HGNC.')" onmouseout="UnTip()">19986</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=54205" onmouseover="Tip('Click each ID to view the details of <b>CYCS</b> at Entrez Gene database.')" onmouseout="UnTip()">CYCS</a></td><td>cytochrome c, somatic</td><td>131</td><td>20</td><td onmouseover="Tip('Click here to view the network of <b>CYCS</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=54205"><img src="Images/cytoicon.jpg"></a></td></tr><tr><td>5</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=7873" onmouseover="Tip('Click each ID to view the details of <b>NOS2A</b> at HGNC.')" onmouseout="UnTip()">7873</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=4843" onmouseover="Tip('Click each ID to view the details of <b>NOS2A</b> at Entrez Gene database.')" onmouseout="UnTip()">NOS2A</a></td><td>nitric oxide synthase 2A (inducible, hepatocytes)</td><td>68</td><td>20</td><td onmouseover="Tip('Click here to view the network of <b>NOS2A</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=4843"><img src="Images/cytoicon.jpg"></a></td></tr><tr><td>6</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=11180" onmouseover="Tip('Click each ID to view the details of <b>SOD2</b> at HGNC.')" onmouseout="UnTip()">11180</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=6648" onmouseover="Tip('Click each ID to view the details of <b>SOD2</b> at Entrez Gene database.')" onmouseout="UnTip()">SOD2</a></td><td>superoxide dismutase 2, mitochondrial</td><td>100</td><td>19</td><td onmouseover="Tip('Click here to view the network of <b>SOD2</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=6648"><img src="Images/cytoicon.jpg"></a></td></tr><tr><td>7</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=990" onmouseover="Tip('Click each ID to view the details of <b>BCL2</b> at HGNC.')" onmouseout="UnTip()">990</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=596" onmouseover="Tip('Click each ID to view the details of <b>BCL2</b> at Entrez Gene database.')" onmouseout="UnTip()">BCL2</a></td><td>B-cell CLL/lymphoma 2</td><td>139</td><td>16</td><td onmouseover="Tip('Click here to view the network of <b>BCL2</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=596"><img src="Images/cytoicon.jpg"></a></td></tr><tr><td>8</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=31395" onmouseover="Tip('Click each ID to view the details of <b>COX8B</b> at HGNC.')" onmouseout="UnTip()">31395</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=404544" onmouseover="Tip('Click each ID to view the details of <b>COX8B</b> at Entrez Gene database.')" onmouseout="UnTip()">COX8B</a></td><td>cytochrome c oxidase, subunit 8B pseudogene</td><td>22</td><td>13</td><td onmouseover="Tip('Click here to view the network of <b>COX8B</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=404544"><img src="Images/cytoicon.jpg"></a></td></tr><tr><td>9</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=7872" onmouseover="Tip('Click each ID to view the details of <b>NOS1</b> at HGNC.')" onmouseout="UnTip()">7872</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=4842" onmouseover="Tip('Click each ID to view the details of <b>NOS1</b> at Entrez Gene database.')" onmouseout="UnTip()">NOS1</a></td><td>nitric oxide synthase 1 (neuronal)</td><td>130</td><td>12</td><td onmouseover="Tip('Click here to view the network of <b>NOS1</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=4842"><img src="Images/cytoicon.jpg"></a></td></tr><tr><td>10</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=1504" onmouseover="Tip('Click each ID to view the details of <b>CASP3</b> at HGNC.')" onmouseout="UnTip()">1504</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=836" onmouseover="Tip('Click each ID to view the details of <b>CASP3</b> at Entrez Gene database.')" onmouseout="UnTip()">CASP3</a></td><td>caspase 3, apoptosis-related cysteine peptidase</td><td>72</td><td>11</td><td onmouseover="Tip('Click here to view the network of <b>CASP3</b> and its interacting partners.')" onmouseout="UnTip()"><a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=836"><img src="Images/cytoicon.jpg"></a></td></tr></table><p class="titleBarName1">Full result (<a href="geneSummary.html">HTML</a>,&nbsp;&nbsp;
+				  <a href="SciMinerBase.MerSum.sorted.txt">TXT</a>,&nbsp;&nbsp;
+                  <a href="SciMinerBase.MerSum.sorted.xls">EXCEL)</a></p><p>&nbsp;</p>
+                  
+                  <a name="viewNetwork"></a>
+                  </div>
+    			  <p>&nbsp;</p><hr>
+    			  
+				  <form action='../../generateNetwork.cgi' method='POST' ENCTYPE='multipart/form-data'>
+                  <p align="center" class="sectionTitleName2">View the interaction network (MiMI data)</p>
+                  <p class="titleBarName1">You can create an interaction network of the targets found above. Interaction data is based on the MiMI (Michigan Molecular Interactions) database. The network will be visualized by Cytoscape with the support of MiMI plugin.</p>
+                  <select name="MinPaperMethod" size="1"  onmouseover="Tip('Only identified targets satisfying the following criteria will be used.<br><br><b>Minimum # Paper</b>: Minimum number of papers per target<br>&nbsp;&nbsp;eg) Any target identified from 1 or 2 papers will be excluded <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when the threshold is set to 3<br><b>Minimum % Paper</b>: Minimum percentage of papers per target<br><b>Top # Target</b>: Only the top # ranked targets<br><b>Top % Target</b>: Only the top % percentage ranked targets')" onmouseout="UnTip()">
+				        <option selected value="MinPaperCount">Minimum # Paper</option>
+				        <option value="MinPaperPercentage">Minimum % Paper</option>
+				        <option value="TopPaperCount">Top # Paper</option>
+				        <option value="TopPaperPercentage">Top % Paper</option>
+				  </select>
+
+				  <input type="text" name="MinTopPaper" size="3" value="1" style="text-align: right">
+				  <input type="hidden" name="RelPath" value="Query_15__juhur/">
+				  <input type="hidden" name="MerSumFileName" value="SciMinerBase.MerSum.sorted.txt">
+				  <input type="hidden" name="RandomNumber" value="278580297">
+				  <input type="hidden" name="TotalPMID" value="172">&nbsp;&nbsp;&nbsp;
+				  <a href="javascript:network_generate_open_window();" onmouseover="Tip('Click here to view the protein-protein interaction networks of the identified targets. <br>The visualization is done in the <b>Cytoscape</b> with the help of the <b>MiMI plugin</b>. <br>Note that the interaction network is based on <b>Homo sapiens</b>. <br>If you want to see the network of same target from different species, <br>change the species column in the MiMI plugin of the Cytoscape')" onmouseout="UnTip()"><b>Generate_Network</b></a>&nbsp;&nbsp;&nbsp;
+				  <a href="javascript:download_symbols_open_window();" onmouseover="Tip('Click here to view the identified unique targets in symbols. <br>This can be further used in other application like DAVID (The Database for Annotation, Visualization and Integrated Discovery) or GSEA (Gene Set Enrichment Analysis) tools.')" onmouseout="UnTip()"><b>Download Symbols</b></a>
+                  </form>
+                          <p>&nbsp;</p>
+        				<hr>
+			            <p align="center" class="sectionTitleName2">Top 10 most enriched <b>MeSH terms</b> (sorted by p-value)</p>
+			            <p class="titleBarName1">Here are the MeSH terms that are highly enriched in your query(corpus) when compared to all other PubMed documents. The comparison was done by Fishers Exact test. The default significance level is <b>0.05</b> and any p-value smaller than <b>0.05</b> is shown in <font color='red'>red</font>. Use the EXCEL file below to sort by enrichment fold (t-ratio / b-ratio).</p>
+			            <a id="flag3" href="#flag3" onclick="showhide('div3','flag3', 'Top 10 most enriched MeSH terms');" class="smallTextBold2">[ HIDE Top 10 most enriched MeSH terms ]</a>
+						<div id="div3" style="display:inline">
+						<table border="0"  id="top10MeSHStatus">
+							<tr class='titleBarName1'>
+								<th width='100' onmouseover="Tip('This is the number of paper in your corpus.')" onmouseout="UnTip()">
+									Corpus size
+								</th>
+								<td width='60' onmouseover="Tip('This is the number of paper in your corpus.')" onmouseout="UnTip()">
+									172
+								</td>
+								<th width='100' onmouseover="Tip('This is the number of papers in the PubMed. <br> This may not represent the real number of the current PubMed database.')" onmouseout="UnTip()">
+									Background(MedLine)
+								</th>
+								<td width='60' onmouseover="Tip('This is the number of papers in the PubMed. <br> This may not represent the real number of the current PubMed database.')" onmouseout="UnTip()">
+									17760657
+								</td>
+								<th width='300' style='text-align= right;'>
+									<a style="background-color:#F5CCF4;" id='meshTableSwitch' onclick="javascript:show_hide_column('top10MeSHTableShort','3_4_5_8');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+								</th>
+							</tr>
+						</table>
+
+                        <table border="1" id="top10MeSHTableShort">
+                            <tr class='titleBarName1'>
+                                <th width="40">
+                                    Rank
+                                </th>
+                                <th width="300" onmouseover="Tip('Click each term to view the <b>MeSH term detail</b>.')" onmouseout="UnTip()">
+                                    MeSH Term
+                                </th>
+                                <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of papers <b>with</b> the selected MeSH term in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                    t+
+                                </th>
+                                <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of papers <b>without</b> the selected MeSH term in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                    t-
+                                </th>
+                                <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of papers <b>with</b> the selected MeSH term in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                    b+
+                                </th>
+                                <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of papers <b>without</b> the selected MeSH term in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                    b-
+                                </th>
+                                <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+                                    p-value
+                                </th>
+                                <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+                                    t-ratio
+                                </th>
+                                <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+                                    b-ratio
+                                </th>
+                                <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                            </tr><tr><td width="40">1</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Reactive Oxygen Species">Reactive Oxygen Species</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('104','t_plus','2','Query_15__juhur','Query_15__juhur','9541');">104</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('68','t_minus','3','Query_15__juhur','Query_15__juhur','9541');">68</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Reactive Oxygen Species[Mesh:NoExp]');">24199</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Reactive Oxygen Species[Mesh:NoExp]');">17736458</a></td><td width="70"><font color='RED'>8.93e-250</font></td><td width="50">0.60</td><td width="50">0.00</td><td bgcolor="#FA6161">443.8</td></tr>
+<tr><td width="40">2</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Amyotrophic Lateral Sclerosis">Amyotrophic Lateral Sclerosis</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('89','t_plus','2','Query_15__juhur','Query_15__juhur','7378');">89</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('83','t_minus','3','Query_15__juhur','Query_15__juhur','7378');">83</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Amyotrophic Lateral Sclerosis[Mesh:NoExp]');">8337</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Amyotrophic Lateral Sclerosis[Mesh:NoExp]');">17752320</a></td><td width="70"><font color='RED'>2.98e-246</font></td><td width="50">0.52</td><td width="50">0.00</td><td bgcolor="#FA6161">1102.3</td></tr>
+<tr><td width="40">3</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Superoxide Dismutase">Superoxide Dismutase</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('69','t_plus','2','Query_15__juhur','Query_15__juhur','14064');">69</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('103','t_minus','3','Query_15__juhur','Query_15__juhur','14064');">103</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Superoxide Dismutase[Mesh:NoExp]');">26196</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Superoxide Dismutase[Mesh:NoExp]');">17734461</a></td><td width="70"><font color='RED'>5.25e-147</font></td><td width="50">0.40</td><td width="50">0.00</td><td bgcolor="#FA6161">272.0</td></tr>
+<tr><td width="40">4</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Oxidative Stress">Oxidative Stress</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('59','t_plus','2','Query_15__juhur','Query_15__juhur','21769');">59</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('113','t_minus','3','Query_15__juhur','Query_15__juhur','21769');">113</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Oxidative Stress[Mesh:NoExp]');">36507</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Oxidative Stress[Mesh:NoExp]');">17724150</a></td><td width="70"><font color='RED'>1.67e-112</font></td><td width="50">0.34</td><td width="50">0.00</td><td bgcolor="#FA6161">166.9</td></tr>
+<tr><td width="40">5</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Neurodegenerative Diseases">Neurodegenerative Diseases</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('32','t_plus','2','Query_15__juhur','Query_15__juhur','7456');">32</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('140','t_minus','3','Query_15__juhur','Query_15__juhur','7456');">140</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Neurodegenerative Diseases[Mesh:NoExp]');">5168</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Neurodegenerative Diseases[Mesh:NoExp]');">17755489</a></td><td width="70"><font color='RED'>4.47e-79</font></td><td width="50">0.19</td><td width="50">0.00</td><td bgcolor="#FA6161">639.4</td></tr>
+<tr><td width="40">6</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Motor Neurons">Motor Neurons</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('40','t_plus','2','Query_15__juhur','Query_15__juhur','796');">40</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('132','t_minus','3','Query_15__juhur','Query_15__juhur','796');">132</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Motor Neurons[Mesh:NoExp]');">29190</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Motor Neurons[Mesh:NoExp]');">17731467</a></td><td width="70"><font color='RED'>8.32e-73</font></td><td width="50">0.23</td><td width="50">0.00</td><td bgcolor="#FA6161">141.5</td></tr>
+<tr><td width="40">7</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Mitochondria">Mitochondria</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('33','t_plus','2','Query_15__juhur','Query_15__juhur','1249');">33</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('139','t_minus','3','Query_15__juhur','Query_15__juhur','1249');">139</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Mitochondria[Mesh:NoExp]');">67391</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Mitochondria[Mesh:NoExp]');">17693266</a></td><td width="70"><font color='RED'>2.00e-45</font></td><td width="50">0.19</td><td width="50">0.00</td><td bgcolor="#FA6161">50.6</td></tr>
+<tr><td width="40">8</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Spinal Cord">Spinal Cord</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('27','t_plus','2','Query_15__juhur','Query_15__juhur','718');">27</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('145','t_minus','3','Query_15__juhur','Query_15__juhur','718');">145</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Spinal Cord[Mesh:NoExp]');">59022</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Spinal Cord[Mesh:NoExp]');">17701635</a></td><td width="70"><font color='RED'>1.86e-36</font></td><td width="50">0.16</td><td width="50">0.00</td><td bgcolor="#FA6161">47.2</td></tr>
+<tr><td width="40">9</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Antioxidants">Antioxidants</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('24','t_plus','2','Query_15__juhur','Query_15__juhur','17498');">24</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('148','t_minus','3','Query_15__juhur','Query_15__juhur','17498');">148</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Antioxidants[Mesh:NoExp]');">44005</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Antioxidants[Mesh:NoExp]');">17716652</a></td><td width="70"><font color='RED'>2.73e-34</font></td><td width="50">0.14</td><td width="50">0.00</td><td bgcolor="#FA6161">56.3</td></tr>
+<tr><td width="40">10</td><td width="330"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Cell Death">Cell Death</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('19','t_plus','2','Query_15__juhur','Query_15__juhur','21374');">19</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html_simplified('153','t_minus','3','Query_15__juhur','Query_15__juhur','21374');">153</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Cell Death[Mesh:NoExp]');">20335</a></td><td width="50"><a href="javascript:openNewWindow('http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=All[Filter] NOT Cell Death[Mesh:NoExp]');">17740322</a></td><td width="70"><font color='RED'>9.78e-32</font></td><td width="50">0.11</td><td width="50">0.00</td><td bgcolor="#FA6161">96.5</td></tr>
+</table><p class="titleBarName1">Full result (<a href="MeSHCodeDistribution.html">HTML</a>,&nbsp;&nbsp;
+        						   <a href="MeSHCodeDistribution.txt">TXT</a>,&nbsp;&nbsp;
+                                   <a href="MeSHCodeDistribution.xls">EXCEL)</a></p>
+                      </div>
+            <p>&nbsp;</p>
+            <hr>
+            <p align ="center" class="sectionTitleName2">Result files</p> 
+            <p class="titleBarName1">Here are the raw result files of SciMiner mining. If you are interested in seeing all the individual identification results, these files are useful to you. These files can also be useful in your generating customary filters. For example, check the <b>Filtered out</b> results, to see any targets you are quite certain that should be included in the result. Put such targets into your <b>INCLUDE</b> filter list and run the same query again. <br><br>These files are usually large and we recommend you save these files and  load them in a text editor or in EXCEL. Check <a href="../../Files/SciMinerResultFileFormat.html"><b>File Format</b></a> of these files.<br>
+            
+            <table width="550" border="1">
+		        <tr class='titleBarName1'>
+		            <th width="150">&nbsp;</th>
+		            <th width="100" onmouseover="Tip('The <b>original</b> SciMiner identification result <b>before</b> applying any filters and score threshold.')" onmouseout="UnTip()">Before filtering</th>
+		            <th width="100" onmouseover="Tip('The SciMiner identification result <b>after</b> applying any filters and score threshold.')" onmouseout="UnTip()">After filtering</th>
+		            <th width="100" onmouseover="Tip('The SciMiner identification result <b>after</b> that were <b>removed</b> by filters and score threshold.')" onmouseout="UnTip()">Filtered out</th>
+		            <th width="100" onmouseover="Tip('Target based summary after applying any filters and score threshold.')" onmouseout="UnTip()">Unique targets</th>
+		        </tr>
+		        <tr class='titleBarName1'>
+		            <th width="150" onmouseover="Tip('SciMiner target recognition system uses two different approaches; <br>one based on single word acronyms (symbols) and another based on longer description (gene/protein names). <br> This row is the result by <b>Symbol</b> based approach.')" onmouseout="UnTip()">Symbol-based mining</th>
+		            <td width="100"><a href="SciMinerBase.Symbol.txt">2MB</a></td>
+		            <td width="100"><a href="SciMinerBase.Symbol.Remain.txt">1MB</a></td>
+		            <td width="100"><a href="SciMinerBase.Symbol.Optout.txt">953KB</a></td>
+		            <td width="100"><a href="SciMinerBase.Symbol.Summary.txt">24KB</a></td>
+		        </tr>
+		        <tr class='titleBarName1'>
+		            <th width="150" onmouseover="Tip('SciMiner target recognition system uses two different approaches; <br>one based on single word acronyms (symbols) and another based on longer description (gene/protein names). <br> This row is the result by <b>Name</b> based approach.')" onmouseout="UnTip()">Name-based mining</th>
+		            <td width="100"><a href="SciMinerBase.Name.txt">584KB</a></td>
+		            <td width="100"><a href="SciMinerBase.Name.Remain.txt">523KB</a></td>
+		            <td width="100"><a href="SciMinerBase.Name.Optout.txt">61KB</a></td>
+		            <td width="100"><a href="SciMinerBase.Name.Summary.txt">23KB</a></td>
+		        </tr>
+		        <tr class='titleBarName1'>
+		            <th width="150" onmouseover="Tip('<b>Merged or Total</b>: SciMiner target recognition system uses two different approaches; <br>one based on single word acronyms (symbols) and another based on longer description (gene/protein names). <br> This row is the summed or merged results of symbol- and name-based methods. <b>Merged row and Unique targets column</b> is the final SciMiner-generated summary of users corpus.')" onmouseout="UnTip()">Merged</th>
+		            <td width="100"><a href="SciMinerBase.Both.txt">2MB</a></td>
+		            <td width="100"><a href="SciMinerBase.Both.Remain.txt">1MB</a></td>
+		            <td width="100"><a href="SciMinerBase.Both.Optout.txt">40KB</a></td>
+		            <td width="100"><a href="SciMinerBase.MerSum.sorted.txt">40KB</a></td>
+		        </tr>
+        	</table>
+        
+            <p>&nbsp;</p>
+            <p><a href="../../main2.html">SciMiner Homepage</a></p>
+            </body>
+            </html>

@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 3
+
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+
+BACKGROUNDONLY	8893	PGF	5228	placental growth factor
+BACKGROUNDONLY	5270	DNAJB1	3337	DnaJ (Hsp40) homolog, subfamily B, member 1
+BACKGROUNDONLY	2681	DAXX	1616	death-associated protein 6

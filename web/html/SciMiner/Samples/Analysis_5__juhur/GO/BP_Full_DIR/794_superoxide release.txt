@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 6
+#BACKGROUNDONLY: 0
+
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	7891	NOX4	50507	NADPH oxidase 4
+COMMON	3062	DUOX1	53905	dual oxidase 1
+COMMON	429	ALOX12	239	arachidonate 12-lipoxygenase
+COMMON	7889	NOX1	27035	NADPH oxidase 1
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+

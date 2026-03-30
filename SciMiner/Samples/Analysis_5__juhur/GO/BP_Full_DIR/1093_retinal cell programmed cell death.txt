@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 1
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	11936	FASLG	356	Fas ligand (TNF superfamily, member 6)
+COMMON	1033	BDNF	627	brain-derived neurotrophic factor
+
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)

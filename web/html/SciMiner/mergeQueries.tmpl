@@ -1,0 +1,103 @@
+<head>
+<title>SciMiner CGI</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script language="JavaScript1.2" src="sciminer.js"></script>
+<link rel="stylesheet" href="mm_health_nutr.css" type="text/css" />
+<style type="text/css">
+body {
+	margin-left:10px;
+	}
+	
+</style>
+</head>
+<body bgcolor="#EAF4F4">
+<script type="text/javascript" src="wz_tooltip.js"></script>
+<p align="center" class="pageName"><b><U>SciMiner Query Result Merger</U></b></p>
+
+    <p class="titleBarName1">(<b>Introduction</b>): <b>SciMiner Query Result Merger</b> allows users to merge <b>multiple</b> query results into a <b>single</b> query result. If users had to split their query corpus due to paper limit per query, this merger can be used to integrate them into a single result set. You may also merge SciMiner query result and NCBI Gene2PubMed(GeneRIF) result to supplement the SciMiner's text mining result.<br>&nbsp;&nbsp;&nbsp;1) Click &quot;Retrieve Completed Query&quot; to view available results<br>&nbsp;&nbsp;&nbsp;2) Select queries to be merged<br>&nbsp;&nbsp;&nbsp;3) Name your merged query and click &quot;Start Merge&quot;<br>&nbsp;&nbsp;&nbsp;4) Once merging is completed, user &quot;Completed&quot; menu to view the merged result </p>
+
+<form name="form2" action="mergeQueries.cgi" method="POST" enctype="multipart/form-data">
+    
+    <p class="titleBarName1">(<b>Section_1</b>) Search your SciMiner mining results by<br>
+&nbsp;&nbsp;Query name : <INPUT TYPE='text' NAME='keyword' size="30" onmouseover="Tip('Give a name to your merged query to distinguish this from other queries. <br> ex) Merged - ALS SciMiner and Gene2PubMed 11-05-2008')" onmouseout="UnTip()"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <INPUT TYPE="HIDDEN" NAME="email" VALUE="<TMPL_VAR NAME="EMAIL">">
+  <input type='submit' name="RetrieveCompletedQuery" value="Retrieve Completed Query"> 
+  </p>
+  
+<!-- </form>  -->
+
+	<p class="titleBarName1">(<b>Section_2</b>) Here are the list of your previous SciMiner results. (completed only)</p>
+
+<table border="1">
+    <tr class="tableHeader1">
+		<th width="50" onmouseover="Tip('<b>Selected</b>: Check the queries to be merged')" onmouseout="UnTip()">
+			Selected
+		</th>
+		<th width="70" onmouseover="Tip('<b>Query Num</b>: A unique ID for each query')" onmouseout="UnTip()">
+				    Query Num
+		</th>
+		<th width="40" onmouseover="Tip('<b>Query Mode</b>: Differnet mode of SciMiner<br><img src=&quot;Images/SCI.jpg&quot;>: Default SciMiner text mining mode<br><img src=&quot;Images/G2P.jpg&quot;>: NCBI Gene2PubMed mode<br><img src=&quot;Images/GR.jpg&quot;>: NCBI GeneRIF mode<br><img src=&quot;Images/MQ.jpg&quot;>: Merged queries mode')" onmouseout="UnTip()">
+		    Mode
+		</th>
+		<th width="300" onmouseover="Tip('<b>Query Name</b>: The name given by user at the time of submission')" onmouseout="UnTip()">
+		    Name
+		</th>
+		<th width="80" onmouseover="Tip('<b>Date</b>: The data on which the query was submitted')" onmouseout="UnTip()">
+		    Date
+		</th>
+		<th width="60" onmouseover="Tip('<b>PMIDs</b>: Total number of PMIDs in the query')" onmouseout="UnTip()">
+		    PMIDs
+		</th>
+		<th width="60" onmouseover="Tip('<b>Targets</b>: Total number of targets identified by SciMiner')" onmouseout="UnTip()">
+		    Targets
+		</th>
+		<th width="30" onmouseover="Tip('<b>Link</b>: The SciMiner result page for this query')" onmouseout="UnTip()">
+		    Link
+		</th>
+		<th width="30" onmouseover="Tip('<b>Del</b>: Delete the query')" onmouseout="UnTip()">
+		    Del
+		</th>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>        
+    </tr>
+</table>
+
+    
+<br>
+
+<table border="1">
+	<tr>
+		<td width="450"  class="tableHeader1">
+			Enter the name for the merged query rsults
+		</td>	
+		<td width="200">
+			<input type="text" name="mergedName" size="32" value="" style="text-align: right">
+		</td>
+	</tr>
+	
+	<tr>
+		<td width="450"  class="tableHeader1">
+			Enter a new confidence score threshold<br>
+			>=0.1: minimum default, >=0.3: moderate confidence, >=0.6: high confidence<br>
+			<a onclick="openNewWindow('Files/ConfidenceScoreHelp.html');" onmouseover="Tip('Click here to view more help on score threshold.')" onmouseout="UnTip()"><b><u>more on scores</u></b></a>
+		</td>	
+		<td width="200">
+			<input type="text" name="threshold" size="32" value="0.1" style="text-align: right">
+		</td>
+	</tr>
+</table>    
+
+<INPUT TYPE="HIDDEN" NAME="email" VALUE="param(email)">
+</form>
+<p>&nbsp;</p>
+</body>
+</html>

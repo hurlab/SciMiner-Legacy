@@ -1,0 +1,32 @@
+<head>
+<title>SciMiner CGI</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="mm_health_nutr.css" type="text/css" />
+<style type="text/css">
+body {
+	margin-left:10px;
+	}
+</style>
+</head>
+<body bgcolor="#EAF4F4">
+<script type="text/javascript" src="wz_tooltip.js"></script>
+<p align="center" class="pageName"><b><U>SciMiner Completed Query/Analysis Results</U></b></p>
+
+<form name="form2" action="completed.cgi" method="POST" enctype="multipart/form-data">
+    <p class="titleBarName1">(<b>Section_1</b>) Search your SciMiner mining and analysis results by<br>
+&nbsp;&nbsp;Query name : <INPUT TYPE='text' NAME='keyword' size="30" onmouseover="Tip('Limit your search by partial query name')" onmouseout="UnTip()"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br>
+  <INPUT TYPE="HIDDEN" NAME="email" VALUE="<TMPL_VAR NAME="EMAIL">">
+  <input type='submit' name="RetrieveCompletedQuery" value="Retrieve Completed Query" onmouseover="Tip('Click to retrieve completed SciMiner search queries')" onmouseout="UnTip()"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <input type='submit' name="RetrieveCompletedAnalysis" value="Retrieve Completed Analysis" onmouseover="Tip('Click to retrieve completed post-mining analyses')" onmouseout="UnTip()"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <INPUT TYPE="RESET">
+  </p>
+</form>
+<!-- </form>  -->
+<p class="titleBarName1">(<b>Section_2</b>) Here are the list of your previous SciMiner query/analysis results. (completed only)
+</p>
+<p>&nbsp;</p>
+</body>
+</html>

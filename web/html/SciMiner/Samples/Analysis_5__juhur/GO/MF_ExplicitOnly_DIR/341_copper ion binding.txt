@@ -1,0 +1,20 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 7
+#BACKGROUNDONLY: 5
+TESTONLY	11181	SOD3	6649	superoxide dismutase 3, extracellular
+TESTONLY	12442	TYR	7299	tyrosinase (oculocutaneous albinism IA)
+
+COMMON	2295	CP	1356	ceruloplasmin (ferroxidase)
+COMMON	620	APP	351	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)
+COMMON	80	ABP1	26	amiloride binding protein 1 (amine oxidase (copper-containing))
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+COMMON	399	ALB	213	albumin
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase
+BACKGROUNDONLY	9449	PRNP	5621	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)

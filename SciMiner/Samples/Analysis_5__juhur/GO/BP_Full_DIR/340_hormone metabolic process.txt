@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 6
+#BACKGROUNDONLY: 3
+TESTONLY	412	ALDH9A1	223	aldehyde dehydrogenase 9 family, member A1
+TESTONLY	12405	TTR	7276	transthyretin (prealbumin, amyloidosis type I)
+TESTONLY	12008	TPH1	7166	tryptophan hydroxylase 1 (tryptophan 5-monooxygenase)
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+
+COMMON	333	AGT	183	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+COMMON	4141	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+COMMON	2355	CRH	1392	corticotropin releasing hormone
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	3062	DUOX1	53905	dual oxidase 1
+
+BACKGROUNDONLY	5993	IL1R1	3554	interleukin 1 receptor, type I
+BACKGROUNDONLY	4566	GRB2	2885	growth factor receptor-bound protein 2
+BACKGROUNDONLY	9919	RBP1	5947	retinol binding protein 1, cellular

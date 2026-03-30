@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 4
+#BACKGROUNDONLY: 2
+TESTONLY	25361	ARHGAP24	83478	Rho GTPase activating protein 24
+
+COMMON	10941	SLC1A3	6507	solute carrier family 1 (glial high affinity glutamate transporter), member 3
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+
+BACKGROUNDONLY	6011	IL3	3562	interleukin 3 (colony-stimulating factor, multiple)
+BACKGROUNDONLY	4140	GAP43	2596	growth associated protein 43

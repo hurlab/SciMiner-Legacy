@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	6840	MAP2K1	5604	mitogen-activated protein kinase kinase 1
+TESTONLY	20778	TUBB	203068	tubulin, beta
+
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5

@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 6
+#BACKGROUNDONLY: 2
+TESTONLY	22948	NLRP2	55655	NLR family, pyrin domain containing 2
+
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	6081	INS	3630	insulin
+COMMON	5438	IFNG	3458	interferon, gamma
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	6001	IL2	3558	interleukin 2
+
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)

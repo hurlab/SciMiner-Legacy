@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	959	BAX	581	BCL2-associated X protein
+
+COMMON	613	APOE	348	apolipoprotein E
+
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)

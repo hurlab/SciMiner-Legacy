@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 0
+
+COMMON	10451	RRM1	6240	ribonucleotide reductase M1
+COMMON	12805	XDH	7498	xanthine dehydrogenase
+

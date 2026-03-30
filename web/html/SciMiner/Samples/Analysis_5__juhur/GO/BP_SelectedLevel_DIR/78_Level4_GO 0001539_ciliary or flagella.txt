@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	1442	CALM1	801	calmodulin 1 (phosphorylase kinase, delta)
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+
+

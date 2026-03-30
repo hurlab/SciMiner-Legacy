@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 5
+#BACKGROUNDONLY: 2
+TESTONLY	17169	PRDX4	10549	peroxiredoxin 4
+TESTONLY	11181	SOD3	6649	superoxide dismutase 3, extracellular
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	9353	PRDX2	7001	peroxiredoxin 2
+
+COMMON	9352	PRDX1	5052	peroxiredoxin 1
+COMMON	613	APOE	348	apolipoprotein E
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	399	ALB	213	albumin
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+
+BACKGROUNDONLY	602	APOA4	337	apolipoprotein A-IV
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3

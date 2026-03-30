@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	443	ALS2	57679	amyotrophic lateral sclerosis 2 (juvenile)
+
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

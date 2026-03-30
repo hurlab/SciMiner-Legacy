@@ -1,0 +1,20 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 7
+#BACKGROUNDONLY: 2
+TESTONLY	17169	PRDX4	10549	peroxiredoxin 4
+TESTONLY	9354	PRDX3	10935	peroxiredoxin 3
+TESTONLY	12015	TPO	7173	thyroid peroxidase
+TESTONLY	9353	PRDX2	7001	peroxiredoxin 2
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+
+COMMON	9352	PRDX1	5052	peroxiredoxin 1
+COMMON	16753	PRDX6	9588	peroxiredoxin 6
+COMMON	9605	PTGS2	5743	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	1516	CAT	847	catalase
+COMMON	13273	DUOX2	50506	dual oxidase 2
+COMMON	3062	DUOX1	53905	dual oxidase 1
+
+BACKGROUNDONLY	7218	MPO	4353	myeloperoxidase
+BACKGROUNDONLY	9604	PTGS1	5742	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)

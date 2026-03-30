@@ -1,0 +1,16 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 7
+#BACKGROUNDONLY: 0
+TESTONLY	14374	NLRP1	22861	NLR family, pyrin domain containing 1
+TESTONLY	1503	CASP2	835	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)
+TESTONLY	2859	DHCR24	1718	24-dehydrocholesterol reductase
+
+COMMON	11919	CD40	958	CD40 molecule, TNF receptor superfamily member 5
+COMMON	12649	VAPB	9217	VAMP (vesicle-associated membrane protein)-associated protein B and C
+COMMON	2773	DFFB	1677	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+

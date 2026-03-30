@@ -1,0 +1,15 @@
+GO:0060089	molecular transducer activity	399	54	345	154	401	555	1.271e-07	0.14	0.28	0.5
+GO:0003824	catalytic activity	399	228	171	264	291	555	3.856e-03	0.57	0.48	1.2
+GO:0030528	transcription regulator activity	399	40	359	76	479	555	8.896e-02	0.10	0.14	0.7
+GO:0016530	metallochaperone activity	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0016209	antioxidant activity	399	17	382	15	540	555	2.048e-01	0.04	0.03	1.6
+GO:0003774	motor activity	399	3	396	10	545	555	2.575e-01	0.01	0.02	0.4
+GO:0045735	nutrient reservoir activity	399	1	398	4	551	555	4.068e-01	0.00	0.01	0.3
+GO:0008369	obsolete molecular function	399	1	398	5	550	555	4.098e-01	0.00	0.01	0.3
+GO:0005215	transporter activity	399	51	348	79	476	555	5.663e-01	0.13	0.14	0.9
+GO:0005488	binding	399	348	51	486	69	555	9.212e-01	0.87	0.88	1.0
+GO:0030234	enzyme regulator activity	399	31	368	44	511	555	1.000e+00	0.08	0.08	1.0
+GO:0005198	structural molecule activity	399	27	372	37	518	555	1.000e+00	0.07	0.07	1.0
+GO:0030188	chaperone regulator activity	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0045182	translation regulator activity	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0015457	auxiliary transport protein activity	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4

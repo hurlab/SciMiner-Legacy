@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	2206	COL4A4	1286	collagen, type IV, alpha 4
+
+COMMON	2197	COL1A1	1277	collagen, type I, alpha 1
+
+BACKGROUNDONLY	2187	COL11A2	1302	collagen, type XI, alpha 2
+BACKGROUNDONLY	1242	C1QB	713	complement component 1, q subcomponent, B chain

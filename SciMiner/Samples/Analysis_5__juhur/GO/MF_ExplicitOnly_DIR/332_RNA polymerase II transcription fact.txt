@@ -1,0 +1,19 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 5
+#BACKGROUNDONLY: 5
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+
+COMMON	1317	C2orf3	6936	chromosome 2 open reading frame 3
+COMMON	6204	JUN	3725	jun oncogene
+COMMON	6776	MAF	4094	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+COMMON	6206	JUND	3727	jun D proto-oncogene
+COMMON	11205	SP1	6667	Sp1 transcription factor
+
+BACKGROUNDONLY	11291	SRF	6722	serum response factor (c-fos serum response element-binding transcription factor)
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	7762	NEUROD1	4760	neurogenic differentiation 1
+BACKGROUNDONLY	11543	TAF10	6881	TAF10 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 30kDa
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 4
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	5385	IDH3B	3420	isocitrate dehydrogenase 3 (NAD+) beta
+TESTONLY	8808	PDHB	5162	pyruvate dehydrogenase (lipoamide) beta
+TESTONLY	2422	CS	1431	citrate synthase
+TESTONLY	8806	PDHA1	5160	pyruvate dehydrogenase (lipoamide) alpha 1
+
+COMMON	118	ACO2	50	aconitase 2, mitochondrial
+
+BACKGROUNDONLY	243	ADD1	118	adducin 1 (alpha)
+BACKGROUNDONLY	4601	GRN	2896	granulin

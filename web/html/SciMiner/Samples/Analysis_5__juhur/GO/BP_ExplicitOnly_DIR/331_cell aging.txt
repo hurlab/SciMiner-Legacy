@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 0
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	7891	NOX4	50507	NADPH oxidase 4
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+

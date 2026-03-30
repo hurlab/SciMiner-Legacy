@@ -1,0 +1,31 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 9
+#BACKGROUNDONLY: 13
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	11181	SOD3	6649	superoxide dismutase 3, extracellular
+TESTONLY	6915	MB	4151	myoglobin
+
+COMMON	12680	VEGFA	7422	vascular endothelial growth factor A
+COMMON	3415	EPO	2056	erythropoietin
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	1499	CASP1	834	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+COMMON	11740	TF	7018	transferrin
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	14180	PDIA2	64714	protein disulfide isomerase family A, member 2
+
+BACKGROUNDONLY	3146	ECE1	1889	endothelin converting enzyme 1
+BACKGROUNDONLY	8800	PDGFB	5155	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+BACKGROUNDONLY	9232	PPARA	5465	peroxisome proliferator-activated receptor alpha
+BACKGROUNDONLY	2348	CREBBP	1387	CREB binding protein (Rubinstein-Taybi syndrome)
+BACKGROUNDONLY	7408	MT3	4504	metallothionein 3
+BACKGROUNDONLY	5986	IL18	3606	interleukin 18 (interferon-gamma-inducing factor)
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	4910	HIF1A	3091	hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300
+BACKGROUNDONLY	2707	ACE	1636	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1
+BACKGROUNDONLY	483	ANG	283	angiogenin, ribonuclease, RNase A family, 5
+BACKGROUNDONLY	9376	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

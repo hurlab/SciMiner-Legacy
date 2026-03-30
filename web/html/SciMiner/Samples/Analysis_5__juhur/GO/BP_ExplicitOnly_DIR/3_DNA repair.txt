@@ -1,0 +1,29 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 16
+#COMMON: 5
+#BACKGROUNDONLY: 2
+TESTONLY	9824	RAD52	5893	RAD52 homolog (S. cerevisiae)
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	9948	RECQL	5965	RecQ protein-like (DNA helicase Q1-like)
+TESTONLY	4739	H2AFX	3014	H2A histone family, member X
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+TESTONLY	8729	PCNA	5111	proliferating cell nuclear antigen
+TESTONLY	4055	XRCC6	2547	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	9950	RECQL5	9400	RecQ protein-like 5
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+
+COMMON	5962	IL10	3586	interleukin 10
+COMMON	12517	UCP1	7350	uncoupling protein 1 (mitochondrial, proton carrier)
+COMMON	6781	MAFG	4097	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+COMMON	2983	DNTT	1791	deoxynucleotidyltransferase, terminal
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+
+BACKGROUNDONLY	7612	MYOG	4656	myogenin (myogenic factor 4)
+BACKGROUNDONLY	17889	APEX2	27301	APEX nuclease (apurinic/apyrimidinic endonuclease) 2

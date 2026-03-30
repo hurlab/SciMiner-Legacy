@@ -1,0 +1,24 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 10
+#BACKGROUNDONLY: 6
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+TESTONLY	784	ATF2	1386	activating transcription factor 2
+
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+COMMON	9704	PVALB	5816	parvalbumin
+COMMON	7737	NEFH	4744	neurofilament, heavy polypeptide 200kDa
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	9508	PSEN1	5663	presenilin 1 (Alzheimer disease 3)
+COMMON	9461	PRPH	5630	peripherin
+COMMON	11782	TH	7054	tyrosine hydroxylase
+COMMON	23212	MYH14	79784	myosin, heavy chain 14
+COMMON	7734	NEFM	4741	neurofilament, medium polypeptide 150kDa
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+
+BACKGROUNDONLY	3467	ESR1	2099	estrogen receptor 1
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	1774	CDK5	1020	cyclin-dependent kinase 5
+BACKGROUNDONLY	933	BACE1	23621	beta-site APP-cleaving enzyme 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	11766	TGFB1	7040	transforming growth factor, beta 1

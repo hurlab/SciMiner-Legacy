@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	6207	JUP	3728	junction plakoglobin
+
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

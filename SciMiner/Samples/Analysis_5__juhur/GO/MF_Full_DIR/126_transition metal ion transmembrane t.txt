@@ -1,0 +1,13 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 4
+#BACKGROUNDONLY: 0
+TESTONLY	17128	SLC39A3	29985	solute carrier family 39 (zinc transporter), member 3
+TESTONLY	798	ATOX1	475	ATX1 antioxidant protein 1 homolog (yeast)
+TESTONLY	11014	SLC30A3	7781	solute carrier family 30 (zinc transporter), member 3
+
+COMMON	3951	FXN	2395	frataxin
+COMMON	2295	CP	1356	ceruloplasmin (ferroxidase)
+COMMON	11740	TF	7018	transferrin
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+

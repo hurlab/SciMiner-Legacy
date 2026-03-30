@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	14537	NPC2	10577	Niemann-Pick disease, type C2
+
+BACKGROUNDONLY	9919	RBP1	5947	retinol binding protein 1, cellular

@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 2
+
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	11892	TNF	7124	tumor necrosis factor (TNF superfamily, member 2)
+COMMON	5992	IL1B	3553	interleukin 1, beta
+
+BACKGROUNDONLY	1582	CCND1	595	cyclin D1
+BACKGROUNDONLY	3676	FGF2	2247	fibroblast growth factor 2 (basic)

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+

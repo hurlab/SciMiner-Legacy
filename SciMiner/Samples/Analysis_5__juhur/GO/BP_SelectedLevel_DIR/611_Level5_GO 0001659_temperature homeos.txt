@@ -1,0 +1,23 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 8
+#BACKGROUNDONLY: 7
+TESTONLY	12950	SF1	7536	splicing factor 1
+TESTONLY	24959	GSX2	170825	GS homeobox 2
+
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	5991	IL1A	3552	interleukin 1, alpha
+COMMON	5992	IL1B	3553	interleukin 1, beta
+COMMON	2169	CNTF	1270	ciliary neurotrophic factor
+COMMON	9237	PPARGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+COMMON	6776	MAF	4094	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+COMMON	6206	JUND	3727	jun D proto-oncogene
+COMMON	11782	TH	7054	tyrosine hydroxylase
+
+BACKGROUNDONLY	9595	PTGER3	5733	prostaglandin E receptor 3 (subtype EP3)
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface
+BACKGROUNDONLY	288	ADRB3	155	adrenergic, beta-3-, receptor
+BACKGROUNDONLY	4170	GATA1	2623	GATA binding protein 1 (globin transcription factor 1)
+BACKGROUNDONLY	7890	NOX3	50508	NADPH oxidase 3
+BACKGROUNDONLY	11543	TAF10	6881	TAF10 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 30kDa
+BACKGROUNDONLY	7996	NRF1	4899	nuclear respiratory factor 1

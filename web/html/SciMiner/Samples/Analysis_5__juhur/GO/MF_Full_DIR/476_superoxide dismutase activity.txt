@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 0
+TESTONLY	11181	SOD3	6649	superoxide dismutase 3, extracellular
+
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+

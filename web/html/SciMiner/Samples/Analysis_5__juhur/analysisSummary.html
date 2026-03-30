@@ -1,0 +1,1323 @@
+<head>
+                <title>SciMiner Analysis Result Report Page</title>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                <link rel="stylesheet" href="mm_health_nutr.css" type="text/css" />
+                <script language="JavaScript1.2" src="sciminer.js"></script>
+                <style type="text/css"> body {	margin-left:10px;	}</style>
+                </head>
+                <body bgcolor="#EAF4F4" onload="switch_to_simple_mode_on_load()">
+                <script language="JavaScript1.2" src="wz_tooltip.js"></script>
+                <p class="pageName" align="center"> <b><a name="TOP"></a>SciMiner Analysis Summary Page</b></p>
+                <p class='titleBarName1'> <b>Congratulation! Your analysis with SciMiner has been successfully completed.</b> 
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="">[ Display Reset ]</a><br>
+                &nbsp;&nbsp;Jump to <a href="#GeneEnrichment">(Gene Enrichment)</a>&nbsp;
+                        <a href="#GOEnrichment">(GO Enrichment)</a>&nbsp;
+                        <a href="#MeSHEnrichment">(MeSH Enrichment)</a>&nbsp;
+                        <a href="#PathwayEnrichment">(Pathway Enrichment)</a>&nbsp;
+                        <a href="#PPIEnrichment">(PPI Enrichment)</a>&nbsp;<br></p>
+                
+                
+                <div class="trigger" onclick="showBranch('branchSummary');swapFolder('folderSummary')">
+					<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+						<tr>
+							<td width="10">
+								<img src="Images/open.gif" id="folderSummary" border="0">
+							</td>
+							<td>
+								<p align="center" class="sectionTitleName1">Analysis Option Summary</p>
+							</td>
+						</tr>
+					</table>
+				</div>
+				
+                <span style="display:block;" class="branch" id="branchSummary">
+                <table border="1" width="850">
+                <tr class="tableHeader1"><th width="150">&nbsp;Analysis ID #</th><td width="700">&nbsp;5</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;Email</th><td width="700">&nbsp;juhur@umich.edu</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;Target Query #</th><td width="700">&nbsp;15&nbsp;&nbsp;(Name:&nbsp;'ALS ROS',&nbsp;# of PMIDs:&nbsp;'172',&nbsp;# of genes:&nbsp;'399')&nbsp;&nbsp;(<a href="../Query_15__juhur/result.html">Result Page</a>)&nbsp;&nbsp;MinPaperCount&nbsp;(1)</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;Background Query #</th><td width="700">&nbsp;16&nbsp;&nbsp;(Name:&nbsp;'ALS INF',&nbsp;# of PMIDs:&nbsp;'168',&nbsp;# of genes:&nbsp;'555')&nbsp;&nbsp;(<a href="../Query_16__juhur/result.html">Result Page</a>)&nbsp;&nbsp;MinPaperCount&nbsp;(1)</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;P-value Threshold</th><td width="700">&nbsp;0.05</td></tr>
+<tr class="tableHeader1"><th width="150">&nbsp;Enrichment tests</th><td width="700">&nbsp;Gene Ontology, Gene list, MeSH term, Protein-Protein Interaction, Pathway (PPI Selection: FullHUGO)</td></tr>
+</table>
+			      <br>
+					</span>
+				  <p>&nbsp;</p>
+                    <hr>
+            				<a name="GeneEnrichment"></a>
+            				
+            				<div class="trigger" onclick="showBranch('branchGene');swapFolder('folderGene')">
+								<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+									<tr>
+										<td width="10">
+											<img src="Images/closed.gif" id="folderGene" border="0">
+										</td>
+										<td>
+											<p align="center" class="sectionTitleName1">Target Enrichment</p>
+										</td>
+									</tr>
+								</table>
+							</div>
+				
+						    <span style="display:none;" class="branch" id="branchGene">
+						    
+            				<p class="titleBarName1">Here is summary of the targets (genes and proteins) from each query (search) result. Please note that <b>Tested set</b> refers to the identified targets from the <b>Target Query</b> and <b>Background set</b> refers to the identified targets from the <b>Background Query</b>. If no background query number is specified above, then the background set is full HUGO gene set (for Gene Ontology terms, pathways, and protein-protein intearctions) and full PubMed (for MeSH terms)<br>
+                            	<table border="1" width="430">
+                            		<tr class="titleBarName1">
+                            			<th width="120">
+                            				&nbsp;
+                            			</th>
+                            			<th width="100" onmouseover="Tip('The number of papers in tested or background set.<br>Click the number for more detail.')" onmouseout="UnTip()">
+                            				Corpus size
+                            			</th>
+                            			<th width="150" onmouseover="Tip('The number of total targets originally identified.<br>Click the number for more detail.')" onmouseout="UnTip()">
+                            				# of targets (total)
+                            			</th>
+                            			<th width="150" onmouseover="Tip('The number of targets that are used in this analysis<br>such as by applying minimum number of papers.<br>Click the number for more detail.')" onmouseout="UnTip()">
+                            				# of targets (used)
+                            			</th>
+                            		</tr>
+                            		<tr class="titleBarName1">
+                            			<th onmouseover="Tip('This corresponds to SciMiner result of the Target Query # above.<br>Click each number for more detail.')" onmouseout="UnTip()">
+                            				Tested set
+                            			</th>
+                            			<td>
+                            				<a href="../Query_15__juhur/pmidList.html">172</a>
+                            			</td>
+                            			<td>
+                            				<a href="../Query_15__juhur/geneSummary.html">399</a>
+                            			</td>
+                            			<td>
+                            				<a href="tgHugoIDs.html"><b>399</b></a>
+                            			</td>
+                            			
+                            		</tr>
+                            		<tr class="titleBarName1">
+                            			<th onmouseover="Tip('This corresponds to the targets from the Background Query # above.<br>Click each number for more details.')" onmouseout="UnTip()">
+                            				Background set
+                            			</th>
+                            			<td>
+                            				<a href="../Query_16__juhur/pmidList.html">168</a>
+                            			</td>
+                            			<td>
+                            				<a href="../Query_16__juhur/geneSummary.html">555</a>
+                            			</td>
+                            			<td>
+                            				<a href="bgHugoIDs.html"><b>555</b></a>
+                            			</td>
+                            		</tr>
+                            	</table>
+                            <br>
+                            
+   							<span class="trigger" onclick="showBranch('branchGeneDetail');swapFolder('folderGeneDetail')">
+								<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+									<tr>
+										<td width="10">
+											<img src="Images/open.gif" id="folderGeneDetail" border="0">
+										</td>
+										<td>
+											<p align="center" class="sectionTitleName2">Top 10 most enriched <b>Targets</b> (sorted by p-value)</p>
+										</td>
+									</tr>
+								</table>
+							</span>
+				
+						    <span style="display:block;" class="branch" id="branchGeneDetail">
+							
+							<p class="titleBarName1">Here are the top 10 most enriched targets in the tested set.</p>
+                            <a style="background-color:#F5CCF4;" class="titleBarName1" id='geneTableSwitch' onclick="javascript:show_hide_column('geneEnrichmentTable','5_6_7_8_9_10_13');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+
+                            <table border="1" id="geneEnrichmentTable">
+                                <tr class="titleBarName1">
+                                    <th width="50">
+                                        Rank
+                                    </th>
+                                    <th width="50" onmouseover="Tip('These are HUGO IDs. Click each ID to view the <b>HUGO detail</b>.')" onmouseout="UnTip()">
+                                        HUGOID
+                                    </th>
+                                    <th width="50" onmouseover="Tip('These are HUGO approved official symbols. Click each symbol to view the NCBI Entrez Gene record.')" onmouseout="UnTip()">
+                                        Symbol
+                                    </th>
+                                    <th width="350" onmouseover="Tip('These are HUGO approved official gene names.')" onmouseout="UnTip()">
+                                        Name
+                                    </th>
+                                    <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of papers <b>with</b> the selected gene in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                        t+
+                                    </th>
+                                    <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of papers <b>without</b> the selected gene in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                        t-
+                                    </th>
+                                    <th width="45" bgcolor="#F3F798" onmouseover="Tip('</b>t+ uniq</t>: # of papers <b>with</b> the selected gene and only in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                        t+<br>uniq
+                                    </th>
+                                    <th width="45" bgcolor="#F3F798" onmouseover="Tip('</b>common</t>: # of papers <b>with</b> the selected gene and <b>common</b> in <b>test</b>  and <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                        com<br>mon
+                                    </th>
+                                    <th width="45" bgcolor="#F3F798" onmouseover="Tip('</b>b+ uniq</t>: # of papers <b>with</b> the selected gene and only in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                        b+<br>uniq
+                                    </th>
+                                    <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of papers <b>with</b> the selected gene in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                        b+
+                                    </th>
+                                    <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of papers <b>without</b> the selected gene in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+                                        b-
+                                    </th>
+                                    <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+                                        p-value            
+                                    </th>
+                                    <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+                                        t-ratio
+                                    </th>
+                                    <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+                                        b-ratio
+                                    </th>
+                                    <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                                </tr><tr><td>1</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=6018" onmouseover="Tip('Click here to view the details of <b>IL6</b> at HGNC.')" onmouseout="UnTip()">6018</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=3569" onmouseover="Tip('Click here to view the details of <b>IL6</b> at Entrez Gene.')" onmouseout="UnTip()">IL6</a></td><td>interleukin 6 (interferon, beta 2)</td><td><a href="../Query_15__juhur/pmid2ListDir/6018.html">1</a></td><td><a href="javascript:generate_pmid_list_html('171', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '6018', 'IL6');">171</a></td><td><a href="javascript:generate_pmid_list_html('1', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '6018', 'IL6');">1</a></td><td>0</td><td><a href="javascript:generate_pmid_list_html('25', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '6018', 'IL6');">25</a></td><td><a href="../Query_16__juhur/pmid2ListDir/6018.html">25</a></td><td><a href="javascript:generate_pmid_list_html('143', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '6018', 'IL6');">143</a></td><td><font color="red">1.30e-07</font></td><td>0.01</td><td>0.15</td><td bgcolor="#75FA95">0.0</td></tr><tr><td>2</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=11892" onmouseover="Tip('Click here to view the details of <b>TNF</b> at HGNC.')" onmouseout="UnTip()">11892</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=7124" onmouseover="Tip('Click here to view the details of <b>TNF</b> at Entrez Gene.')" onmouseout="UnTip()">TNF</a></td><td>tumor necrosis factor (TNF superfamily, member 2)</td><td><a href="../Query_15__juhur/pmid2ListDir/11892.html">10</a></td><td><a href="javascript:generate_pmid_list_html('162', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '11892', 'TNF');">162</a></td><td><a href="javascript:generate_pmid_list_html('6', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '11892', 'TNF');">6</a></td><td><a href="javascript:generate_pmid_list_html('4', 'common', '5', 'Analysis_5__juhur', 'Query_15__juhur', '11892', 'TNF');">4</a></td><td><a href="javascript:generate_pmid_list_html('39', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '11892', 'TNF');">39</a></td><td><a href="../Query_16__juhur/pmid2ListDir/11892.html">43</a></td><td><a href="javascript:generate_pmid_list_html('125', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '11892', 'TNF');">125</a></td><td><font color="red">3.90e-07</font></td><td>0.06</td><td>0.26</td><td bgcolor="#75FA95">0.2</td></tr><tr><td>3</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=9605" onmouseover="Tip('Click here to view the details of <b>PTGS2</b> at HGNC.')" onmouseout="UnTip()">9605</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=5743" onmouseover="Tip('Click here to view the details of <b>PTGS2</b> at Entrez Gene.')" onmouseout="UnTip()">PTGS2</a></td><td>prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)</td><td><a href="../Query_15__juhur/pmid2ListDir/9605.html">2</a></td><td><a href="javascript:generate_pmid_list_html('170', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '9605', 'PTGS2');">170</a></td><td><a href="javascript:generate_pmid_list_html('2', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '9605', 'PTGS2');">2</a></td><td>0</td><td><a href="javascript:generate_pmid_list_html('26', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '9605', 'PTGS2');">26</a></td><td><a href="../Query_16__juhur/pmid2ListDir/9605.html">26</a></td><td><a href="javascript:generate_pmid_list_html('142', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '9605', 'PTGS2');">142</a></td><td><font color="red">5.10e-07</font></td><td>0.01</td><td>0.15</td><td bgcolor="#75FA95">0.1</td></tr><tr><td>4</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=1516" onmouseover="Tip('Click here to view the details of <b>CAT</b> at HGNC.')" onmouseout="UnTip()">1516</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=847" onmouseover="Tip('Click here to view the details of <b>CAT</b> at Entrez Gene.')" onmouseout="UnTip()">CAT</a></td><td>catalase</td><td><a href="../Query_15__juhur/pmid2ListDir/1516.html">30</a></td><td><a href="javascript:generate_pmid_list_html('142', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '1516', 'CAT');">142</a></td><td><a href="javascript:generate_pmid_list_html('28', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '1516', 'CAT');">28</a></td><td><a href="javascript:generate_pmid_list_html('2', 'common', '5', 'Analysis_5__juhur', 'Query_15__juhur', '1516', 'CAT');">2</a></td><td><a href="javascript:generate_pmid_list_html('3', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '1516', 'CAT');">3</a></td><td><a href="../Query_16__juhur/pmid2ListDir/1516.html">5</a></td><td><a href="javascript:generate_pmid_list_html('163', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '1516', 'CAT');">163</a></td><td><font color="red">8.70e-06</font></td><td>0.17</td><td>0.03</td><td bgcolor="#FA6161">5.9</td></tr><tr><td>5</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=4235" onmouseover="Tip('Click here to view the details of <b>GFAP</b> at HGNC.')" onmouseout="UnTip()">4235</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=2670" onmouseover="Tip('Click here to view the details of <b>GFAP</b> at Entrez Gene.')" onmouseout="UnTip()">GFAP</a></td><td>glial fibrillary acidic protein</td><td><a href="../Query_15__juhur/pmid2ListDir/4235.html">6</a></td><td><a href="javascript:generate_pmid_list_html('166', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '4235', 'GFAP');">166</a></td><td><a href="javascript:generate_pmid_list_html('4', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '4235', 'GFAP');">4</a></td><td><a href="javascript:generate_pmid_list_html('2', 'common', '5', 'Analysis_5__juhur', 'Query_15__juhur', '4235', 'GFAP');">2</a></td><td><a href="javascript:generate_pmid_list_html('20', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '4235', 'GFAP');">20</a></td><td><a href="../Query_16__juhur/pmid2ListDir/4235.html">22</a></td><td><a href="javascript:generate_pmid_list_html('146', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '4235', 'GFAP');">146</a></td><td><font color="red">1.36e-03</font></td><td>0.03</td><td>0.13</td><td bgcolor="#75FA95">0.3</td></tr><tr><td>6</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=31395" onmouseover="Tip('Click here to view the details of <b>COX8B</b> at HGNC.')" onmouseout="UnTip()">31395</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=404544" onmouseover="Tip('Click here to view the details of <b>COX8B</b> at Entrez Gene.')" onmouseout="UnTip()">COX8B</a></td><td>cytochrome c oxidase, subunit 8B pseudogene</td><td><a href="../Query_15__juhur/pmid2ListDir/31395.html">13</a></td><td><a href="javascript:generate_pmid_list_html('159', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '31395', 'COX8B');">159</a></td><td><a href="javascript:generate_pmid_list_html('13', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '31395', 'COX8B');">13</a></td><td>0</td><td><a href="javascript:generate_pmid_list_html('1', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '31395', 'COX8B');">1</a></td><td><a href="../Query_16__juhur/pmid2ListDir/31395.html">1</a></td><td><a href="javascript:generate_pmid_list_html('167', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '31395', 'COX8B');">167</a></td><td><font color="red">1.51e-03</font></td><td>0.08</td><td>0.01</td><td bgcolor="#FA6161">12.7</td></tr><tr><td>7</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=5992" onmouseover="Tip('Click here to view the details of <b>IL1B</b> at HGNC.')" onmouseout="UnTip()">5992</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=3553" onmouseover="Tip('Click here to view the details of <b>IL1B</b> at Entrez Gene.')" onmouseout="UnTip()">IL1B</a></td><td>interleukin 1, beta</td><td><a href="../Query_15__juhur/pmid2ListDir/5992.html">4</a></td><td><a href="javascript:generate_pmid_list_html('168', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '5992', 'IL1B');">168</a></td><td><a href="javascript:generate_pmid_list_html('2', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '5992', 'IL1B');">2</a></td><td><a href="javascript:generate_pmid_list_html('2', 'common', '5', 'Analysis_5__juhur', 'Query_15__juhur', '5992', 'IL1B');">2</a></td><td><a href="javascript:generate_pmid_list_html('16', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '5992', 'IL1B');">16</a></td><td><a href="../Query_16__juhur/pmid2ListDir/5992.html">18</a></td><td><a href="javascript:generate_pmid_list_html('150', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '5992', 'IL1B');">150</a></td><td><font color="red">1.70e-03</font></td><td>0.02</td><td>0.11</td><td bgcolor="#75FA95">0.2</td></tr><tr><td>8</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=5438" onmouseover="Tip('Click here to view the details of <b>IFNG</b> at HGNC.')" onmouseout="UnTip()">5438</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=3458" onmouseover="Tip('Click here to view the details of <b>IFNG</b> at Entrez Gene.')" onmouseout="UnTip()">IFNG</a></td><td>interferon, gamma</td><td><a href="../Query_15__juhur/pmid2ListDir/5438.html">3</a></td><td><a href="javascript:generate_pmid_list_html('169', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '5438', 'IFNG');">169</a></td><td><a href="javascript:generate_pmid_list_html('2', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '5438', 'IFNG');">2</a></td><td><a href="javascript:generate_pmid_list_html('1', 'common', '5', 'Analysis_5__juhur', 'Query_15__juhur', '5438', 'IFNG');">1</a></td><td><a href="javascript:generate_pmid_list_html('15', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '5438', 'IFNG');">15</a></td><td><a href="../Query_16__juhur/pmid2ListDir/5438.html">16</a></td><td><a href="javascript:generate_pmid_list_html('152', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '5438', 'IFNG');">152</a></td><td><font color="red">1.78e-03</font></td><td>0.02</td><td>0.10</td><td bgcolor="#75FA95">0.2</td></tr><tr><td>9</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=11180" onmouseover="Tip('Click here to view the details of <b>SOD2</b> at HGNC.')" onmouseout="UnTip()">11180</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=6648" onmouseover="Tip('Click here to view the details of <b>SOD2</b> at Entrez Gene.')" onmouseout="UnTip()">SOD2</a></td><td>superoxide dismutase 2, mitochondrial</td><td><a href="../Query_15__juhur/pmid2ListDir/11180.html">19</a></td><td><a href="javascript:generate_pmid_list_html('153', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '11180', 'SOD2');">153</a></td><td><a href="javascript:generate_pmid_list_html('17', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '11180', 'SOD2');">17</a></td><td><a href="javascript:generate_pmid_list_html('2', 'common', '5', 'Analysis_5__juhur', 'Query_15__juhur', '11180', 'SOD2');">2</a></td><td><a href="javascript:generate_pmid_list_html('2', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '11180', 'SOD2');">2</a></td><td><a href="../Query_16__juhur/pmid2ListDir/11180.html">4</a></td><td><a href="javascript:generate_pmid_list_html('164', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '11180', 'SOD2');">164</a></td><td><font color="red">1.88e-03</font></td><td>0.11</td><td>0.02</td><td bgcolor="#FA6161">4.6</td></tr><tr><td>10</td><td><a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=11179" onmouseover="Tip('Click here to view the details of <b>SOD1</b> at HGNC.')" onmouseout="UnTip()">11179</a></td><td><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=6647" onmouseover="Tip('Click here to view the details of <b>SOD1</b> at Entrez Gene.')" onmouseout="UnTip()">SOD1</a></td><td>superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))</td><td><a href="../Query_15__juhur/pmid2ListDir/11179.html">91</a></td><td><a href="javascript:generate_pmid_list_html('81', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '11179', 'SOD1');">81</a></td><td><a href="javascript:generate_pmid_list_html('88', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '11179', 'SOD1');">88</a></td><td><a href="javascript:generate_pmid_list_html('3', 'common', '5', 'Analysis_5__juhur', 'Query_15__juhur', '11179', 'SOD1');">3</a></td><td><a href="javascript:generate_pmid_list_html('59', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '11179', 'SOD1');">59</a></td><td><a href="../Query_16__juhur/pmid2ListDir/11179.html">62</a></td><td><a href="javascript:generate_pmid_list_html('106', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '11179', 'SOD1');">106</a></td><td><font color="red">3.30e-03</font></td><td>0.53</td><td>0.37</td><td bgcolor="#FA6161">1.4</td></tr></table><p class="titleBarName1"> 
+            			  Full result (<a href="GeneEnrichmentResult.html">HTML</a>,&nbsp;&nbsp;
+            						  <a href="GeneEnrichmentResult.txt">TXT</a>&nbsp;&nbsp;
+                                      <a href="GeneEnrichmentResult.xls">EXCEL</a>) &nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;
+                          </p>
+                          </span>
+                          </span>
+           			<a name="GOEnrichment"></a>
+           			<p>&nbsp;</p>
+           			<hr>
+        			<div class="trigger" onclick="showBranch('branchGO');swapFolder('folderGO')">
+						<table width="100%" border="0" onmouseover="Tip('<b>Click here to hide/show the detail of Gene Ontology!</b>')" onmouseout="UnTip()">
+							<tr>
+								<td width="10">
+									<img src="Images/closed.gif" id="folderGO" border="0">
+								</td>
+								<td>
+									<p align="center" class="sectionTitleName1">Gene Ontology Enrichment</p>
+								</td>
+							</tr>
+						</table>
+					</div>
+		
+				    <span style="display:none;" class="branch" id="branchGO">
+				    
+
+                      <p class="sectionSubTitleName1">Download a compressed file (<a href="GO_Compressed.zip">GO_Compressed.zip (7.0 MB)</a>) including all of the individual GO files. This zip file contains every raw and intermediate files, some of which are available on this web page.</p>
+                      
+                      	<table border="1" width="430">
+                    		<tr class="titleBarName1">
+                    			<th width="150">
+                    				&nbsp;
+                    			</th>
+                    			<th width="110" onmouseover="Tip('The number of papers in tested or background set.')" onmouseout="UnTip()">
+                    				Corpus size
+                    			</th>
+                    			<th width="160" onmouseover="Tip('The number of total targets originally identified.')" onmouseout="UnTip()">
+                    				# of targets (total)
+                    			</th>
+                    			<th width="160" onmouseover="Tip('The number of genes that are targets in this analysis<br>such as by applying minimum number of papers.')" onmouseout="UnTip()">
+                    				# of targets (used)
+                    			</th>
+                    		</tr>
+                    		
+                    		<tr class="titleBarName1">
+                    			<th onmouseover="Tip('This corresponds to the targets from the Target Query # above.<br>Click each number for more details.')" onmouseout="UnTip()">
+                    				Tested set
+                    			</th>
+                    			<td>
+                    				<a href="../Query_15__juhur/pmidList.html">172</a>
+                    			</td>
+                    			<td>
+                    				<a href="../Query_15__juhur/geneSummary.html">399</a>
+                    			</td>
+                    			<td>
+                    				<a href="tgHugoIDs.html"><b>399</b></a>
+                    			</td>
+                    		</tr>
+                    		
+							<tr class="titleBarName1">
+                    			<th onmouseover="Tip('This corresponds to the targets from the Background Query # above.<br>Click each number for more details.')" onmouseout="UnTip()">
+                    				Background set
+                    			</th>
+                    			<td>
+                    				<a href="../Query_16__juhur/pmidList.html">168</a>
+                    			</td>
+                    			<td>
+                    				<a href="../Query_16__juhur/geneSummary.html">555</a>
+                    			</td>
+                    			<td>
+                    				<a href="bgHugoIDs.html"><b>555</b></a>
+                    			</td>
+                    		</tr>
+                    		
+                    	</table>
+                    	<br>
+                    	
+					  	<p class="sectionSubTitleName1"><b>Gene Ontology Enrichment Section</b> is composed of 9 results. For the three Gene Ontology categories (<b>Biological Processes, Molecular Functions, and Cellular Components</b>), three different sets of Gene Ontology terms are used.<br><b>&nbsp;&nbsp;&nbsp;Explicit GO</b>: Only use GO terms that are explicitly assigned to the target gene. <br><b>&nbsp;&nbsp;&nbsp;Full GO</b>: Use both explicitly assigned GO terms and implicitly assigned terms. Implicit terms are all the parent terms of explicity GO terms from the GO tree structure. <br><b>&nbsp;&nbsp;&nbsp;Level 2~5</b>: Use only the highest 4 levels of GO terms. These can generally provide functional categories due to their broad meanings. GO assignements are based on the full GO.</p>
+		              	<span class="trigger" onclick="showBranch('branchGOBP');swapFolder('folderGOBP')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="10">
+										<img src="Images/closed.gif" id="folderGOBP" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName3">Biological Processes</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOBP">
+					    <br>
+    
+    					<span class="trigger" onclick="showBranch('branchGOBPLevel');swapFolder('folderGOBPLevel')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="50">
+										<img src="Images/closed.gif" id="folderGOBPLevel" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName2">Top 10 most enriched <b>GO terms (Biological Process -- Level 2~5)</b> (sorted by p-value)</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOBPLevel">
+					    
+                    <a style="background-color:#F5CCF4;" class="titleBarName1" id='goTableSwitch' onclick="javascript:show_hide_column('BPLevel','5_6_7_10');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+                    <table border="1" id="BPLevel">
+                        <tr class="tableHeader1">
+                            <th width="40">
+		                            Rank
+		                        </th>
+		                        <th width="50" onmouseover="Tip('<b>Level</b>: Hierarchical level of the Gene Ontology tree structure.<br>Level2 has the most broaden meaning under three GO categories of Biological Processes, Molecular Functions, and Cellular Components.<br><br>Click Level to download an EXCEL file with all GO from the selected level.')" onmouseout="UnTip()">
+		                            Level
+		                        </th>
+		                        <th width="80" onmouseover="Tip('Click each GO ID to see the list of genes from the test and background set.<br><br>You may find this feature useful to retrieve all other genes that are not in your test set <br>when the background set is All HUGO gene set.')" onmouseout="UnTip()">
+		                            GO ID
+		                        </th>                            
+		                        <th width="300"onmouseover="Tip('Clich each GO term to see more detail on the selected term from the EBI QuickGO.')" onmouseout="UnTip()">
+		                            GO Term
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of genes <b>with</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t+
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of genes <b>without</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t-
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of genes <b>with</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b+
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of genes <b>without</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b-
+		                        </th>
+		                        <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                            p-value
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                            t-ratio
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                            b-ratio
+		                        </th>
+		                        <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                        </tr><tr><td>1</td><td><a href="GO/BP_Level3.xls" target="_blank">Level3</a></td><td><a href="javascript:generate_go_detail_html('GO:0006974','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','1_Level3_GO 0006974_response to DNA dama.txt');">GO:0006974</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006974">response to DNA damage stimulus</a></td><td>40</td><td>359</td><td>19</td><td>536</td><td><font color="red">5.50e-05</font></td><td>0.10</td><td>0.03</td><td bgcolor="#FA6161">2.9</td></tr><tr><td>2</td><td><a href="GO/BP_Level5.xls" target="_blank">Level5</a></td><td><a href="javascript:generate_go_detail_html('GO:0007166','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','2_Level5_GO 0007166_cell surface recepto.txt');">GO:0007166</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0007166">cell surface receptor linked signal transduction</a></td><td>61</td><td>338</td><td>144</td><td>411</td><td><font color="red">8.48e-05</font></td><td>0.15</td><td>0.26</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>3</td><td><a href="GO/BP_Level5.xls" target="_blank">Level5</a></td><td><a href="javascript:generate_go_detail_html('GO:0006259','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','3_Level5_GO 0006259_DNA metabolic proces.txt');">GO:0006259</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006259">DNA metabolic process</a></td><td>56</td><td>343</td><td>36</td><td>519</td><td><font color="red">1.36e-04</font></td><td>0.14</td><td>0.06</td><td bgcolor="#FA6161">2.2</td></tr><tr><td>4</td><td><a href="GO/BP_Level3.xls" target="_blank">Level3</a></td><td><a href="javascript:generate_go_detail_html('GO:0006955','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','4_Level3_GO 0006955_immune response.txt');">GO:0006955</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006955">immune response</a></td><td>31</td><td>368</td><td>85</td><td>470</td><td><font color="red">4.12e-04</font></td><td>0.08</td><td>0.15</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>5</td><td><a href="GO/BP_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0009611','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','5_Level4_GO 0009611_response to wounding.txt');">GO:0009611</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0009611">response to wounding</a></td><td>38</td><td>361</td><td>93</td><td>462</td><td><font color="red">1.58e-03</font></td><td>0.10</td><td>0.17</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>6</td><td><a href="GO/BP_Level3.xls" target="_blank">Level3</a></td><td><a href="javascript:generate_go_detail_html('GO:0009605','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','6_Level3_GO 0009605_response to external.txt');">GO:0009605</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0009605">response to external stimulus</a></td><td>58</td><td>341</td><td>124</td><td>431</td><td><font color="red">2.60e-03</font></td><td>0.15</td><td>0.22</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>7</td><td><a href="GO/BP_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0007165','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','7_Level4_GO 0007165_signal transduction.txt');">GO:0007165</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0007165">signal transduction</a></td><td>153</td><td>246</td><td>266</td><td>289</td><td><font color="red">3.61e-03</font></td><td>0.38</td><td>0.48</td><td bgcolor="#75FA95">0.8</td></tr><tr><td>8</td><td><a href="GO/BP_Level2.xls" target="_blank">Level2</a></td><td><a href="javascript:generate_go_detail_html('GO:0002376','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','8_Level2_GO 0002376_immune system proces.txt');">GO:0002376</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0002376">immune system process</a></td><td>51</td><td>348</td><td>108</td><td>447</td><td><font color="red">6.35e-03</font></td><td>0.13</td><td>0.19</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>9</td><td><a href="GO/BP_Level5.xls" target="_blank">Level5</a></td><td><a href="javascript:generate_go_detail_html('GO:0006631','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','9_Level5_GO 0006631_fatty acid metabolic.txt');">GO:0006631</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006631">fatty acid metabolic process</a></td><td>8</td><td>391</td><td>30</td><td>525</td><td><font color="red">7.29e-03</font></td><td>0.02</td><td>0.05</td><td bgcolor="#75FA95">0.4</td></tr><tr><td>10</td><td><a href="GO/BP_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0006629','Analysis_5__juhur/GO/BP_SelectedLevel_DIR/','10_Level4_GO 0006629_lipid metabolic pro.txt');">GO:0006629</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006629">lipid metabolic process</a></td><td>32</td><td>367</td><td>75</td><td>480</td><td><font color="red">9.10e-03</font></td><td>0.08</td><td>0.14</td><td bgcolor="#75FA95">0.6</td></tr></table>
+    				  <p class="smallText2"> Full result (<a href="GO/BP_SelectedLevel.html">HTML</a>), &nbsp;(<a href="GO/BP_SelectedLevel.txt">TXT</a>)&nbsp;&nbsp;&nbsp;(<a href="GO/BP_SelectedLevel.xls">EXCEL</a>)&nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;</p></span><br>
+    
+    					<span class="trigger" onclick="showBranch('branchGOBPFull');swapFolder('folderGOBPFull')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="50">
+										<img src="Images/closed.gif" id="folderGOBPFull" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName2">Top 10 most enriched <b>GO terms (Biological Process -- Full GO)</b> (sorted by p-value)</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOBPFull">
+					    
+                    <a style="background-color:#F5CCF4;" class="titleBarName1" id='goTableSwitch' onclick="javascript:show_hide_column('BPFull','5_6_7_10');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+                    <table border="1" id="BPFull">
+                        <tr class="tableHeader1">
+                            <th width="40">
+		                            Rank
+		                        </th>
+		                        <th width="50" onmouseover="Tip('<b>Level</b>: Hierarchical level of the Gene Ontology tree structure.<br>Level2 has the most broaden meaning under three GO categories of Biological Processes, Molecular Functions, and Cellular Components.<br><br>Click Level to download an EXCEL file with all GO from the selected level.')" onmouseout="UnTip()">
+		                            Level
+		                        </th>
+		                        <th width="80" onmouseover="Tip('Click each GO ID to see the list of genes from the test and background set.<br><br>You may find this feature useful to retrieve all other genes that are not in your test set <br>when the background set is All HUGO gene set.')" onmouseout="UnTip()">
+		                            GO ID
+		                        </th>                            
+		                        <th width="300"onmouseover="Tip('Clich each GO term to see more detail on the selected term from the EBI QuickGO.')" onmouseout="UnTip()">
+		                            GO Term
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of genes <b>with</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t+
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of genes <b>without</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t-
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of genes <b>with</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b+
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of genes <b>without</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b-
+		                        </th>
+		                        <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                            p-value
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                            t-ratio
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                            b-ratio
+		                        </th>
+		                        <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                        </tr><tr><td>1</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006281','Analysis_5__juhur/GO/BP_Full_DIR/','1_DNA repair.txt');">GO:0006281</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006281">DNA repair</a></td><td>34</td><td>365</td><td>13</td><td>542</td><td><font color="red">2.47e-05</font></td><td>0.09</td><td>0.02</td><td bgcolor="#FA6161">3.6</td></tr><tr><td>2</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006974','Analysis_5__juhur/GO/BP_Full_DIR/','2_response to DNA damage stimulus.txt');">GO:0006974</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006974">response to DNA damage stimulus</a></td><td>40</td><td>359</td><td>19</td><td>536</td><td><font color="red">5.50e-05</font></td><td>0.10</td><td>0.03</td><td bgcolor="#FA6161">2.9</td></tr><tr><td>3</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0007166','Analysis_5__juhur/GO/BP_Full_DIR/','3_cell surface receptor linked signal tr.txt');">GO:0007166</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0007166">cell surface receptor linked signal transduction</a></td><td>61</td><td>338</td><td>144</td><td>411</td><td><font color="red">8.48e-05</font></td><td>0.15</td><td>0.26</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>4</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006259','Analysis_5__juhur/GO/BP_Full_DIR/','4_DNA metabolic process.txt');">GO:0006259</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006259">DNA metabolic process</a></td><td>56</td><td>343</td><td>36</td><td>519</td><td><font color="red">1.36e-04</font></td><td>0.14</td><td>0.06</td><td bgcolor="#FA6161">2.2</td></tr><tr><td>5</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006955','Analysis_5__juhur/GO/BP_Full_DIR/','5_immune response.txt');">GO:0006955</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006955">immune response</a></td><td>31</td><td>368</td><td>85</td><td>470</td><td><font color="red">4.12e-04</font></td><td>0.08</td><td>0.15</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>6</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006260','Analysis_5__juhur/GO/BP_Full_DIR/','6_DNA replication.txt');">GO:0006260</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006260">DNA replication</a></td><td>24</td><td>375</td><td>10</td><td>545</td><td><font color="red">6.54e-04</font></td><td>0.06</td><td>0.02</td><td bgcolor="#FA6161">3.3</td></tr><tr><td>7</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0007186','Analysis_5__juhur/GO/BP_Full_DIR/','7_G -protein coupled receptor protein si.txt');">GO:0007186</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0007186">G\-protein coupled receptor protein signaling pathway</a></td><td>20</td><td>379</td><td>63</td><td>492</td><td><font color="red">6.54e-04</font></td><td>0.05</td><td>0.11</td><td bgcolor="#75FA95">0.4</td></tr><tr><td>8</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0009611','Analysis_5__juhur/GO/BP_Full_DIR/','8_response to wounding.txt');">GO:0009611</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0009611">response to wounding</a></td><td>38</td><td>361</td><td>93</td><td>462</td><td><font color="red">1.58e-03</font></td><td>0.10</td><td>0.17</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>9</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006310','Analysis_5__juhur/GO/BP_Full_DIR/','9_DNA recombination.txt');">GO:0006310</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006310">DNA recombination</a></td><td>19</td><td>380</td><td>7</td><td>548</td><td><font color="red">1.86e-03</font></td><td>0.05</td><td>0.01</td><td bgcolor="#FA6161">3.8</td></tr><tr><td>10</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0007187','Analysis_5__juhur/GO/BP_Full_DIR/','10_G -protein signaling coupled to cycli.txt');">GO:0007187</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0007187">G\-protein signaling\, coupled to cyclic nucleotide second messenger</a></td><td>1</td><td>398</td><td>16</td><td>539</td><td><font color="red">1.93e-03</font></td><td>0.00</td><td>0.03</td><td bgcolor="#75FA95">0.1</td></tr></table>
+    				  <p class="smallText2"> Full result (<a href="GO/BP_Full.html">HTML</a>), &nbsp;(<a href="GO/BP_Full.txt">TXT</a>)&nbsp;&nbsp;&nbsp;(<a href="GO/BP_Full.xls">EXCEL</a>)&nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;</p></span><br>
+    
+    					<span class="trigger" onclick="showBranch('branchGOBPExplicit');swapFolder('folderGOBPExplicit')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="50">
+										<img src="Images/closed.gif" id="folderGOBPExplicit" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName2">Top 10 most enriched <b>GO terms (Biological Process -- Explicit GO)</b> (sorted by p-value)</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOBPExplicit">
+					    
+                    <a style="background-color:#F5CCF4;" class="titleBarName1" id='goTableSwitch' onclick="javascript:show_hide_column('BPExplicit','5_6_7_10');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+                    <table border="1" id="BPExplicit">
+                        <tr class="tableHeader1">
+                            <th width="40">
+		                            Rank
+		                        </th>
+		                        <th width="50" onmouseover="Tip('<b>Level</b>: Hierarchical level of the Gene Ontology tree structure.<br>Level2 has the most broaden meaning under three GO categories of Biological Processes, Molecular Functions, and Cellular Components.<br><br>Click Level to download an EXCEL file with all GO from the selected level.')" onmouseout="UnTip()">
+		                            Level
+		                        </th>
+		                        <th width="80" onmouseover="Tip('Click each GO ID to see the list of genes from the test and background set.<br><br>You may find this feature useful to retrieve all other genes that are not in your test set <br>when the background set is All HUGO gene set.')" onmouseout="UnTip()">
+		                            GO ID
+		                        </th>                            
+		                        <th width="300"onmouseover="Tip('Clich each GO term to see more detail on the selected term from the EBI QuickGO.')" onmouseout="UnTip()">
+		                            GO Term
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of genes <b>with</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t+
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of genes <b>without</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t-
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of genes <b>with</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b+
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of genes <b>without</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b-
+		                        </th>
+		                        <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                            p-value
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                            t-ratio
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                            b-ratio
+		                        </th>
+		                        <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                        </tr><tr><td>1</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006310','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','1_DNA recombination.txt');">GO:0006310</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006310">DNA recombination</a></td><td>11</td><td>388</td><td>0</td><td>555</td><td><font color="red">6.32e-05</font></td><td>0.03</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr><tr><td>2</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006955','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','2_immune response.txt');">GO:0006955</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006955">immune response</a></td><td>18</td><td>381</td><td>62</td><td>493</td><td><font color="red">2.11e-04</font></td><td>0.05</td><td>0.11</td><td bgcolor="#75FA95">0.4</td></tr><tr><td>3</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006281','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','3_DNA repair.txt');">GO:0006281</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006281">DNA repair</a></td><td>21</td><td>378</td><td>7</td><td>548</td><td><font color="red">3.64e-04</font></td><td>0.05</td><td>0.01</td><td bgcolor="#FA6161">4.2</td></tr><tr><td>4</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006629','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','4_lipid metabolic process.txt');">GO:0006629</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006629">lipid metabolic process</a></td><td>5</td><td>394</td><td>30</td><td>525</td><td><font color="red">6.78e-04</font></td><td>0.01</td><td>0.05</td><td bgcolor="#75FA95">0.2</td></tr><tr><td>5</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0006508','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','5_proteolysis.txt');">GO:0006508</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0006508">proteolysis</a></td><td>10</td><td>389</td><td>41</td><td>514</td><td><font color="red">7.24e-04</font></td><td>0.03</td><td>0.07</td><td bgcolor="#75FA95">0.3</td></tr><tr><td>6</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0007267','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','6_cell -cell signaling.txt');">GO:0007267</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0007267">cell\-cell signaling</a></td><td>18</td><td>381</td><td>55</td><td>500</td><td><font color="red">1.91e-03</font></td><td>0.05</td><td>0.10</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>7</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0007186','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','7_G -protein coupled receptor protein si.txt');">GO:0007186</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0007186">G\-protein coupled receptor protein signaling pathway</a></td><td>15</td><td>384</td><td>46</td><td>509</td><td><font color="red">4.68e-03</font></td><td>0.04</td><td>0.08</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>8</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0007165','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','8_signal transduction.txt');">GO:0007165</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0007165">signal transduction</a></td><td>66</td><td>333</td><td>133</td><td>422</td><td><font color="red">5.96e-03</font></td><td>0.17</td><td>0.24</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>9</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0007131','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','9_meiotic recombination.txt');">GO:0007131</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0007131">meiotic recombination</a></td><td>5</td><td>394</td><td>0</td><td>555</td><td><font color="red">1.26e-02</font></td><td>0.01</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr><tr><td>10</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0000724','Analysis_5__juhur/GO/BP_ExplicitOnly_DIR/','10_double -strand break repair via homol.txt');">GO:0000724</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0000724">double\-strand break repair via homologous recombination</a></td><td>5</td><td>394</td><td>0</td><td>555</td><td><font color="red">1.26e-02</font></td><td>0.01</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr></table>
+    				  <p class="smallText2"> Full result (<a href="GO/BP_ExplicitOnly.html">HTML</a>), &nbsp;(<a href="GO/BP_ExplicitOnly.txt">TXT</a>)&nbsp;&nbsp;&nbsp;(<a href="GO/BP_ExplicitOnly.xls">EXCEL</a>)&nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;</p></span></span><br>
+						<span class="trigger" onclick="showBranch('branchGOMF');swapFolder('folderGOMF')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="10">
+										<img src="Images/closed.gif" id="folderGOMF" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName3">Molecular Functions</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOMF"><br>
+    
+    					<span class="trigger" onclick="showBranch('branchGOMFLevel');swapFolder('folderGOMFLevel')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="50">
+										<img src="Images/closed.gif" id="folderGOMFLevel" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName2">Top 10 most enriched <b>GO terms (Molecular Function -- Level 2~5)</b> (sorted by p-value)</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOMFLevel">
+					    
+                    <a style="background-color:#F5CCF4;" class="titleBarName1" id='goTableSwitch' onclick="javascript:show_hide_column('MFLevel','5_6_7_10');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+                    <table border="1" id="MFLevel">
+                        <tr class="tableHeader1">
+                            <th width="40">
+		                            Rank
+		                        </th>
+		                        <th width="50" onmouseover="Tip('<b>Level</b>: Hierarchical level of the Gene Ontology tree structure.<br>Level2 has the most broaden meaning under three GO categories of Biological Processes, Molecular Functions, and Cellular Components.<br><br>Click Level to download an EXCEL file with all GO from the selected level.')" onmouseout="UnTip()">
+		                            Level
+		                        </th>
+		                        <th width="80" onmouseover="Tip('Click each GO ID to see the list of genes from the test and background set.<br><br>You may find this feature useful to retrieve all other genes that are not in your test set <br>when the background set is All HUGO gene set.')" onmouseout="UnTip()">
+		                            GO ID
+		                        </th>                            
+		                        <th width="300"onmouseover="Tip('Clich each GO term to see more detail on the selected term from the EBI QuickGO.')" onmouseout="UnTip()">
+		                            GO Term
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of genes <b>with</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t+
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of genes <b>without</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t-
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of genes <b>with</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b+
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of genes <b>without</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b-
+		                        </th>
+		                        <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                            p-value
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                            t-ratio
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                            b-ratio
+		                        </th>
+		                        <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                        </tr><tr><td>1</td><td><a href="GO/MF_Level2.xls" target="_blank">Level2</a></td><td><a href="javascript:generate_go_detail_html('GO:0060089','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','1_Level2_GO 0060089_molecular transducer.txt');">GO:0060089</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0060089">molecular transducer activity</a></td><td>54</td><td>345</td><td>154</td><td>401</td><td><font color="red">1.27e-07</font></td><td>0.14</td><td>0.28</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>2</td><td><a href="GO/MF_Level3.xls" target="_blank">Level3</a></td><td><a href="javascript:generate_go_detail_html('GO:0004871','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','2_Level3_GO 0004871_signal transducer ac.txt');">GO:0004871</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0004871">signal transducer activity</a></td><td>54</td><td>345</td><td>154</td><td>401</td><td><font color="red">1.27e-07</font></td><td>0.14</td><td>0.28</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>3</td><td><a href="GO/MF_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0004872','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','3_Level4_GO 0004872_receptor activity.txt');">GO:0004872</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0004872">receptor activity</a></td><td>36</td><td>363</td><td>111</td><td>444</td><td><font color="red">2.92e-06</font></td><td>0.09</td><td>0.20</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>4</td><td><a href="GO/MF_Level5.xls" target="_blank">Level5</a></td><td><a href="javascript:generate_go_detail_html('GO:0004888','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','4_Level5_GO 0004888_transmembrane recept.txt');">GO:0004888</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0004888">transmembrane receptor activity</a></td><td>25</td><td>374</td><td>79</td><td>476</td><td><font color="red">8.50e-05</font></td><td>0.06</td><td>0.14</td><td bgcolor="#75FA95">0.4</td></tr><tr><td>5</td><td><a href="GO/MF_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0005102','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','5_Level4_GO 0005102_receptor binding.txt');">GO:0005102</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005102">receptor binding</a></td><td>44</td><td>355</td><td>114</td><td>441</td><td><font color="red">9.46e-05</font></td><td>0.11</td><td>0.21</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>6</td><td><a href="GO/MF_Level3.xls" target="_blank">Level3</a></td><td><a href="javascript:generate_go_detail_html('GO:0000166','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','6_Level3_GO 0000166_nucleotide binding.txt');">GO:0000166</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0000166">nucleotide binding</a></td><td>109</td><td>290</td><td>100</td><td>455</td><td><font color="red">8.34e-04</font></td><td>0.27</td><td>0.18</td><td bgcolor="#FA6161">1.5</td></tr><tr><td>7</td><td><a href="GO/MF_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0008026','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','7_Level4_GO 0008026_ATP -dependent helic.txt');">GO:0008026</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0008026">ATP\-dependent helicase activity</a></td><td>10</td><td>389</td><td>1</td><td>554</td><td><font color="red">1.05e-03</font></td><td>0.03</td><td>0.00</td><td bgcolor="#FA6161">13.9</td></tr><tr><td>8</td><td><a href="GO/MF_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0019955','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','8_Level4_GO 0019955_cytokine binding.txt');">GO:0019955</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0019955">cytokine binding</a></td><td>2</td><td>397</td><td>18</td><td>537</td><td><font color="red">2.57e-03</font></td><td>0.01</td><td>0.03</td><td bgcolor="#75FA95">0.2</td></tr><tr><td>9</td><td><a href="GO/MF_Level5.xls" target="_blank">Level5</a></td><td><a href="javascript:generate_go_detail_html('GO:0043566','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','9_Level5_GO 0043566_structure -specific .txt');">GO:0043566</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0043566">structure\-specific DNA binding</a></td><td>14</td><td>385</td><td>4</td><td>551</td><td><font color="red">2.71e-03</font></td><td>0.04</td><td>0.01</td><td bgcolor="#FA6161">4.9</td></tr><tr><td>10</td><td><a href="GO/MF_Level2.xls" target="_blank">Level2</a></td><td><a href="javascript:generate_go_detail_html('GO:0003824','Analysis_5__juhur/GO/MF_SelectedLevel_DIR/','10_Level2_GO 0003824_catalytic activity.txt');">GO:0003824</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0003824">catalytic activity</a></td><td>228</td><td>171</td><td>264</td><td>291</td><td><font color="red">3.86e-03</font></td><td>0.57</td><td>0.48</td><td bgcolor="#FA6161">1.2</td></tr></table>
+    				  <p class="smallText2"> Full result (<a href="GO/MF_SelectedLevel.html">HTML</a>), &nbsp;(<a href="GO/MF_SelectedLevel.txt">TXT</a>)&nbsp;&nbsp;&nbsp;(<a href="GO/MF_SelectedLevel.xls">EXCEL</a>)&nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;</p></span><br>
+    
+    					<span class="trigger" onclick="showBranch('branchGOMFFull');swapFolder('folderGOMFFull')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="50">
+										<img src="Images/closed.gif" id="folderGOMFFull" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName2">Top 10 most enriched <b>GO terms (Molecular Function -- Full GO)</b> (sorted by p-value)</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOMFFull">
+					    
+                    <a style="background-color:#F5CCF4;" class="titleBarName1" id='goTableSwitch' onclick="javascript:show_hide_column('MFFull','5_6_7_10');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+                    <table border="1" id="MFFull">
+                        <tr class="tableHeader1">
+                            <th width="40">
+		                            Rank
+		                        </th>
+		                        <th width="50" onmouseover="Tip('<b>Level</b>: Hierarchical level of the Gene Ontology tree structure.<br>Level2 has the most broaden meaning under three GO categories of Biological Processes, Molecular Functions, and Cellular Components.<br><br>Click Level to download an EXCEL file with all GO from the selected level.')" onmouseout="UnTip()">
+		                            Level
+		                        </th>
+		                        <th width="80" onmouseover="Tip('Click each GO ID to see the list of genes from the test and background set.<br><br>You may find this feature useful to retrieve all other genes that are not in your test set <br>when the background set is All HUGO gene set.')" onmouseout="UnTip()">
+		                            GO ID
+		                        </th>                            
+		                        <th width="300"onmouseover="Tip('Clich each GO term to see more detail on the selected term from the EBI QuickGO.')" onmouseout="UnTip()">
+		                            GO Term
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of genes <b>with</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t+
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of genes <b>without</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t-
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of genes <b>with</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b+
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of genes <b>without</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b-
+		                        </th>
+		                        <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                            p-value
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                            t-ratio
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                            b-ratio
+		                        </th>
+		                        <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                        </tr><tr><td>1</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0004871','Analysis_5__juhur/GO/MF_Full_DIR/','1_signal transducer activity.txt');">GO:0004871</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0004871">signal transducer activity</a></td><td>54</td><td>345</td><td>154</td><td>401</td><td><font color="red">1.27e-07</font></td><td>0.14</td><td>0.28</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>2</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0060089','Analysis_5__juhur/GO/MF_Full_DIR/','2_molecular transducer activity.txt');">GO:0060089</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0060089">molecular transducer activity</a></td><td>54</td><td>345</td><td>154</td><td>401</td><td><font color="red">1.27e-07</font></td><td>0.14</td><td>0.28</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>3</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0004872','Analysis_5__juhur/GO/MF_Full_DIR/','3_receptor activity.txt');">GO:0004872</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0004872">receptor activity</a></td><td>36</td><td>363</td><td>111</td><td>444</td><td><font color="red">2.92e-06</font></td><td>0.09</td><td>0.20</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>4</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0004888','Analysis_5__juhur/GO/MF_Full_DIR/','4_transmembrane receptor activity.txt');">GO:0004888</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0004888">transmembrane receptor activity</a></td><td>25</td><td>374</td><td>79</td><td>476</td><td><font color="red">8.50e-05</font></td><td>0.06</td><td>0.14</td><td bgcolor="#75FA95">0.4</td></tr><tr><td>5</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005102','Analysis_5__juhur/GO/MF_Full_DIR/','5_receptor binding.txt');">GO:0005102</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005102">receptor binding</a></td><td>44</td><td>355</td><td>114</td><td>441</td><td><font color="red">9.46e-05</font></td><td>0.11</td><td>0.21</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>6</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0000166','Analysis_5__juhur/GO/MF_Full_DIR/','6_nucleotide binding.txt');">GO:0000166</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0000166">nucleotide binding</a></td><td>109</td><td>290</td><td>100</td><td>455</td><td><font color="red">8.34e-04</font></td><td>0.27</td><td>0.18</td><td bgcolor="#FA6161">1.5</td></tr><tr><td>7</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0008026','Analysis_5__juhur/GO/MF_Full_DIR/','7_ATP -dependent helicase activity.txt');">GO:0008026</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0008026">ATP\-dependent helicase activity</a></td><td>10</td><td>389</td><td>1</td><td>554</td><td><font color="red">1.05e-03</font></td><td>0.03</td><td>0.00</td><td bgcolor="#FA6161">13.9</td></tr><tr><td>8</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0019955','Analysis_5__juhur/GO/MF_Full_DIR/','8_cytokine binding.txt');">GO:0019955</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0019955">cytokine binding</a></td><td>2</td><td>397</td><td>18</td><td>537</td><td><font color="red">2.57e-03</font></td><td>0.01</td><td>0.03</td><td bgcolor="#75FA95">0.2</td></tr><tr><td>9</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0043566','Analysis_5__juhur/GO/MF_Full_DIR/','9_structure -specific DNA binding.txt');">GO:0043566</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0043566">structure\-specific DNA binding</a></td><td>14</td><td>385</td><td>4</td><td>551</td><td><font color="red">2.71e-03</font></td><td>0.04</td><td>0.01</td><td bgcolor="#FA6161">4.9</td></tr><tr><td>10</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0003824','Analysis_5__juhur/GO/MF_Full_DIR/','10_catalytic activity.txt');">GO:0003824</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0003824">catalytic activity</a></td><td>228</td><td>171</td><td>264</td><td>291</td><td><font color="red">3.86e-03</font></td><td>0.57</td><td>0.48</td><td bgcolor="#FA6161">1.2</td></tr></table>
+    				  <p class="smallText2"> Full result (<a href="GO/MF_Full.html">HTML</a>), &nbsp;(<a href="GO/MF_SelectedLevel.txt">TXT</a>)&nbsp;&nbsp;&nbsp;(<a href="GO/MF_SelectedLevel.xls">EXCEL</a>)&nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;</p></span><br>
+    
+    					<span class="trigger" onclick="showBranch('branchGOMFExplicit');swapFolder('folderGOMFExplicit')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="50">
+										<img src="Images/closed.gif" id="folderGOMFExplicit" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName2">Top 10 most enriched <b>GO terms (Molecular Function -- Explicit GO)</b> (sorted by p-value)</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOMFExplicit">
+					    
+                    <a style="background-color:#F5CCF4;" class="titleBarName1" id='goTableSwitch' onclick="javascript:show_hide_column('MFExplicit','5_6_7_10');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+                    <table border="1" id="MFExplicit">
+                        <tr class="tableHeader1">
+                            <th width="40">
+		                            Rank
+		                        </th>
+		                        <th width="50" onmouseover="Tip('<b>Level</b>: Hierarchical level of the Gene Ontology tree structure.<br>Level2 has the most broaden meaning under three GO categories of Biological Processes, Molecular Functions, and Cellular Components.<br><br>Click Level to download an EXCEL file with all GO from the selected level.')" onmouseout="UnTip()">
+		                            Level
+		                        </th>
+		                        <th width="80" onmouseover="Tip('Click each GO ID to see the list of genes from the test and background set.<br><br>You may find this feature useful to retrieve all other genes that are not in your test set <br>when the background set is All HUGO gene set.')" onmouseout="UnTip()">
+		                            GO ID
+		                        </th>                            
+		                        <th width="300"onmouseover="Tip('Clich each GO term to see more detail on the selected term from the EBI QuickGO.')" onmouseout="UnTip()">
+		                            GO Term
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of genes <b>with</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t+
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of genes <b>without</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t-
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of genes <b>with</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b+
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of genes <b>without</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b-
+		                        </th>
+		                        <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                            p-value
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                            t-ratio
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                            b-ratio
+		                        </th>
+		                        <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                        </tr><tr><td>1</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0004872','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','1_receptor activity.txt');">GO:0004872</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0004872">receptor activity</a></td><td>23</td><td>376</td><td>73</td><td>482</td><td><font color="red">1.81e-04</font></td><td>0.06</td><td>0.13</td><td bgcolor="#75FA95">0.4</td></tr><tr><td>2</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0000166','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','2_nucleotide binding.txt');">GO:0000166</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0000166">nucleotide binding</a></td><td>80</td><td>319</td><td>70</td><td>485</td><td><font color="red">2.14e-03</font></td><td>0.20</td><td>0.13</td><td bgcolor="#FA6161">1.6</td></tr><tr><td>3</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0004386','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','3_helicase activity.txt');">GO:0004386</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0004386">helicase activity</a></td><td>7</td><td>392</td><td>0</td><td>555</td><td><font color="red">2.17e-03</font></td><td>0.02</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr><tr><td>4</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0003684','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','4_damaged DNA binding.txt');">GO:0003684</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0003684">damaged DNA binding</a></td><td>8</td><td>391</td><td>1</td><td>554</td><td><font color="red">5.11e-03</font></td><td>0.02</td><td>0.00</td><td bgcolor="#FA6161">11.1</td></tr><tr><td>5</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005319','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','5_lipid transporter activity.txt');">GO:0005319</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005319">lipid transporter activity</a></td><td>1</td><td>398</td><td>12</td><td>543</td><td><font color="red">1.06e-02</font></td><td>0.00</td><td>0.02</td><td bgcolor="#75FA95">0.1</td></tr><tr><td>6</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0008026','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','6_ATP -dependent helicase activity.txt');">GO:0008026</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0008026">ATP\-dependent helicase activity</a></td><td>7</td><td>392</td><td>1</td><td>554</td><td><font color="red">1.11e-02</font></td><td>0.02</td><td>0.00</td><td bgcolor="#FA6161">9.7</td></tr><tr><td>7</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0008408','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','7_3 -5 exonuclease activity.txt');">GO:0008408</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0008408">3'\-5' exonuclease activity</a></td><td>5</td><td>394</td><td>0</td><td>555</td><td><font color="red">1.26e-02</font></td><td>0.01</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr><tr><td>8</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0003677','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','8_DNA binding.txt');">GO:0003677</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0003677">DNA binding</a></td><td>66</td><td>333</td><td>61</td><td>494</td><td><font color="red">1.55e-02</font></td><td>0.17</td><td>0.11</td><td bgcolor="#FA6161">1.5</td></tr><tr><td>9</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005102','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','9_receptor binding.txt');">GO:0005102</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005102">receptor binding</a></td><td>1</td><td>398</td><td>11</td><td>544</td><td><font color="red">1.80e-02</font></td><td>0.00</td><td>0.02</td><td bgcolor="#75FA95">0.1</td></tr><tr><td>10</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0008009','Analysis_5__juhur/GO/MF_ExplicitOnly_DIR/','10_chemokine activity.txt');">GO:0008009</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0008009">chemokine activity</a></td><td>1</td><td>398</td><td>11</td><td>544</td><td><font color="red">1.80e-02</font></td><td>0.00</td><td>0.02</td><td bgcolor="#75FA95">0.1</td></tr></table>
+    				  <p class="smallText2"> Full result (<a href="GO/MF_ExplicitOnly.html">HTML</a>), &nbsp;(<a href="GO/MF_SelectedLevel.txt">TXT</a>)&nbsp;&nbsp;&nbsp;(<a href="GO/MF_SelectedLevel.xls">EXCEL</a>)&nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;</p></span></span><br>
+						<span class="trigger" onclick="showBranch('branchGOCC');swapFolder('folderGOCC')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="10">
+										<img src="Images/closed.gif" id="folderGOCC" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName3">Cellular Components</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOCC"><br>
+    
+    					<span class="trigger" onclick="showBranch('branchGOCCLevel');swapFolder('folderGOCCLevel')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="50">
+										<img src="Images/closed.gif" id="folderGOCCLevel" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName2">Top 10 most enriched <b>GO terms (Cellular Component -- Level 2~5)</b> (sorted by p-value)</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOCCLevel">
+					    
+                    <a style="background-color:#F5CCF4;" class="titleBarName1" id='goTableSwitch' onclick="javascript:show_hide_column('CCLevel','5_6_7_10');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+                    <table border="1" id="CCLevel">
+                        <tr class="tableHeader1">
+                            <th width="40">
+		                            Rank
+		                        </th>
+		                        <th width="50" onmouseover="Tip('<b>Level</b>: Hierarchical level of the Gene Ontology tree structure.<br>Level2 has the most broaden meaning under three GO categories of Biological Processes, Molecular Functions, and Cellular Components.<br><br>Click Level to download an EXCEL file with all GO from the selected level.')" onmouseout="UnTip()">
+		                            Level
+		                        </th>
+		                        <th width="80" onmouseover="Tip('Click each GO ID to see the list of genes from the test and background set.<br><br>You may find this feature useful to retrieve all other genes that are not in your test set <br>when the background set is All HUGO gene set.')" onmouseout="UnTip()">
+		                            GO ID
+		                        </th>                            
+		                        <th width="300"onmouseover="Tip('Clich each GO term to see more detail on the selected term from the EBI QuickGO.')" onmouseout="UnTip()">
+		                            GO Term
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of genes <b>with</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t+
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of genes <b>without</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t-
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of genes <b>with</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b+
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of genes <b>without</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b-
+		                        </th>
+		                        <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                            p-value
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                            t-ratio
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                            b-ratio
+		                        </th>
+		                        <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                        </tr><tr><td>1</td><td><a href="GO/CC_Level2.xls" target="_blank">Level2</a></td><td><a href="javascript:generate_go_detail_html('GO:0005576','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','1_Level2_GO 0005576_extracellular region.txt');">GO:0005576</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005576">extracellular region</a></td><td>67</td><td>332</td><td>150</td><td>405</td><td><font color="red">2.23e-04</font></td><td>0.17</td><td>0.27</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>2</td><td><a href="GO/CC_Level5.xls" target="_blank">Level5</a></td><td><a href="javascript:generate_go_detail_html('GO:0005886','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','2_Level5_GO 0005886_plasma membrane.txt');">GO:0005886</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005886">plasma membrane</a></td><td>82</td><td>317</td><td>173</td><td>382</td><td><font color="red">2.72e-04</font></td><td>0.21</td><td>0.31</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>3</td><td><a href="GO/CC_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0016020','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','3_Level4_GO 0016020_membrane.txt');">GO:0016020</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0016020">membrane</a></td><td>152</td><td>247</td><td>275</td><td>280</td><td><font color="red">4.70e-04</font></td><td>0.38</td><td>0.50</td><td bgcolor="#75FA95">0.8</td></tr><tr><td>4</td><td><a href="GO/CC_Level5.xls" target="_blank">Level5</a></td><td><a href="javascript:generate_go_detail_html('GO:0044425','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','4_Level5_GO 0044425_membrane part.txt');">GO:0044425</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0044425">membrane part</a></td><td>121</td><td>278</td><td>220</td><td>335</td><td><font color="red">3.24e-03</font></td><td>0.30</td><td>0.40</td><td bgcolor="#75FA95">0.8</td></tr><tr><td>5</td><td><a href="GO/CC_Level5.xls" target="_blank">Level5</a></td><td><a href="javascript:generate_go_detail_html('GO:0044424','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','5_Level5_GO 0044424_intracellular part.txt');">GO:0044424</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0044424">intracellular part</a></td><td>303</td><td>96</td><td>380</td><td>175</td><td><font color="red">1.33e-02</font></td><td>0.76</td><td>0.68</td><td bgcolor="#FA6161">1.1</td></tr><tr><td>6</td><td><a href="GO/CC_Level3.xls" target="_blank">Level3</a></td><td><a href="javascript:generate_go_detail_html('GO:0043227','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','6_Level3_GO 0043227_membrane -bounded or.txt');">GO:0043227</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0043227">membrane\-bounded organelle</a></td><td>236</td><td>163</td><td>283</td><td>272</td><td><font color="red">1.47e-02</font></td><td>0.59</td><td>0.51</td><td bgcolor="#FA6161">1.2</td></tr><tr><td>7</td><td><a href="GO/CC_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0005622','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','7_Level4_GO 0005622_intracellular.txt');">GO:0005622</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005622">intracellular</a></td><td>306</td><td>93</td><td>386</td><td>169</td><td><font color="red">1.53e-02</font></td><td>0.77</td><td>0.70</td><td bgcolor="#FA6161">1.1</td></tr><tr><td>8</td><td><a href="GO/CC_Level4.xls" target="_blank">Level4</a></td><td><a href="javascript:generate_go_detail_html('GO:0005615','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','8_Level4_GO 0005615_extracellular space.txt');">GO:0005615</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005615">extracellular space</a></td><td>36</td><td>363</td><td>77</td><td>478</td><td><font color="red">2.52e-02</font></td><td>0.09</td><td>0.14</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>9</td><td><a href="GO/CC_Level3.xls" target="_blank">Level3</a></td><td><a href="javascript:generate_go_detail_html('GO:0044421','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','9_Level3_GO 0044421_extracellular region.txt');">GO:0044421</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0044421">extracellular region part</a></td><td>42</td><td>357</td><td>86</td><td>469</td><td><font color="red">2.70e-02</font></td><td>0.11</td><td>0.15</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>10</td><td><a href="GO/CC_Level3.xls" target="_blank">Level3</a></td><td><a href="javascript:generate_go_detail_html('GO:0044422','Analysis_5__juhur/GO/CC_SelectedLevel_DIR/','10_Level3_GO 0044422_organelle part.txt');">GO:0044422</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0044422">organelle part</a></td><td>129</td><td>270</td><td>145</td><td>410</td><td><font color="red">4.22e-02</font></td><td>0.32</td><td>0.26</td><td bgcolor="#FA6161">1.2</td></tr></table>
+    				  <p class="smallText2"> Full result (<a href="GO/CC_SelectedLevel.html">HTML</a>), &nbsp;(<a href="GO/CC_SelectedLevel.txt">TXT</a>)&nbsp;&nbsp;&nbsp;(<a href="GO/CC_SelectedLevel.xls">EXCEL</a>)&nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;</p></span><br>
+    
+    					<span class="trigger" onclick="showBranch('branchGOCCFull');swapFolder('folderGOCCFull')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="50">
+										<img src="Images/closed.gif" id="folderGOCCFull" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName2">Top 10 most enriched <b>GO terms (Cellular Component -- Full GO)</b> (sorted by p-value)</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOCCFull">
+					    
+                    <a style="background-color:#F5CCF4;" class="titleBarName1" id='goTableSwitch' onclick="javascript:show_hide_column('CCFull','5_6_7_10');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+                    <table border="1" id="CCFull">
+                        <tr class="tableHeader1">
+                            <th width="40">
+		                            Rank
+		                        </th>
+		                        <th width="50" onmouseover="Tip('<b>Level</b>: Hierarchical level of the Gene Ontology tree structure.<br>Level2 has the most broaden meaning under three GO categories of Biological Processes, Molecular Functions, and Cellular Components.<br><br>Click Level to download an EXCEL file with all GO from the selected level.')" onmouseout="UnTip()">
+		                            Level
+		                        </th>
+		                        <th width="80" onmouseover="Tip('Click each GO ID to see the list of genes from the test and background set.<br><br>You may find this feature useful to retrieve all other genes that are not in your test set <br>when the background set is All HUGO gene set.')" onmouseout="UnTip()">
+		                            GO ID
+		                        </th>                            
+		                        <th width="300"onmouseover="Tip('Clich each GO term to see more detail on the selected term from the EBI QuickGO.')" onmouseout="UnTip()">
+		                            GO Term
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of genes <b>with</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t+
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of genes <b>without</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t-
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of genes <b>with</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b+
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of genes <b>without</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b-
+		                        </th>
+		                        <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                            p-value
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                            t-ratio
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                            b-ratio
+		                        </th>
+		                        <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                        </tr><tr><td>1</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005576','Analysis_5__juhur/GO/CC_Full_DIR/','1_extracellular region.txt');">GO:0005576</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005576">extracellular region</a></td><td>67</td><td>332</td><td>150</td><td>405</td><td><font color="red">2.23e-04</font></td><td>0.17</td><td>0.27</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>2</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005886','Analysis_5__juhur/GO/CC_Full_DIR/','2_plasma membrane.txt');">GO:0005886</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005886">plasma membrane</a></td><td>82</td><td>317</td><td>173</td><td>382</td><td><font color="red">2.72e-04</font></td><td>0.21</td><td>0.31</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>3</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0016020','Analysis_5__juhur/GO/CC_Full_DIR/','3_membrane.txt');">GO:0016020</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0016020">membrane</a></td><td>152</td><td>247</td><td>275</td><td>280</td><td><font color="red">4.70e-04</font></td><td>0.38</td><td>0.50</td><td bgcolor="#75FA95">0.8</td></tr><tr><td>4</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0031224','Analysis_5__juhur/GO/CC_Full_DIR/','4_intrinsic to membrane.txt');">GO:0031224</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0031224">intrinsic to membrane</a></td><td>94</td><td>305</td><td>189</td><td>366</td><td><font color="red">5.50e-04</font></td><td>0.24</td><td>0.34</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>5</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0016021','Analysis_5__juhur/GO/CC_Full_DIR/','5_integral to membrane.txt');">GO:0016021</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0016021">integral to membrane</a></td><td>93</td><td>306</td><td>183</td><td>372</td><td><font color="red">1.14e-03</font></td><td>0.23</td><td>0.33</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>6</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0044459','Analysis_5__juhur/GO/CC_Full_DIR/','6_plasma membrane part.txt');">GO:0044459</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0044459">plasma membrane part</a></td><td>62</td><td>337</td><td>133</td><td>422</td><td><font color="red">1.48e-03</font></td><td>0.16</td><td>0.24</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>7</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005887','Analysis_5__juhur/GO/CC_Full_DIR/','7_integral to plasma membrane.txt');">GO:0005887</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005887">integral to plasma membrane</a></td><td>41</td><td>358</td><td>97</td><td>458</td><td><font color="red">2.00e-03</font></td><td>0.10</td><td>0.17</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>8</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0031226','Analysis_5__juhur/GO/CC_Full_DIR/','8_intrinsic to plasma membrane.txt');">GO:0031226</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0031226">intrinsic to plasma membrane</a></td><td>42</td><td>357</td><td>98</td><td>457</td><td><font color="red">2.16e-03</font></td><td>0.11</td><td>0.18</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>9</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0044425','Analysis_5__juhur/GO/CC_Full_DIR/','9_membrane part.txt');">GO:0044425</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0044425">membrane part</a></td><td>121</td><td>278</td><td>220</td><td>335</td><td><font color="red">3.24e-03</font></td><td>0.30</td><td>0.40</td><td bgcolor="#75FA95">0.8</td></tr><tr><td>10</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005739','Analysis_5__juhur/GO/CC_Full_DIR/','10_mitochondrion.txt');">GO:0005739</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005739">mitochondrion</a></td><td>72</td><td>327</td><td>65</td><td>490</td><td><font color="red">6.63e-03</font></td><td>0.18</td><td>0.12</td><td bgcolor="#FA6161">1.5</td></tr></table>
+    				  <p class="smallText2"> Full result (<a href="GO/CC_Full.html">HTML</a>), &nbsp;(<a href="GO/CC_Full.txt">TXT</a>)&nbsp;&nbsp;&nbsp;(<a href="GO/CC_Full.xls">EXCEL</a>)&nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;</p></span><br>
+    
+    					<span class="trigger" onclick="showBranch('branchGOCCExplicit');swapFolder('folderGOCCExplicit')">
+							<table width="100%" border="0" onmouseover="Tip('Click here to hide/show the detail!')" onmouseout="UnTip()">
+								<tr>
+									<td width="50">
+										<img src="Images/closed.gif" id="folderGOCCExplicit" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName2">Top 10 most enriched <b>GO terms (Cellular Component -- Explicit GO)</b> (sorted by p-value)</p>
+									</td>
+								</tr>
+							</table>
+						</span>
+			
+					    <span style="display:none;" class="branch" id="branchGOCCExplicit">
+					    
+                    <a style="background-color:#F5CCF4;" class="titleBarName1" id='goTableSwitch' onclick="javascript:show_hide_column('CCExplicit','5_6_7_10');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+                    <table border="1" id="CCExplicit">
+                        <tr class="tableHeader1">
+                            <th width="40">
+		                            Rank
+		                        </th>
+		                        <th width="50" onmouseover="Tip('<b>Level</b>: Hierarchical level of the Gene Ontology tree structure.<br>Level2 has the most broaden meaning under three GO categories of Biological Processes, Molecular Functions, and Cellular Components.<br><br>Click Level to download an EXCEL file with all GO from the selected level.')" onmouseout="UnTip()">
+		                            Level
+		                        </th>
+		                        <th width="80" onmouseover="Tip('Click each GO ID to see the list of genes from the test and background set.<br><br>You may find this feature useful to retrieve all other genes that are not in your test set <br>when the background set is All HUGO gene set.')" onmouseout="UnTip()">
+		                            GO ID
+		                        </th>                            
+		                        <th width="300"onmouseover="Tip('Clich each GO term to see more detail on the selected term from the EBI QuickGO.')" onmouseout="UnTip()">
+		                            GO Term
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of genes <b>with</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t+
+		                        </th>
+		                        <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of genes <b>without</b> the selected GO in the <b>test</b> set.')" onmouseout="UnTip()">
+		                            t-
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of genes <b>with</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b+
+		                        </th>
+		                        <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of genes <b>without</b> the selected GO in the <b>background</b> set.')" onmouseout="UnTip()">
+		                            b-
+		                        </th>
+		                        <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                            p-value
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                            t-ratio
+		                        </th>
+		                        <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                            b-ratio
+		                        </th>
+		                        <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+                        </tr><tr><td>1</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005886','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','1_plasma membrane.txt');">GO:0005886</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005886">plasma membrane</a></td><td>39</td><td>360</td><td>113</td><td>442</td><td><font color="red">9.55e-06</font></td><td>0.10</td><td>0.20</td><td bgcolor="#75FA95">0.5</td></tr><tr><td>2</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005576','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','2_extracellular region.txt');">GO:0005576</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005576">extracellular region</a></td><td>59</td><td>340</td><td>140</td><td>415</td><td><font color="red">9.92e-05</font></td><td>0.15</td><td>0.25</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>3</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0016020','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','3_membrane.txt');">GO:0016020</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0016020">membrane</a></td><td>111</td><td>288</td><td>216</td><td>339</td><td><font color="red">4.14e-04</font></td><td>0.28</td><td>0.39</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>4</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005739','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','4_mitochondrion.txt');">GO:0005739</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005739">mitochondrion</a></td><td>72</td><td>327</td><td>61</td><td>494</td><td><font color="red">2.36e-03</font></td><td>0.18</td><td>0.11</td><td bgcolor="#FA6161">1.6</td></tr><tr><td>5</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005887','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','5_integral to plasma membrane.txt');">GO:0005887</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005887">integral to plasma membrane</a></td><td>37</td><td>362</td><td>87</td><td>468</td><td><font color="red">4.50e-03</font></td><td>0.09</td><td>0.16</td><td bgcolor="#75FA95">0.6</td></tr><tr><td>6</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0016021','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','6_integral to membrane.txt');">GO:0016021</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0016021">integral to membrane</a></td><td>73</td><td>326</td><td>137</td><td>418</td><td><font color="red">2.15e-02</font></td><td>0.18</td><td>0.25</td><td bgcolor="#75FA95">0.7</td></tr><tr><td>7</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005829','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','7_cytosol.txt');">GO:0005829</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005829">cytosol</a></td><td>43</td><td>356</td><td>38</td><td>517</td><td><font color="red">3.43e-02</font></td><td>0.11</td><td>0.07</td><td bgcolor="#FA6161">1.6</td></tr><tr><td>8</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0000781','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','8_chromosome telomeric region.txt');">GO:0000781</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0000781">chromosome\, telomeric region</a></td><td>3</td><td>396</td><td>0</td><td>555</td><td>7.28e-02</td><td>0.01</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr><tr><td>9</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0016607','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','9_nuclear speck.txt');">GO:0016607</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0016607">nuclear speck</a></td><td>3</td><td>396</td><td>0</td><td>555</td><td>7.28e-02</td><td>0.01</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr><tr><td>10</td><td>&nbsp;</td><td><a href="javascript:generate_go_detail_html('GO:0005615','Analysis_5__juhur/GO/CC_ExplicitOnly_DIR/','10_extracellular space.txt');">GO:0005615</a></td><td><a href="http://www.ebi.ac.uk/ego/GTerm?id=GO:0005615">extracellular space</a></td><td>35</td><td>364</td><td>70</td><td>485</td><td>7.43e-02</td><td>0.09</td><td>0.13</td><td bgcolor="#75FA95">0.7</td></tr></table>
+    				  <p class="smallText2"> Full result (<a href="GO/CC_ExplicitOnly.html">HTML</a>), &nbsp;(<a href="GO/CC_ExplicitOnly.txt">TXT</a>)&nbsp;&nbsp;&nbsp;(<a href="GO/CC_ExplicitOnly.xls">EXCEL</a>)&nbsp;&nbsp;<a href="#TOP">Back to top</a>&nbsp;</p></span>
+        			  </span>
+        			  </span>
+        			    <p>&nbsp;</p><a name="MeSHEnrichment"></a><hr>
+						        
+						        <div class="trigger" onclick="showBranch('branchMeSH');swapFolder('folderMeSH')">
+									<table width="100%" border="0" onmouseover="Tip('<b>Click here to hide/show the detail of MeSH Terms!</b>')" onmouseout="UnTip()">
+										<tr>
+											<td width="10">
+												<img src="Images/closed.gif" id="folderMeSH" border="0">
+											</td>
+											<td>
+												<p align="center" class="sectionTitleName1">MeSH Terms Enrichment</p>
+											</td>
+										</tr>
+									</table>
+								</div>
+		
+								<span style="display:none;" class="branch" id="branchMeSH">
+						        
+						        <p class="titleBarName1">Here are the top 10 most enriched MeSH terms in the target query corpus. You may click each MeSH term to view the details at the NCBI MeSH browser.</p>
+						        <p align="center" class="sectionTitleName2">Top 10 most enriched <b>MeSH terms</b> (sorted by p-value)</p>
+						        <table border="0"  id="top10MeSHStatus">
+									<tr class='titleBarName1'>
+										<th width='100' onmouseover="Tip('Click here to view document list.</b>')" onmouseout="UnTip()">
+											corpus size :
+										</th>
+										<td width='60' onmouseover="Tip('Click here to view document list.</b>')" onmouseout="UnTip()">
+											<a href="../Query_15__juhur/pmidList.html">172</a>
+										</td>
+										<th width='100' onmouseover="Tip('Click here to view document list.</b>')" onmouseout="UnTip()">
+											Background :
+										</th>
+										<td width='60' onmouseover="Tip('Click here to view document list.</b>')" onmouseout="UnTip()">
+											<a href="../Query_16__juhur/pmidList.html">168</a>
+										</td>
+										<th width='300' style='text-align= right;'>
+											<a style="background-color:#F5CCF4;" id='meshTableSwitch' onclick="javascript:show_hide_column('top10MeSHTableLong','3_4_5_6_7_8_11');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+										</th>
+									</tr>
+								</table>
+						        
+						        <table border="1" id="top10MeSHTableLong">
+		                            <tr class="titleBarName1">
+		                                <th width="40">
+		                                    Rank
+		                                </th>
+		                                <th width="255" onmouseover="Tip('Click each term to view the <b>MeSH term detail</b>.')" onmouseout="UnTip()">
+		                                    MeSH Term
+		                                </th>
+		                                <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of papers <b>with</b> the selected MeSH term in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    t+
+		                                </th>
+		                                <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of papers <b>without</b> the selected MeSH term in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    t-
+		                                </th>
+		                                <th width="45" bgcolor="#F3F798" onmouseover="Tip('</b>t+ uniq</t>: # of papers <b>with</b> the selected MeSH term and only in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    t+<br>uniq
+		                                </th>
+		                                <th width="45" bgcolor="#F3F798" onmouseover="Tip('</b>common</t>: # of papers <b>with</b> the selected MeSH term and <b>common</b> in <b>test</b>  and <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    com<br>mon
+		                                </th>
+		                                <th width="45" bgcolor="#F3F798" onmouseover="Tip('</b>b+ uniq</t>: # of papers <b>with</b> the selected MeSH term and only in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    b+<br>uniq
+		                                </th>
+		                                <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of papers <b>with</b> the selected MeSH term in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    b+
+		                                </th>
+		                                <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of papers <b>without</b> the selected MeSH term in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    b-
+		                                </th>
+		                                <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                                    p-value            
+		                                </th>
+		                                <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                                    t-ratio
+		                                </th>
+		                                <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                                    b-ratio
+		                                </th>
+		                                <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>
+		                            </tr><tr><td width="40">1</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Reactive Oxygen Species">Reactive Oxygen Species</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('104','t_plus','2','Analysis_5__juhur','Query_15__juhur','9541','Reactive Oxygen Species');">104</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('68','t_minus','3','Analysis_5__juhur','Query_15__juhur','9541','Reactive Oxygen Species');">68</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('103','t_uniq','4','Analysis_5__juhur','Query_15__juhur','9541','Reactive Oxygen Species');">103</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('1','common','5','Analysis_5__juhur','Query_15__juhur','9541','Reactive Oxygen Species');">1</a></td><td width="50">0</td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('1','b_plus','7','Analysis_5__juhur','Query_16__juhur','9541','Reactive Oxygen Species');">1</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('167','b_minus','8','Analysis_5__juhur','Query_16__juhur','9541','Reactive Oxygen Species');">167</a></td><td width="70"><font color="red">1.63e-39</font></td><td width="50">0.60</td><td width="50">0.01</td><td bgcolor="#FA6161">101.6</td></tr>
+<tr><td width="40">2</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Mitochondria">Mitochondria</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('33','t_plus','2','Analysis_5__juhur','Query_15__juhur','1249','Mitochondria');">33</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('139','t_minus','3','Analysis_5__juhur','Query_15__juhur','1249','Mitochondria');">139</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('33','t_uniq','4','Analysis_5__juhur','Query_15__juhur','1249','Mitochondria');">33</a></td><td width="50">0</td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('3','b_uniq','6','Analysis_5__juhur','Query_16__juhur','1249','Mitochondria');">3</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('3','b_plus','7','Analysis_5__juhur','Query_16__juhur','1249','Mitochondria');">3</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('165','b_minus','8','Analysis_5__juhur','Query_16__juhur','1249','Mitochondria');">165</a></td><td width="70"><font color="red">5.80e-08</font></td><td width="50">0.19</td><td width="50">0.02</td><td bgcolor="#FA6161">10.7</td></tr>
+<tr><td width="40">3</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Oxidation-Reduction">Oxidation-Reduction</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('27','t_plus','2','Analysis_5__juhur','Query_15__juhur','21748','Oxidation-Reduction');">27</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('145','t_minus','3','Analysis_5__juhur','Query_15__juhur','21748','Oxidation-Reduction');">145</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('26','t_uniq','4','Analysis_5__juhur','Query_15__juhur','21748','Oxidation-Reduction');">26</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('1','common','5','Analysis_5__juhur','Query_15__juhur','21748','Oxidation-Reduction');">1</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('2','b_uniq','6','Analysis_5__juhur','Query_16__juhur','21748','Oxidation-Reduction');">2</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('3','b_plus','7','Analysis_5__juhur','Query_16__juhur','21748','Oxidation-Reduction');">3</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('165','b_minus','8','Analysis_5__juhur','Query_16__juhur','21748','Oxidation-Reduction');">165</a></td><td width="70"><font color="red">3.60e-06</font></td><td width="50">0.16</td><td width="50">0.02</td><td bgcolor="#FA6161">8.8</td></tr>
+<tr><td width="40">4</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Oxidative Stress">Oxidative Stress</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('59','t_plus','2','Analysis_5__juhur','Query_15__juhur','21769','Oxidative Stress');">59</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('113','t_minus','3','Analysis_5__juhur','Query_15__juhur','21769','Oxidative Stress');">113</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('56','t_uniq','4','Analysis_5__juhur','Query_15__juhur','21769','Oxidative Stress');">56</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('3','common','5','Analysis_5__juhur','Query_15__juhur','21769','Oxidative Stress');">3</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('19','b_uniq','6','Analysis_5__juhur','Query_16__juhur','21769','Oxidative Stress');">19</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('22','b_plus','7','Analysis_5__juhur','Query_16__juhur','21769','Oxidative Stress');">22</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('146','b_minus','8','Analysis_5__juhur','Query_16__juhur','21769','Oxidative Stress');">146</a></td><td width="70"><font color="red">3.99e-06</font></td><td width="50">0.34</td><td width="50">0.13</td><td bgcolor="#FA6161">2.6</td></tr>
+<tr><td width="40">5</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Superoxide Dismutase">Superoxide Dismutase</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('69','t_plus','2','Analysis_5__juhur','Query_15__juhur','14064','Superoxide Dismutase');">69</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('103','t_minus','3','Analysis_5__juhur','Query_15__juhur','14064','Superoxide Dismutase');">103</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('69','t_uniq','4','Analysis_5__juhur','Query_15__juhur','14064','Superoxide Dismutase');">69</a></td><td width="50">0</td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('35','b_uniq','6','Analysis_5__juhur','Query_16__juhur','14064','Superoxide Dismutase');">35</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('35','b_plus','7','Analysis_5__juhur','Query_16__juhur','14064','Superoxide Dismutase');">35</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('133','b_minus','8','Analysis_5__juhur','Query_16__juhur','14064','Superoxide Dismutase');">133</a></td><td width="70"><font color="red">1.52e-04</font></td><td width="50">0.40</td><td width="50">0.21</td><td bgcolor="#FA6161">1.9</td></tr>
+<tr><td width="40">6</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Microglia">Microglia</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('4','t_plus','2','Analysis_5__juhur','Query_15__juhur','753','Microglia');">4</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('168','t_minus','3','Analysis_5__juhur','Query_15__juhur','753','Microglia');">168</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('3','t_uniq','4','Analysis_5__juhur','Query_15__juhur','753','Microglia');">3</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('1','common','5','Analysis_5__juhur','Query_15__juhur','753','Microglia');">1</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('21','b_uniq','6','Analysis_5__juhur','Query_16__juhur','753','Microglia');">21</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('22','b_plus','7','Analysis_5__juhur','Query_16__juhur','753','Microglia');">22</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('146','b_minus','8','Analysis_5__juhur','Query_16__juhur','753','Microglia');">146</a></td><td width="70"><font color="red">1.59e-04</font></td><td width="50">0.02</td><td width="50">0.13</td><td bgcolor="#75FA95">0.2</td></tr>
+<tr><td width="40">7</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Lipid Peroxidation">Lipid Peroxidation</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('13','t_plus','2','Analysis_5__juhur','Query_15__juhur','21749','Lipid Peroxidation');">13</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('159','t_minus','3','Analysis_5__juhur','Query_15__juhur','21749','Lipid Peroxidation');">159</a></td><td width="50">0</td><td width="50">0</td><td width="50">0</td><td width="50">0</td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('168','b_minus','8','Analysis_5__juhur','Query_16__juhur','21749','Lipid Peroxidation');">168</a></td><td width="70"><font color="red">1.95e-04</font></td><td width="50">0.08</td><td width="50">0.00</td><td bgcolor="#FA6161">bZero</td></tr>
+<tr><td width="40">8</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Inflammation Mediators">Inflammation Mediators</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('1','t_plus','2','Analysis_5__juhur','Query_15__juhur','17379','Inflammation Mediators');">1</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('171','t_minus','3','Analysis_5__juhur','Query_15__juhur','17379','Inflammation Mediators');">171</a></td><td width="50">0</td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('1','common','5','Analysis_5__juhur','Query_15__juhur','17379','Inflammation Mediators');">1</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('12','b_uniq','6','Analysis_5__juhur','Query_16__juhur','17379','Inflammation Mediators');">12</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('13','b_plus','7','Analysis_5__juhur','Query_16__juhur','17379','Inflammation Mediators');">13</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('155','b_minus','8','Analysis_5__juhur','Query_16__juhur','17379','Inflammation Mediators');">155</a></td><td width="70"><font color="red">6.97e-04</font></td><td width="50">0.01</td><td width="50">0.08</td><td bgcolor="#75FA95">0.1</td></tr>
+<tr><td width="40">9</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Disease Models, Animal">Disease Models, Animal</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('12','t_plus','2','Analysis_5__juhur','Query_15__juhur','9040','Disease Models, Animal');">12</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('160','t_minus','3','Analysis_5__juhur','Query_15__juhur','9040','Disease Models, Animal');">160</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('11','t_uniq','4','Analysis_5__juhur','Query_15__juhur','9040','Disease Models, Animal');">11</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('1','common','5','Analysis_5__juhur','Query_15__juhur','9040','Disease Models, Animal');">1</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('30','b_uniq','6','Analysis_5__juhur','Query_16__juhur','9040','Disease Models, Animal');">30</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('31','b_plus','7','Analysis_5__juhur','Query_16__juhur','9040','Disease Models, Animal');">31</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('137','b_minus','8','Analysis_5__juhur','Query_16__juhur','9040','Disease Models, Animal');">137</a></td><td width="70"><font color="red">1.74e-03</font></td><td width="50">0.07</td><td width="50">0.18</td><td bgcolor="#75FA95">0.4</td></tr>
+<tr><td width="40">10</td><td width="255"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?holding=&db=MeSH&cmd=search&term=Antioxidants">Antioxidants</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('24','t_plus','2','Analysis_5__juhur','Query_15__juhur','17498','Antioxidants');">24</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('148','t_minus','3','Analysis_5__juhur','Query_15__juhur','17498','Antioxidants');">148</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('23','t_uniq','4','Analysis_5__juhur','Query_15__juhur','17498','Antioxidants');">23</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('1','common','5','Analysis_5__juhur','Query_15__juhur','17498','Antioxidants');">1</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('6','b_uniq','6','Analysis_5__juhur','Query_16__juhur','17498','Antioxidants');">6</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('7','b_plus','7','Analysis_5__juhur','Query_16__juhur','17498','Antioxidants');">7</a></td><td width="50"><a href="javascript:generate_pmid_list_from_mesh_html('161','b_minus','8','Analysis_5__juhur','Query_16__juhur','17498','Antioxidants');">161</a></td><td width="70"><font color="red">2.16e-03</font></td><td width="50">0.14</td><td width="50">0.04</td><td bgcolor="#FA6161">3.3</td></tr>
+</table><p class="titleBarName1"> 
+            					Full result (<a href="MeSHEnrichmentResult.html">HTML</a>,&nbsp;&nbsp;
+            							     <a href="MeSHEnrichmentResult.txt">TXT</a>,&nbsp;&nbsp;
+                                			 <a href="MeSHEnrichmentResult.xls">EXCEL</a>)&nbsp;&nbsp;
+                                <a href="#TOP">Back to top</a>&nbsp;
+                          </p>
+                          </span>	<a name="PathwayEnrichment"></a>
+						<p>&nbsp;</p>
+    					<hr>
+						
+						<div class="trigger" onclick="showBranch('branchPathway');swapFolder('folderPathway')">
+							<table width="100%" border="0" onmouseover="Tip('<b>Click here to hide/show the detail of Pathways!</b>')" onmouseout="UnTip()">
+								<tr>
+									<td width="10">
+										<img src="Images/closed.gif" id="folderPathway" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName1">Pathway Enrichment</p>
+									</td>
+								</tr>
+							</table>
+						</div>
+
+						<span style="display:none;" class="branch" id="branchPathway">
+
+				        <p class="titleBarName1">The following table summarizes those targets that were used in this pathway enrichment analysis. Pathway information are derived from <a href="http://www.genome.jp/kegg/"><b>KEGG</b></a> and <a href="http://www.reactome.org/"><b>Reactome</b></a> databases for each target.</p>
+					  		
+					  		<table border="1">
+                                <tr class="titleBarName1">
+                                    <th width="100">
+                                        &nbsp;
+                                    </th>
+                                    <th width="100" onmouseover="Tip('The number of targets from the test and background set.')" onmouseout="UnTip()">
+                                        # of targets
+                                    </th>
+                                    <th width="200" onmouseover="Tip('The number of targets having any pathway (KEGG or Reactome) information assigned.<br><b>Note that not all targets have pathway information available</b>.')" onmouseout="UnTip()">
+                                        # of Targets with pathway info
+                                    </th>
+                                    <th width="150" onmouseover="Tip('The number of unique pathways from the targets')" onmouseout="UnTip()">
+                                        # of unique pathways
+                                    </th>
+                                </tr>
+                                
+                                <tr class="titleBarName1">
+                                <th onmouseover="Tip('This corresponds to the targets from the Target Query # above.')" onmouseout="UnTip()">
+                                    Tested set
+                                </th>
+<td>
+                                        &nbsp;399
+                                  </td><td>
+                                        &nbsp;276
+                                  </td><td>
+                                        &nbsp;534
+                                  </td>
+                                </tr><tr class="titleBarName1">
+                                    <th onmouseover="Tip('This corresponds to the targets from the Background Query # above.')" onmouseout="UnTip()">
+                                        Background set
+                                    </th>
+<td>
+                                            &nbsp;555
+                                      </td><td>
+                                            &nbsp;392
+                                      </td><td>
+                                            &nbsp;496
+                                      </td>
+                                    </tr></table>	<p class="titleBarName1">More full results are available.<br>
+        			  	<table border="1">
+							<tr class="titleBarName1">
+								<th>
+									Test set (all in text file format)
+								</th>
+								<th onmouseover="Tip('Click here to view assigned pathways for each target.')" onmouseout="UnTip()">
+									<a href="Pathway/TEST.Pathway.txt">Pathway assignment</a>
+								</th>
+								<th onmouseover="Tip('This file provides an intuitive table view of target vs pathway as in the example. <br><br><img src=&quot;../../ImagesBig/MatrixType1.jpg&quot;><br><br>It is recommended that this file be downloaded and opened in the MS Excel.')" onmouseout="UnTip()">
+									<a href="Pathway/TEST.Pathway.txtMatrix1.txt">Matrix_Type1</a>
+								</th>
+								<th onmouseover="Tip('This file provides an intuitive table view of target vs pathway as in the example. <br>Instead of * in the Matrix_Type1, number 1 and 0 are used in the matrix. <br>With a minor modification, this matrix data can be used in the clustering program like Cluster <br>if you would like cluster those pathways by associated targets.<br><br><img src=&quot;../../ImagesBig/MatrixType2.jpg&quot;><br><br>It is recommended that this file be downloaded and opened in the MS Excel.')" onmouseout="UnTip()">
+									<a href="Pathway/TEST.Pathway.txtMatrix2.txt">Matrix_Type2</a>
+								</th>
+							</tr>
+							<tr class="titleBarName1">
+								<th>
+									Background set (all in text file format)
+								</th>
+								<th onmouseover="Tip('Click here to view assigned pathways for each target.')" onmouseout="UnTip()">
+									<a href="Pathway/BACKGROUND.Pathway.txt">Pathway assignment</a>
+								</th>
+								<th onmouseover="Tip('This file provides an intuitive table view of target vs pathway as in the example. <br><br><img src=&quot;../../ImagesBig/MatrixType1.jpg&quot;><br><br>It is recommended that this file be downloaded and opened in the MS Excel.')" onmouseout="UnTip()">
+									<a href="Pathway/BACKGROUND.Pathway.txtMatrix1.txt">Matrix_Type1</a>
+								</th>
+								<th onmouseover="Tip('This file provides an intuitive table view of target vs pathway as in the example. <br>Instead of * in the Matrix_Type1, number 1 and 0 are used in the matrix. <br>With a minor modification, this matrix data can be used in the clustering program like Cluster <br>if you would like cluster those pathways by associated targets.<br><br><img src=&quot;../../ImagesBig/MatrixType2.jpg&quot;><br><br>It is recommended that this file be downloaded and opened in the MS Excel.')" onmouseout="UnTip()">
+									<a href="Pathway/BACKGROUND.Pathway.txtMatrix2.txt">Matrix_Type2</a>
+								</th>
+							</tr>
+						</table>
+						<a href="#TOP">Back to top</a></p>  
+						        <p align="center" class="sectionTitleName2">Top 10 most enriched <b>Pathways</b> (sorted by p-value)</p>
+						        <p class="titleBarName1">Here are the top 10 most enriched pathways in the target query corpus. You may click each pathway ID or name to view the details at either <a href="http://www.genome.jp/kegg/">KEGG</a> or <a href="http://www.reactome.org/">Reactome</a> databases.</p>
+						        
+						        <table border="0"  id="top10PathwayStatus">
+									<tr class='titleBarName1'>
+										<th width='150' onmouseover="Tip('Click the number to view the details.')" onmouseout="UnTip()">
+											# of targets in test set
+										</th>
+										<td width='60' onmouseover="Tip('Click the number to view the details.')" onmouseout="UnTip()">
+											<a href="../Query_15__juhur/geneSummary.html">399</a>
+										</td>
+										<th width='200' onmouseover="Tip('Click the number to view the details.')" onmouseout="UnTip()">
+											# of targets in background set
+										</th>
+										<td width='60' onmouseover="Tip('Click the number to view the details.')" onmouseout="UnTip()">
+											<a href="../Query_16__juhur/geneSummary.html">555</a>
+										</td>
+										<th width='300' style='text-align= right;'>
+											<a style="background-color:#F5CCF4;" id='pathwayTableSwitch' onclick="javascript:show_hide_column('top10PathwayTableLong','4_5_6_7_8_9_12_13');" onmouseover="Tip('Click here to toggle table details.')" onmouseout="UnTip()"><u>Switch table detail</u></a>
+										</th>
+									</tr>
+								</table>
+						        
+						        
+						        
+		                        <table border="1" id="top10PathwayTableLong">
+		                            <tr class="titleBarName1">
+		                        		<th width="40">
+		                                    Rank
+		                                </th>
+		                                <th width="80" onmouseover="Tip('<b>PathwayID</b>: Unique pathway ID from the original source database.')" onmouseout="UnTip()">
+		                                    PathwayID
+		                                </th>
+		                                <th width="260" onmouseover="Tip('<b>Title</b>: Name of the pathway from the original source database.')" onmouseout="UnTip()">
+		                                    Title
+		                                </th>
+		                                <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t+</t>: # of targets <b>with</b> the selected Pathway in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    t+
+		                                </th>
+		                                <th width="50" bgcolor="#FA6161" onmouseover="Tip('</b>t-</t>: # of targets <b>without</b> the selected Pathway in the <b>test</b> set.<br>Click each number to view a detailed paper list.'ALS ROS)" onmouseout="UnTip()">
+		                                    t-
+		                                </th>
+		                                <th width="45" bgcolor="#F3F798" onmouseover="Tip('</b>t+ uniq</t>: # of targets <b>with</b> the selected Pathway and only in the <b>test</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    t+<br>uniq
+		                                </th>
+		                                <th width="45" bgcolor="#F3F798" onmouseover="Tip('</b>common</t>: # of targets <b>with</b> the selected Pathway and <b>common</b> in <b>test</b>  and <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    com<br>mon
+		                                </th>
+		                                <th width="45" bgcolor="#F3F798" onmouseover="Tip('</b>b+ uniq</t>: # of targets <b>with</b> the selected Pathway and only in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    b+<br>uniq
+		                                </th>
+		                                <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b+</t>: # of targets <b>with</b> the selected Pathway in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    b+
+		                                </th>
+		                                <th width="50" bgcolor="#75FA95" onmouseover="Tip('</b>b-</t>: # of targets <b>without</b> the selected Pathway in the <b>background</b> set.<br>Click each number to view a detailed paper list.')" onmouseout="UnTip()">
+		                                    b-
+		                                </th>
+		                                <th width="70" onmouseover="Tip('P-value by Fishers Exact Test on 2x2 table<br><br><img src=&quot;Images/2x2Table.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;><br><br>P-values lower than the specified threshold will be in <font color=&quot;red&quot;>red</font>')" onmouseout="UnTip()">
+		                                    p-value            
+		                                </th>
+		                                <th width="50" onmouseover="Tip('Ratio of t+ in the test set')" onmouseout="UnTip()">
+		                                    t-ratio
+		                                </th>
+		                                <th width="50" onmouseover="Tip('Ratio of b+ in the background set')" onmouseout="UnTip()">
+		                                    b-ratio
+		                                </th>
+		                                <th width="70" onmouseover="Tip('This implies the enrichment folds in the test set, calculated by<br>&nbsp;&nbsp;&nbsp;(t-ratio)&nbsp;&nbsp;/&nbsp;&nbsp;(b-ratio)<br><br>You may find <b>enrichment folds greater than 2 to be interesting</b>.<br><br><p style=&quot;background-color:#FA6161&quot;>Enrichment in <b>test</b> set</p><p style=&quot;background-color:#75FA95&quot;>Enrichment in <b>background</b> set</p><p style=&quot;background-color:#FA6161&quot;>bZero: There is <b>NOT</b> any MeSH term associated with this GO in the background set.</p>')" onmouseout="UnTip()">
+		                                    enrichment<br>folds
+		                                </th>	
+		                            </tr><tr><td>1</td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=73894">73894</a></td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=73894">DNA Repair</a></td><td><a href="javascript:generate_gene_list_html('18', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', '73894', 'DNA Repair');">18</a></td><td><a href="javascript:generate_gene_list_html('381', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '73894', 'DNA Repair');">381</a></td><td><a href="javascript:generate_gene_list_html('18', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '73894', 'DNA Repair');">18</a></td><td>0</td><td><a href="javascript:generate_gene_list_html('1', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', '73894', 'DNA Repair');">1</a></td><td><a href="javascript:generate_gene_list_html('1', 'b_plus', '7', 'Analysis_5__juhur', 'Query_16__juhur', '73894', 'DNA Repair');">1</a></td><td><a href="javascript:generate_gene_list_html('554', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '73894', 'DNA Repair');">554</a></td><td><font color="red">1.42e-06</font></td><td>0.05</td><td>0.00</td><td bgcolor="#FA6161">25.0</td></tr>
+<tr><td>2</td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=73890">73890</a></td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=73890">Double-Strand Break Repair</a></td><td><a href="javascript:generate_gene_list_html('8', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', '73890', 'Double-Strand Break Repair');">8</a></td><td><a href="javascript:generate_gene_list_html('391', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '73890', 'Double-Strand Break Repair');">391</a></td><td><a href="javascript:generate_gene_list_html('8', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '73890', 'Double-Strand Break Repair');">8</a></td><td>0</td><td>0</td><td>0</td><td><a href="javascript:generate_gene_list_html('555', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '73890', 'Double-Strand Break Repair');">555</a></td><td><font color="red">8.98e-04</font></td><td>0.02</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr>
+<tr><td>3</td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa04080">hsa04080</a></td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa04080">Neuroactive ligand-receptor interaction - Homo sapiens (human)</a></td><td><a href="javascript:generate_gene_list_html('8', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04080', 'Neuroactive ligand-receptor interaction - Homo sapiens (human)');">8</a></td><td><a href="javascript:generate_gene_list_html('391', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04080', 'Neuroactive ligand-receptor interaction - Homo sapiens (human)');">391</a></td><td><a href="javascript:generate_gene_list_html('3', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04080', 'Neuroactive ligand-receptor interaction - Homo sapiens (human)');">3</a></td><td><a href="javascript:generate_gene_list_html('5', 'common', '5', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04080', 'Neuroactive ligand-receptor interaction - Homo sapiens (human)');">5</a></td><td><a href="javascript:generate_gene_list_html('29', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04080', 'Neuroactive ligand-receptor interaction - Homo sapiens (human)');">29</a></td><td><a href="javascript:generate_gene_list_html('34', 'b_plus', '7', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04080', 'Neuroactive ligand-receptor interaction - Homo sapiens (human)');">34</a></td><td><a href="javascript:generate_gene_list_html('521', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04080', 'Neuroactive ligand-receptor interaction - Homo sapiens (human)');">521</a></td><td><font color="red">2.08e-03</font></td><td>0.02</td><td>0.06</td><td bgcolor="#75FA95">0.3</td></tr>
+<tr><td>4</td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa04060">hsa04060</a></td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa04060">Cytokine-cytokine receptor interaction - Homo sapiens (human)</a></td><td><a href="javascript:generate_gene_list_html('20', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04060', 'Cytokine-cytokine receptor interaction - Homo sapiens (human)');">20</a></td><td><a href="javascript:generate_gene_list_html('379', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04060', 'Cytokine-cytokine receptor interaction - Homo sapiens (human)');">379</a></td><td><a href="javascript:generate_gene_list_html('2', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04060', 'Cytokine-cytokine receptor interaction - Homo sapiens (human)');">2</a></td><td><a href="javascript:generate_gene_list_html('18', 'common', '5', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04060', 'Cytokine-cytokine receptor interaction - Homo sapiens (human)');">18</a></td><td><a href="javascript:generate_gene_list_html('39', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04060', 'Cytokine-cytokine receptor interaction - Homo sapiens (human)');">39</a></td><td><a href="javascript:generate_gene_list_html('57', 'b_plus', '7', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04060', 'Cytokine-cytokine receptor interaction - Homo sapiens (human)');">57</a></td><td><a href="javascript:generate_gene_list_html('498', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04060', 'Cytokine-cytokine receptor interaction - Homo sapiens (human)');">498</a></td><td><font color="red">3.61e-03</font></td><td>0.05</td><td>0.10</td><td bgcolor="#75FA95">0.5</td></tr>
+<tr><td>5</td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=73951">73951</a></td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=73951">Homologous recombination repair of replication-independent double-strand breaks</a></td><td><a href="javascript:generate_gene_list_html('6', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', '73951', 'Homologous recombination repair of replication-independent double-strand breaks');">6</a></td><td><a href="javascript:generate_gene_list_html('393', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '73951', 'Homologous recombination repair of replication-independent double-strand breaks');">393</a></td><td><a href="javascript:generate_gene_list_html('6', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '73951', 'Homologous recombination repair of replication-independent double-strand breaks');">6</a></td><td>0</td><td>0</td><td>0</td><td><a href="javascript:generate_gene_list_html('555', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '73951', 'Homologous recombination repair of replication-independent double-strand breaks');">555</a></td><td><font color="red">5.24e-03</font></td><td>0.02</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr>
+<tr><td>6</td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=157579">157579</a></td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=157579">Telomere Maintenance</a></td><td><a href="javascript:generate_gene_list_html('6', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', '157579', 'Telomere Maintenance');">6</a></td><td><a href="javascript:generate_gene_list_html('393', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '157579', 'Telomere Maintenance');">393</a></td><td><a href="javascript:generate_gene_list_html('6', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '157579', 'Telomere Maintenance');">6</a></td><td>0</td><td>0</td><td>0</td><td><a href="javascript:generate_gene_list_html('555', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '157579', 'Telomere Maintenance');">555</a></td><td><font color="red">5.24e-03</font></td><td>0.02</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr>
+<tr><td>7</td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=73888">73888</a></td><td><a href="http://reactome.org/cgi-bin/eventbrowser?DB=gk_current&ID=73888">Homologous Recombination Repair</a></td><td><a href="javascript:generate_gene_list_html('6', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', '73888', 'Homologous Recombination Repair');">6</a></td><td><a href="javascript:generate_gene_list_html('393', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', '73888', 'Homologous Recombination Repair');">393</a></td><td><a href="javascript:generate_gene_list_html('6', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', '73888', 'Homologous Recombination Repair');">6</a></td><td>0</td><td>0</td><td>0</td><td><a href="javascript:generate_gene_list_html('555', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', '73888', 'Homologous Recombination Repair');">555</a></td><td><font color="red">5.24e-03</font></td><td>0.02</td><td>0.00</td><td bgcolor="#FA6161">bZero</td></tr>
+<tr><td>8</td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa04514">hsa04514</a></td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa04514">Cell adhesion molecules (CAMs) - Homo sapiens (human)</a></td><td><a href="javascript:generate_gene_list_html('3', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04514', 'Cell adhesion molecules (CAMs) - Homo sapiens (human)');">3</a></td><td><a href="javascript:generate_gene_list_html('396', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04514', 'Cell adhesion molecules (CAMs) - Homo sapiens (human)');">396</a></td><td>0</td><td><a href="javascript:generate_gene_list_html('3', 'common', '5', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04514', 'Cell adhesion molecules (CAMs) - Homo sapiens (human)');">3</a></td><td><a href="javascript:generate_gene_list_html('13', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04514', 'Cell adhesion molecules (CAMs) - Homo sapiens (human)');">13</a></td><td><a href="javascript:generate_gene_list_html('16', 'b_plus', '7', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04514', 'Cell adhesion molecules (CAMs) - Homo sapiens (human)');">16</a></td><td><a href="javascript:generate_gene_list_html('539', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04514', 'Cell adhesion molecules (CAMs) - Homo sapiens (human)');">539</a></td><td><font color="red">1.95e-02</font></td><td>0.01</td><td>0.03</td><td bgcolor="#75FA95">0.3</td></tr>
+<tr><td>9</td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa00620">hsa00620</a></td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa00620">Pyruvate metabolism - Homo sapiens (human)</a></td><td><a href="javascript:generate_gene_list_html('8', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa00620', 'Pyruvate metabolism - Homo sapiens (human)');">8</a></td><td><a href="javascript:generate_gene_list_html('391', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa00620', 'Pyruvate metabolism - Homo sapiens (human)');">391</a></td><td><a href="javascript:generate_gene_list_html('8', 't_uniq', '4', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa00620', 'Pyruvate metabolism - Homo sapiens (human)');">8</a></td><td>0</td><td><a href="javascript:generate_gene_list_html('2', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa00620', 'Pyruvate metabolism - Homo sapiens (human)');">2</a></td><td><a href="javascript:generate_gene_list_html('2', 'b_plus', '7', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa00620', 'Pyruvate metabolism - Homo sapiens (human)');">2</a></td><td><a href="javascript:generate_gene_list_html('553', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa00620', 'Pyruvate metabolism - Homo sapiens (human)');">553</a></td><td><font color="red">2.05e-02</font></td><td>0.02</td><td>0.00</td><td bgcolor="#FA6161">5.6</td></tr>
+<tr><td>10</td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa04610">hsa04610</a></td><td><a href="http://www.genome.jp/dbget-bin/get_pathway?org_name=hsa&mapno=hsa04610">Complement and coagulation cascades - Homo sapiens (human)</a></td><td><a href="javascript:generate_gene_list_html('1', 't_plus', '2', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04610', 'Complement and coagulation cascades - Homo sapiens (human)');">1</a></td><td><a href="javascript:generate_gene_list_html('398', 't_minus', '3', 'Analysis_5__juhur', 'Query_15__juhur', 'hsa04610', 'Complement and coagulation cascades - Homo sapiens (human)');">398</a></td><td>0</td><td><a href="javascript:generate_gene_list_html('1', 'common', '5', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04610', 'Complement and coagulation cascades - Homo sapiens (human)');">1</a></td><td><a href="javascript:generate_gene_list_html('9', 'b_uniq', '6', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04610', 'Complement and coagulation cascades - Homo sapiens (human)');">9</a></td><td><a href="javascript:generate_gene_list_html('10', 'b_plus', '7', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04610', 'Complement and coagulation cascades - Homo sapiens (human)');">10</a></td><td><a href="javascript:generate_gene_list_html('545', 'b_minus', '8', 'Analysis_5__juhur', 'Query_16__juhur', 'hsa04610', 'Complement and coagulation cascades - Homo sapiens (human)');">545</a></td><td><font color="red">3.05e-02</font></td><td>0.00</td><td>0.02</td><td bgcolor="#75FA95">0.1</td></tr>
+</table><p class="titleBarName1">Full result (<a href="Pathway/SigTest_Pathway.html">HTML</a>,&nbsp;&nbsp;
+                       											  <a href="Pathway/SigTest_Pathway.txt">TXT</a>,&nbsp;&nbsp;
+                                      							  <a href="Pathway/SigTest_Pathway.xls">EXCEL</a>)&nbsp;&nbsp;
+                          <a href="#TOP">Back to top</a>&nbsp;</p>
+                          </span>  <a name="PPIEnrichment"></a><p>&nbsp;</p><hr>
+							<div class="trigger" onclick="showBranch('branchPPI');swapFolder('folderPPI')">
+							<table width="100%" border="0" onmouseover="Tip('<b>Click here to hide/show the detail of Protein-Protein Interaction Networks!</b>')" onmouseout="UnTip()">
+								<tr>
+									<td width="10">
+										<img src="Images/closed.gif" id="folderPPI" border="0">
+									</td>
+									<td>
+										<p align="center" class="sectionTitleName1">Protein-Protein Interaction Network</p>
+									</td>
+								</tr>
+							</table>
+						</div>
+
+						<span style="display:none;" class="branch" id="branchPPI">
+						
+					  		<p class="titleBarName1">The following table summarizes the targets (from the tested set) that were used in this PPI network analysis. Background set is the source of the target frequency information for random network generation. For more detail, refer to the <b>Network Significance Test</b> below.</p>
+					  		<table border="1">
+								<tr class="titleBarName1">
+									<th width="100">
+										&nbsp;
+									</th>
+									<th width="110" onmouseover="Tip('The number of papers in tested or background set. <br>This is blank for the full HUGO background set.')" onmouseout="UnTip()">
+										Corpus size
+									</th>
+									<th width="110" onmouseover="Tip('The number of total targets originally identified.')" onmouseout="UnTip()">
+										# of targets (total)
+									</th>
+									<th width="130" onmouseover="Tip('The number of targets that are used in this analysis<br>such as by applying minimum number of papers.')" onmouseout="UnTip()">
+										# of targets (used)
+									</th>
+								</tr>
+								
+								<tr class="titleBarName1">
+									<th onmouseover="Tip('This corresponds to the targets from the Target Query # above.')" onmouseout="UnTip()">
+										Tested set
+									</th>
+									<td>
+										172
+									</td>
+									<td>
+										399
+									</td>
+									<td>
+										<b>399</b>
+									</td>
+								</tr>
+								<tr class="titleBarName1">
+									<th onmouseover="Tip('Background set is the source of the target frequency information for random network generation. For more detail, refer to the <b>Network Significance Test</b> below.')" onmouseout="UnTip()">
+										Background set
+									</th>
+									<td>
+										&nbsp;
+									</td>
+									<td>
+										25254
+									</td>
+									<td>
+										<b>25254</b>
+									</td>
+								</tr>
+							</table>
+							
+				            <p align="center" class="sectionTitleName2">Interaction Network Within Corpus (sorted by degree)</p>
+				            <p class="titleBarName1">[TABLE] Here is a summary table of the Protein-Protein Interaction network data of the test set. This table basically shows how many targets are interacting each other within the test set.</p>
+                            <table border="1" width="500">
+                                <tr class="titleBarName1" onmouseover="Tip('<b>Num of PMIDs</b>: The number of papers from the test set (query).')" onmouseout="UnTip()">
+                                    <th width="300">Num of PMIDs</th>
+                                    <td width="200">172</td>
+                                </tr>
+                                <tr class="titleBarName1" onmouseover="Tip('<b>Num of targets (total)</b>: The number of all the targets identified from the test corpus.')" onmouseout="UnTip()">
+                                    <th width="300">Num of genes (total)</th>
+                                    <td width="200">399</td>
+                                </tr>
+                                
+                                <tr class="titleBarName1" onmouseover="Tip('<b>Num of targets (used)</b>: The number of targets that were used in this analysis after filtering if any was used')" onmouseout="UnTip()">
+                                    <th width="300">Num of genes (used)</th>
+                                    <td width="200">399</td>
+                                </tr>
+                                <tr class="titleBarName1" onmouseover="Tip('<b>Num of targets with any interaction</b>: The number of targets that have <b>ANY</b> interaction data available from the MiMI database.')" onmouseout="UnTip()">
+                                    <th width="300">Num of targets with any interaction</th>
+                                    <td width="200">368</td>
+                                </tr>
+                                <tr class="titleBarName1" onmouseover="Tip('<b>Num of targets interacting within corpus</b>: The number of targets that have directly interacting partners whitin the test set.')" onmouseout="UnTip()">
+                                    <th width="300">&nbsp;Num of targets interacting within corpus</th>
+                                    <td width="200">&nbsp;289</td>
+                                </tr>
+                                <tr class="titleBarName1" onmouseover="Tip('<b>Num of direct interaction within corpus</b>: The number of interactions among the targets from the test set.')" onmouseout="UnTip()">
+                                    <th width="300">&nbsp;Num of direct interaction within corpus</th>
+                                    <td width="200">&nbsp;1042</td>
+                                </tr>
+                                <tr class="titleBarName1" onmouseover="Tip('<b>Maximum degree target</b>: The target with the biggest number of directly interacting partners (among the test set).')" onmouseout="UnTip()">
+                                    <th width="300">Maximum degree target</th><td width="200">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=7553">MYC</a>&nbsp;&nbsp;&nbsp;(Degree&nbsp;=&nbsp;56)</td>	</tr>
+                                <tr class="titleBarName1" onmouseover="Tip('<b>Minimum degree target</b>: The target with the lowest number of directly interacting partners (among the test set).')" onmouseout="UnTip()">
+                                    <th width="300">Minimum degree target</th><td width="200">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=17348">PRPF3</a>&nbsp;&nbsp;&nbsp;(Degree&nbsp;=&nbsp;1)</td>	</tr>
+                            </table>
+                            <br>
+                            <p class="titleBarName1">[TABLE] Top 10 interacting targets within the test set</p>
+                            <table border="1" width="500">
+                                <tr class="titleBarName1">
+                                    <th width="50">&nbsp;Rank</th>
+                                    <th width="150">&nbsp;Target Symbol</th>
+                                    <th width="200">&nbsp;Num of Direct Interactions</th>
+                                    <th width="100" onmouseover="Tip('Click here to view the interacting partners in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()">&nbsp;MiMI Network</th>
+                                </tr>  <tr>
+                                        <td width="50">&nbsp;1</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=7553">MYC</a></td>
+                                        <td width="200">&nbsp;56</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=4609" onmouseover="Tip('Click here to view the interacting partners of <b>MYC</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr>  <tr>
+                                        <td width="50">&nbsp;2</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=11998">TP53</a></td>
+                                        <td width="200">&nbsp;48</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=7157" onmouseover="Tip('Click here to view the interacting partners of <b>TP53</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr>  <tr>
+                                        <td width="50">&nbsp;3</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=6204">JUN</a></td>
+                                        <td width="200">&nbsp;46</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=3725" onmouseover="Tip('Click here to view the interacting partners of <b>JUN</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr>  <tr>
+                                        <td width="50">&nbsp;4</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=1504">CASP3</a></td>
+                                        <td width="200">&nbsp;32</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=836" onmouseover="Tip('Click here to view the interacting partners of <b>CASP3</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr>  <tr>
+                                        <td width="50">&nbsp;5</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=6871">MAPK1</a></td>
+                                        <td width="200">&nbsp;31</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=5594" onmouseover="Tip('Click here to view the interacting partners of <b>MAPK1</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr>  <tr>
+                                        <td width="50">&nbsp;6</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=990">BCL2</a></td>
+                                        <td width="200">&nbsp;30</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=596" onmouseover="Tip('Click here to view the interacting partners of <b>BCL2</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr>  <tr>
+                                        <td width="50">&nbsp;7</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=7794">NFKB1</a></td>
+                                        <td width="200">&nbsp;29</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=4790" onmouseover="Tip('Click here to view the interacting partners of <b>NFKB1</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr>  <tr>
+                                        <td width="50">&nbsp;8</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=784">ATF2</a></td>
+                                        <td width="200">&nbsp;29</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=1386" onmouseover="Tip('Click here to view the interacting partners of <b>ATF2</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr>  <tr>
+                                        <td width="50">&nbsp;9</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=6877">MAPK3</a></td>
+                                        <td width="200">&nbsp;27</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=5595" onmouseover="Tip('Click here to view the interacting partners of <b>MAPK3</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr>  <tr>
+                                        <td width="50">&nbsp;10</td>
+                                        <td width="150">&nbsp;<a href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=6881">MAPK8</a></td>
+                                        <td width="200">&nbsp;25</td><td width="100">&nbsp;<a href="http://mimi.ncibi.org/cytoscape/launcher?queryMiMIById=5599" onmouseover="Tip('Click here to view the interacting partners of <b>MAPK8</b> in Cytoscape. <br><br>Note that this link will show <b>any known</b> interacting partnets and not limited to the targets in the test set.<br><br>If you want to see the interactions only within the current test set,<br><b>download</b> Merged network(SIF(MiMI Network File)) below, and <b>IMPORT</b> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()"><img src="../../Images/cytoicon.jpg"></a></td>
+                                    </tr></table><br>	<table border="0">
+								<tr onmouseover="Tip('View the full target list with the number of interaction information.')" onmouseout="UnTip()">
+									<td>
+										View your full list in a <a href="PPI/TEST.MiMIBase_Network.txt">TEXT</a> or <a href="PPI/TEST.MiMIBase_Network.xls">EXCEL</a> file.
+									</td>
+								</tr>
+								<tr onmouseover="Tip('If you want to see the interactions only within the current test set,<br><b>download</b> the Merged network(SIF(MiMI Network File)), and <font color=&quot;red&quot;><b>IMPORT</b></font> the downloaded SIF file in your Cytoscape.')" onmouseout="UnTip()">
+									<td>
+										View the full merged network in cytoscape <img src="../../Images/cytoicon.jpg"> <a href="PPI/TEST.MiMIBase_Network.sif">SIF (MiMI Network File)</a>. <br>This file has to be downloaded first and imported into a Cytoscape program.
+									</td>
+								</tr>
+            				</table>
+                                  <p align="center" class="sectionTitleName2">Network Significance Test (100 iteration of random genes with size of <b>399</b> from total of <b>25254</b> genes)</p>
+                				<p class="titleBarName1">
+                					This <b>Network Significance Test</b> section will test the integrity of the Protein-Protein Interaction network among the test set targets. This is based on the assumption that targets commonly related to a certain topic will be more likely to have frequent protein-protein interaction with each others. Therefore, if a set of targets identified by text-mining (SciMiner) from a certain query have more frequent direct interactions among the targets compared to randomly generated sets, it can, in part, support the validity of using text-mining method to identify related targets from a set of related papers. <b>100</b> random network of the same number of target in the test set will be generated from the background set. The test set had <b>399</b> targets. Thus 399 are randomly selected from the background which had a total of <b>25254</b> targets. If the background set was <b>full HUGO</b> set, all the targets will have an equal chance of being selected. If the background set was either <b>Selected background above</b> or <b>Whole document in SciMinerDB</b>, the probability of each target begin selected is determined by the <b>observed frequency</b> of each target as in (# of papers with the target / # of all papers).Two statistical measures are given below; standard Z-test and one-sample T-test. 
+                				</p>
+                                <table border="1">
+                                    <tr class="titleBarName1">
+                                        <th width="80">&nbsp;</th>
+                                        <th width="180" onmouseover="Tip('<b>Targets with any interaction</b>: The number of targets with ANY known interaction data from the MiMI database. The interactions are NOT limited to the targets in the set.')" onmouseout="UnTip()">
+                                        	Targets with any interaction
+                                        </th>
+                                        <th width="200" onmouseover="Tip('<b>Targets interacting within corpus</b>: The number of targets interacting with other targets in the tested set.')" onmouseout="UnTip()">
+                                        	Targets interacting within corpus
+                                        </th>
+                                        <th width="200" onmouseover="Tip('<b>Direct interactions within corpus</b>: The number of direct interations among the targets in the tested set.')" onmouseout="UnTip()">
+                                        	Direct interactions within corpus
+                                        </th>
+                                        <th width="100" onmouseover="Tip('<b>Max degree</b>: The maximal degree in the network of the targets in the tested set.')" onmouseout="UnTip()">
+                                        	Max degree
+                                        </th>
+                                    </tr><tr class="titleBarName1" style="background-color:#BDF9DC;" onmouseover="Tip('<b>Tested</b>: The values from your selected <b>tested</b> set. SciMiner query #ALS ROS')" onmouseout="UnTip()">
+                                        <th>Tested</th>
+                                        <td><b>368</b></td>
+                                        <td><b>289</b></td>
+                                        <td><b>1042</b></td>
+                                        <td><b>56</b></td>
+                                  </tr><tr class="titleBarName1" onmouseover="Tip('<b>Mean</b>: The mean value of the 100 random networks')" onmouseout="UnTip()">
+                                        <th>Mean</th>
+                                        <td>206.56</td>
+                                        <td>34.91</td>
+                                        <td>27.18</td>
+                                        <td>6.35</td>
+                                  </tr><tr class="titleBarName1" onmouseover="Tip('<b>STDEV</b>: The standard deviation of the 100 random networks')" onmouseout="UnTip()">
+                                        <th>STDEV</th>
+                                        <td>9.41</td>
+                                        <td>12.46</td>
+                                        <td>14.51</td>
+                                        <td>10.74</td>
+                                  </tr><tr class="titleBarName1" style="background-color:#DBD1DA;" onmouseover="Tip('<b>Z-Score</b>: The standard z-score of the test set value in a distribution of the 100 random network samples.')" onmouseout="UnTip()">
+                                        <th>Z-Score</th>
+                                        <td>17.2</td>
+                                        <td>20.4</td>
+                                        <td>69.9</td>
+                                        <td>4.6</td>
+                                  </tr><tr class="titleBarName1" style="background-color:#DBD1DA;" onmouseover="Tip('<b>P-value(Z)</b>: The probability of seeing the above Z-score or higher from the distribution of the 100 random network samples.')" onmouseout="UnTip()">
+                                        <th>P-value(Z)</th>
+                                        <td><font color="red">0.0e+00&nbsp;(0.000)</font></td>
+                                        <td><font color="red">0.0e+00&nbsp;(0.000)</font></td>
+                                        <td><font color="red">0.0e+00&nbsp;(0.000)</font></td>
+                                        <td><font color="red">1.9e-06&nbsp;(0.000)</font></td>
+                                  </tr><tr class="titleBarName1" style="background-color:#F8F9BD;" onmouseover="Tip('<b>T-Stat</b>: The one-sample T-statistics of the test set value in a distribution of the 100 random network samples.')" onmouseout="UnTip()">
+                                        <th>T-Stat</th>
+                                        <td>-171.6</td>
+                                        <td>-203.9</td>
+                                        <td>-699.5</td>
+                                        <td>-46.2</td>
+                                  </tr><tr class="titleBarName1" style="background-color:#F8F9BD;" onmouseover="Tip('<b>P-value(T)</b>: You can reject the numm hypothesis that the tested value is not different from the sample mean where p-value < significance level.')" onmouseout="UnTip()">
+                                        <th>P-value(T)</th>
+                                        <td><font color="red">2.5e-124&nbsp;(0.000)</font></td>
+                                        <td><font color="red">9.9e-132&nbsp;(0.000)</font></td>
+                                        <td><font color="red">1.1e-184&nbsp;(0.000)</font></td>
+                                        <td><font color="red">7.9e-69&nbsp;(0.000)</font></td>
+                                  </tr></table><br>
+                                        <p align="center" class="sectionTitleName2">Distrubution of randomly generated networks</p>
+                                        <p class="smallText3">
+                					This section will histograms of the random network samples. <b><font color="red">Red bars</font> represent the targets from the <b>tested set (target query)</b> being tested.<br>
+                				
+                                        <table border="1" width="1200">
+                                            <tr>
+                                                <th width="300" onmouseover="Tip('<b>Targets with any interaction</b>: The number of targets with ANY known interaction data from the MiMI database. The interactions are NOT limited to the targets in the set.')" onmouseout="UnTip()">Targets with any interaction</th>
+                                                <th width="300" onmouseover="Tip('<b>Targets interacting within corpus</b>: The number of targets interacting with other targets in the tested set.')" onmouseout="UnTip()">Targets interacting within corpus</th>
+                                                <th width="300" onmouseover="Tip('<b>Direct interactions within corpus</b>: The number of direct interations among the targets in the tested set.')" onmouseout="UnTip()">Direct interactions within corpus</th>
+                                                <th width="300" onmouseover="Tip('<b>Max degree</b>: The maximal degree in the network of the targets in the tested set.')" onmouseout="UnTip()">Max degree</th>
+                                            </tr>
+                                            <tr>
+                                                <td width="300" onmouseover="Tip('<b>Targets with any interaction</b>: The number of targets with ANY known interaction data from the MiMI database. The interactions are NOT limited to the targets in the set.')" onmouseout="UnTip()">&nbsp;<a href="PPI/SigTest.1.jpg"><img src="PPI/SigTest.1.jpg" width=280 height=300></a></td>
+                                                <td width="300" onmouseover="Tip('<b>Targets interacting within corpus</b>: The number of targets interacting with other targets in the tested set.')" onmouseout="UnTip()"><a href="PPI/SigTest.2.jpg"><img src="PPI/SigTest.2.jpg" width=280 height=300></a></td>
+                                                <td width="300" onmouseover="Tip('<b>Direct interactions within corpus</b>: The number of direct interations among the targets in the tested set.')" onmouseout="UnTip()"><a href="PPI/SigTest.3.jpg"><img src="PPI/SigTest.3.jpg" width=280 height=300></a></td>
+                                                <td width="300" onmouseover="Tip('<b>Max degree</b>: The maximal degree in the network of the targets in the tested set.')" onmouseout="UnTip()"><a href="PPI/SigTest.4.jpg"><img src="PPI/SigTest.4.jpg" width=280 height=300></a></td>
+                                                                                                                                  
+                                            </tr>
+                                        </table>
+                                        <a href="#TOP">Back to top</a>&nbsp;</p></span>
+			             <p>&nbsp;</p>
+            <p class="titleBarName1"><a href="http://localhost:8888/SciMiner/"><font class="sectionTitleName2">SciMiner Homepage</font></a></p>
+            </body>
+            </html>

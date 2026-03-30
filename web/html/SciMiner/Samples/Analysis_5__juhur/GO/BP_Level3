@@ -1,0 +1,79 @@
+GO:0006974	response to DNA damage stimulus	399	40	359	19	536	555	5.497e-05	0.10	0.03	2.9
+GO:0006955	immune response	399	31	368	85	470	555	4.115e-04	0.08	0.15	0.5
+GO:0009605	response to external stimulus	399	58	341	124	431	555	2.600e-03	0.15	0.22	0.7
+GO:0007049	cell cycle	399	44	355	35	520	555	1.200e-02	0.11	0.06	1.7
+GO:0007155	cell adhesion	399	26	373	62	493	555	1.685e-02	0.07	0.11	0.6
+GO:0007154	cell communication	399	184	215	299	256	555	1.831e-02	0.46	0.54	0.9
+GO:0006952	defense response	399	45	354	91	464	555	3.058e-02	0.11	0.16	0.7
+GO:0007275	multicellular organismal development	399	129	270	213	342	555	5.574e-02	0.32	0.38	0.8
+GO:0050817	coagulation	399	3	396	13	542	555	7.371e-02	0.01	0.02	0.3
+GO:0048856	anatomical structure development	399	129	270	210	345	555	8.655e-02	0.32	0.38	0.9
+GO:0019882	antigen processing and presentation	399	2	397	9	546	555	1.331e-01	0.01	0.02	0.3
+GO:0007610	behavior	399	35	364	66	489	555	1.357e-01	0.09	0.12	0.7
+GO:0008283	cell proliferation	399	66	333	113	442	555	1.530e-01	0.17	0.20	0.8
+GO:0048771	tissue remodeling	399	5	394	15	540	555	1.689e-01	0.01	0.03	0.5
+GO:0016265	death	399	100	299	118	437	555	1.840e-01	0.25	0.21	1.2
+GO:0009628	response to abiotic stimulus	399	33	366	33	522	555	1.956e-01	0.08	0.06	1.4
+GO:0006807	nitrogen compound metabolic process	399	34	365	35	520	555	2.064e-01	0.09	0.06	1.4
+GO:0007586	digestion	399	4	395	12	543	555	2.068e-01	0.01	0.02	0.5
+GO:0044237	cellular metabolic process	399	277	122	363	192	555	2.088e-01	0.69	0.65	1.1
+GO:0050789	regulation of biological process	399	199	200	300	255	555	2.122e-01	0.50	0.54	0.9
+GO:0019748	secondary metabolic process	399	7	392	5	550	555	2.554e-01	0.02	0.01	1.9
+GO:0051707	response to other organism	399	12	387	24	531	555	3.082e-01	0.03	0.04	0.7
+GO:0006118	electron transport	399	34	365	37	518	555	3.174e-01	0.09	0.07	1.3
+GO:0030534	adult behavior	399	2	397	7	548	555	3.178e-01	0.01	0.01	0.4
+GO:0007568	aging	399	6	393	4	551	555	3.355e-01	0.02	0.01	2.1
+GO:0055114	oxidation reduction	399	6	393	4	551	555	3.355e-01	0.02	0.01	2.1
+GO:0046903	secretion	399	17	382	32	523	555	3.725e-01	0.04	0.06	0.7
+GO:0007632	visual behavior	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0048066	pigmentation during development	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0001909	leukocyte mediated cytotoxicity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0033036	macromolecule localization	399	31	368	36	519	555	4.444e-01	0.08	0.06	1.2
+GO:0022414	reproductive process	399	25	374	43	512	555	4.444e-01	0.06	0.08	0.8
+GO:0048468	cell development	399	120	279	154	401	555	4.683e-01	0.30	0.28	1.1
+GO:0044236	multicellular organismal metabolic process	399	2	397	6	549	555	4.797e-01	0.01	0.01	0.5
+GO:0032504	multicellular organism reproduction	399	10	389	10	545	555	4.967e-01	0.03	0.02	1.4
+GO:0044238	primary metabolic process	399	256	143	344	211	555	4.978e-01	0.64	0.62	1.0
+GO:0051716	cellular response to stimulus	399	5	394	4	551	555	5.029e-01	0.01	0.01	1.7
+GO:0043170	macromolecule metabolic process	399	220	179	294	261	555	5.112e-01	0.55	0.53	1.0
+GO:0001775	cell activation	399	25	374	41	514	555	5.210e-01	0.06	0.07	0.8
+GO:0009719	response to endogenous stimulus	399	14	385	16	539	555	5.793e-01	0.04	0.03	1.2
+GO:0009607	response to biotic stimulus	399	23	376	38	517	555	5.919e-01	0.06	0.07	0.8
+GO:0007565	female pregnancy	399	5	394	10	545	555	6.036e-01	0.01	0.02	0.7
+GO:0006928	cell motility	399	42	357	65	490	555	6.039e-01	0.11	0.12	0.9
+GO:0051674	localization of cell	399	42	357	65	490	555	6.039e-01	0.11	0.12	0.9
+GO:0006810	transport	399	111	288	145	410	555	6.042e-01	0.28	0.26	1.1
+GO:0065009	regulation of molecular function	399	50	349	63	492	555	6.120e-01	0.13	0.11	1.1
+GO:0042221	response to chemical stimulus	399	77	322	100	455	555	6.137e-01	0.19	0.18	1.1
+GO:0007566	embryo implantation	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0009790	embryonic development	399	21	378	33	522	555	6.733e-01	0.05	0.06	0.9
+GO:0006950	response to stress	399	130	269	174	381	555	7.248e-01	0.33	0.31	1.0
+GO:0042303	molting cycle	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0044419	interspecies interaction between organisms	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0001816	cytokine production	399	19	380	30	525	555	7.666e-01	0.05	0.05	0.9
+GO:0016043	cellular component organization and biogenesis	399	107	292	154	401	555	7.688e-01	0.27	0.28	1.0
+GO:0045184	establishment of protein localization	399	25	374	32	523	555	7.827e-01	0.06	0.06	1.1
+GO:0051301	cell division	399	8	391	9	546	555	8.049e-01	0.02	0.02	1.2
+GO:0035264	multicellular organism growth	399	8	391	10	545	555	8.143e-01	0.02	0.02	1.1
+GO:0045165	cell fate commitment	399	7	392	12	543	555	8.153e-01	0.02	0.02	0.8
+GO:0009058	biosynthetic process	399	131	268	184	371	555	9.444e-01	0.33	0.33	1.0
+GO:0048869	cellular developmental process	399	139	260	194	361	555	1.000e+00	0.35	0.35	1.0
+GO:0065008	regulation of biological quality	399	105	294	147	408	555	1.000e+00	0.26	0.26	1.0
+GO:0010467	gene expression	399	88	311	123	432	555	1.000e+00	0.22	0.22	1.0
+GO:0003008	system process	399	79	320	111	444	555	1.000e+00	0.20	0.20	1.0
+GO:0009056	catabolic process	399	53	346	73	482	555	1.000e+00	0.13	0.13	1.0
+GO:0019953	sexual reproduction	399	15	384	20	535	555	1.000e+00	0.04	0.04	1.0
+GO:0002252	immune effector process	399	14	385	20	535	555	1.000e+00	0.04	0.04	1.0
+GO:0003006	reproductive developmental process	399	10	389	13	542	555	1.000e+00	0.03	0.02	1.1
+GO:0007611	learning and/or memory	399	9	390	12	543	555	1.000e+00	0.02	0.02	1.0
+GO:0048589	developmental growth	399	8	391	11	544	555	1.000e+00	0.02	0.02	1.0
+GO:0021700	developmental maturation	399	7	392	10	545	555	1.000e+00	0.02	0.02	1.0
+GO:0051606	detection of stimulus	399	3	396	4	551	555	1.000e+00	0.01	0.01	1.0
+GO:0035265	organ growth	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0007059	chromosome segregation	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0051705	behavioral interaction between organisms	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0007567	parturition	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0031640	killing of cells of another organism	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0008037	cell recognition	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0033555	multicellular organismal response to stress	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0000746	conjugation	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4

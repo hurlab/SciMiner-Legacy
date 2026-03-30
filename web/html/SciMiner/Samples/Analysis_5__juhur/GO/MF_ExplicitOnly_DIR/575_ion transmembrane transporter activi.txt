@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	10963	SLC22A1	6580	solute carrier family 22 (organic cation transporter), member 1
+
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

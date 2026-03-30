@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 4
+#BACKGROUNDONLY: 1
+TESTONLY	7553	MYC	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+TESTONLY	11763	TFRC	7037	transferrin receptor (p90, CD71)
+TESTONLY	6115	IREB2	3658	iron-responsive element binding protein 2
+
+COMMON	3951	FXN	2395	frataxin
+COMMON	2295	CP	1356	ceruloplasmin (ferroxidase)
+COMMON	11740	TF	7018	transferrin
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+
+BACKGROUNDONLY	4886	HFE	3077	hemochromatosis

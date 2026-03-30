@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 2
+#BACKGROUNDONLY: 3
+TESTONLY	9257	PPID	5481	peptidylprolyl isomerase D (cyclophilin D)
+
+COMMON	399	ALB	213	albumin
+COMMON	80	ABP1	26	amiloride binding protein 1 (amine oxidase (copper-containing))
+
+BACKGROUNDONLY	7775	NFATC1	4772	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	286	ADRB2	154	adrenergic, beta-2-, receptor, surface

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	12780	WNT2	7472	wingless-type MMTV integration site family member 2
+
+COMMON	6893	MAPT	4137	microtubule-associated protein tau
+

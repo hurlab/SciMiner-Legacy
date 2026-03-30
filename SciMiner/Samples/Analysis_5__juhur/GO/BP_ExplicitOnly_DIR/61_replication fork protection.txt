@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 0
+#BACKGROUNDONLY: 0
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	1058	BLM	641	Bloom syndrome
+
+

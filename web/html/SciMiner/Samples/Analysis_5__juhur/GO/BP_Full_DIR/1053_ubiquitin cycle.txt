@@ -1,0 +1,23 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 6
+#BACKGROUNDONLY: 6
+TESTONLY	592	XIAP	331	X-linked inhibitor of apoptosis
+TESTONLY	17598	UBE2J1	51465	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)
+TESTONLY	12609	USP11	8237	ubiquitin specific peptidase 11
+TESTONLY	16731	FBXO32	114907	F-box protein 32
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+COMMON	12513	UCHL1	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+COMMON	8607	PARK2	5071	Parkinson disease (autosomal recessive, juvenile) 2, parkin
+COMMON	10417	RPS27A	6233	ribosomal protein S27a
+COMMON	11427	STUB1	10273	STIP1 homology and U-box containing protein 1
+COMMON	21148	RNF123	63891	ring finger protein 123
+
+BACKGROUNDONLY	1984	CISH	1154	cytokine inducible SH2-containing protein
+BACKGROUNDONLY	950	BAP1	8314	BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase)
+BACKGROUNDONLY	19391	SOCS3	9021	suppressor of cytokine signaling 3
+BACKGROUNDONLY	12499	UBE4A	9354	ubiquitination factor E4A (UFD2 homolog, yeast)
+BACKGROUNDONLY	13432	RNF19A	25897	ring finger protein 19A
+BACKGROUNDONLY	19383	SOCS1	8651	suppressor of cytokine signaling 1

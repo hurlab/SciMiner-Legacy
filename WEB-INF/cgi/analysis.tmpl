@@ -1,0 +1,256 @@
+<script type="text/javascript" src="wz_tooltip.js"></script>
+
+<div class="sm-container-wide">
+
+<h2 class="sm-text-center" style="margin-bottom:8px;">SciMiner Post-Mining Analysis</h2>
+
+<div class="sm-alert sm-alert-info">
+<strong>Instructions:</strong> Click <a href="Files/SciMiner_User_Manual.pdf"><b>HERE</b></a> for detailed help or hover over elements for quick tips.<br>
+1) Click <b>'Retrieve Completed Query'</b> to retrieve currently available SciMiner results.<br>
+2) Enter query ID for tested (and background set).<br>
+3) Select analysis modules and click <b>'Start Analysis'</b> to submit the analysis.
+</div>
+
+<form name="form2" action="analysis.cgi" method="POST" enctype="multipart/form-data">
+
+<INPUT TYPE="HIDDEN" NAME="email" VALUE="<TMPL_VAR NAME="EMAIL">">
+
+<!-- Section 1: Search -->
+<div class="sm-card">
+<h3 class="sm-card-header">Section 1: Search Your SciMiner Mining Results</h3>
+<div class="sm-form-group">
+<label class="sm-label" for="keyword">Query Name</label>
+<div class="sm-inline-group">
+<INPUT TYPE='text' NAME='keyword' size="30" class="sm-input sm-input-md" id="keyword" onmouseover="Tip('Limit your search by partial query name')" onmouseout="UnTip()">
+<input type='submit' name="RetrieveCompletedQuery" value="Retrieve Completed Query" class="sm-btn sm-btn-primary sm-btn-sm" onmouseover="Tip('Click to retrieve completed SciMiner search queries')" onmouseout="UnTip()">
+</div>
+</div>
+</div>
+
+<!-- Section 2: Results Table -->
+<div class="sm-card">
+<h3 class="sm-card-header">Section 2: Previous SciMiner Results (completed only)</h3>
+<div class="sm-table-wrap">
+<table class="sm-table">
+    <tr>
+        <th onmouseover="Tip('<b>Query Num</b>: A unique ID for each query')" onmouseout="UnTip()">
+		    Query Num
+		</th>
+		<th onmouseover="Tip('<b>Query Mode</b>: Differnet mode of SciMiner<br><img src=&quot;Images/SCI.jpg&quot;>: Default SciMiner text mining mode<br><img src=&quot;Images/G2P.jpg&quot;>: NCBI Gene2PubMed mode<br><img src=&quot;Images/GR.jpg&quot;>: NCBI GeneRIF mode<br><img src=&quot;Images/MQ.jpg&quot;>: Merged queries mode')" onmouseout="UnTip()">
+		    Mode
+		</th>
+		<th onmouseover="Tip('<b>Query Name</b>: The name given by user at the time of submission')" onmouseout="UnTip()">
+		    Name
+		</th>
+		<th onmouseover="Tip('<b>Date</b>: The data on which the query was submitted')" onmouseout="UnTip()">
+		    Date
+		</th>
+		<th onmouseover="Tip('<b>PMIDs</b>: Total number of PMIDs in the query')" onmouseout="UnTip()">
+		    PMIDs
+		</th>
+		<th onmouseover="Tip('<b>Targets</b>: Total number of targets identified by SciMiner')" onmouseout="UnTip()">
+		    Targets
+		</th>
+		<th onmouseover="Tip('<b>Link</b>: The SciMiner result page for this query')" onmouseout="UnTip()">
+		    Link
+		</th>
+		<th onmouseover="Tip('<b>Del</b>: Delete the query')" onmouseout="UnTip()">
+		    Del
+		</th>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+</div>
+</div>
+
+<!-- Test & Background Query Configuration -->
+<div class="sm-card">
+<h3 class="sm-card-header">Query Configuration</h3>
+
+<div class="sm-section-label">Test Query</div>
+<div class="sm-inline-group sm-mb-2">
+<div class="sm-form-group" style="margin-bottom:0">
+<label class="sm-label" onmouseover="Tip('Select the query number you would like to run the analysis on.<br>Identified targets of the selected query')" onmouseout="UnTip()">Query result to be <b>tested</b></label>
+<input type="text" name="queryNumber" size="3" value="" class="sm-input sm-input-sm" style="text-align: right" onmouseover="Tip('Enter your test query number')" onmouseout="UnTip()">
+</div>
+<div class="sm-form-group" style="margin-bottom:0">
+<label class="sm-label" onmouseover="Tip('You can limit your targets in the analysis <br>by number of papers per target and by a list file')" onmouseout="UnTip()"><b>Limit targets by</b></label>
+<div class="sm-inline-group">
+<select name="MinPaperMethodTG" size="1" class="sm-select" style="width:auto" onmouseover="Tip('Only identified targets satisfying the following criteria will be used.<br><br><b>Minimum # Paper</b>: Minimum number of papers per target<br>&nbsp;&nbsp;eg) Any target identified from 1 or 2 papers will be excluded <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when the threshold is set to 3<br><b>Minimum % Paper</b>: Minimum percentage of papers per target<br><b>Top # Target</b>: Only the top # ranked targets<br><b>Top % Target</b>: Only the top % percentage ranked targets')" onmouseout="UnTip()">
+<option selected value="MinPaperCount">Minimum # Paper</option>
+<option value="MinPaperPercentage">Minimum % Paper</option>
+<option value="TopPaperCount">Top # Target</option>
+<option value="TopPaperPercentage">Top % Target</option>
+</select>
+<input type="text" name="MinTopPaperTG" size="2" value="1" class="sm-input sm-input-sm" style="text-align: right; width:50px;">
+</div>
+</div>
+<div class="sm-form-group" style="margin-bottom:0">
+<label class="sm-label" onmouseover="Tip('Target list can further be limited by <br> <b>a user provided list (official symbols)</b><br>')" onmouseout="UnTip()">and by list</label>
+<INPUT TYPE='file' NAME='TGListFile' size="10" class="sm-file-input" onmouseover="Tip('Select a file containing a list of <b>offcial symbols</b>')" onmouseout="UnTip()">
+</div>
+</div>
+
+<hr class="sm-card-divider">
+
+<div class="sm-section-label">Background Query</div>
+<div class="sm-inline-group sm-mb-2">
+<div class="sm-form-group" style="margin-bottom:0">
+<label class="sm-label">Query result as <b>background</b></label>
+<input type="text" name="BGQueryNumber" size="3" value="" class="sm-input sm-input-sm" style="text-align: right" onmouseover="Tip('Enter your background query number')" onmouseout="UnTip()">
+</div>
+<div class="sm-form-group" style="margin-bottom:0">
+<label class="sm-label" onmouseover="Tip('You can limit your targets in the analysis <br>by number of papers per target and by a list file')" onmouseout="UnTip()"><b>Limit targets by</b></label>
+<div class="sm-inline-group">
+<select name="MinPaperMethodBG" size="1" class="sm-select" style="width:auto" onmouseover="Tip('Only identified targets satisfying the following criteria will be used.<br><br><b>Minimum # Paper</b>: Minimum number of papers per target<br>&nbsp;&nbsp;eg) Any target identified from 1 or 2 papers will be excluded <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when the threshold is set to 3<br><b>Minimum % Paper</b>: Minimum percentage of papers per target<br><b>Top # Target</b>: Only the top # ranked targets<br><b>Top % Target</b>: Only the top % percentage ranked targets')" onmouseout="UnTip()">
+<option selected value="MinPaperCount">Minimum # Paper</option>
+<option value="MinPaperPercentage">Minimum % Paper</option>
+<option value="TopPaperCount">Top # Target</option>
+<option value="TopPaperPercentage">Top % Target</option>
+</select>
+<input type="text" name="MinTopPaperBG" size="2" value="1" class="sm-input sm-input-sm" style="text-align: right; width:50px;">
+</div>
+</div>
+<div class="sm-form-group" style="margin-bottom:0">
+<label class="sm-label" onmouseover="Tip('Target list can further be limited by <br> <b>a user provided list (official symbols)</b><br>')" onmouseout="UnTip()">and by list</label>
+<INPUT TYPE='file' NAME='BGListFile' size="10" class="sm-file-input" onmouseover="Tip('Select a file containing a list of <b>offcial symbols</b>')" onmouseout="UnTip()">
+</div>
+</div>
+
+<hr class="sm-card-divider">
+
+<div class="sm-section-label">P-value Threshold</div>
+<div class="sm-inline-group">
+<div class="sm-form-group" style="margin-bottom:0">
+<label class="sm-label"><b>P-value</b> for significance test</label>
+<input type="text" name="PValueThreshold" size="3" value="0.05" class="sm-input sm-input-sm" style="text-align: right; width:70px;" onmouseover="Tip('Enter desired p-value threshold.')" onmouseout="UnTip()">
+</div>
+<span class="sm-hint">Significant p-values will be in <font color='red'>red</font> in result.</span>
+</div>
+
+</div><!-- end Query Configuration card -->
+
+<INPUT TYPE="HIDDEN" NAME="email" VALUE="<TMPL_VAR NAME="EMAIL">">
+
+<!-- Section 3: Analysis Modules -->
+<div class="sm-card">
+<h3 class="sm-card-header">Section 3: Select Analysis Modules</h3>
+
+<div class="sm-table-wrap">
+<table class="sm-table">
+    <tr>
+        <th style="width:40px; text-align:center;">&nbsp;</th>
+        <th onmouseover="Tip('Available Post-Mining Analysis modules')" onmouseout="UnTip()"><b>Analysis Module</b></th>
+        <th onmouseover="Tip('Statistical methods used by this module</b><br>')" onmouseout="UnTip()"><b>Method</b></th>
+        <th onmouseover="Tip('Select proper background set for each of the selected modules.<br><br>Background set can be either <b>another query result specified above</b> <br><br>or <b>full HUGO Gene set, PubMed, or all the targets from users&quot; queries</b>')" onmouseout="UnTip()"><b>Test Against</b></th>
+        <th><b>Note</b></th>
+    </tr>
+    <tr>
+        <td style="text-align:center;">
+            <input type="checkbox" name="GeneEnrichmentCheck">
+        </td>
+        <td onmouseover="Tip('This module will evaluate significance level of <b>each target</b> from <b>test set</b><br>based on the <b>number of papers</b> per target <b>between test and background set</b><br><br><b>This module requires background set to be specified above.</b>')" onmouseout="UnTip()">
+            Gene (Name) Enrichment
+        </td>
+        <td>
+            Fisher's exact
+        </td>
+        <td><select name="GeneEnrichment" size="1" class="sm-select" style="width:auto">
+                <option selected value="Selected">Selected Background Above</option>
+                <!--
+                <option value="Whole">Whole document in SciMinerDB</option>
+                -->
+</select></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">
+            <input type="checkbox" name="GOEnrichmentCheck">
+        </td>
+        <td onmouseover="Tip('This module will evaluate significance level of <b>Gene Ontology terms</b> <br>based on the <b>number of targets</b> per Gene Ontology <b>from test and background set</b><br><br>Note that Gene Ontology information is obtained from external annotation resources<br>like NCBI Entrez Gene database not from the text. No text-mining is involved here.<br><br>Background set can be either <b>specified query</b> above or <b>whole HUGO gene set</b>.')" onmouseout="UnTip()">
+            Gene Ontology (GO) Enrichment
+        </td>
+        <td>
+            Fisher's exact
+        </td>
+        <td>
+        	<select name="GOEnrichment" size="1" class="sm-select" style="width:auto">
+                <option selected value="Selected">Selected Background Above</option>
+                <!--<option value="Whole">Whole document in SciMinerDB</option>-->
+                <option value="FullHUGO">All HUGO Genes in SciMinerDB</option>
+			</select>
+		</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">
+            <input type="checkbox" name="MeSHEnrichmentCheck">
+        </td>
+        <td onmouseover="Tip('This module will evaluate significance level of <b>MeSH terms</b> <br>based on the <b>number of papers</b> per MeSH Term <b>from test set and background set</b><br><br>No text-mining is involved here. <br><br>Background set can be either <b>specified query</b> above or <b>whole MedLine documents</b>.')" onmouseout="UnTip()">
+            MeSH Term Enrichment
+        </td>
+        <td>
+            Fisher's exact
+        </td>
+        <td><select name="MeSHEnrichment" size="1" class="sm-select" style="width:auto">
+                <option selected value="Selected">Selected Background Above</option>
+                <!--<option value="Whole">Whole document in SciMinerDB</option>-->
+                <option value="FullMeSH">Whole document in PubMed DB</option>
+</select></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">
+            <input type="checkbox" name="PathwayEnrichmentCheck">
+        </td>
+        <td onmouseover="Tip('This module will evaluate significance level of <b>pathway</b> <br>based on the <b>number of targets</b> per pathway <b>from test and background set</b><br><br>Note that pathway information is obtained from KEGG and Reactome per target<br> not from the text. No text-mining is involved here.<br><br>Background set can be either <b>specified query</b> above or <b>whole HUGO gene set</b>.')" onmouseout="UnTip()">
+        	Pathway Enrichment
+        </td>
+        <td>
+            Fisher's exact
+        </td>
+        <td><select name="PathwayEnrichment" size="1" class="sm-select" style="width:auto">
+                <option selected value="Selected">Selected Background Above</option>
+                <!--<option value="Whole">Whole document in SciMinerDB</option>-->
+                <option value="FullHUGO">All HUGO Genes in SciMinerDB</option>
+</select></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">
+            <input type="checkbox" name="PPICheck">
+        </td>
+        <td onmouseover="Tip('This module will evaluate significance of <b>PPI network</b> of the tested set.<br>The PPI network of the selected tested set is compared to <br>PPI networks of randomly selected targets (<b>of same number of targets as in the test set</b>).<br><br>Background set will provide the probabily of targets being randomly selected.<br>1) <b>Selected query above</b>: # of paper per target only in the given query<br>2) <b>All HUGO genes in SciMinerDB</b>: each gene is equally likely to be selected from the full HUGO gene set<br>3) <b>whole document in sciMinerDB</b>: # of paper per target from all of the processed documents<br><br>Note that 3) would change as more queries are used. <br>Though this is biased towards SciMiner users interests, <br>this can still be useful when the frequency of target needs to be incorporated into the selection probability. <br><br>PPI data is obtained from the MiMI (Michigan Molecular Interactions) database.')" onmouseout="UnTip()">
+            Protein-Protein Interaction network of targets
+        </td>
+        <td>T-test, Z-score<br>(100 repetitions)</td>
+        <td onmouseover="Tip('Background set will provide the probabily of targets being randomly selected.<br>1) <b>Selected query above</b>: # of paper per target only in the given query<br>2) <b>All HUGO genes in SciMinerDB</b>: each gene is equally likely to be selected from the full HUGO gene set<br>3) <b>whole document in sciMinerDB</b>: # of paper per target from all of the processed documents<br><br>')" onmouseout="UnTip()">
+        	<select name="PPI" size="1" class="sm-select" style="width:auto">
+                <option value="FullHUGO" selected>All HUGO Genes in SciMinerDB</option>
+                <option value="Whole">Whole document in SciMinerDB</option>
+                <option value="Selected">Selected Background Above</option>
+			</select></td>
+        <td>Based on Gauchian distribution</td>
+    </tr>
+</table>
+</div>
+
+<div class="sm-btn-group">
+<input type='submit' name="Start Analysis" value="Start Analysis" class="sm-btn sm-btn-primary">
+<input type="reset" name="reset form" class="sm-btn sm-btn-secondary" value="Reset">
+</div>
+
+</div><!-- end analysis modules card -->
+
+</form>
+
+</div><!-- end sm-container-wide -->

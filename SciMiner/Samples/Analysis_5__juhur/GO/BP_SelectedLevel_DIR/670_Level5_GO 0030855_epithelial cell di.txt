@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 2
+
+COMMON	12805	XDH	7498	xanthine dehydrogenase
+COMMON	6204	JUN	3725	jun oncogene
+
+BACKGROUNDONLY	9236	PPARG	5468	peroxisome proliferator-activated receptor gamma
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

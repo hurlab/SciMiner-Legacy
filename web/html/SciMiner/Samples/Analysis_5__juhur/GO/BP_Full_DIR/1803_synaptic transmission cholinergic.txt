@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	2874	NQO1	1728	NAD(P)H dehydrogenase, quinone 1
+
+COMMON	613	APOE	348	apolipoprotein E
+
+BACKGROUNDONLY	3240	EGR3	1960	early growth response 3
+BACKGROUNDONLY	108	ACHE	43	acetylcholinesterase (Yt blood group)

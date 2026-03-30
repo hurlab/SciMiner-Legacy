@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	6207	JUP	3728	junction plakoglobin
+
+BACKGROUNDONLY	1907	CH25H	9023	cholesterol 25-hydroxylase

@@ -1,0 +1,9 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	18985	DCXR	51181	dicarbonyl/L-xylulose reductase
+TESTONLY	4057	G6PD	2539	glucose-6-phosphate dehydrogenase
+
+COMMON	7889	NOX1	27035	NADPH oxidase 1
+

@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	2898	DLD	1738	dihydrolipoamide dehydrogenase
+
+COMMON	4623	GSR	2936	glutathione reductase
+

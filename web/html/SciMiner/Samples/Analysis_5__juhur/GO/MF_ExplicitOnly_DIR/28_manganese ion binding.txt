@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 3
+#BACKGROUNDONLY: 1
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	5385	IDH3B	3420	isocitrate dehydrogenase 3 (NAD+) beta
+TESTONLY	3650	FEN1	2237	flap structure-specific endonuclease 1
+TESTONLY	3701	FHIT	2272	fragile histidine triad gene
+
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	3346	ENDOG	2021	endonuclease G
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+
+BACKGROUNDONLY	6130	ISG20	3669	interferon stimulated exonuclease gene 20kDa

@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 3
+#BACKGROUNDONLY: 1
+TESTONLY	4250	GGT1	2678	gamma-glutamyltransferase 1
+TESTONLY	4312	GCLM	2730	glutamate-cysteine ligase, modifier subunit
+TESTONLY	4624	GSS	2937	glutathione synthetase
+TESTONLY	4556	GPX4	2879	glutathione peroxidase 4 (phospholipid hydroperoxidase)
+TESTONLY	4311	GCLC	2729	glutamate-cysteine ligase, catalytic subunit
+
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	4623	GSR	2936	glutathione reductase
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+
+BACKGROUNDONLY	4641	GSTT1	2952	glutathione S-transferase theta 1

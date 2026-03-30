@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+
+BACKGROUNDONLY	3767	FLT4	2324	fms-related tyrosine kinase 4

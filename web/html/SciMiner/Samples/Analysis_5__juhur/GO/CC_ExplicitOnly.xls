@@ -1,0 +1,212 @@
+#GOID	GOTerm	t-total	t+	t-	b+	b-	b-total	p-value	t-ratio	b-ratio	(t-ratio)/(b-ratio)
+GO:0005886	plasma membrane	399	39	360	113	442	555	9.550e-06	0.10	0.20	0.5
+GO:0005576	extracellular region	399	59	340	140	415	555	9.924e-05	0.15	0.25	0.6
+GO:0016020	membrane	399	111	288	216	339	555	4.139e-04	0.28	0.39	0.7
+GO:0005739	mitochondrion	399	72	327	61	494	555	2.359e-03	0.18	0.11	1.6
+GO:0005887	integral to plasma membrane	399	37	362	87	468	555	4.498e-03	0.09	0.16	0.6
+GO:0016021	integral to membrane	399	73	326	137	418	555	2.150e-02	0.18	0.25	0.7
+GO:0005829	cytosol	399	43	356	38	517	555	3.434e-02	0.11	0.07	1.6
+GO:0000781	chromosome\, telomeric region	399	3	396	0	555	555	7.284e-02	0.01	0.00	bZero
+GO:0016607	nuclear speck	399	3	396	0	555	555	7.284e-02	0.01	0.00	bZero
+GO:0005615	extracellular space	399	35	364	70	485	555	7.426e-02	0.09	0.13	0.7
+GO:0005654	nucleoplasm	399	11	388	6	549	555	7.971e-02	0.03	0.01	2.6
+GO:0009897	external side of plasma membrane	399	4	395	14	541	555	9.723e-02	0.01	0.03	0.4
+GO:0000785	chromatin	399	8	391	5	550	555	1.653e-01	0.02	0.01	2.2
+GO:0005657	replication fork	399	4	395	1	554	555	1.673e-01	0.01	0.00	5.6
+GO:0005901	caveola	399	4	395	1	554	555	1.673e-01	0.01	0.00	5.6
+GO:0005764	lysosome	399	5	394	15	540	555	1.689e-01	0.01	0.03	0.5
+GO:0043626	PCNA complex	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0017109	glutamate\-cysteine ligase complex	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0005958	DNA\-dependent protein kinase complex	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0005832	chaperonin\-containing T\-complex	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0009288	flagellin\-based flagellum	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0005634	nucleus	399	133	266	162	393	555	1.778e-01	0.33	0.29	1.1
+GO:0005741	mitochondrial outer membrane	399	9	390	6	549	555	1.887e-01	0.02	0.01	2.1
+GO:0005875	microtubule associated complex	399	2	397	8	547	555	2.069e-01	0.01	0.01	0.3
+GO:0005694	chromosome	399	7	392	4	551	555	2.172e-01	0.02	0.01	2.4
+GO:0005792	microsome	399	11	388	24	531	555	2.256e-01	0.03	0.04	0.6
+GO:0005758	mitochondrial intermembrane space	399	4	395	2	553	555	2.430e-01	0.01	0.00	2.8
+GO:0016023	cytoplasmic membrane\-bounded vesicle	399	4	395	2	553	555	2.430e-01	0.01	0.00	2.8
+GO:0019717	synaptosome	399	4	395	2	553	555	2.430e-01	0.01	0.00	2.8
+GO:0031225	anchored to membrane	399	1	398	6	549	555	2.493e-01	0.00	0.01	0.2
+GO:0005730	nucleolus	399	8	391	6	549	555	2.809e-01	0.02	0.01	1.9
+GO:0008021	synaptic vesicle	399	5	394	3	552	555	2.899e-01	0.01	0.01	2.3
+GO:0005747	mitochondrial respiratory chain complex I	399	5	394	3	552	555	2.899e-01	0.01	0.01	2.3
+GO:0005856	cytoskeleton	399	12	387	25	530	555	3.078e-01	0.03	0.05	0.7
+GO:0000307	cyclin\-dependent protein kinase holoenzyme complex	399	3	396	1	554	555	3.144e-01	0.01	0.00	4.2
+GO:0005677	chromatin silencing complex	399	3	396	1	554	555	3.144e-01	0.01	0.00	4.2
+GO:0005942	phosphoinositide 3\-kinase complex	399	3	396	1	554	555	3.144e-01	0.01	0.00	4.2
+GO:0005681	spliceosome	399	3	396	1	554	555	3.144e-01	0.01	0.00	4.2
+GO:0009986	cell surface	399	8	391	18	537	555	3.147e-01	0.02	0.03	0.6
+GO:0030054	cell junction	399	13	386	26	529	555	3.215e-01	0.03	0.05	0.7
+GO:0005759	mitochondrial matrix	399	11	388	10	545	555	3.736e-01	0.03	0.02	1.5
+GO:0001726	ruffle	399	1	398	4	551	555	4.068e-01	0.00	0.01	0.3
+GO:0042627	chylomicron	399	1	398	5	550	555	4.098e-01	0.00	0.01	0.3
+GO:0005874	microtubule	399	4	395	10	545	555	4.168e-01	0.01	0.02	0.6
+GO:0030285	integral to synaptic vesicle membrane	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0012506	vesicle membrane	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0046930	pore complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005727	extrachromosomal circular DNA	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0008250	oligosaccharyl transferase complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0030870	Mre11 complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0000800	lateral element	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0009317	acetyl\-CoA carboxylase complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0017177	alpha\-glucosidase II complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0000794	condensed nuclear chromosome	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016010	dystrophin\-associated glycoprotein complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0043034	costamere	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005943	1\-phosphatidylinositol\-4\-phosphate 3\-kinase\, class IA complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0000242	pericentriolar material	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005815	microtubule organizing center	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0042555	MCM complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005757	mitochondrial permeability transition pore complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0044445	cytosolic part	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0043020	NADPH oxidase complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005652	nuclear lamina	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005663	DNA replication factor C complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005853	eukaryotic translation elongation factor 1 complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016602	CCAAT\-binding factor complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005802	trans\-Golgi network	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005885	Arp2/3 protein complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005798	Golgi\-associated vesicle	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0033162	melanosome membrane	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0015934	large ribosomal subunit	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0033593	BRCA2\-MAGE\-D1 complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005587	collagen type IV	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0042589	zymogen granule membrane	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0009331	glycerol\-3\-phosphate dehydrogenase complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0008385	IkappaB kinase complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005838	proteasome regulatory particle	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005662	DNA replication factor A complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016600	flotillin complex	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0019867	outer membrane	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0009925	basal plasma membrane	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0019861	flagellum	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0031410	cytoplasmic vesicle	399	8	391	7	548	555	4.323e-01	0.02	0.01	1.6
+GO:0005737	cytoplasm	399	148	251	192	363	555	4.512e-01	0.37	0.35	1.1
+GO:0000139	Golgi membrane	399	4	395	3	552	555	4.605e-01	0.01	0.01	1.9
+GO:0000786	nucleosome	399	4	395	3	552	555	4.605e-01	0.01	0.01	1.9
+GO:0005840	ribosome	399	5	394	4	551	555	5.029e-01	0.01	0.01	1.7
+GO:0005667	transcription factor complex	399	5	394	4	551	555	5.029e-01	0.01	0.01	1.7
+GO:0045211	postsynaptic membrane	399	4	395	9	546	555	5.741e-01	0.01	0.02	0.6
+GO:0000159	protein phosphatase type 2A complex	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0030863	cortical cytoskeleton	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0045298	tubulin complex	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0005903	brush border	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0030016	myofibril	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0005720	nuclear heterochromatin	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0005779	integral to peroxisomal membrane	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0000793	condensed chromosome	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0030659	cytoplasmic vesicle membrane	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0005624	membrane fraction	399	35	364	55	500	555	5.764e-01	0.09	0.10	0.9
+GO:0045202	synapse	399	14	385	16	539	555	5.793e-01	0.04	0.03	1.2
+GO:0005794	Golgi apparatus	399	16	383	18	537	555	5.964e-01	0.04	0.03	1.2
+GO:0005783	endoplasmic reticulum	399	30	369	47	508	555	6.314e-01	0.08	0.08	0.9
+GO:0031012	extracellular matrix	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0005905	coated pit	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0032279	asymmetric synapse	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0016323	basolateral plasma membrane	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0005839	proteasome core complex	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0031224	intrinsic to membrane	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0031966	mitochondrial membrane	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0043025	cell soma	399	7	392	13	542	555	6.493e-01	0.02	0.02	0.7
+GO:0005746	mitochondrial respiratory chain	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0005952	cAMP\-dependent protein kinase complex	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0005743	mitochondrial inner membrane	399	13	386	15	540	555	6.984e-01	0.03	0.03	1.2
+GO:0008076	voltage\-gated potassium channel complex	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0042734	presynaptic membrane	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0005626	insoluble fraction	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0016363	nuclear matrix	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0016605	PML body	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0030141	secretory granule	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0043198	dendritic shaft	399	2	397	5	550	555	7.056e-01	0.01	0.01	0.6
+GO:0005789	endoplasmic reticulum membrane	399	12	387	20	535	555	7.166e-01	0.03	0.04	0.8
+GO:0015629	actin cytoskeleton	399	4	395	4	551	555	7.259e-01	0.01	0.01	1.4
+GO:0005622	intracellular	399	36	363	54	501	555	7.375e-01	0.09	0.10	0.9
+GO:0014069	postsynaptic density	399	3	396	6	549	555	7.419e-01	0.01	0.01	0.7
+GO:0005883	neurofilament	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0005788	endoplasmic reticulum lumen	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0005882	intermediate filament	399	4	395	7	548	555	7.695e-01	0.01	0.01	0.8
+GO:0048471	perinuclear region of cytoplasm	399	6	393	7	548	555	7.825e-01	0.02	0.01	1.2
+GO:0005777	peroxisome	399	7	392	8	547	555	7.939e-01	0.02	0.01	1.2
+GO:0005578	proteinaceous extracellular matrix	399	7	392	12	543	555	8.153e-01	0.02	0.02	0.8
+GO:0005625	soluble fraction	399	28	371	37	518	555	8.965e-01	0.07	0.07	1.1
+GO:0032839	dendrite cytoplasm	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0043234	protein complex	399	7	392	10	545	555	1.000e+00	0.02	0.02	1.0
+GO:0016469	proton\-transporting two\-sector ATPase complex	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0045263	proton\-transporting ATP synthase complex\, coupling factor F(o)	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0031965	nuclear membrane	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0030425	dendrite	399	4	395	6	549	555	1.000e+00	0.01	0.01	0.9
+GO:0042995	cell projection	399	5	394	6	549	555	1.000e+00	0.01	0.01	1.2
+GO:0042582	azurophil granule	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0043197	dendritic spine	399	3	396	5	550	555	1.000e+00	0.01	0.01	0.8
+GO:0030424	axon	399	10	389	14	541	555	1.000e+00	0.03	0.03	1.0
+GO:0030426	growth cone	399	5	394	8	547	555	1.000e+00	0.01	0.01	0.9
+GO:0005819	spindle	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0030027	lamellipodium	399	5	394	7	548	555	1.000e+00	0.01	0.01	1.0
+GO:0005697	telomerase holoenzyme complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0030288	outer membrane\-bounded periplasmic space	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0031232	extrinsic to external side of plasma membrane	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0000228	nuclear chromosome	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0045177	apical part of cell	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0000776	kinetochore	399	3	396	5	550	555	1.000e+00	0.01	0.01	0.8
+GO:0005639	integral to nuclear inner membrane	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0035253	ciliary rootlet	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005640	nuclear outer membrane	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005604	basement membrane	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0030672	synaptic vesicle membrane	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0046658	anchored to plasma membrane	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005833	hemoglobin complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005768	endosome	399	6	393	9	546	555	1.000e+00	0.02	0.02	0.9
+GO:0030139	endocytic vesicle	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005635	nuclear envelope	399	5	394	7	548	555	1.000e+00	0.01	0.01	1.0
+GO:0043195	terminal button	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0043204	perikaryon	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0001669	acrosome	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0019907	cyclin\-dependent protein kinase activating kinase holoenzyme complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005902	microvillus	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0033596	TSC1\-TSC2 complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0042101	T cell receptor complex	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0042470	melanosome	399	7	392	11	544	555	1.000e+00	0.02	0.02	0.9
+GO:0031902	late endosome membrane	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005765	lysosomal membrane	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0005769	early endosome	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005813	centrosome	399	3	396	4	551	555	1.000e+00	0.01	0.01	1.0
+GO:0042598	vesicular fraction	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005581	collagen	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0005584	collagen type I	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005672	transcription factor TFIIA complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005971	ribonucleoside\-diphosphate reductase complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005793	ER\-Golgi intermediate compartment	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0005675	holo TFIIH complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005771	multivesicular body	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0019897	extrinsic to plasma membrane	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0030690	Noc1p\-Noc2p complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005665	DNA\-directed RNA polymerase II\, core complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0030173	integral to Golgi membrane	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0000151	ubiquitin ligase complex	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0031371	ubiquitin conjugating enzyme complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0031227	intrinsic to endoplasmic reticulum membrane	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0035267	NuA4 histone acetyltransferase complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0042383	sarcolemma	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0045121	membrane raft	399	3	396	4	551	555	1.000e+00	0.01	0.01	1.0
+GO:0019028	viral capsid	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005778	peroxisomal membrane	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0016324	apical plasma membrane	399	5	394	8	547	555	1.000e+00	0.01	0.01	0.9
+GO:0005740	mitochondrial envelope	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0031594	neuromuscular junction	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0000922	spindle pole	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0030017	sarcomere	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005753	mitochondrial proton\-transporting ATP synthase complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0010369	chromocenter	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0030018	Z disc	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0030057	desmosome	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005916	fascia adherens	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0009898	internal side of plasma membrane	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0001725	stress fiber	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016459	myosin complex	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0005863	striated muscle thick filament	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0043292	contractile fiber	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0019898	extrinsic to membrane	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005945	6\-phosphofructokinase complex	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0005925	focal adhesion	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7

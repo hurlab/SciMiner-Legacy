@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <title>SciMiner 1.1 — Biomedical Literature Mining</title>
+  <meta name="description" content="SciMiner 1.1 is a dictionary and rule-based biomedical literature mining tool for target identification and functional enrichment analysis.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: { 50:'#e0f2f1', 100:'#b2dfdb', 200:'#80cbc4', 300:'#4db6ac', 400:'#26a69a', 500:'#009688', 600:'#00897b', 700:'#00796b', 800:'#00695c', 900:'#004d40' },
+          },
+          fontFamily: { sans: ['Inter', 'system-ui', 'sans-serif'] }
+        }
+      }
+    }
+  </script>
+  <style>
+    .hero-gradient { background: linear-gradient(135deg, #004d40 0%, #00695c 40%, #003d33 100%); }
+    .card-hover { transition: transform 0.3s ease, box-shadow 0.3s ease; }
+    .card-hover:hover { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(0,0,0,0.1); }
+  </style>
+</head>
+<body class="font-sans text-gray-800 bg-gray-50 antialiased">
+
+  <!-- Top Navigation Bar -->
+  <div style="background:linear-gradient(135deg,#00897b 0%,#004d40 100%);color:#fff;padding:0 24px;height:56px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100;box-shadow:0 1px 3px rgba(0,0,0,0.15);">
+    <div style="display:flex;align-items:center;gap:10px;font-weight:700;font-size:18px;">
+      <img src="favicon.svg" alt="SciMiner" style="width:28px;height:28px;border-radius:6px;">
+      SciMiner <span style="font-size:11px;font-weight:400;opacity:0.7;margin-left:2px;">1.1</span>
+    </div>
+    <nav style="display:flex;align-items:center;gap:4px;">
+      <a href="/SciMiner1.1/" style="color:#fff;font-size:13px;font-weight:500;padding:6px 12px;border-radius:6px;background:rgba(255,255,255,0.15);text-decoration:none;">Home</a>
+      <a href="/SciMiner1.1/SciMiner/intro2.html" style="color:rgba(255,255,255,0.85);font-size:13px;font-weight:500;padding:6px 12px;border-radius:6px;text-decoration:none;">Introduction</a>
+      <a href="/SciMiner1.1/cgi-bin/sciminerLaunch.cgi" style="color:rgba(255,255,255,0.85);font-size:13px;font-weight:500;padding:6px 12px;border-radius:6px;text-decoration:none;">Run SciMiner</a>
+      <a href="/SciMiner1.1/cgi-bin/analysisLaunch.cgi" style="color:rgba(255,255,255,0.85);font-size:13px;font-weight:500;padding:6px 12px;border-radius:6px;text-decoration:none;">Analysis</a>
+      <a href="/SciMiner1.1/cgi-bin/mergeQueriesLaunch.cgi" style="color:rgba(255,255,255,0.85);font-size:13px;font-weight:500;padding:6px 12px;border-radius:6px;text-decoration:none;">Merge Queries</a>
+      <a href="/SciMiner1.1/cgi-bin/completedLaunch.cgi" style="color:rgba(255,255,255,0.85);font-size:13px;font-weight:500;padding:6px 12px;border-radius:6px;text-decoration:none;">Completed</a>
+      <a href="/SciMiner1.1/SciMiner/download.html" style="color:rgba(255,255,255,0.85);font-size:13px;font-weight:500;padding:6px 12px;border-radius:6px;text-decoration:none;">Download</a>
+      <a href="/SciMiner1.1/SciMiner/contact2.html" style="color:rgba(255,255,255,0.85);font-size:13px;font-weight:500;padding:6px 12px;border-radius:6px;text-decoration:none;">Contact</a>
+    </nav>
+  </div>
+
+  <!-- Hero -->
+  <section class="hero-gradient relative overflow-hidden">
+    <div class="absolute inset-0 opacity-10">
+      <svg class="absolute top-10 right-20 w-48 h-48" viewBox="0 0 200 200"><circle cx="100" cy="100" r="80" stroke="#80cbc4" stroke-width="1" fill="none"/><circle cx="100" cy="100" r="50" stroke="#b2dfdb" stroke-width="1" fill="none"/></svg>
+    </div>
+
+    <div class="relative z-10 max-w-5xl mx-auto px-6 pt-12 pb-10">
+      <div class="flex flex-col lg:flex-row gap-10 items-center">
+        <div class="flex-1">
+          <div class="flex items-center gap-2 mb-4">
+            <div class="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center backdrop-blur">
+              <img src="favicon.svg" alt="SciMiner" class="w-6 h-6">
+            </div>
+            <span class="text-teal-200 text-xs font-semibold tracking-wide uppercase">Version 1.1</span>
+          </div>
+          <h1 class="text-4xl md:text-5xl font-extrabold text-white mb-3 tracking-tight">SciMiner</h1>
+          <p class="text-lg text-teal-100 font-medium mb-3">Biomedical Literature Mining Tool</p>
+          <p class="text-sm text-gray-300 leading-relaxed max-w-lg">
+            Dictionary- and rule-based text mining for target identification and functional enrichment analysis.
+            Extract genes and proteins from PubMed literature, perform GO/MeSH/Pathway enrichment, and build interaction networks.
+          </p>
+        </div>
+        <div class="flex-1 grid grid-cols-2 gap-3 max-w-md">
+          <div class="bg-white/10 backdrop-blur rounded-lg p-4 border border-white/10">
+            <svg class="w-5 h-5 text-teal-300 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+            <h3 class="text-sm font-semibold text-white mb-1">PubMed Mining</h3>
+            <p class="text-xs text-gray-300 leading-snug">Full-text and abstract mining from MEDLINE</p>
+          </div>
+          <div class="bg-white/10 backdrop-blur rounded-lg p-4 border border-white/10">
+            <svg class="w-5 h-5 text-indigo-300 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.75 3.104v5.714a2.25 2.25 0 01-.659 1.591L5 14.5M9.75 3.104c-.251.023-.501.05-.75.082m.75-.082a24.301 24.301 0 014.5 0"/></svg>
+            <h3 class="text-sm font-semibold text-white mb-1">Target Identification</h3>
+            <p class="text-xs text-gray-300 leading-snug">Genes, proteins via dictionary and rule-based NLP</p>
+          </div>
+          <div class="bg-white/10 backdrop-blur rounded-lg p-4 border border-white/10">
+            <svg class="w-5 h-5 text-purple-300 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 006 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0118 16.5h-2.25m-7.5 0h7.5"/></svg>
+            <h3 class="text-sm font-semibold text-white mb-1">Enrichment Analysis</h3>
+            <p class="text-xs text-gray-300 leading-snug">Gene, GO, MeSH, Pathway, PPI enrichment</p>
+          </div>
+          <div class="bg-white/10 backdrop-blur rounded-lg p-4 border border-white/10">
+            <svg class="w-5 h-5 text-amber-300 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7.5 21L3 16.5m0 0L7.5 12M3 16.5h13.5m0-13.5L21 7.5m0 0L16.5 12M21 7.5H7.5"/></svg>
+            <h3 class="text-sm font-semibold text-white mb-1">PPI Networks</h3>
+            <p class="text-xs text-gray-300 leading-snug">Interactive Cytoscape.js network visualization</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Quick Access -->
+  <section class="py-10 bg-white">
+    <div class="max-w-4xl mx-auto px-6">
+      <h2 class="text-lg font-bold text-gray-900 mb-5 text-center">Quick Access</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+        <a href="cgi-bin/sciminerLaunch.cgi" class="block bg-gray-50 rounded-lg p-4 border border-gray-200 card-hover text-center">
+          <div class="text-2xl mb-2">&#128269;</div>
+          <h3 class="font-bold text-gray-900 text-sm">Run SciMiner</h3>
+          <p class="text-xs text-gray-500 mt-1">Submit a new text mining query</p>
+        </a>
+        <a href="cgi-bin/analysisLaunch.cgi" class="block bg-gray-50 rounded-lg p-4 border border-gray-200 card-hover text-center">
+          <div class="text-2xl mb-2">&#128200;</div>
+          <h3 class="font-bold text-gray-900 text-sm">Post-Mining Analysis</h3>
+          <p class="text-xs text-gray-500 mt-1">Enrichment and pathway analysis</p>
+        </a>
+        <a href="cgi-bin/mergeQueriesLaunch.cgi" class="block bg-gray-50 rounded-lg p-4 border border-gray-200 card-hover text-center">
+          <div class="text-2xl mb-2">&#128279;</div>
+          <h3 class="font-bold text-gray-900 text-sm">Merge Queries</h3>
+          <p class="text-xs text-gray-500 mt-1">Combine results from multiple queries</p>
+        </a>
+        <a href="cgi-bin/completedLaunch.cgi" class="block bg-gray-50 rounded-lg p-4 border border-gray-200 card-hover text-center">
+          <div class="text-2xl mb-2">&#128196;</div>
+          <h3 class="font-bold text-gray-900 text-sm">Completed</h3>
+          <p class="text-xs text-gray-500 mt-1">View past queries and analyses</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Versions -->
+  <section class="py-10 bg-gray-50">
+    <div class="max-w-4xl mx-auto px-6">
+      <h2 class="text-lg font-bold text-gray-900 mb-5 text-center">All Versions</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <a href="/SciMiner/" class="block bg-white rounded-lg p-4 border border-gray-200 card-hover text-center">
+          <h3 class="font-bold text-gray-900">SciMiner Classic</h3>
+          <p class="text-xs text-gray-500 mt-1">Original production</p>
+          <span class="inline-block mt-2 px-2 py-0.5 bg-gray-100 text-gray-600 text-xs rounded-full">Stable</span>
+        </a>
+        <div class="bg-white rounded-lg p-4 border-2 border-primary-500 text-center ring-1 ring-primary-100">
+          <h3 class="font-bold text-primary-700">SciMiner 1.1</h3>
+          <p class="text-xs text-gray-500 mt-1">Enhanced Perl/CGI</p>
+          <span class="inline-block mt-2 px-2 py-0.5 bg-primary-100 text-primary-700 text-xs rounded-full">Current</span>
+        </div>
+        <a href="/SciMiner2.0/" class="block bg-white rounded-lg p-4 border border-gray-200 card-hover text-center">
+          <h3 class="font-bold text-gray-900">SciMiner 2.0</h3>
+          <p class="text-xs text-gray-500 mt-1">Python/React platform</p>
+          <span class="inline-block mt-2 px-2 py-0.5 bg-teal-100 text-teal-700 text-xs rounded-full">Development</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-gray-400 py-6">
+    <div class="max-w-6xl mx-auto px-6 flex flex-col sm:flex-row justify-between items-center gap-3 text-sm">
+      <p class="flex items-center gap-2">
+        <img src="favicon.svg" alt="SciMiner logo" class="w-5 h-5">
+        <span class="text-white font-medium">SciMiner 1.1</span> &middot;
+        <a href="/hurlab/" class="text-teal-400 hover:text-teal-300">Hur Lab</a>, University of North Dakota
+        <span class="text-gray-600 ml-2 text-xs">Last updated: 2026-03-26</span>
+      </p>
+      <div class="flex items-center gap-5">
+        <a href="/SciMiner/" class="hover:text-teal-400 transition-colors">Classic</a>
+        <span class="text-white font-medium">v1.1</span>
+        <a href="/SciMiner2.0/" class="hover:text-teal-400 transition-colors">v2.0</a>
+        <a href="/hurlab/" class="hover:text-teal-400 transition-colors">Hur Lab</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

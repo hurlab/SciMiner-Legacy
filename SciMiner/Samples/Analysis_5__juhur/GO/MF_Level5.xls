@@ -1,0 +1,216 @@
+GO:0004888	transmembrane receptor activity	399	25	374	79	476	555	8.504e-05	0.06	0.14	0.4
+GO:0043566	structure\-specific DNA binding	399	14	385	4	551	555	2.709e-03	0.04	0.01	4.9
+GO:0003684	damaged DNA binding	399	8	391	1	554	555	5.115e-03	0.02	0.00	11.1
+GO:0030554	adenyl nucleotide binding	399	94	305	90	465	555	5.949e-03	0.24	0.16	1.5
+GO:0016818	hydrolase activity\, acting on acid anhydrides\, in phosphorus\-containing anhydrides	399	34	365	24	531	555	8.853e-03	0.09	0.04	2.0
+GO:0032555	purine ribonucleotide binding	399	86	313	84	471	555	1.275e-02	0.22	0.15	1.4
+GO:0004175	endopeptidase activity	399	14	385	39	516	555	2.146e-02	0.04	0.07	0.5
+GO:0004003	ATP\-dependent DNA helicase activity	399	6	393	1	554	555	2.363e-02	0.02	0.00	8.3
+GO:0001664	G\-protein\-coupled receptor binding	399	2	397	13	542	555	3.196e-02	0.01	0.02	0.2
+GO:0005125	cytokine activity	399	20	379	48	507	555	4.054e-02	0.05	0.09	0.6
+GO:0042578	phosphoric ester hydrolase activity	399	15	384	10	545	555	6.723e-02	0.04	0.02	2.1
+GO:0016799	hydrolase activity\, hydrolyzing N\-glycosyl compounds	399	3	396	0	555	555	7.284e-02	0.01	0.00	bZero
+GO:0005509	calcium ion binding	399	25	374	53	502	555	7.292e-02	0.06	0.10	0.7
+GO:0008237	metallopeptidase activity	399	2	397	10	545	555	8.501e-02	0.01	0.02	0.3
+GO:0008528	peptide receptor activity\, G\-protein coupled	399	3	396	12	543	555	1.133e-01	0.01	0.02	0.3
+GO:0004518	nuclease activity	399	13	386	9	546	555	1.251e-01	0.03	0.02	2.0
+GO:0051539	4 iron\, 4 sulfur cluster binding	399	5	394	2	553	555	1.363e-01	0.01	0.00	3.5
+GO:0004879	ligand\-dependent nuclear receptor activity	399	6	393	17	538	555	1.382e-01	0.02	0.03	0.5
+GO:0008083	growth factor activity	399	20	379	42	513	555	1.426e-01	0.05	0.08	0.7
+GO:0008238	exopeptidase activity	399	1	398	7	548	555	1.489e-01	0.00	0.01	0.2
+GO:0005539	glycosaminoglycan binding	399	7	392	19	536	555	1.577e-01	0.02	0.03	0.5
+GO:0003755	peptidyl\-prolyl cis\-trans isomerase activity	399	4	395	1	554	555	1.673e-01	0.01	0.00	5.6
+GO:0008379	thioredoxin peroxidase activity	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0009378	four\-way junction helicase activity	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0043138	3'\-5' DNA helicase activity	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0042826	histone deacetylase binding	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0032404	mismatch repair complex binding	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0003746	translation elongation factor activity	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0016653	oxidoreductase activity\, acting on NADH or NADPH\, heme protein as acceptor	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0016624	oxidoreductase activity\, acting on the aldehyde or oxo group of donors\, disulfide as acceptor	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0004738	pyruvate dehydrogenase activity	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0008160	protein tyrosine phosphatase activator activity	399	2	397	0	555	555	1.747e-01	0.01	0.00	bZero
+GO:0016655	oxidoreductase activity\, acting on NADH or NADPH\, quinone or similar compound as acceptor	399	6	393	3	552	555	1.762e-01	0.02	0.01	2.8
+GO:0003700	transcription factor activity	399	28	371	53	502	555	1.953e-01	0.07	0.10	0.7
+GO:0016301	kinase activity	399	42	357	45	510	555	2.111e-01	0.11	0.08	1.3
+GO:0015291	secondary active transmembrane transporter activity	399	14	385	12	543	555	2.299e-01	0.04	0.02	1.6
+GO:0051427	hormone receptor binding	399	1	398	6	549	555	2.493e-01	0.00	0.01	0.2
+GO:0016616	oxidoreductase activity\, acting on the CH\-OH group of donors\, NAD or NADP as acceptor	399	7	392	5	550	555	2.554e-01	0.02	0.01	1.9
+GO:0016712	oxidoreductase activity\, acting on paired donors\, with incorporation or reduction of molecular oxygen\, reduced flavin or flavoprotein as one donor\, and incorporation of one atom of oxygen	399	3	396	10	545	555	2.575e-01	0.01	0.02	0.4
+GO:0004091	carboxylesterase activity	399	3	396	10	545	555	2.575e-01	0.01	0.02	0.4
+GO:0010181	FMN binding	399	5	394	3	552	555	2.899e-01	0.01	0.01	2.3
+GO:0016763	transferase activity\, transferring pentosyl groups	399	5	394	3	552	555	2.899e-01	0.01	0.01	2.3
+GO:0003954	NADH dehydrogenase activity	399	5	394	3	552	555	2.899e-01	0.01	0.01	2.3
+GO:0008234	cysteine\-type peptidase activity	399	7	392	17	538	555	2.945e-01	0.02	0.03	0.6
+GO:0000287	magnesium ion binding	399	18	381	17	538	555	2.949e-01	0.05	0.03	1.5
+GO:0019902	phosphatase binding	399	3	396	1	554	555	3.144e-01	0.01	0.00	4.2
+GO:0016702	oxidoreductase activity\, acting on single donors with incorporation of molecular oxygen\, incorporation of two atoms of oxygen	399	2	397	7	548	555	3.178e-01	0.01	0.01	0.4
+GO:0051287	NAD binding	399	6	393	4	551	555	3.355e-01	0.02	0.01	2.1
+GO:0050660	FAD binding	399	16	383	16	539	555	3.656e-01	0.04	0.03	1.4
+GO:0016747	transferase activity\, transferring groups other than amino\-acyl groups	399	3	396	9	546	555	3.779e-01	0.01	0.02	0.5
+GO:0008236	serine\-type peptidase activity	399	3	396	9	546	555	3.779e-01	0.01	0.02	0.5
+GO:0016820	hydrolase activity\, acting on acid anhydrides\, catalyzing transmembrane movement of substances	399	7	392	6	549	555	4.068e-01	0.02	0.01	1.6
+GO:0015399	primary active transmembrane transporter activity	399	7	392	6	549	555	4.068e-01	0.02	0.01	1.6
+GO:0031420	alkali metal ion binding	399	1	398	4	551	555	4.068e-01	0.00	0.01	0.3
+GO:0030545	receptor regulator activity	399	1	398	4	551	555	4.068e-01	0.00	0.01	0.3
+GO:0008168	methyltransferase activity	399	1	398	4	551	555	4.068e-01	0.00	0.01	0.3
+GO:0016836	hydro\-lyase activity	399	1	398	5	550	555	4.098e-01	0.00	0.01	0.3
+GO:0016615	malate dehydrogenase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016775	phosphotransferase activity\, nitrogenous group as acceptor	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0015932	nucleobase\, nucleoside\, nucleotide and nucleic acid transmembrane transporter activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0004148	dihydrolipoyl dehydrogenase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016831	carboxy\-lyase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0046912	transferase activity\, transferring acyl groups\, acyl groups converted into alkyl on transfer	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016595	glutamate binding	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0005066	transmembrane receptor protein tyrosine kinase signaling protein activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0035226	glutamate\-cysteine ligase catalytic subunit binding	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0004176	ATP\-dependent peptidase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0032090	Pyrin domain binding	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016421	CoA carboxylase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0030553	cGMP binding	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0043559	insulin binding	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0051003	ligase activity\, forming nitrogen\-metal bonds\, forming coordination complexes	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016812	hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds\, in cyclic amides	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0004004	ATP\-dependent RNA helicase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0004128	cytochrome\-b5 reductase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0003958	NADPH\-hemoprotein reductase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0008503	benzodiazepine receptor activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016716	oxidoreductase activity\, acting on paired donors\, with incorporation or reduction of molecular oxygen\, another compound as one donor\, and incorporation of one atom of oxygen	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016878	acid\-thiol ligase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016405	CoA\-ligase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0031997	N\-terminal myristoylation domain binding	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0004462	lactoylglutathione lyase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0004368	glycerol\-3\-phosphate dehydrogenase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0008301	DNA bending activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0050699	WW domain binding	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0030586	[methionine synthase] reductase activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016723	oxidoreductase activity\, oxidizing metal ions\, NAD or NADP as acceptor	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0008601	protein phosphatase type 2A regulator activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0008493	tetracycline transporter activity	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0016654	oxidoreductase activity\, acting on NADH or NADPH\, disulfide as acceptor	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0019905	syntaxin binding	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0050998	nitric\-oxide synthase binding	399	1	398	0	555	555	4.182e-01	0.00	0.00	bZero
+GO:0050661	NADP binding	399	8	391	7	548	555	4.323e-01	0.02	0.01	1.6
+GO:0003779	actin binding	399	5	394	11	544	555	4.523e-01	0.01	0.02	0.6
+GO:0016505	apoptotic protease activator activity	399	4	395	3	552	555	4.605e-01	0.01	0.01	1.9
+GO:0008194	UDP\-glycosyltransferase activity	399	4	395	3	552	555	4.605e-01	0.01	0.01	1.9
+GO:0016790	thiolester hydrolase activity	399	4	395	3	552	555	4.605e-01	0.01	0.01	1.9
+GO:0016773	phosphotransferase activity\, alcohol group as acceptor	399	35	364	41	514	555	4.679e-01	0.09	0.07	1.2
+GO:0004866	endopeptidase inhibitor activity	399	6	393	13	542	555	4.826e-01	0.02	0.02	0.6
+GO:0008188	neuropeptide receptor activity	399	3	396	7	548	555	5.338e-01	0.01	0.01	0.6
+GO:0016881	acid\-amino acid ligase activity	399	6	393	5	550	555	5.407e-01	0.02	0.01	1.7
+GO:0009053	electron donor activity	399	6	393	6	549	555	5.705e-01	0.02	0.01	1.4
+GO:0045155	electron transporter\, transferring electrons from CoQH2\-cytochrome c reductase complex and cytochrome c oxidase complex activity	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0051400	BH domain binding	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0015037	peptide disulfide oxidoreductase activity	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0016668	oxidoreductase activity\, acting on sulfur group of donors\, NAD or NADP as acceptor	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0016671	oxidoreductase activity\, acting on sulfur group of donors\, disulfide as acceptor	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0016714	oxidoreductase activity\, acting on paired donors\, with incorporation or reduction of molecular oxygen\, reduced pteridine as one donor\, and incorporation of one atom of oxygen	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0015035	protein disulfide oxidoreductase activity	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0043130	ubiquitin binding	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0003906	DNA\-(apurinic or apyrimidinic site) lyase activity	399	2	397	1	554	555	5.748e-01	0.01	0.00	2.8
+GO:0015267	channel activity	399	11	388	20	535	555	5.796e-01	0.03	0.04	0.8
+GO:0046914	transition metal ion binding	399	93	306	121	434	555	5.829e-01	0.23	0.22	1.1
+GO:0005342	organic acid transmembrane transporter activity	399	7	392	7	548	555	5.909e-01	0.02	0.01	1.4
+GO:0019900	kinase binding	399	7	392	7	548	555	5.909e-01	0.02	0.01	1.4
+GO:0015075	ion transmembrane transporter activity	399	36	363	45	510	555	6.388e-01	0.09	0.08	1.1
+GO:0031404	chloride ion binding	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0005154	epidermal growth factor receptor binding	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0005099	Ras GTPase activator activity	399	1	398	3	552	555	6.441e-01	0.00	0.01	0.5
+GO:0016298	lipase activity	399	9	390	10	545	555	6.445e-01	0.02	0.02	1.3
+GO:0004784	superoxide dismutase activity	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0005159	insulin\-like growth factor receptor binding	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0033558	protein deacetylase activity	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0005158	insulin receptor binding	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0016641	oxidoreductase activity\, acting on the CH\-NH2 group of donors\, oxygen as acceptor	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0016862	intramolecular oxidoreductase activity\, interconverting keto\- and enol\-groups	399	3	396	2	553	555	6.547e-01	0.01	0.00	2.1
+GO:0019001	guanyl nucleotide binding	399	10	389	11	544	555	6.569e-01	0.03	0.02	1.3
+GO:0005179	hormone activity	399	10	389	17	538	555	6.947e-01	0.03	0.03	0.8
+GO:0032934	sterol binding	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0016628	oxidoreductase activity\, acting on the CH\-CH group of donors\, NAD or NADP as acceptor	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0005520	insulin\-like growth factor binding	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0043121	neurotrophin binding	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0035091	phosphoinositide binding	399	3	396	3	552	555	6.987e-01	0.01	0.01	1.4
+GO:0015026	coreceptor activity	399	2	397	5	550	555	7.056e-01	0.01	0.01	0.6
+GO:0030165	PDZ domain binding	399	4	395	4	551	555	7.259e-01	0.01	0.01	1.4
+GO:0016811	hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds\, in linear amides	399	4	395	4	551	555	7.259e-01	0.01	0.01	1.4
+GO:0050664	oxidoreductase activity\, acting on NADH or NADPH\, with oxygen as acceptor	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0016758	transferase activity\, transferring hexosyl groups	399	5	394	5	550	555	7.496e-01	0.01	0.01	1.4
+GO:0016709	oxidoreductase activity\, acting on paired donors\, with incorporation or reduction of molecular oxygen\, NADH or NADPH as one donor\, and incorporation of one atom of oxygen	399	4	395	7	548	555	7.695e-01	0.01	0.01	0.8
+GO:0043565	sequence\-specific DNA binding	399	22	377	34	521	555	7.805e-01	0.06	0.06	0.9
+GO:0005275	amine transmembrane transporter activity	399	7	392	8	547	555	7.939e-01	0.02	0.01	1.2
+GO:0003712	transcription cofactor activity	399	12	387	15	540	555	8.441e-01	0.03	0.03	1.1
+GO:0042803	protein homodimerization activity	399	18	381	24	531	555	8.746e-01	0.05	0.04	1.0
+GO:0046982	protein heterodimerization activity	399	12	387	18	537	555	1.000e+00	0.03	0.03	0.9
+GO:0015631	tubulin binding	399	5	394	7	548	555	1.000e+00	0.01	0.01	1.0
+GO:0009982	pseudouridine synthase activity	399	4	395	5	550	555	1.000e+00	0.01	0.01	1.1
+GO:0008603	cAMP\-dependent protein kinase regulator activity	399	3	396	4	551	555	1.000e+00	0.01	0.01	1.0
+GO:0004860	protein kinase inhibitor activity	399	3	396	4	551	555	1.000e+00	0.01	0.01	1.0
+GO:0017124	SH3 domain binding	399	3	396	4	551	555	1.000e+00	0.01	0.01	1.0
+GO:0016779	nucleotidyltransferase activity	399	3	396	4	551	555	1.000e+00	0.01	0.01	1.0
+GO:0042287	MHC protein binding	399	3	396	4	551	555	1.000e+00	0.01	0.01	1.0
+GO:0015144	carbohydrate transmembrane transporter activity	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0051537	2 iron\, 2 sulfur cluster binding	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0004392	heme oxygenase (decyclizing) activity	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0015248	sterol transporter activity	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0016620	oxidoreductase activity\, acting on the aldehyde or oxo group of donors\, NAD or NADP as acceptor	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0030508	thiol\-disulfide exchange intermediate activity	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0003916	DNA topoisomerase activity	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0051020	GTPase binding	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0004129	cytochrome\-c oxidase activity	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0016676	oxidoreductase activity\, acting on heme group of donors\, oxygen as acceptor	399	2	397	4	551	555	1.000e+00	0.01	0.01	0.7
+GO:0004364	glutathione transferase activity	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0030552	cAMP binding	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0004553	hydrolase activity\, hydrolyzing O\-glycosyl compounds	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0030911	TPR domain binding	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0016864	intramolecular oxidoreductase activity\, transposing S\-S bonds	399	2	397	2	553	555	1.000e+00	0.01	0.00	1.4
+GO:0042169	SH2 domain binding	399	2	397	3	552	555	1.000e+00	0.01	0.01	0.9
+GO:0033130	acetylcholine receptor binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0002020	protease binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0045309	protein phosphorylated amino acid binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0034187	apolipoprotein E binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016726	oxidoreductase activity\, acting on CH or CH2 groups\, NAD or NADP as acceptor	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016727	oxidoreductase activity\, acting on CH or CH2 groups\, oxygen as acceptor	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0034190	apolipoprotein receptor binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0050750	low\-density lipoprotein receptor binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0046911	metal chelating activity	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0048156	tau protein binding	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0048019	receptor antagonist activity	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0016880	acid\-ammonia (or amide) ligase activity	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016724	oxidoreductase activity\, oxidizing metal ions\, oxygen as acceptor	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0004666	prostaglandin\-endoperoxide synthase activity	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0016876	ligase activity\, forming aminoacyl\-tRNA and related compounds	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0003706	ligand\-regulated transcription factor activity	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005088	Ras guanyl\-nucleotide exchange factor activity	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0030295	protein kinase activator activity	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016728	oxidoreductase activity\, acting on CH or CH2 groups\, disulfide as acceptor	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0051117	ATPase binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0015464	acetylcholine receptor activity	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005330	dopamine\:sodium symporter activity	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0043120	tumor necrosis factor binding	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005123	death receptor binding	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0016455	RNA polymerase II transcription mediator activity	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0030544	Hsp70 protein binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0051879	Hsp90 protein binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0035035	histone acetyltransferase binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0015198	oligopeptide transporter activity	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005528	FK506 binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016803	ether hydrolase activity	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0008294	calcium\- and calmodulin\-responsive adenylate cyclase activity	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016755	transferase activity\, transferring amino\-acyl groups	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0003729	mRNA binding	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0005548	phospholipid transporter activity	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0019865	immunoglobulin binding	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0008483	transaminase activity	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0016847	1\-aminocyclopropane\-1\-carboxylate synthase activity	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0008139	nuclear localization sequence binding	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0031625	ubiquitin protein ligase binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0051059	NF\-kappaB binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0003725	double\-stranded RNA binding	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0016706	oxidoreductase activity\, acting on paired donors\, with incorporation or reduction of molecular oxygen\, 2\-oxoglutarate as one donor\, and incorporation of one atom each of oxygen into both donors	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0043425	bHLH transcription factor binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016646	oxidoreductase activity\, acting on the CH\-NH group of donors\, NAD or NADP as acceptor	399	1	398	2	553	555	1.000e+00	0.00	0.00	0.7
+GO:0004796	thromboxane\-A synthase activity	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016918	retinal binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0019841	retinol binding	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4
+GO:0016681	oxidoreductase activity\, acting on diphenols and related substances as donors\, cytochrome as acceptor	399	1	398	1	554	555	1.000e+00	0.00	0.00	1.4

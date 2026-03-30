@@ -1,0 +1,646 @@
+/* SciMiner 1.1 — Modern UI Stylesheet */
+
+/* ── Reset & Base ─────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 14px;
+  color: #1e293b;
+  background: #f1f5f9;
+  line-height: 1.6;
+}
+a { color: #00796b; text-decoration: none; }
+a:hover { color: #004d40; text-decoration: underline; }
+
+/* ── Top Navigation Bar ───────────────────────────── */
+.sm-topbar {
+  background: linear-gradient(135deg, #00897b 0%, #004d40 100%);
+  color: #fff;
+  padding: 0 24px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+}
+.sm-topbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -0.01em;
+}
+.sm-topbar-brand img {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+}
+.sm-topbar-brand .sm-version {
+  font-size: 11px;
+  font-weight: 400;
+  opacity: 0.7;
+  margin-left: 2px;
+}
+.sm-topbar-nav {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.sm-topbar-nav a {
+  color: rgba(255,255,255,0.85);
+  font-size: 13px;
+  font-weight: 500;
+  padding: 6px 12px;
+  border-radius: 6px;
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+.sm-topbar-nav a:hover,
+.sm-topbar-nav a.active {
+  background: rgba(255,255,255,0.15);
+  color: #fff;
+  text-decoration: none;
+}
+.sm-topbar-user {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 13px;
+}
+.sm-topbar-user .sm-user-email {
+  opacity: 0.85;
+}
+.sm-topbar-user a {
+  color: rgba(255,255,255,0.7);
+  font-size: 12px;
+  padding: 4px 10px;
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: 4px;
+}
+.sm-topbar-user a:hover {
+  background: rgba(255,255,255,0.1);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Mobile nav toggle */
+.sm-nav-toggle { display: none; background: none; border: none; color: #fff; font-size: 22px; cursor: pointer; }
+@media (max-width: 768px) {
+  .sm-nav-toggle { display: block; }
+  .sm-topbar-nav { display: none; flex-direction: column; position: absolute; top: 56px; left: 0; right: 0; background: #004d40; padding: 8px; gap: 0; }
+  .sm-topbar-nav.open { display: flex; }
+  .sm-topbar-nav a { padding: 10px 16px; border-radius: 0; }
+}
+
+/* ── Page Container ───────────────────────────────── */
+.sm-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 20px;
+}
+.sm-container-wide {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 20px;
+}
+
+/* ── Cards ────────────────────────────────────────── */
+.sm-card {
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #e2e8f0;
+  padding: 24px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+.sm-card-header {
+  font-size: 16px;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0 0 4px 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.sm-card-body {
+  font-size: 14px;
+  color: #334155;
+  line-height: 1.7;
+}
+.sm-card-body p { margin: 0 0 12px 0; }
+.sm-card-body ul, .sm-card-body ol { margin: 0 0 12px 0; padding-left: 20px; }
+.sm-card-body li { margin-bottom: 4px; }
+.sm-card-desc {
+  font-size: 13px;
+  color: #64748b;
+  margin: 0 0 16px 0;
+}
+.sm-card-divider {
+  border: none;
+  border-top: 1px solid #e2e8f0;
+  margin: 16px 0;
+}
+
+/* ── Section Headers ──────────────────────────────── */
+.sm-section-label {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #00796b;
+  margin: 20px 0 8px 0;
+}
+
+/* ── Form Elements ────────────────────────────────── */
+.sm-form-group {
+  margin-bottom: 14px;
+}
+.sm-label {
+  display: block;
+  font-size: 13px;
+  font-weight: 500;
+  color: #334155;
+  margin-bottom: 4px;
+}
+.sm-input,
+.sm-select,
+.sm-textarea {
+  width: 100%;
+  padding: 8px 12px;
+  font-size: 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  background: #fff;
+  color: #1e293b;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  font-family: inherit;
+}
+.sm-input:focus,
+.sm-select:focus,
+.sm-textarea:focus {
+  outline: none;
+  border-color: #00897b;
+  box-shadow: 0 0 0 3px rgba(0,137,123,0.12);
+}
+.sm-input-sm { max-width: 120px; }
+.sm-input-md { max-width: 320px; }
+.sm-input-lg { max-width: 480px; }
+.sm-textarea { resize: vertical; min-height: 80px; }
+.sm-file-input {
+  font-size: 13px;
+  padding: 6px 0;
+}
+.sm-hint {
+  font-size: 12px;
+  color: #94a3b8;
+  margin-top: 3px;
+}
+.sm-checkbox-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.sm-checkbox-group input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  accent-color: #00897b;
+}
+.sm-checkbox-group label {
+  font-size: 13px;
+  color: #334155;
+  cursor: pointer;
+}
+.sm-inline-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* ── Buttons ──────────────────────────────────────── */
+.sm-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 18px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+  font-family: inherit;
+}
+.sm-btn:active { transform: scale(0.98); }
+.sm-btn-primary {
+  background: #00897b;
+  color: #fff;
+}
+.sm-btn-primary:hover { background: #00796b; }
+.sm-btn-secondary {
+  background: #e2e8f0;
+  color: #334155;
+}
+.sm-btn-secondary:hover { background: #cbd5e1; }
+.sm-btn-outline {
+  background: transparent;
+  color: #00897b;
+  border: 1px solid #00897b;
+}
+.sm-btn-outline:hover { background: rgba(0,137,123,0.06); }
+.sm-btn-sm {
+  padding: 5px 12px;
+  font-size: 12px;
+}
+.sm-btn-group {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+/* ── Tables ───────────────────────────────────────── */
+.sm-table-wrap {
+  overflow-x: auto;
+  margin: 12px 0;
+}
+.sm-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.sm-table th {
+  text-align: left;
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #64748b;
+  padding: 8px 12px;
+  border-bottom: 2px solid #e2e8f0;
+  background: #f8fafc;
+}
+.sm-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #f1f5f9;
+  color: #334155;
+}
+.sm-table tr:hover td {
+  background: #f8fafc;
+}
+.sm-table input[type="checkbox"] {
+  width: 15px;
+  height: 15px;
+  accent-color: #00897b;
+}
+
+/* ── Login Card ───────────────────────────────────── */
+.sm-login-wrapper {
+  min-height: calc(100vh - 56px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #f0fdfa 0%, #f1f5f9 100%);
+}
+.sm-login-card {
+  background: #fff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  padding: 36px 32px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  text-align: center;
+}
+.sm-login-card h2 {
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 0 4px 0;
+  color: #0f172a;
+}
+.sm-login-card .sm-login-subtitle {
+  font-size: 13px;
+  color: #64748b;
+  margin: 0 0 24px 0;
+}
+.sm-login-card .sm-form-group {
+  text-align: left;
+}
+.sm-login-card .sm-btn-group {
+  justify-content: center;
+}
+.sm-login-error {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #991b1b;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  margin-bottom: 16px;
+}
+.sm-login-links {
+  margin-top: 16px;
+  font-size: 13px;
+  color: #64748b;
+}
+
+/* ── Collapsible Sections ─────────────────────────── */
+.sm-collapsible-toggle {
+  font-size: 13px;
+  font-weight: 600;
+  color: #00897b;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 0;
+  border: none;
+  background: none;
+  font-family: inherit;
+}
+.sm-collapsible-toggle:hover { color: #004d40; }
+.sm-collapsible-content {
+  display: none;
+  padding: 12px 0;
+}
+.sm-collapsible-content.open {
+  display: block;
+}
+
+/* ── Alerts / Notices ─────────────────────────────── */
+.sm-alert {
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 13px;
+  margin-bottom: 16px;
+}
+.sm-alert-info {
+  background: #f0fdfa;
+  border: 1px solid #99f6e4;
+  color: #134e4a;
+}
+.sm-alert-warning {
+  background: #fffbeb;
+  border: 1px solid #fde68a;
+  color: #92400e;
+}
+
+/* ── Footer ───────────────────────────────────────── */
+.sm-footer {
+  background: #0f172a;
+  color: #94a3b8;
+  padding: 20px 24px;
+  font-size: 13px;
+  margin-top: 40px;
+}
+.sm-footer-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.sm-footer a {
+  color: #5eead4;
+}
+.sm-footer a:hover {
+  color: #99f6e4;
+  text-decoration: none;
+}
+.sm-footer-versions {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+.sm-footer-versions .current {
+  color: #fff;
+  font-weight: 600;
+}
+
+/* ── Tooltip override (keep wz_tooltip functional) ── */
+.sm-tooltip-trigger {
+  border-bottom: 1px dashed #94a3b8;
+  cursor: help;
+}
+
+/* ── Utility ──────────────────────────────────────── */
+.sm-flex { display: flex; }
+.sm-gap-2 { gap: 8px; }
+.sm-gap-4 { gap: 16px; }
+.sm-mt-2 { margin-top: 8px; }
+.sm-mt-4 { margin-top: 16px; }
+.sm-mb-2 { margin-bottom: 8px; }
+.sm-mb-4 { margin-bottom: 16px; }
+.sm-text-muted { color: #64748b; }
+.sm-text-sm { font-size: 12px; }
+.sm-text-center { text-align: center; }
+.sm-hidden { display: none; }
+
+/* ── Legacy CGI output styling ────────────────────── */
+/* These rules style the raw HTML produced by Perl CGI scripts
+   (analysis.cgi, completed.cgi, sciminer.cgi, mergeQueries.cgi, etc.)
+   without modifying the Perl source code. */
+
+/* Legacy section headers */
+.titleBarName1 {
+  font-size: 14px;
+  color: #1e293b;
+  line-height: 1.7;
+  margin-bottom: 8px;
+}
+.sectionTitleName1 {
+  font-size: 13px;
+  font-weight: 600;
+  color: #00796b;
+}
+.tableHeader1 {
+  font-size: 13px;
+  font-weight: 600;
+  color: #334155;
+}
+.smallText2, .smallText3 {
+  font-size: 12px;
+  color: #64748b;
+}
+.pagename, .pageName {
+  font-size: 18px;
+  font-weight: 700;
+  color: #00796b;
+  padding: 8px 0;
+}
+.bodytext {
+  font-size: 14px;
+  color: #334155;
+  line-height: 1.6;
+}
+
+/* Style all legacy tables produced by CGI scripts */
+table[border="1"], table[border="0"] {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  margin: 12px 0;
+}
+table[border="1"] {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+table[border="1"] th,
+table[border="1"] td {
+  padding: 5px 8px;
+  border: 1px solid #e2e8f0;
+  text-align: left;
+  vertical-align: middle;
+  color: #334155;
+  font-size: 12px;
+  line-height: 1.4;
+}
+table[border="1"] th {
+  background: #f1f5f9;
+  font-weight: 600;
+  font-size: 11px;
+  color: #475569;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 6px 8px;
+  white-space: nowrap;
+}
+table[border="1"] tr:hover td {
+  background: #f8fafc;
+}
+table[border="1"] td[align="center"] {
+  text-align: center;
+}
+table[border="0"] td {
+  padding: 6px 10px;
+  vertical-align: middle;
+  color: #334155;
+  font-size: 13px;
+}
+
+/* Legacy form elements within CGI output */
+input[type="text"], input[type="password"] {
+  padding: 7px 10px;
+  font-size: 13px;
+  border: 1px solid #cbd5e1;
+  border-radius: 5px;
+  background: #fff;
+  color: #1e293b;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  font-family: inherit;
+}
+input[type="text"]:focus, input[type="password"]:focus {
+  outline: none;
+  border-color: #00897b;
+  box-shadow: 0 0 0 3px rgba(0,137,123,0.12);
+}
+select {
+  padding: 7px 10px;
+  font-size: 13px;
+  border: 1px solid #cbd5e1;
+  border-radius: 5px;
+  background: #fff;
+  color: #1e293b;
+  font-family: inherit;
+}
+select:focus {
+  outline: none;
+  border-color: #00897b;
+  box-shadow: 0 0 0 3px rgba(0,137,123,0.12);
+}
+textarea {
+  padding: 7px 10px;
+  font-size: 13px;
+  border: 1px solid #cbd5e1;
+  border-radius: 5px;
+  background: #fff;
+  color: #1e293b;
+  font-family: inherit;
+  resize: vertical;
+}
+textarea:focus {
+  outline: none;
+  border-color: #00897b;
+  box-shadow: 0 0 0 3px rgba(0,137,123,0.12);
+}
+input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  accent-color: #00897b;
+  cursor: pointer;
+}
+
+/* Legacy submit/reset buttons */
+input[type="submit"], input[type="reset"], input[type="button"] {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 18px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 6px;
+  border: 1px solid #cbd5e1;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+  font-family: inherit;
+  background: #fff;
+  color: #334155;
+  margin: 2px;
+}
+input[type="submit"] {
+  background: #00897b;
+  color: #fff;
+  border-color: #00897b;
+}
+input[type="submit"]:hover {
+  background: #00796b;
+}
+input[type="reset"]:hover, input[type="button"]:hover {
+  background: #f1f5f9;
+}
+input[type="submit"]:active, input[type="reset"]:active {
+  transform: scale(0.98);
+}
+
+/* Legacy image icons in tables */
+table img[src*="Images/"] {
+  max-height: 20px;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+/* Legacy font color=red — make it work with modern palette */
+font[color="red"], font[color="RED"] {
+  color: #dc2626;
+}
+
+/* Override legacy bgcolor on body */
+body[bgcolor], body {
+  background-color: #f1f5f9 !important;
+}
+
+/* File input styling */
+input[type="file"] {
+  font-size: 13px;
+  font-family: inherit;
+}
+
+/* Legacy link styles within CGI output */
+a[href*=".cgi"], a[href*="javascript:"] {
+  color: #00796b;
+}
+a[href*=".cgi"]:hover, a[href*="javascript:"]:hover {
+  color: #004d40;
+}
+
+/* ── Legacy compat: keep sciminer.js working ──────── */
+.trigger { cursor: pointer; }
+.branch { display: none; margin-left: 16px; }

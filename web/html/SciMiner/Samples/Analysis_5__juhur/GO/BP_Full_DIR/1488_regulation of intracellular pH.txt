@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 2
+#BACKGROUNDONLY: 0
+
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	11998	TP53	7157	tumor protein p53
+

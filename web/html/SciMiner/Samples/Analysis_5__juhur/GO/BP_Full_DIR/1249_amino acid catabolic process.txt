@@ -1,0 +1,15 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 2
+#BACKGROUNDONLY: 5
+TESTONLY	9752	QDPR	5860	quinoid dihydropteridine reductase
+TESTONLY	4092	GAD1	2571	glutamate decarboxylase 1 (brain, 67kDa)
+
+COMMON	4331	GLS	2744	glutaminase
+COMMON	8023	NTF3	4908	neurotrophin 3
+
+BACKGROUNDONLY	1578	CCNA2	890	cyclin A2
+BACKGROUNDONLY	7166	MMP2	4313	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+BACKGROUNDONLY	746	ASL	435	argininosuccinate lyase
+BACKGROUNDONLY	473	AMT	275	aminomethyltransferase
+BACKGROUNDONLY	12693	VIP	7432	vasoactive intestinal peptide

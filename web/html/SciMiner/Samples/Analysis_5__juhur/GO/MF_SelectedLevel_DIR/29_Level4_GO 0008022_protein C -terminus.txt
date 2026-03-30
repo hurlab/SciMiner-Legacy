@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 4
+#BACKGROUNDONLY: 1
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	11283	SRC	6714	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+TESTONLY	3435	ERCC3	2071	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)
+TESTONLY	2903	DLG4	1742	discs, large homolog 4 (Drosophila)
+
+COMMON	5173	HRAS	3265	v-Ha-ras Harvey rat sarcoma viral oncogene homolog
+COMMON	11205	SP1	6667	Sp1 transcription factor
+COMMON	11240	SPHK1	8877	sphingosine kinase 1
+COMMON	7739	NEFL	4747	neurofilament, light polypeptide 68kDa
+
+BACKGROUNDONLY	3373	EP300	2033	E1A binding protein p300

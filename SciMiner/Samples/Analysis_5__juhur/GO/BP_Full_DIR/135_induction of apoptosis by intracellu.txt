@@ -1,0 +1,18 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 6
+#BACKGROUNDONLY: 1
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	1784	CDKN1A	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+
+COMMON	9393	PRKCA	5578	protein kinase C, alpha
+COMMON	1504	CASP3	836	caspase 3, apoptosis-related cysteine peptidase
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	8768	AIFM1	9131	apoptosis-inducing factor, mitochondrion-associated, 1
+COMMON	5013	HMOX1	3162	heme oxygenase (decycling) 1
+
+BACKGROUNDONLY	1736	CDC42	998	cell division cycle 42 (GTP binding protein, 25kDa)

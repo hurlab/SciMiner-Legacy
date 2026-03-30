@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 1
+#BACKGROUNDONLY: 1
+
+COMMON	16400	NLRP3	114548	NLR family, pyrin domain containing 3
+
+BACKGROUNDONLY	11848	TLR2	7097	toll-like receptor 2

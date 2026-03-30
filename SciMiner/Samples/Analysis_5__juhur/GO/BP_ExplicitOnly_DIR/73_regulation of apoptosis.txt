@@ -1,0 +1,29 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 8
+#COMMON: 9
+#BACKGROUNDONLY: 6
+TESTONLY	12022	TPT1	7178	tumor protein, translationally-controlled 1
+TESTONLY	1511	CASP9	842	caspase 9, apoptosis-related cysteine peptidase
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	14374	NLRP1	22861	NLR family, pyrin domain containing 1
+TESTONLY	1503	CASP2	835	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	949	BAK1	578	BCL2-antagonist/killer 1
+TESTONLY	9353	PRDX2	7001	peroxiredoxin 2
+
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	1499	CASP1	834	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	11920	FAS	355	Fas (TNF receptor superfamily, member 6)
+COMMON	1509	CASP8	841	caspase 8, apoptosis-related cysteine peptidase
+COMMON	11998	TP53	7157	tumor protein p53
+COMMON	5261	HSPD1	3329	heat shock 60kDa protein 1 (chaperonin)
+COMMON	576	APAF1	317	apoptotic peptidase activating factor 1
+COMMON	3573	FADD	8772	Fas (TNFRSF6)-associated via death domain
+
+BACKGROUNDONLY	1876	CFLAR	8837	CASP8 and FADD-like apoptosis regulator
+BACKGROUNDONLY	2527	CTSB	1508	cathepsin B
+BACKGROUNDONLY	991	BCL2A1	597	BCL2-related protein A1
+BACKGROUNDONLY	11905	TNFRSF10B	8795	tumor necrosis factor receptor superfamily, member 10b
+BACKGROUNDONLY	591	BIRC3	330	baculoviral IAP repeat-containing 3
+BACKGROUNDONLY	2770	DES	1674	desmin

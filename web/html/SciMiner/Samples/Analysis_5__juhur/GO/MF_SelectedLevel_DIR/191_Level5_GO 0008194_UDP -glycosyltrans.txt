@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 3
+#BACKGROUNDONLY: 0
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+
+COMMON	1706	CD8A	925	CD8a molecule
+COMMON	1678	CD4	920	CD4 molecule
+COMMON	10944	SLC1A6	6511	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6
+

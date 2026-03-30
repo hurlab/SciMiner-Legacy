@@ -1,0 +1,33 @@
+<script type="text/javascript" src="wz_tooltip.js"></script>
+
+<div class="sm-container">
+
+<h2 class="sm-text-center" style="margin-bottom:8px;">SciMiner Completed Query/Analysis Results</h2>
+
+<form name="form2" action="completed.cgi" method="POST" enctype="multipart/form-data">
+
+<INPUT TYPE="HIDDEN" NAME="email" VALUE="<TMPL_VAR NAME="EMAIL">">
+
+<!-- Section 1: Search -->
+<div class="sm-card">
+<h3 class="sm-card-header">Section 1: Search Your Results</h3>
+<div class="sm-form-group">
+<label class="sm-label" for="keyword">Query Name</label>
+<INPUT TYPE='text' NAME='keyword' size="30" class="sm-input sm-input-md" id="keyword" onmouseover="Tip('Limit your search by partial query name')" onmouseout="UnTip()">
+</div>
+<div class="sm-btn-group" style="margin-top:8px;">
+<input type='submit' name="RetrieveCompletedQuery" value="Retrieve Completed Query" class="sm-btn sm-btn-primary" onmouseover="Tip('Click to retrieve completed SciMiner search queries')" onmouseout="UnTip()">
+<input type='submit' name="RetrieveCompletedAnalysis" value="Retrieve Completed Analysis" class="sm-btn sm-btn-outline" onmouseover="Tip('Click to retrieve completed post-mining analyses')" onmouseout="UnTip()">
+<INPUT TYPE="RESET" class="sm-btn sm-btn-secondary" value="Reset">
+</div>
+</div>
+
+</form>
+
+<!-- Section 2: Results -->
+<div class="sm-card">
+<h3 class="sm-card-header">Section 2: Previous Query/Analysis Results (completed only)</h3>
+<div class="sm-hint">Results will appear here after retrieval.</div>
+</div>
+
+</div><!-- end sm-container -->

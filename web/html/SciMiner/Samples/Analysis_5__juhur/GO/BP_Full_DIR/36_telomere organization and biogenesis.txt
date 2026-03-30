@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 2
+#BACKGROUNDONLY: 0
+TESTONLY	7230	MRE11A	4361	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)
+TESTONLY	1058	BLM	641	Bloom syndrome
+TESTONLY	9413	PRKDC	5591	protein kinase, DNA-activated, catalytic polypeptide
+TESTONLY	9816	RAD50	10111	RAD50 homolog (S. cerevisiae)
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	11729	TERF2	7014	telomeric repeat binding factor 2
+
+COMMON	270	PARP1	142	poly (ADP-ribose) polymerase family, member 1
+COMMON	4571	GRIA1	2890	glutamate receptor, ionotropic, AMPA 1
+

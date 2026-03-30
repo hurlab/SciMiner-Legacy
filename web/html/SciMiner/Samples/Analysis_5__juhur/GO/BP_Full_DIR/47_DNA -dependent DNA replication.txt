@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 6
+#COMMON: 1
+#BACKGROUNDONLY: 1
+TESTONLY	9122	PMS2	5395	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)
+TESTONLY	9827	RAD9A	5883	RAD9 homolog A (S. pombe)
+TESTONLY	11655	TCP1	6950	t-complex 1
+TESTONLY	9817	RAD51	5888	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+TESTONLY	10289	RPA1	6117	replication protein A1, 70kDa
+TESTONLY	4983	HMGB1	3146	high-mobility group box 1
+
+COMMON	4553	GPX1	2876	glutathione peroxidase 1
+
+BACKGROUNDONLY	11741	TFAM	7019	transcription factor A, mitochondrial

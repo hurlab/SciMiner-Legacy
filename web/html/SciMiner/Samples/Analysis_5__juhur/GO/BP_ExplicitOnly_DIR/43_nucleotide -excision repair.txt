@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	8125	OGG1	4968	8-oxoguanine DNA glycosylase
+TESTONLY	1101	BRCA2	675	breast cancer 2, early onset
+TESTONLY	12814	XPA	7507	xeroderma pigmentosum, complementation group A
+
+COMMON	11998	TP53	7157	tumor protein p53
+

@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 7
+#BACKGROUNDONLY: 0
+TESTONLY	11181	SOD3	6649	superoxide dismutase 3, extracellular
+
+COMMON	7660	NCF1	653361	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)
+COMMON	7661	NCF2	4688	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)
+COMMON	2577	CYBA	1535	cytochrome b-245, alpha polypeptide
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	11180	SOD2	6648	superoxide dismutase 2, mitochondrial
+COMMON	1613	CCS	9973	copper chaperone for superoxide dismutase
+COMMON	11179	SOD1	6647	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+

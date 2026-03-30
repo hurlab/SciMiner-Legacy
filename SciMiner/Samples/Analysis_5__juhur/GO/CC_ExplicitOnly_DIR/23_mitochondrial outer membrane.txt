@@ -1,0 +1,17 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 5
+#COMMON: 4
+#BACKGROUNDONLY: 2
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	959	BAX	581	BCL2-associated X protein
+TESTONLY	6834	MAOB	4129	monoamine oxidase B
+TESTONLY	12642	VAMP1	6843	vesicle-associated membrane protein 1 (synaptobrevin 1)
+TESTONLY	1158	TSPO	706	translocator protein (18kDa)
+
+COMMON	990	BCL2	596	B-cell CLL/lymphoma 2
+COMMON	992	BCL2L1	598	BCL2-like 1
+COMMON	936	BAD	572	BCL2-antagonist of cell death
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+
+BACKGROUNDONLY	30880	CISD1	55847	CDGSH iron sulfur domain 1
+BACKGROUNDONLY	4274	GJA1	2697	gap junction protein, alpha 1, 43kDa

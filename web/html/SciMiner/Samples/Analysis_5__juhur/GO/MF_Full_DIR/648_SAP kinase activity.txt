@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 0
+#COMMON: 3
+#BACKGROUNDONLY: 1
+
+COMMON	6881	MAPK8	5599	mitogen-activated protein kinase 8
+COMMON	6886	MAPK9	5601	mitogen-activated protein kinase 9
+COMMON	6876	MAPK14	1432	mitogen-activated protein kinase 14
+
+BACKGROUNDONLY	6872	MAPK10	5602	mitogen-activated protein kinase 10

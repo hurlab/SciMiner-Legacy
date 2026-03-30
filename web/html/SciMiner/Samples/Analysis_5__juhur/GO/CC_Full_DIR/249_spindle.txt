@@ -1,0 +1,12 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 3
+TESTONLY	795	ATM	472	ataxia telangiectasia mutated
+TESTONLY	11007	SLC2A3	6515	solute carrier family 2 (facilitated glucose transporter), member 3
+
+COMMON	391	AKT1	207	v-akt murine thymoma viral oncogene homolog 1
+
+BACKGROUNDONLY	2711	DCTN1	1639	dynactin 1 (p150, glued homolog, Drosophila)
+BACKGROUNDONLY	593	BIRC5	332	baculoviral IAP repeat-containing 5 (survivin)
+BACKGROUNDONLY	8574	PAFAH1B1	5048	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa

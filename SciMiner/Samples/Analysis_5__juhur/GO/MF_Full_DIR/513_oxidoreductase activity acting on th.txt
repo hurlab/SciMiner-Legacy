@@ -1,0 +1,11 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 2
+#COMMON: 1
+#BACKGROUNDONLY: 2
+TESTONLY	6833	MAOA	4128	monoamine oxidase A
+TESTONLY	6834	MAOB	4129	monoamine oxidase B
+
+COMMON	80	ABP1	26	amiloride binding protein 1 (amine oxidase (copper-containing))
+
+BACKGROUNDONLY	7166	MMP2	4313	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+BACKGROUNDONLY	6664	LOX	4015	lysyl oxidase

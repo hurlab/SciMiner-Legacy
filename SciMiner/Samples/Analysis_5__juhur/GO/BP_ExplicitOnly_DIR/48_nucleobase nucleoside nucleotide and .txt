@@ -1,0 +1,10 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 3
+#COMMON: 1
+#BACKGROUNDONLY: 0
+TESTONLY	12791	WRN	7486	Werner syndrome
+TESTONLY	9175	POLD1	5424	polymerase (DNA directed), delta 1, catalytic subunit 125kDa
+TESTONLY	3013	DPYS	1807	dihydropyrimidinase
+
+COMMON	20473	BRIP1	83990	BRCA1 interacting protein C-terminal helicase 1
+

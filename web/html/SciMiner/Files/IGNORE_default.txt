@@ -1,0 +1,378 @@
+1 alpha
+30 kda protein
+a beta
+ABC transporter
+acid
+actin binding protein
+actin related protein
+activator-recruited cofactor
+adaptor protein
+adhesion molecule
+adipocyte
+age r2
+alpha
+alpha 2
+alpha 4
+alpha gene
+alpha subunit
+alternative splicing
+alternative translation initiation
+amino acid transporter
+amyloidosis
+and
+ankyrin repeat
+apoptosis regulator
+aquarius
+are 1
+assembly protein
+associated with liver cancer
+at 4 receptor
+AT protein
+atp dependent
+ATP synthase
+atpase is
+ATP-binding cassette
+ATP-binding cassette protein
+ATP-dependent
+ATP-dependent RNA helicase
+autosomal dominant
+b 50
+b protein
+barren
+basic charge
+bassoon
+beach
+beta
+beta 1
+beta 4
+beta ii
+beta isoform
+beta n
+beta-induced
+bravo
+breast cancer
+breast cancer 1
+but
+ca2
+cab
+calcium binding protein
+calcium channel
+calmodulin dependent
+cancer associated gene
+cancer susceptibility gene
+cancer/testis specific
+catalytic subunit
+cation channel
+cell adhesion molecule
+cell adhesion regulator
+cell surface receptor
+chemokine
+chemokine receptor
+chloride channel
+cholinergic receptor
+chromodomain protein
+chromosome 17
+citron
+cl 2
+clock
+colorectal cancer
+complex I
+core-binding factor
+corneal dystrophy
+cpg binding protein
+cryptic
+cs 1
+C-type lectin
+cytokine receptor
+cytoplasmic domain
+cytoplasmic protein
+cytoskeletal protein
+cytoskeleton protein
+d 10
+dante
+dead box protein
+diabetic nephropathy
+DNA
+dna binding protein
+DNA-binding protein
+double homeobox
+down-regulated in lung cancer
+eb 1
+ec 1
+ectodermal dysplasia
+elongation factor
+endocytic receptor
+endothelial differentiation
+enzyme
+eukaryotic elongation factor
+expressed in hematopoietic cells
+expressed in human embryonic lung
+expressed in many tissues
+expressed in neurons
+expressed in prostate
+expressed in testis
+extracellular domain
+extracellular matrix protein
+factor
+factor ix
+fatty acid binding protein
+fer
+for
+fragile site
+from
+fusion
+fusion gene
+G antigen
+g protein coupled receptor
+gap junction protein
+gene rich cluster
+glycolytic enzyme
+glycoprotein
+golgi autoantigen
+golgi protein
+g-protein coupled receptor
+GTP binding protein
+GTP-binding protein
+h b
+heat shock protein
+helicase
+helicases
+hereditary prostate cancer
+highly expressed in cancer
+histamine receptor
+histone 1
+homeobox
+homeobox gene
+homeobox protein
+homeodomain protein
+hormone receptor
+human homolog of
+human stomach cancer
+humbug
+hypercholesterolemia
+hypomagnesemia
+immune dysregulation
+immunoglobulin superfamily
+includes
+induced
+inhibitor 1
+inhibitor 3
+inhibitor of growth family
+inhibitor-1
+inositol 1 
+integral membrane protein
+interferon stimulated gene
+isoform 1
+KH domain containing protein overexpressed in canc
+ki 1
+kinesin like
+kruppel like
+large homolog 1
+large homolog 2
+large homolog 3
+large homolog 4
+large homolog 5
+large homolog-associated protein 1
+large homolog-associated protein 2
+leiomyomatosis and renal cell cancer
+leucine zipper
+leucine-rich repeat
+lifeguard
+light chain
+like
+lim domain protein
+long palate
+loss of heterozygosity
+maestro
+major histocompatibility complex
+mcp 1 r
+membrane component
+membrane cytoskeletal protein
+membrane receptor
+membrane-bound
+mental retardation
+microcephaly
+microtubule-associated protein
+mitochondrial carrier
+mitogen activated protein kinase kinase kinase
+ml 1
+mm 1
+mouse homolog
+murine leukemia virus
+muscle specific
+muscular dystrophy
+mystique
+nasopharyngeal carcinoma
+neuronal protein
+NLR family
+non-syndromic
+novel gtpase
+novel protein
+nuclear factor
+nuclear factor of activated t-cells
+nuclear hormone receptor
+nuclear protein
+nuclear receptor coactivator
+nuclear transcription factor
+nucleic acid binding protein
+old 35
+olfactory receptor
+open reading frame
+organic cation transporter
+ovarian cancer
+oxidoreductase
+p protein
+page 4
+page 5
+paladin
+patched
+pe 1
+period 1
+peroxisomal membrane protein
+phosphatidylinositol 3
+phospholipase
+piccolo
+pleckstrin homology
+pleckstrin homology domain containing
+poly binding protein
+poly polymerase family
+polymerase iii
+polypeptide 1
+polypeptide 2
+potassium channel
+potassium voltage-gated channel
+predisposing for prostate cancer
+preferentially expressed in colorectal cancer
+pregnancy induced hypertension
+proliferation associated
+proline rich
+proline rich protein
+prostate cancer
+protease inhibitor
+protease inhibitor 2
+proteasome subunit
+protein
+protein kinase
+protein phosphatase
+protein tyrosine kinase
+protein tyrosine phosphatase
+protein upregulated in metastatic prostate cancer
+protein-serine/threonine kinase
+Proton pump
+pump 1
+putative receptor protein
+putative tumor suppressor
+ran binding protein
+ras family
+ras homolog gene family
+ras like
+receptor
+receptor interacting protein
+receptor type
+receptor tyrosine kinase
+ref 1
+regulated by glucose
+regulatory subunit
+related
+renal cell carcinoma
+renal tubular acidosis
+retinal degeneration
+retinoic acid
+retinoic acid responsive
+ring finger protei
+ring finger protein
+RNA binding motif protein
+rna binding protein
+rna helicase
+rna polymerase ii
+rna polymerase iii
+s protein
+SAM domain
+scratch
+scythe
+secreted growth factor
+secreted protein
+secretory protein
+sema domain
+serine peptidase inhibitor
+serine protease inhibitor
+serine proteinase inhibitor
+serine threonine protein kinase
+serine/threonine kinase
+serine/threonine phosphatase
+serine/threonine protein kinase
+serpin peptidase inhibitor
+SET domain
+seven-transmembrane receptor
+signal peptide
+signal sequence receptor
+signal transduction protein
+small GTP-binding protein
+small nucleolar RNA
+socius
+sodium channel
+sodium phosphate transporter
+soluble receptor
+solute carrier
+sp 22
+spinocerebellar ataxia
+spliceosome associated protein amplified in breast
+spliceosome associated protein, amplified in breas
+splicing factor
+sr protein
+striated muscle specific
+sulfotransferase family
+surface glycoprotein
+survival time-associated PHD protein in ovarian ca
+synovial sarcoma
+synthase
+t cell leukemia
+taste receptor
+t-cell receptor
+testis specific
+testis specific protein
+testis-specific gene
+testis-specific protein
+testis-specific transcript
+tetratricopeptide repeat
+thyroid hormone receptor
+tissue factor
+transcription factor 2
+transcription factor 3
+transcription factor A
+transcriptional coactivator
+transcriptional regulator
+translocated to
+transmembrane protease
+transmembrane protein 1
+transmembrane protein 2
+transmembrane receptor
+transporter 1
+transporter 2
+tumor metastasis suppressor
+tumor protein
+tumor suppressor
+twinkle
+twist
+tylosis with oesophageal cancer
+type
+tyrosine kinase
+ubiquitin conjugating enzyme
+v 1
+v 2
+variable charge
+vesicle trafficking
+voltage gated
+voltage-gated
+which
+while
+with
+wnt receptor
+ww domain-containing
+x chromosome
+x kinase
+x linked
+y chromosome
+zinc finger
+zinc finger protein
+myc-related gene from lung cancer

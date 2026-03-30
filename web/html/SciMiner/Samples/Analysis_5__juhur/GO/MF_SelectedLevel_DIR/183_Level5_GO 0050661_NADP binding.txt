@@ -1,0 +1,14 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 7
+#BACKGROUNDONLY: 0
+TESTONLY	7473	MTRR	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+
+COMMON	14874	NOX5	79400	NADPH oxidase, EF-hand calcium binding domain 5
+COMMON	7873	NOS2A	4843	nitric oxide synthase 2A (inducible, hepatocytes)
+COMMON	7876	NOS3	4846	nitric oxide synthase 3 (endothelial cell)
+COMMON	4623	GSR	2936	glutathione reductase
+COMMON	3769	FMO1	2326	flavin containing monooxygenase 1
+COMMON	3062	DUOX1	53905	dual oxidase 1
+COMMON	7872	NOS1	4842	nitric oxide synthase 1 (neuronal)
+

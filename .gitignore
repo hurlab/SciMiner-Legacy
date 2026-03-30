@@ -1,0 +1,47 @@
+# Secrets and credentials
+annotation/SciMinerDB/annotationENV.ini
+
+# Large data directories (symlinked or generated)
+annotation/SciMinerDB/CorpusData/
+annotation/SciMinerDB/Work/
+FinalResults
+WEB-INF/cgi/FinalResults
+
+# Session files
+/tmp/SciMiner1.1/
+
+# IDE and tools
+.moai/
+.claude/
+.mcp.json
+CLAUDE.md
+.playwright-mcp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Old web server (archived)
+web/var/
+web/conf/
+
+# Temp and log files
+*.swp
+*.swo
+*~
+*.log
+
+# Python cache (from scripts)
+__pycache__/
+*.pyc
+
+# Screenshots temp files
+*.png
+!docs/screenshots/*.png
+!SciMiner/Images/*.jpg
+!SciMiner/Images/*.gif
+!SciMiner/Images/*.png
+!WEB-INF/cgi/Images/*.jpg
+!WEB-INF/cgi/Images/*.gif
+!WEB-INF/cgi/Images/*.png
+!Images/UND_SMHS_Logo.png

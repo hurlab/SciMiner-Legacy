@@ -1,0 +1,8 @@
+#CLASS	HugoID	Symbol	NCBIGeneID	Name
+#TESTONLY: 1
+#COMMON: 0
+#BACKGROUNDONLY: 1
+TESTONLY	9577	PSPH	5723	phosphoserine phosphatase
+
+
+BACKGROUNDONLY	1550	CBS	875	cystathionine-beta-synthase
