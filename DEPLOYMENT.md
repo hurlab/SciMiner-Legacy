@@ -2,7 +2,7 @@
 
 **Deployed**: 2026-03-25
 **Server**: hurlab.med.und.edu
-**URL**: http://hurlab.med.und.edu/SciMiner1.1/
+**URL**: https://hurlab.med.und.edu/SciMiner1.1/
 **Deployed by**: Claude Code CLI (Claude Opus 4.6)
 
 ---
@@ -106,7 +106,7 @@ Location: `annotation/SciMinerDB/annotationENV.ini`
 | SciMinerPath | `.../annotation/SciMinerDB/` | |
 | SciMinerWebPath | `.../WEB-INF/cgi/` | Where CGI scripts live |
 | SciMinerWebTempPath | `/tmp/SciMiner1.1/` | Temp dir for CGI |
-| SciMinerServerURL | `http://hurlab.med.und.edu/SciMiner1.1/` | Public URL |
+| SciMinerServerURL | `https://hurlab.med.und.edu/SciMiner1.1/` | Public URL |
 | DB | `sciminer` | Shared with production |
 | username | `sciminer` | MySQL user |
 | Institution | `University of North Dakota` | |
@@ -165,7 +165,7 @@ All paths were updated from the development environment to production:
 | Old (WSL2 dev) | New (production) |
 |---|---|
 | `/home/sciminer/legacy/` | `/home/hurlab/apache-tomcat-9.0.37/webapps/SciMiner1.1/` |
-| `http://localhost:8888/` | `http://hurlab.med.und.edu/SciMiner1.1/` |
+| `http://localhost:8888/` | `https://hurlab.med.und.edu/SciMiner1.1/` |
 
 Updated in: 28 CGI scripts, 6 PM modules, 30+ annotation scripts, annotationENV.ini
 

@@ -6,9 +6,9 @@ Enhanced Perl/CGI biomedical literature mining tool with modernized web interfac
 
 ## Overview
 
-SciMiner 1.1 is the enhanced version of the original [SciMiner](http://hurlab.med.und.edu/SciMiner/) text mining tool. It provides dictionary- and rule-based biomedical literature mining for target identification and functional enrichment analysis from PubMed literature.
+SciMiner 1.1 is the enhanced version of the original [SciMiner](https://hurlab.med.und.edu/SciMiner/) text mining tool. It provides dictionary- and rule-based biomedical literature mining for target identification and functional enrichment analysis from PubMed literature.
 
-**Live:** [http://hurlab.med.und.edu/SciMiner1.1/](http://hurlab.med.und.edu/SciMiner1.1/)
+**Live:** [https://hurlab.med.und.edu/SciMiner1.1/](https://hurlab.med.und.edu/SciMiner1.1/)
 
 ### What's New in v1.1 (vs Classic)
 
@@ -132,9 +132,9 @@ Adding columns (like `password_hash`) does not affect Classic's functionality.
 
 | Version | Description | URL |
 |---------|-------------|-----|
-| Classic | Original Perl/CGI (stable) | [/SciMiner/](http://hurlab.med.und.edu/SciMiner/) |
-| **v1.1** | Enhanced Perl/CGI with modern UI | [/SciMiner1.1/](http://hurlab.med.und.edu/SciMiner1.1/) |
-| v2.0 | Python/React platform (development) | [/SciMiner2.0/](http://hurlab.med.und.edu/SciMiner2.0/) |
+| Classic | Original Perl/CGI (stable) | [/SciMiner/](https://hurlab.med.und.edu/SciMiner/) |
+| **v1.1** | Enhanced Perl/CGI with modern UI | [/SciMiner1.1/](https://hurlab.med.und.edu/SciMiner1.1/) |
+| v2.0 | Python/React platform (development) | [/SciMiner2.0/](https://hurlab.med.und.edu/SciMiner2.0/) |
 
 ## Citation
 
@@ -142,4 +142,4 @@ Adding columns (like `password_hash`) does not affect Classic's functionality.
 
 ## License
 
-Developed by [Hur Lab](http://hurlab.med.und.edu/), University of North Dakota School of Medicine & Health Sciences.
+Developed by [Hur Lab](https://hurlab.med.und.edu/), University of North Dakota School of Medicine & Health Sciences.
